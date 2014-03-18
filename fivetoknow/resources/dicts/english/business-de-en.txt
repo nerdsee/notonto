@@ -1,0 +1,602 @@
+BUS-DE-EN
+Business English (deutsch-englisch)
+EN
+absagen::to cancel
+abschließen::to finalize
+abstimmen::to vote
+abwesend::absent
+aktuell::current
+als Gegenleistung::quid pro quo
+ändern::to amend
+Angebot und Nachfrage::supply and demand
+anstellen::to hire
+anwesend::present
+aufheben [Vertrag]::to rescind
+ausbauen::to extend
+ausführen::to export
+ausgeben::issue, spend
+ausgegebenes Kapital::issued capital
+aushandeln::to negotiate
+automatisiert::automated
+beglaubigen::to witness
+beliegt::popular
+beschaffen::to purchase
+beschränkte Haftung::limited liability
+bestimmen::to stipulate
+beteiligen::to participate in
+Bezahlen gegen Dokumente::cash against documents
+bezahlen::to pay
+brandneu::brand-new
+brutto::gross
+computergesteuert::computerized
+dafür::in favour
+dagegen::against
+das Abkommen::agreement
+das Ablaufdatum::expiry date
+das Abonnement::subscription
+das Akkreditiv::letter of credit
+das Alleinvertriebsrecht::exclusive distribution rights
+das Angebot::offer,quotation
+das Anlagevermögen::fixed assets
+das Aufgeld::surcharge premium
+das Ausbildungszentrum::training centre
+das Ausstellungsverzeichnis::exhibition guide
+das Aussttellungsstück::sample not for sale
+das Bestellformular::order form
+das Betriebskapital::working capital
+das Bezugsrecht::subscription right
+das Bruttoinlandsprodukt::GDP,gross domestic product
+das Depot, die Einlage::deposit
+das Dollargebiet::dollar area
+das Eigenkapital::company capital
+das Ergebnis::result
+das Fax::fax
+das Finanzjahr::financial year
+das Firmenimage::corporate image
+das Fließband::production line
+das Fremdkapital::outside capital
+das Gemeinschaftsunternehmen::joint venture
+das Geschäft::business
+das Geschäftsjahr::business year
+das Grundmaterial::commodity
+das Haushaltsjahr::fiscal year
+das Inventar::stock inventory
+das Kapital::capital,assets
+das Kerngeschäft::core business
+das Kleingedruckte::small print
+das Konsortium::consortium
+das Konsulat::consulate
+das Kontokorrent::current account
+das Lager::store
+das Lizenzabkommen::licensing agreement
+das Lohnabkommen::pay agreement
+das Mailing::mail shot
+das Management::Management
+das Marktsegment::sector of the market
+das Messebüro::trade fair office
+das Messegelände::exhibition centre
+das Messezentrum::trade fair centre
+das Minderheitsinteresse::minority interest
+das Mittel::resources
+das Monopol::monopoly
+das Muster::sample
+das Namenspapier, die Namensaktie::registered stock
+das Parfüm::perfume
+das Patent::patent
+das Porto::postage
+das Protokoll führen::to take the minutes
+das Protokoll::minutes
+das Reinvermögen::net assets
+das Segment::segment
+das Sondierungsgespräch::exploratory discussion
+das Stammkapital::share capital
+das Standardmodell::basic model
+das Teilzahlungsgeschäft::hire purchase
+das Umlaufvermögen::current assets
+das Verhandlungspaket::negotiation package
+das Vertriebsnetz::distribution network
+das Vorkaufsrecht::option to purchase
+das Vorstandsmitglied::director
+das Warenzeichen::trademark
+das Werbegeschenk::giveaway
+das Werbematerial::advertising material
+das Werk::plant
+das Werkzeug::tool
+das Ziel::aim,target
+das Zolllager::bonded warehouse
+das Zwischenlager::buffer stock
+der Ablagekorb::tray
+der Absatz [Vertrag]::paragraph
+der Absatzmarkt::outlet market
+der Adapter::adaptor
+der Agio::surcharge premium
+der Aktionär::shareholder
+der Angestellte::employee
+der Anhang::appendix,annexe
+der Anspruch::claim,demand
+der Anteil::interest share
+der Antrag::motion
+der Arbeiter::worker
+der Aufsichtsrat::supervisory board,board of directors
+der Auftrag::order,contract
+der Ausgangskorb::out-tray
+der Aussteller::exhibitor
+der Bedarf::need,requirement
+der Berater::consultant
+der Besprechungsraum::conference room
+der Bestand::stock,inventory
+der Bestandteil::component,part
+der Betriebsgewinn::trading profit
+der Betriebsrat::works committee
+der Betriebswirt::management expert
+der Bevollmächtigte::proxy
+der Börseneingang::stock market listing,flotation
+der Börsenmakler::stockbroker
+der Brief::letter
+der Briefumschlag::envelope
+der Dauerauftrag::standing order
+der Deckungsbeitrag::share for break-even
+der Devisenkurs, der Wechselkurs::exchange rate
+der Diskont, der Rabatt::discount, rebate
+der Diskontsatz::bank rate
+der Doppelbesteuerungsnachlaß::double taxation relief
+der Eigentumsvorbehalt::reservation of proprietary rights
+der Einfuhrzoll::customs duty
+der Eingangskorb::in-tray
+der Einkaufspreis::wholesale price
+der Erfüllungsort::place of delivery,performance
+der Ersatz, die Ersetzung::substitute
+der Firmenwert::goodwill
+der Freihandel::free trade
+der Generaldirektor::managing director
+der Generaldirektor und Vorsitzender des Vorstands::chairman and managing director
+der Gerichtsstand::venue,court of jurisdiction
+der Geschäftsbereich::business area
+der Gesellschafter::shareholder
+der Gläubiger::creditor
+der Grenzwert::marginal value
+der Großhandelspreis::wholesale price
+der Gründer::founder
+der Güterumschlag::cargo handling
+der Handel::trade
+der Handelspreis::trade price
+der Handelsrabatt::trade discount
+der Händler::dealer
+der Hauptgeschäftsführer::general manager
+der Hersteller::producer,manufacturer
+der Industriekaufmann::industrial manager
+der Investor::investor
+der Kapitalaufwand::capital spending
+der Konferenzraum::meeting room
+der Konjunkturzyklus::trade cycle
+der Konkurrent::competitor
+der Konkurs, der Bankrott::insolvency,bankruptcy
+der Kontoauszug::statement of account
+der Kostenvoranschlag::offer
+der Kredit, die Gutschrift::credit
+der Kunde::client,customer
+der Kurs::market price
+der Ladenpreis::retail price
+der Ladeplatz::loading bay
+der Ladeschein::bill of landing
+der Lagerbestand::stock
+der Lieferant::supplier
+der Lieferschein::delivery note
+der Liquidationswert::break-up value
+der Listenpreis::list price
+der Lizenzgeber::licenser 
+der Lizenznehmer::licensee
+der Lockartikel::loss-leader
+der Manager, der Geschäftsleiter::manager
+der Marktanteil::market share
+der Mengenrabatt::discount on quantity ,discount for quantity
+der Mindestertrag::fallback
+der Mindestpreis::reserve price
+der Moderator::chairperson
+der Nennwert, der Nominalwert::nominal value,par
+der Paragraph [Vertrag]::section
+der Preis::price
+der Preis ab Werk::factory price
+der Produktionsablauf::production process
+der Produzentenpreis::producers' price
+der Prospekt::leaflet,brochure
+der Prozentsatz::percentage
+der Rabatt::rebate,discount
+der Rechnungsprüfer::accountant
+der Rechtsstreit::litigation
+der Reingewinn::net profit
+der Rohgewinn::gross proceeds
+der Rohstoff::raw material
+der Saldo::balance
+der Schadenersatz::compensation claim
+der Schuldner::debtor
+der Schuldschein::I.O.U.
+der Selbstkostenpreis::prime cost
+der Skonto, der Rabatt::discount
+der Staatsbesitz::public ownership
+der Stellvertreter::proxy
+der Stückpreis::unit price
+der Tagesordnungspunkt::item on the agenda
+der Teilnehmer::participant
+der Termin [Vertrag]::deadline
+der Terminmarkt::forward market
+der Umsatz::turnover
+der Umschlag::envelope
+der Unterzeichner::signatory
+der Verbrauch::consumption
+der Verhandlungsbasis::basis for negotiation
+der Verhandlungsführer::negotiator
+der Verkäufer::sales assistant
+der Verkaufspreis::retail price
+der Verkaufsschlager::best-seller
+der Versand::despatch
+der Versuch::trial
+der Vertrag::contract
+der Vertragsbruch, die Vertragsverletzung::breach of contract
+der Vertragspartner::party to the contract
+der Vertrieb::distribution
+der Vertriebskanal::marketing channel
+der Verzicht, die Außerkraftsetzung::waiver
+der Voranschlag::estimation,budget
+der Vorarbeiter::foreman
+der Vorsitzende::chairman
+der Vorstand::executive board,board of directors
+der Wareneinsatz::material costs
+der Wechsel [finanz.]::bill of exchange
+der Werbezettel::leaflet
+der Wettbewerb::competition
+der Wirtschaftsprüfer::accountant
+der Wissenschaftler::scientist
+der Zeitlohn::time rates
+der Zinsfuß, die Zinsrate::interest rate
+der Zoll::customs
+der Zugang (v. Waren)::receipt of goods
+der Zusammenschluß::merger
+der Zuteilungsschein::allotment letter
+die Absichtserklärung::declaration of intent
+die Abteilung::department
+die Abwertung::devaluation
+die Agentur::agency
+die Akte::file,record
+die Aktie::share
+die Aktiengesellschaft::public company
+die Aktiva::assets
+die Alleinvertretung::exclusivity
+die Änderung [Vertrag]::amendment
+die Angaben::specifications
+die Anlage [Vertrag]::appendix,annexe
+die Anlage::investment
+die Anweisungen::instructions
+die Arbeitslosigkeit::unemployment
+die Arbeitsstudie::work study
+die Aufwertung::revaluation
+die Ausgabe mit Bezugsrecht::rights issue
+die Ausgabe, die Emission::issue
+die Auskunftstelle, die Information::information desk
+die Auslandsinvestition::foreign investment
+die Ausschlussklausel::exclusion clause
+die Ausschreibung::tender
+die Auszahlungsrelation::pay out ratio
+die Baisse::fall, slump
+die Bankfiliale::branch of a bank
+die Bankgebühren::bank charges
+die Bankleitzahl::bank sorting code
+die Bedingungen::conditions
+die Beschäftigten::to employ
+die Besprechung::meeting
+die Bestellkarte::order card
+die Bestimmung [Vertrag]::stipulation
+die Beteiligung::participation
+die Betriebskosten::overheads
+die Betriebswirtschaft::business management
+die Bezahlung::payment
+die Bilanz::balance sheet
+die Börse::stock exchange
+die Börse, wechseln::exchange
+die Botschaft::Embassy
+die Botschaften::ambassador
+die Bürgschaft::security,surety
+die Datenverarbeitung::data processing
+die Deckung, die Sicherheit::collateral
+die Defizitfinanzierung::deficit financing
+die Depression, die Baisse, die Flaute::depression, slump
+die Devisen::foreign exchange
+die Dienstleistungen::services
+die Dienstleistungsbilanz::invisible trade balance
+die Eigentumsübertragung::conveyance of a property,transfer
+die Einfuhrquote::import quota
+die Einkommenssteuer::income tax
+die Einladung::invitation
+die Einlage::deposit
+die Einnahmereserven::revenue reserves
+die Endmontage::final assembly
+die Enthaltung::abstention
+die Entschädigung::indemnity,compensation
+die Entscheidungsfindung::decision-making
+die Entwicklung::development
+die Erbschaftssteuer::estate duty
+die Erfolgsrechnung::profit and loss account
+die Ersatzteile::share parts
+die Etatkontrolle::budgetary control
+die Fabrik, das Werk::factory,plant
+die Fälligkeit, die Verfallzeit::maturity
+die Fertigung::production area
+die Fixkosten::overheads
+die Forderungen::accounts receivable
+die Formulierung::formulation
+die Forschung::research
+die Fracht::freight
+die Frist::deadline
+die Fusion::merger
+die Garantie::guarantee
+die Gebühr::charge,fee
+die Gemeinkosten::overhead costs
+die Generalvertretung::sole agency
+die Genossenschaft::association
+die Geschäftsbedingungen::terms of business
+die Gewinn- und Verlustrechnung::profits and loss account
+die Gewinnbeteiligung::profit sharing
+die Gewinnspanne::profit margin
+die GmbH::limited liability company
+die Güter::goods
+die Haftpflicht, dieHaftung::liability
+die Handelsbilanz::trade balance
+die Handelsinvestition::trade investments
+die Handelskammer::chamber of commerce
+die Handelslücke::trade gap
+die Handelsmarke::trade mark
+die Handelsspanne::profit margin
+die Handelswaren::merchandise
+die Hauptverwaltung::headquarters,headoffice
+die Hausse::boom
+die Herstellung::production
+die Hochkonjunktur::boom
+die Hypothek::mortgage
+die Investition::investment
+die Investitionsgüter::capital goods
+die Kapazität::capacity
+die Kapazitätsauslastung::use to capacity
+die Kapitalertragssteuer::withholding tax
+die Kapitalzuwachssteuer::capital gains tax
+die KG::limited partnership
+die Klausel::clause
+die Kontoüberziehung::overdraft
+die Konzession::franchise
+die Körperschaftssteuer::corporation tax
+die Kosten::costs
+die Kreditbeschränkung::credit squeeze
+die Kursnotierung::rate of exchange
+die Kurstreiberei::rigging the market
+die Kurzarbeit::short-time-work
+die Lagerhalle::warehouse
+die Lagerung::storage
+die Lebensunterhaltskosten::cost of living
+die Leistung::performance
+die Leistungbilanz::trade balance
+die Lieferbedingungen::delivery conditions
+die Lieferfrist::time of delivery,delivery period
+die Lieferung gegen Nachnahme::cash on delivery,C.O.D.
+die Lieferung::delivery
+die Lizenz::licence
+die Lizenzgebühr::royalty
+die Lizenzwaren::goods produced under licence
+die Lohnsummensteuer::pay roll tax
+die Maklergebühr [finanz.]::brokerage
+die Marke::brand
+die Marktbewertung::market valuation
+die Marktlücke::gap in the market
+die Materialförderung::materials handling
+die Mehrheitsbeteiligung::majority-interest
+die Mehrkosten::cost overrun
+die Mehrwertsteuer::value added tax VAT,VAT
+die Messe::trade fair
+die Miete::rental charge
+die Montage::assembly
+die Nebenleistungen::fringe benefits
+die Obligation::bond
+die Pacht::lease
+die Palette (Produkt-)::range
+die Parität::parity
+die Passiva::liabilities
+die Personalnebenkosten::additional costs for personnel
+die Planungsbesprechung::planning meeting
+die Preisgleitklausel::price escalator clause
+die Preisliste::price list
+die Pressekonferenz::press conference
+die Pressemitteilung::press release
+die Produktionsstätte::production area
+die Pro-forma-Rechnung::pro forma invoice
+die Provision::commission
+die Qualitätskontrolle ::quality control
+die Quittung::receipt
+die Rechnung::invoice
+die Relation, das Verhältnis::ratio
+die Rentabilität::profitability
+die Rezession::recession
+die Rückstellung::appropriation
+die Rücktrittsklausel::escape clause
+die Schicht [Arbeit]::shift
+die Schleuderausfuhr::dumping
+die Schuldverschreibung::debenture certificate
+die Sicherheitsvorschriften::safety regulations
+die Sondersitzung::special meeting
+die Sozialversicherung::social security
+die Spanne::margin
+die Stammgesellschaft::parent company
+die Steuer::tax
+die Stimmvollmacht, das Prokurat::proxy
+die Strafklausel::penalty clause
+die Strategie::strategy
+die Streitigkeiten::disagreements
+die Streuung, dieVeränderung::diversification
+die Subvention::subsidy
+die Tagesordnung festlegen::to draw up the agenda
+die Tagesordnung::agenda
+die Tantieme::royalty
+die Teilhaberschaft::partnerships
+die Tilgung::redemption
+die Übernahme::takeover
+die Überschuldung::excessive debts
+die Umsatzsteuer::purchase tax
+die Unterschrift::signature
+die Veraltung::obsolescence
+die Veranstaltung::event
+die Verarbeitungskontrolle::process control
+die Verbindlichkeit::liability
+die Verbrauchsgüter::consumer goods
+die Verbrauchssteuer::excise,indirect tax
+die Vereinbarung::agreement
+die Verhandlung::negotiations
+die Verkäufe::sales
+die Verkaufskosten::selling costs
+die Vermögenswerte::assets
+die Verpackung::packaging
+die Verpflichtung::obligation
+die Versicherung::insurance
+die Verstaatlichung::nationalisation
+die Vertragserfüllung::completion of contract
+die Vertragsstrafe::penalty for breach of contract
+die Verwaltung::administration
+die Visitenkarte::business card
+die Vollmacht::power of attorney
+die Vorbesprechung::preliminary meeting
+die Wachstumsrate::growth rate
+die Wagniskosten::risk costs
+die Währung::currency
+die Wartung::maintenance
+die Werkhalle::production hall,factory building
+die Werkstatt::workshop
+die Wertpapiere::value equities,securities
+die Wertsteigerung::appreciation
+die Zahlungsbedingungen::conditions of payment
+die Zahlungsbilanz::balance of payments
+die Zeitschriften::magazines
+die Zeitungen::newspapers
+die Zentralbank::central bank
+die Zielgruppe::target group
+die Zollerklärung::customs declaration
+diversifizieren::to diversify
+effektiv::effective
+effizient::efficient
+eine Besprechung abhalten::to have a meeting
+eine Besprechung ansetzen::to arrange a meeting
+eine Besprechung moderieren::to chair a meeting
+eine Besprechung vorbereiten::to plan a meeting
+einen Antrag stellen::to propose a motion
+einen Auftrag erteilen [Vertrag]::to award a contract
+einführen::to import
+Einkünfte aus Kapitalbesitz::unearned income
+einladen::to invite
+einstimmig::unanimous
+entlassen::to sack,to fire
+entwerfen [Vertrag]::to draw up
+erfolgreich::successful
+erfüllen::to fulfil,to comply with
+erhöhen::to increase,to raise
+erprobt::tested
+erstklassig::first class
+expandieren::to expand
+fällig::due,payable
+faxen::to fax
+feindliche Übernahme::hostile takeover,unfriendly takeover
+finanzieren::to finance
+Forschung und Entwicklung::research and development ,R & D
+Forschungszentrum::research centre
+führend::leading
+fusionieren::to merge
+geeignet::suitable
+genehmigtes Kapital::authorised capital
+Gewinn machen::to make a profit
+gleitender Wechselkurs::floating exchange rate
+global::global
+gründen::to found
+gültig::valid
+günstig::reasonable,moderate
+gutgläubig::bona fide
+haften für::to be liable for
+handeln::to bargain
+handelsüblich::customary
+harte Währung::hard currency
+herstellen::to produce,to manufacture
+hervorragend::excellent,outstanding
+höhere Gewalt [Vertrag]::act of God
+im Einzelverkauf::retail
+im Großhandel::wholesale
+immaterielle Werte::intangible assets
+in Konkurs geraten::to go bankrupt
+in Kraft treten::to come into effect
+in Lizenz herstellen::to manufacture under licence
+informelles Gespräch::informal discussion
+investieren::to invest
+konkurrenzlos::no competition
+konkurrieren::to compete
+konzentrieren::to concentrate
+kündigen::to terminate
+langlebige Verbrauchsgüter::durable commodities
+leiten::to manage
+leitender::executive
+Marktpreis::market price
+maximal::maximum
+minimal::minimum
+mittelfristig::medium term
+moderieren ::to chair
+mündelsichere Wertpapiere::gilt-edged securities
+netto, Rein-::net
+null und nichtig::null and void
+öffentlich rechtliche Körperschaft::public corporation
+per Prokura::per pro
+privatisieren::to privatize
+rationalisieren::to rationalize
+reduzieren::to cut back
+regional::regional,local
+reibungslos::trouble-free
+restriktive Praktiken::restrictive practice
+schlüsselfertig::turnkey
+schrumpfende Erträge::diminishing returns
+sich halten an [Vertrag]::to abide by
+sicher ::safe
+stilllegen, schließen::to close down
+storniert::cancelled
+strategisch::strategic
+Stück pro Tag::units per day
+subventionieren::to subsidize
+technischer Standard::technical standard
+teilnehmen::to attend
+termingerecht [Vertrag]::on schedule
+übernehmen::to take over
+Überstunden::overtime
+Übertragungsangebot::transfer offer
+umorganisiseren::to reorganize
+unentschieden::split decision,not settled
+unterschreiben::to sign
+unterschreiten::to overrun
+unwiderruflich [Vertrag]::irrevocable
+unwirksam [Vertrag]::inoperative,null and void
+verarbeiten::to process
+verbessern::to improve
+verbessert::improved
+verbindlich [Vertrag]::binding
+vereinbaren::to agree
+vergrößern::to enlarge
+verhandeln::to negotiate
+verkaufen::to sell
+verlängern::to extend
+Verlust machen::to make a loss
+vermarkten::to market
+verringern::to lower,to reduce
+verschieben::to postpone
+versichern::to insure
+verstaatlichen::to nationalize
+vertreten::to represent
+verzollen::to declare
+vorbehalten, vorbehaltlich::subject to
+vorrätig haben::to have in stock
+wartungsfrei::maintenance-free
+weiche Währung::soft currency
+weltweit::worldwide
+wirtschaftlich::economical
+zahlungsfähig::solvent
+zahlungsunfähig::insolvent
+zukunftsweisend::forward-looking
+zusammenbauen::to assemble
+zuverlässig::reliable

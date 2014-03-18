@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     21.03.2008 00:17:21                                                        
+
+     project    
+     description
+                   
+     Jan                                                                
+     ====================================================================== -->
+<project name="notonto" default="default">
+	<description>
+            description
+    </description>
+
+	<!-- ================================= 
+          target: default              
+         ================================= -->
+	<target name="default" depends="depends" description="--> description">
+		<javac srcdir="src" destdir="webapp" classpath="WebContent/WEB-INF/lib" debug="on" />
+	</target>
+
+	<!-- - - - - - - - - - - - - - - - - - 
+          target: depends                      
+         - - - - - - - - - - - - - - - - - -->
+	<target name="depends">
+	</target>
+
+</project>

@@ -1,0 +1,609 @@
+﻿PCR-1-EN
+Practical Chinese Reader (Book 1)
+EN
+你$$nǐ::you (sing.)
+好$$hǎo::good# well
+古波$$Gǔ bō::Gubo (a personal name)
+帕兰卡$$Pà lán kǎ::Palanka (a personal name)
+吗$$ma::(an interrogative particle)
+我$$wǒ::I# me
+很$$hěn::very
+呢$$ne::(a modal particle)# (question particle)
+也$$yě::also# too
+忙$$máng::busy
+不$$bù::not
+哥哥$$gē ge::elder brother
+他$$tā::he# him
+弟弟$$dì di::younger brother
+他们$$tā men::they# them
+都$$dōu::all
+这$$zhè::this
+是$$shì::to be
+朋友$$péng you::friend
+爸爸$$bà ba::father
+妈妈$$mā ma::mother
+你们$$nǐ men::you (pl.)
+大夫$$dài fu::doctor
+的$$de::(structual particle)# (possessive particle)# of
+车$$chē::vehicle
+那$$nà::that
+她$$tā::she# her
+书$$shū::book
+报$$bào::newspaper
+纸$$zhǐ::paper
+尺$$chǐ::ruler
+笔$$bǐ::pen# pencil# writing brush
+哪$$nǎ::which
+国$$guó::country# state
+人$$rén::person
+谁$$shéi::who
+我们$$wǒ men::we# us
+老师$$lǎo shī::teacher
+汉语$$Hàn yǔ::Chinese (spoken language)
+中国$$Zhōng guó::China
+德国$$Dé guó::Germany
+法国$$Fǎ guó::France
+美国$$Měi guó::the United States of America
+马里$$Mǎ lǐ::Mali
+日本$$Rì běn::Japan
+什么$$shén me::what
+地图$$dì tú::map
+看$$kàn::to see# to look# to have a look# to read# to watch
+请$$qǐng::please
+北京$$Běi jīng::Beijing
+上海$$Shàng hǎi::Shanghai
+长江$$Cháng Jiāng::the Changjiang (Yangtze) River
+黄河$$Huáng Hé::the Huanghe (Yellow) River
+长城$$Cháng chéng::the Great Wall
+世界$$shì jiè::world
+欧洲$$ōu zhōu::Europe
+非洲$$Fēi Zhōu::Africa
+大洋周$$Dà yáng Zhōu::Oceania
+南美洲$$Nán Měi Zhōu::South America
+请$$qǐng::please (do sth)
+喝$$hē::to drink
+茶$$chá::tea
+您$$nín::you (formal)
+进$$jìn::to enter# to come in
+欢迎$$huān yíng::to welcome
+谢谢$$xiè xie::to thank
+客气$$kè qi::polite# courteous
+吸烟$$xī yān::to smoke
+王$$Wáng::a surname# Wang (proper name)
+咖啡$$kā fēi::coffee
+啤酒$$pí jiǔ::beer
+牛奶$$niú nǎi::milk
+先生$$xiān sheng::Mr.# sir# gentleman
+太太$$tài tai::Mrs.# Madame
+贵姓$$guì xìng::what's your name?# May I ask your name?
+请问$$qǐng wèn::May I ask...
+问$$wèn::to ask
+留学生$$liú xué shēng::a student who studies abroad
+姓$$xìng::(one's) surname is# surname
+叫$$jiào::to call# to be called
+外语$$wài yǔ::foreign language
+学院$$xué yuàn::college# institute
+学生$$xué sheng::student
+学习$$xué xí::to study# to learn
+学$$xué::to study# to learn
+丁云$$Dīng Yún::Ding Yun (a personal name)
+小姐$$xiǎo jie::miss
+女士$$nǚ shì::a polite form of address to a woman# lady# madam
+同志$$tóng zhì::comrade
+朝鲜$$Cháo xiǎn::Korea
+英国$$Yīng guó::Britain
+零$$líng::zero# 0
+一$$yī::one# 1
+二$$èr::two# 2
+三$$sān::three# 3
+四$$sì::four# 4
+五$$wǔ::five# 5
+在$$zài::to be a (a place)# in# at
+坐$$zuò::to sit# to take a seat
+哪儿$$nǎr::where
+宿舍$$sù shè::dormitory
+住$$zhù::to live
+多少$$duō shao::how many# how much# what
+号$$hào::number
+层$$céng::storey (a measure word)# story (of a building)
+医院$$yī yuàn::hospital
+厕所$$cè suǒ::toilet# latrine# lavatory# W.C.
+这儿$$zhèr::here
+那儿$$nàr::there
+还$$huán::to return
+画报$$huà bào::pictorial# magazine
+词典$$cí diǎn::dictionary
+现在$$xiàn zài::now# nowadays
+用$$yòng::to use# to make use of
+一下儿$$yí xiàr::a little while# a little bit
+再见$$zài jiàn::to say good-bye# to bid farewell to
+六$$liù::six# 6
+七$$qī::seven# 7
+八$$bā::eight# 8
+九$$jiǔ::nine# 9
+十$$shí::ten# 10
+杂志$$zá zhì::magazine
+电话$$diàn huà::telephone# phone call
+本子$$běn zi::note-book# exercise-book
+雨伞$$yǔ sǎn::umbrella
+女$$nǚ::female
+先生$$xiān sheng::Mr.# sir# gentleman
+认识$$rèn shi::to know# to be familiar with# to recognize
+英语$$Yīng yǔ::English (language)
+法语$$Fǎ yǔ::French (language)
+常$$cháng::often
+去$$qù::to go
+他们$$tā men::they
+名字$$míng zi::(a person's) name
+喂$$wèi::(an interjection) hello# hey
+啊$$ā::(an interjection)# oh# ah
+商店$$shāng diàn::shop# store
+买$$mǎi::to buy
+笔$$bǐ::pen# pencil# writing brush
+纸$$zhǐ::paper
+来$$lái::to come
+介绍$$jiè shào::to introduce
+男$$nán::male
+对$$duì::right# correct (answer)
+了$$le::(modal particle)# (modal partical intenstifying preceding clause)
+和$$hé::and# with
+说$$shuō::to speak# to say
+古波$$Gǔ bō::Gubo (a personal name)
+中国$$Zhōng guó::China
+帕兰卡$$Pà lán kǎ::Palanka (a personal name)
+丁云$$Dīng Yún::Ding Yun (a personal name)
+英国$$Yīng guó::Britain
+法国$$Fǎ guó::France
+本子$$běn zi::note-book# exercise-book
+邮局$$yóu jú::post office
+邮票$$yóu piào::stamp
+教授$$jiào shòu::professor
+作$$zuò::to do
+工作$$gōng zuò::to work# work# job
+想$$xiǎng::to want# to think# to miss
+家$$jiā::family# home# house
+有$$yǒu::to have# there be
+没$$méi::not# no# have not
+妹妹$$mèi mei::younger sister
+姐姐$$jiě jie::older sister
+银行$$yín háng::bank
+爱人$$ài ren::husband# wife
+书店$$shū diàn::bookstore
+孩子$$hái zi::child
+给$$gěi::to# for# to give
+写$$xiě::to write
+信$$xìn::letter
+告诉$$gào su::to tell
+职员$$zhí yuán::office worker# staff member
+工程师$$gōng chéng shī::engineer
+经理$$jīng lǐ::manager# director
+公司$$gōng sī::company
+中文$$Zhōng wén::Chinese (written language)
+系$$xì::department# faculty
+个$$gè::(a measure word)
+几$$jǐ::how many# how much# several
+教$$jiāo::to teach
+语法$$yǔ fǎ::grammar
+汉字$$Hàn zì::Chinese character
+字$$zì::character
+还$$hái::else# in addition# still
+口语$$kǒu yǔ::spoken language
+不敢当$$bù gǎn dāng::I don't really deserve it# you flatter me
+互相$$hù xiāng::each other# mutually# mutual
+新$$xīn::new
+阅览室$$yuè lǎn shì::reading room
+杂志$$zá zhì::magazine
+报$$bào::newspaper
+本$$běn::(a measure word)
+图书馆$$tú shū guǎn::library
+那儿$$nàr::there
+王$$Wáng::a surname# Wang (proper name)
+班$$bān::class# squad
+教室$$jiào shì::classroom
+实验室$$shí yàn shì::laboratory
+借$$jiè::to borrow# to lend
+生词$$shēng cí::new word
+条$$tiáo::(a measure word for ribbon)
+裙子$$qún zi::skirt
+两$$liǎng::two
+张$$zhāng::(a measure word)# piece
+票$$piào::ticket
+京剧$$jīng jù::Beijing opera
+晚上$$wǎn shang::evening
+太$$tài::too# too much
+从$$cóng::from
+找$$zhǎo::to look for# to call on (a person)
+这儿$$zhèr::here
+旧$$jiù::old
+穿$$chuān::to put on# to wear
+件$$jiàn::(a measure word for things & clothes)
+衬衫$$chèn shān::shirt# blouse
+绿$$lǜ::green
+大$$dà::big
+白$$bái::white
+蓝$$lán::blue
+上衣$$shàng yī::upper outer garment# jacket
+裤子$$kù zi::trousers
+大衣$$dà yī::overcoat# topcoat
+黑$$hēi::black
+剧场$$jù chǎng::theatre# theater
+座位$$zuò wèi::seat
+点$$diǎn::(a measure word)# o'clock
+食堂$$shí táng::dining-hall
+差$$chà::to lack# to be short of
+分$$fēn::(a measure word)# minute
+刻$$kè::(a measure word)# quarter (of an hour)
+上课$$shàng kè::to attend (a class)# to teach (in a class)
+课$$kè::class# lesson
+下课$$xià kè::class is over# class is dismissed
+以后$$yǐ hòu::later on# in the future
+事儿$$shìr::business# thing
+回$$huí::to return# to go back
+跟$$gēn::with# to follow
+一起$$yì qǐ::together
+电影$$diàn yǐng::film# movie
+咖啡馆$$kā fēi guǎn::cafe
+咖啡$$kā fēi::coffee
+半$$bàn::half
+啊$$ā::(a modal particle)# ah
+等$$děng::to wait
+走$$zǒu::to walk
+路$$lù::road# way
+上班$$shàng bān::to go to work
+下班$$xià bān::to come or go off work
+电影院$$diàn yǐng yuàn::cinema
+表$$biǎo::a watch
+钟$$zhōng::clock# bell
+以前$$yǐ qián::before# in the past# ago
+天$$tiān::day
+每$$měi::every# each
+起床$$qǐ chuáng::to get up
+起$$qǐ::to get up# to rise
+床$$chuáng::bed
+上午$$shàng wǔ::morning
+吃$$chī::to eat
+饭$$fàn::meal# cooked rice# food
+多$$duō::many# much# a lot of
+下午$$xià wǔ::afternoon
+休息$$xiū xi::to rest# to take a rest
+有时候$$yǒu shí hou::sometimes
+时候$$shí hou::time
+问题$$wèn tí::question# problem
+睡觉$$shuì jiào::to go to bed# to sleep
+北京$$Běi jīng::Beijing
+要$$yào::to want# to be going to# must
+服务员$$fú wù yuán::waiter# waitress# attendant
+杯$$bēi::(a measure word)# cup
+小姐$$xiǎo jie::miss# young lady
+喜欢$$xǐ huan::to like# to be fond of
+花茶$$huā chá::scented tea
+红茶$$hóng chá::black tea
+红$$hóng::red
+还是$$hái shì::or
+桔子水$$jú zi shuǐ::orangeade# orange juice
+桔子$$jú zi::orange
+水$$shuǐ::water
+瓶$$píng::(a measure word)# bottle
+啤酒$$pí jiǔ::beer
+听$$tīng::to listen
+民歌$$mín gē::folk song
+古典$$gǔ diǎn::classical
+音乐$$yīn yuè::music
+现代$$xiàn dài::modern
+唱$$chàng::to sing
+歌儿$$gēr::song
+让$$ràng::to let# to ask
+别$$bié::don't# do not
+枝$$zhī::(a measure word)# branch
+苹果$$píng guǒ::apple
+香蕉$$xiāng jiāo::banana
+葡萄$$pú tao::grape
+唱片$$chàng piàn::gramophone record# (vinyl) record# LP
+绿茶$$lǜ chá::green tea
+月$$yuè::month
+日$$rì::date (written language)# day of the month
+生日$$shēng rì::birthday
+今天$$jīn tiān::today
+班$$bān::class# squad
+辅导$$fǔ dǎo::to coach# to tutor# to give advise (in study)
+号$$hào::date (spoken language)# day of a month
+空儿$$kòngr::spare time# free time
+今年$$jīn nián::this year
+岁$$suì::(a measure word)# year (age)# years old
+祝贺$$zhù hè::to congratulate# congratulation
+舞会$$wǔ huì::dance# ball# party
+参加$$cān jiā::to take part in# to attend
+同学$$tóng xué::classmate# schoolmate
+一定$$yī dìng::surely# certainly# certain# given# particular
+有意思$$yǒu yì si::interesting
+星期$$xīng qī::week
+星期日$$xīng qī rì::Sunday
+知道$$zhī dao::to know
+地址$$dì zhǐ::address
+年$$nián::year
+去年$$qù nián::last year
+明年$$míng nián::next year
+音乐会$$yīn yuè huì::concert
+结婚$$jié hūn::to get married
+对不起$$duì bu qǐ::(I'm) sorry# forgive me
+约会$$yuē huì::appointment
+没关系$$méi guān xi::it doesn't matter
+谈$$tán::to talk# to chat
+束$$shù::(a measure word)# bunch
+花儿$$huār::flower
+真$$zhēn::real# true# genuine
+好看$$hǎo kàn::good-looking
+祝$$zhù::to wish# to express good wishes
+送$$sòng::to give as a present# to give
+非常$$fēi cháng::extremely
+感谢$$gǎn xiè::to thank
+高兴$$gāo xìng::glad# happy# delighted
+太太$$tài tai::Mrs.# Madame
+年轻$$nián qīng::young
+多$$duō::how
+跳舞$$tiào wǔ::to dance
+姑娘$$gū niang::girl
+吧$$ba::(a modal particle indicating polite suggestion)# ...right?# ...OK?
+漂亮$$piào liang::pretty# beautiful
+更$$gèng::even# still
+象$$xiàng::to be like# to resemble# to take after
+开$$kāi::open
+门$$mén::door
+布朗$$Bù lǎng::(a personal name)# English surname# Brown
+日本$$Rì běn::Japan
+辆$$liàng::(a measure word for vehicles)
+干净$$gān jing::clean# neat
+新年$$xīn nián::New Year
+岁数$$suì shu::age (number of years old)
+礼物$$lǐ wù::present# gift
+照片$$zhào piàn::photograph# picture
+儿子$$ér zi::son
+女儿$$nǚ ér::daughter
+后边$$hòu biān::back# at the back of# behind
+小$$xiǎo::little# small
+花园$$huā yuán::garden
+房子$$fáng zi::house
+客厅$$kè tīng::drawing room (room for arriving guests)# parlour
+旁边$$páng biān::side# lateral
+书房$$shū fáng::study (room)
+椅子$$yǐ zi::chair
+少$$shǎo::few
+桌子$$zhuō zi::table
+上边$$shàng bian::top# on# over# above
+总是$$zǒng shì::always
+总$$zǒng::always
+整理$$zhěng lǐ::to put in order# to straighten up# to arrange
+厨房$$chú fáng::kitchen
+对面$$duì miàn::opposite
+帮助$$bāng zhù::to help
+帮$$bāng::to help
+餐厅$$cān tīng::dining-hall
+左边$$zuǒ biān::left
+里边$$lǐ biān::inside
+房间$$fáng jiān::room
+卧室$$wò shì::bedroom
+洗澡间$$xǐ zǎo jiān::bathroom
+洗澡$$xǐ zǎo::to take a bath
+怎么样$$zěn me yàng::how# how is it that...?
+外边$$wài biān::outside
+下边$$xià biān::bottom# below# under
+前边$$qián biān::front# in front of# before
+右边$$yòu biān::right
+中间$$zhōng jiān::middle
+窗户$$chuāng hu::window
+套$$tào::(a measure word# a set of something)
+把$$bǎ::(a measure word)
+正在$$zhèng zài::(an adverb indicating an action in progress)# while (doing)
+电视$$diàn shì::television# TV
+接$$jiē::to answer (the telephone)# lift off
+电话$$diàn huà::telephone call# telephone
+没有$$méi yǒu::not# no# haven't
+复习$$fù xí::to review
+课文$$kè wén::text
+新闻$$xīn wén::news
+友好$$yǒu hǎo::friendly
+代表团$$dài biǎo tuán::delegation
+代表$$dài biǎo::delegate# representative
+参观$$cān guān::to visit (place or thing other than a person)# to pay a visit
+工厂$$gōng chǎng::factory
+工人$$gōng rén::worker
+访问$$fǎng wèn::to visit (thing# place or person)# to call on
+照片$$zhào piàn::photograph# photo# picture
+打电话$$dǎ diàn huà::to make (a telephone call)
+明天$$míng tiān::tomorrow
+城$$chéng::city# town
+外边$$wài biān::outside
+玩儿$$wánr::to play# to have fun with
+出发$$chū fā::to start out# to set off
+开车$$kāi chē::to drive a car
+接人$$jiē rén::to meet a person
+总机$$zǒng jī::central exchange# telephone exchange# switchboard
+分机$$fēn jī::extension# (telephone) extension
+占线$$zhàn xiàn::the line is busy (engaged)# the number is engaged
+打错了$$dǎ cuò le::(you have dialed the) wrong number
+号码$$hào mǎ::number
+人民日报$$Rén mín Rì bào::"the People's Daily"
+点心$$diǎn xīn::light refreshments# pastry
+农村$$nóng cūn::countryside# rural areas
+农民$$nóng mín::peasant
+火车$$huǒ chē::train
+锻炼$$duàn liàn::to do physical training
+回答$$huí dá::to reply# to answer
+些$$xiē::(a measure word)# some
+难$$nán::difficult
+生词$$shēng cí::new word
+词$$cí::word
+念$$niàn::to read aloud
+练习$$liàn xí::exercise# to practise
+认真$$rèn zhēn::conscientious# serious# in earnest
+懂$$dǒng::to understand
+安娜$$ān nà::Anna (personal name)
+王书文$$Wáng Shū wén::Wang Shuwen (personal name)
+得$$de::(a structural particle)# (a sentence particle used after a verb to show effect)
+晚$$wǎn::late# evening
+停$$tíng::to stop# to come to a stop
+河$$hé::river
+游泳$$yóu yǒng::to swim
+准备$$zhǔn bèi::to prepare
+钓$$diào::to fish with a hook and bait
+鱼$$yú::fish
+汤$$tāng::soup
+位$$wèi::(measure word for persons)
+快$$kuài::fast
+哪里$$nǎ li::it is nothing
+慢$$màn::slow
+教练$$jiào liàn::coach# (athlete's) coach
+不错$$bú cuò::correct# right# not bad# pretty good
+面包$$miàn bāo::bread
+火腿$$huǒ tuǐ::ham
+一点儿$$yī diǎnr::a little# a bit
+奶酪$$nǎi lào::cheese
+再$$zài::again# once more# a second time
+矿泉水$$kuàng quán shuǐ::mineral water
+清楚$$qīng chu::clear# distinct
+流利$$liú lì::fluent
+整齐$$zhěng qí::tidy
+菜$$cài::dish# vegetable
+饺子$$jiǎo zi::Chinese dumpling
+鸡蛋$$jī dàn::hen's egg
+牛奶$$niú nǎi::(cow's milk)# milk
+比较$$bǐ jiào::comparatively# to compare
+研究$$yán jiū::to research
+文学$$wén xué::literature
+早$$zǎo::early
+谈$$tán::to talk
+会$$huì::can# to know how to
+当$$dāng::to serve as# to act as
+翻译$$fān yì::interpreter# translator# to interpret# to translate
+能$$néng::can# to be able
+加深$$jiā shēn::to deepen
+人民$$rén mín::people
+了解$$liǎo jiě::to understand# to know
+有名$$yǒu míng::famous# well-known
+作家$$zuò jiā::writer# author
+或者$$huò zhě::or# possibly# maybe# perhaps
+就$$jiù::at once# right away
+应该$$yīng gāi::should# ought to
+俩$$liǎ::(a numeral-measure word) two# both
+可以$$kě yǐ::may# can
+理想$$lǐ xiǎng::ideal
+可是$$kě shì::but# however
+容易$$róng yì::easy
+有志者事竟成$$yǒu zhì zhě shì jìng chéng::where there is a will# there is a way
+成语$$chéng yǔ::proverb# idiom
+鲁迅$$Lǔ Xùn::Lu Xun
+郭沫若$$Guō Mò ruò::Guo Moruo
+歌剧$$gē jù::opera
+小说$$xiǎo shuō::novel
+诗歌$$shī gē::poem
+画$$huà::to paint# to draw
+画儿$$huàr::painting# drawing# picture
+晚饭$$wǎn fàn::supper
+进来$$jìn lái::to come in# to enter
+开始$$kāi shǐ::to begin# to start
+大使馆$$dà shǐ guǎn::embassy
+大使$$dà shǐ::ambassador
+招待会$$zhāo dài huì::reception
+酒$$jiǔ::wine# spirit
+尝$$cháng::to taste
+茅台酒$$Máo tái jiǔ::Maotai (a Chinese strong drink)
+为$$wèi::for# to
+健康$$jiàn kāng::health
+干杯$$gān bēi::to drink a toast# propose a toast# here's to
+友谊$$yǒu yì::friendship
+葡萄酒$$pú táo jiǔ::grape wine
+葡萄$$pú tao::grape
+菜$$cài::dish# vegetable
+筷子$$kuài zi::chopsticks
+试$$shì::to try
+文化$$wén huà::culture
+参赞$$cān zàn::counsellor# diplomatic officer# attache
+夫人$$fū ren::lady# madame# Mrs.
+又$$yòu::again
+大家$$dà jiā::all# everybody
+到$$dào::to go# to arrive# to reach
+楼$$lóu::storied building# floor
+李$$Lǐ::(a surname) Li
+白兰地$$bái lán dì::brandy
+香槟酒$$xiāng bīn jiǔ::champagne
+武官$$wǔ guān::military attache
+一秘$$yí mì::first secretary
+病$$bìng::to fall ill# illness# disease
+小学生$$xiǎo xué shēng::pupil# schoolboy# schoolgirl
+足球$$zú qiú::football
+球$$qiú::ball
+赛$$sài::to compete# competition# match
+昨天$$zuó tiān::yesterday
+办$$bàn::to do# to handle# to attend to# to tackle
+签证$$qiān zhèng::visa
+午饭$$wǔ fàn::lunch
+队$$duì::team# line
+赢$$yíng::to win# to beat
+输$$shū::to lose
+比$$bǐ::(a preposition showing comparison)# than# to (in a score)# "-er than"
+裁判$$cái pàn::referee# umpire# act as referee# to judge
+公平$$gōng píng::fair
+踢$$tī::to kick
+气人$$qì rén::to get someone angry# to get someone annoyed
+行李$$xíng li::luggage
+箱子$$xiāng zi::suitcase
+顶$$dǐng::(a measure word use with "hat")
+帽子$$mào zi::hat# cap
+双$$shuāng::(a measure word)# pair
+冰鞋$$bīng xié::skating boots# skates
+鞋$$xié::shoes
+冬天$$dōng tiān::winter
+滑冰$$huá bīng::to skate# skating
+早饭$$zǎo fàn::breakfast
+体育场$$tǐ yù chǎng::stadium
+公园$$gōng yuán::park# a public park
+乒乓球$$pīng pāng qiú::table tennis
+运动$$yùn dòng::sports# to sport
+网球$$wǎng qiú::badminton
+篮球$$lán qiú::basketball
+排球$$pái qiú::volleyball
+滑雪$$huá xuě::to ski# skiing
+飞机$$fēi jī::aeroplane# plane# aircraft
+要$$yào::will# to be going to
+起飞$$qǐ fēi::to take off
+机场$$jī chǎng::airport
+分别$$fēn bié::to part# to separate
+愿意$$yuàn yì::to be willing (to do something)
+离开$$lí kāi::to leave# to depart
+见面$$jiàn miàn::to meet each other# to see each other
+见$$jiàn::to meet# to see
+所以$$suǒ yǐ::so# therefore# as a result
+进步$$jìn bù::progress# advance# to progress# to make progress
+努力$$nǔ lì::hard-working# studious
+照相$$zhào xiàng::take a picture# to have one's photo taken
+站$$zhàn::to stand
+紧$$jǐn::close# tight# taut
+上$$shàng::to get on# to get into# to board
+注意$$zhù yì::to pay attention to
+身体$$shēn tǐ::body# health
+放心$$fàng xīn::to set one's mind at rest# to be at ease# to rest assured
+忘$$wàng::to forget
+难过$$nán guò::sad
+明年$$míng nián::next year
+夏天$$xià tiān::summer
+秋天$$qiū tiān::autumn
+一路平安$$yí lù píng ān::to have a pleasant journey# to have a good trip# bon voyage
+汽车$$qì chē::car# automobile
+船$$chuán::ship
+叫$$jiào::to hire# to call (a taxi etc.)
+送行$$sòng xíng::to see someone off
+旅行$$lǚ xíng::to travel# to tour
+中国民航$$Zhōng guó Mín háng::General Administration of Civil Aviation of China (CAAC)
+笑$$xiào::to laugh# to smile
+心$$xīn::heart# mind
+送$$sòng::to see (or walk) someone home# to see (someone) off
+女儿$$nǚ ér::daughter
+去年$$qù nián::last year
+国家$$guó jiā::country# state
+东西$$dōng xi::thing
+哭$$kū::to cry# to weep
+离$$lí::from# to leave
+远$$yuǎn::far# distant
+热情$$rè qíng::cordial# enthusiastic
+过$$guò::to live# to get along
+自己$$zì jǐ::self# (reflexive pronoun)

@@ -1,0 +1,217 @@
+CH-EN
+214 Kangxi Radikale (Deutsch - Pinyin)
+PY
+eins	::	yī	
+der Stock	::	gǔn	
+der Punkt	::	zhǔ	
+der Teil	::	piě	
+die Sichel	::	yǐ	
+der Haken	::	jué		
+zwei	::	èr	
+der Deckel	::	tōu	
+der Mensch	::	rén	
+die Beine	::	ér	
+eintreten, betreten	::	rù	
+acht	::	bā	
+umfassen	::	jiōng	
+bedecken	::	mī	
+das Eis	::	bīng	
+der Tisch	::	jī	
+der Behälter	::	qǔ	
+das Messer	::	dāo	
+die Kraft, die Fähigkeit	::	lì	
+einwickeln, umarmen	::	bāo	
+der Löffel	::	bǐ	
+der Kasten	::	fāng	
+verstecken	::	xǐ	
+zehn	::	shí	
+das Orakel	::	bǔ	
+das Siegel	::	jié	
+der Abhang	::	hàn	
+privat	::	sī	
+wieder	::	yòu	
+der Mund	::	kǒu	
+die Begrenzung	::	wéi	
+die Erde, der Boden	::	tǔ	
+der Gelehrte	::	shì	
+schlendern	::	zhǐ	
+überholen	::	suī	
+der Abend, der Sonnenuntergang	::	xī	
+groß	::	dà	
+die Frau	::	nǚ	
+das Kind	::	zǐ	
+das Dach	::	mián	
+der Daumen, das Zoll	::	cùn	
+klein, geringfügig, unbedeutend	::	xiǎo	
+lahm	::	wāng	
+die Leiche	::	shī	
+der Spross, der Keim	::	chè	
+der Berg, das Gebirge	::	shān	
+der Fluss	::	chuān	
+die Arbeit	::	gōng	
+selbst, persönlich	::	jǐ	
+das Tuch, der Schal	::	jīn	
+trocken	::	gān	
+jung, klein	::	yāo	
+das Schrägdach	::	guǎng	
+bewegen, marschieren	::	yín	
+zwei Hände	::	gǒng	
+der Pfeil	::	yì	
+der Bogen	::	gōng	
+die Schweineschnauze	::	jì	
+der Bart, die Haare	::	xū	
+der Schritt	::	chì	
+das Herz, das Gefühl	::	xīn	
+die Hellebarde	::	gē	
+die Tür	::	hù	
+die Hand, in der Hand halten	::	shǒu	
+der Zweig, die Abzweigung	::	zhī	
+schlagen	::	pū	
+die Schrift, die Sprache	::	wén	
+die Kelle	::	dǒu	
+die Axt	::	jīn	
+das Viereck	::	fāng	
+nicht, keiner, ohne	::	wú	
+die Sonne, der Tag	::	rì	
+sagen, sprechen	::	yuē	
+der Mond, der Monat	::	yuè	
+der Baum, das Holz	::	mù	
+mangeln, gähnen	::	qiàn	
+anhalten, aufhören, stoppen	::	zhǐ	
+der Tod	::	dǎi	
+die Waffe	::	shū	
+nicht	::	wú	
+vergleichen, sich messen mit	::	bǐ	
+das Haar, die Borste	::	máo	
+die Familie, die Sippe	::	shì	
+der Dampf	::	qì	
+das Wasser, das Gewässer	::	shuǐ	
+das Feuer	::	huǒ	
+die Klaue, die Kralle	::	zhǎo	
+der Vater	::	fù	
+mischen, durchkreuzen	::	yáo	
+gespaltenes Holz 	::	qiáng	
+die Scheibe	::	piàn	
+der Eckzahn	::	yá	
+das Rind	::	niú	
+der Hund	::	quǎn	
+dunkel	::	xuán	
+die Jade	::	yù (wáng)	
+die Melone, der Kürbis, die Gurke	::	guā	
+der Ziegel	::	wǎ	
+süß, wohlschmeckend	::	gān	
+leben, geboren werden	::	shēng	
+gebrauchen, benutzen, nötig haben	::	yòng	
+das Feld, das Reisfeld	::	tián	
+der Stoffballen	::	pǐ	
+die Krankheit	::	chuáng	
+aufsteigen	::	bō	
+weiß	::	bái	
+die Haut	::	pí	
+die Schüssel, der Teller	::	mǐn	
+das Auge	::	mù	
+der Speer	::	máo	
+der Pfeil	::	shǐ	
+der Stein	::	shí	
+zeigen, Vorfahren, verehren	::	shì	
+der Fußstapfen, die Spur	::	róu	
+das Getreide	::	hé	
+die Höhle	::	xué	
+stehen, aufrichten	::	lì	
+der Bambus	::	zhú	
+der Reis	::	mǐ	
+die Seide	::	si	
+der Krug, die Amphore	::	fǒu	
+das Netz	::	wǎng	
+das Schaf, die Ziege	::	yáng	
+die Vogelfeder	::	yǔ	
+alt	::	lǎo	
+und, aber	::	ér	
+der Pflug, die Egge	::	lěi	
+das Ohr	::	ěr	
+der Schreibpinsel	::	yù	
+das Fleisch	::	ròu	
+der Diener, der Minister	::	chén	
+selbst	::	zì	
+ankommen, erreichen	::	zhì	
+der Mörser	::	jiù	
+die Zunge	::	shé	
+gegensätzlich, irren	::	chuǎn	
+das Schiff, das Boot	::	zhōu	
+die Grenze	::	gēn	
+die Farbe	::	sè	
+das Gras	::	cǎo	
+der Tiger	::	hǔ	
+das Insekt	::	chóng	
+das Blut	::	xuè	
+gehen, machen, tun	::	xíng	
+die Kleidung	::	yī	
+Westen	::	xī	
+sehen	::	jiàn	
+das Horn	::	jiǎo	
+sprechen, das Wort	::	yán	
+das Tal, die Schlucht	::	gǔ	
+die Bohne	::	dòu	
+das Schwein	::	shǐ	
+der Dachs, die Katze	::	zhì	
+das Muschelgeld, die Muschel	::	bèi	
+rot	::	chì	
+laufen, fortgehen	::	zǒu	
+der Fuß	::	zú	
+der Körper, der Rumpf	::	shēn	
+der Wagen, das Rad, das Fahrzeug	::	chē	
+bitter, scharf	::	xīn	
+der Morgen	::	chén	
+vorwärts gehen	::	chuò	
+die Stadt	::	yì	
+der Wein, der Alkohol	::	yǒu	
+trennen, unterscheiden, auswählen	::	biàn	
+das Dorf	::	lǐ	
+das Metall, das Gold	::	jīn	
+lang, älter	::	cháng	
+das Tor, die Tür	::	mén	
+der Hügel, der Damm	::	fù	
+fangen, untergeordnet sein	::	lì	
+der kleine Vogel	::	zhuī	
+der Regen	::	yǔ	
+blau, jung	::	qīng	
+falsch, der Fehler	::	fēi	
+das Gesicht	::	miàn	
+ungegerbtes Leder	::	gé	
+gegerbtes Leder	::	wéi	
+der Lauch	::	jiǔ	
+der Laut, der Ton	::	yīn	
+der Kopf	::	yè	
+der Wind	::	fēng	
+fliegen	::	fēi	
+das Essen, das Futter	::	shí	
+der Kopf, das Haupt	::	shǒu	
+der Duft	::	xiāng	
+das Pferd	::	mǎ	
+der Knochen	::	gǔ	
+hoch	::	gāo	
+die langen Haare	::	biāo	
+kämpfen	::	dòu	
+die duftenden Kräuter	::	chàng	
+der Kessel	::	lì	
+das Gespenst, der Dämon	::	guǐ	
+der Fisch	::	yú	
+der Vogel	::	niǎo	
+das Salz, die Lauge	::	lǔ	
+der Hirsch, das Reh	::	lù	
+der Weizen, die Gerste	::	mài	
+der Hanf, der Flachs, die Jute	::	má	
+gelb	::	huáng	
+die Hirse	::	shǔ	
+schwarz	::	hēi	
+sticken, die Näharbeit	::	zhǐ	
+der Frosch, die Amphibie	::	mǐn	
+der Dreifuß	::	dǐng	
+die Trommel	::	gǔ	
+die Ratte, die Maus	::	shǔ	
+die Nase	::	bí	
+gleich, ordnen, gleichmäßig	::	qí	
+der Backenzahn, der Zahn	::	chǐ	
+der Drache	::	lóng	
+die Schildkröte	::	guī	
+die Flöte	::	yuè

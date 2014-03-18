@@ -1,0 +1,1728 @@
+<?xml version="1.0" encoding="utf-8"?>
+<brain>
+	<lessons>
+		<lesson>
+			<title>CH-EN</title>
+			<description>
+				214 Radicals of Chinese to English
+			</description>
+			<keyboardLayout>EN</keyboardLayout>
+			<type>1</type>
+
+			<items>
+				<item>
+					<text>一</text>
+					<comment>yī</comment>
+					<answers>
+						<answer>one</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>丨</text>
+					<comment>gǔn</comment>
+					<answers>
+						<answer>line</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>丶</text>
+					<comment>zhǔ</comment>
+					<answers>
+						<answer>dot</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>丿</text>
+					<comment>piě</comment>
+					<answers>
+						<answer>slash</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>乙</text>
+					<comment>yǐ</comment>
+					<answers>
+						<answer>second</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>亅</text>
+					<comment>jué</comment>
+					<answers>
+						<answer>hook</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>二</text>
+					<comment>èr</comment>
+					<answers>
+						<answer>two</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>亠</text>
+					<comment>tóu</comment>
+					<answers>
+						<answer>lid</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>人</text>
+					<comment>rén</comment>
+					<answers>
+						<answer>human</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>儿</text>
+					<comment>ér</comment>
+					<answers>
+						<answer>legs</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>入</text>
+					<comment>rù</comment>
+					<answers>
+						<answer>enter</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>八</text>
+					<comment>bā</comment>
+					<answers>
+						<answer>eight</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>冂</text>
+					<comment>jiǒng</comment>
+					<answers>
+						<answer>down box</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>冖</text>
+					<comment>mì</comment>
+					<answers>
+						<answer>cover</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>冫</text>
+					<comment>bīng</comment>
+					<answers>
+						<answer>ice</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>几</text>
+					<comment>jī</comment>
+					<answers>
+						<answer>table</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>凵</text>
+					<comment>qǔ</comment>
+					<answers>
+						<answer>open box</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>刀</text>
+					<comment>dāo</comment>
+					<answers>
+						<answer>knife</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>力</text>
+					<comment>lì</comment>
+					<answers>
+						<answer>power</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>勹</text>
+					<comment>bāo</comment>
+					<answers>
+						<answer>wrap</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>匕</text>
+					<comment>bǐ</comment>
+					<answers>
+						<answer>spoon</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>匚</text>
+					<comment>fāng</comment>
+					<answers>
+						<answer>right open box</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>匸</text>
+					<comment>xǐ</comment>
+					<answers>
+						<answer>hiding enclosure</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>十</text>
+					<comment>shí</comment>
+					<answers>
+						<answer>ten</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>卜</text>
+					<comment>bǔ</comment>
+					<answers>
+						<answer>divination</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>卩</text>
+					<comment>jié</comment>
+					<answers>
+						<answer>seal</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>厂</text>
+					<comment>hàn</comment>
+					<answers>
+						<answer>cliff</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>厶</text>
+					<comment>sī</comment>
+					<answers>
+						<answer>private</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>又</text>
+					<comment>yòu</comment>
+					<answers>
+						<answer>again</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>口</text>
+					<comment>kǒu</comment>
+					<answers>
+						<answer>mouth</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>囗</text>
+					<comment>wéi</comment>
+					<answers>
+						<answer>enclosure</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>土</text>
+					<comment>tǔ</comment>
+					<answers>
+						<answer>earth</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>士</text>
+					<comment>shì</comment>
+					<answers>
+						<answer>scholar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>夂</text>
+					<comment>zhǐ</comment>
+					<answers>
+						<answer>go</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>夊</text>
+					<comment>suī</comment>
+					<answers>
+						<answer>go slowly</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>夕</text>
+					<comment>xī</comment>
+					<answers>
+						<answer>evening</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>大</text>
+					<comment>dà</comment>
+					<answers>
+						<answer>big</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>女</text>
+					<comment>nǚ</comment>
+					<answers>
+						<answer>woman</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>子</text>
+					<comment>zǐ</comment>
+					<answers>
+						<answer>child</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>宀</text>
+					<comment>mián</comment>
+					<answers>
+						<answer>roof</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>寸</text>
+					<comment>cùn</comment>
+					<answers>
+						<answer>inch</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>小</text>
+					<comment>xiǎo</comment>
+					<answers>
+						<answer>small</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>尢</text>
+					<comment>wāng</comment>
+					<answers>
+						<answer>lame</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>尸</text>
+					<comment>shī</comment>
+					<answers>
+						<answer>corpse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>屮</text>
+					<comment>chè</comment>
+					<answers>
+						<answer>sprout</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>山</text>
+					<comment>shān</comment>
+					<answers>
+						<answer>mountain</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>巛川</text>
+					<comment>chuān</comment>
+					<answers>
+						<answer>river</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>工</text>
+					<comment>gōng</comment>
+					<answers>
+						<answer>work</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>己已巳</text>
+					<comment>jǐ</comment>
+					<answers>
+						<answer>oneself</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>巾</text>
+					<comment>jīn</comment>
+					<answers>
+						<answer>turban</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>干</text>
+					<comment>gān</comment>
+					<answers>
+						<answer>dry</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>幺</text>
+					<comment>yāo</comment>
+					<answers>
+						<answer>tiny</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>广</text>
+					<comment>yǎn</comment>
+					<answers>
+						<answer>dotted cliff</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>廴</text>
+					<comment>yín</comment>
+					<answers>
+						<answer>long stride</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>廾</text>
+					<comment>gǒng</comment>
+					<answers>
+						<answer>two hands</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>弋</text>
+					<comment>yì</comment>
+					<answers>
+						<answer>shoot</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>弓</text>
+					<comment>gōng</comment>
+					<answers>
+						<answer>bow</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>彐彑</text>
+					<comment>jì</comment>
+					<answers>
+						<answer>snout</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>彡</text>
+					<comment>shān</comment>
+					<answers>
+						<answer>bristle</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>彳</text>
+					<comment>chì</comment>
+					<answers>
+						<answer>step</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>心</text>
+					<comment>xīn</comment>
+					<answers>
+						<answer>heart</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>戈</text>
+					<comment>gē</comment>
+					<answers>
+						<answer>halberd</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>戶</text>
+					<comment>hù</comment>
+					<answers>
+						<answer>door</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>手</text>
+					<comment>shǒu</comment>
+					<answers>
+						<answer>hand</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>支</text>
+					<comment>zhī</comment>
+					<answers>
+						<answer>branch</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>攴攵</text>
+					<comment>pū</comment>
+					<answers>
+						<answer>rap</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>文</text>
+					<comment>wén</comment>
+					<answers>
+						<answer>script</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>斗</text>
+					<comment>dǒu</comment>
+					<answers>
+						<answer>dipper</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>斤</text>
+					<comment>jīn</comment>
+					<answers>
+						<answer>axe</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>方</text>
+					<comment>fāng</comment>
+					<answers>
+						<answer>square</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>无旡</text>
+					<comment>wú</comment>
+					<answers>
+						<answer>not</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>日</text>
+					<comment>rì</comment>
+					<answers>
+						<answer>sun</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>曰</text>
+					<comment>yuē</comment>
+					<answers>
+						<answer>say</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>月</text>
+					<comment>yuè</comment>
+					<answers>
+						<answer>moon</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>木</text>
+					<comment>mù</comment>
+					<answers>
+						<answer>tree</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>欠</text>
+					<comment>qiàn</comment>
+					<answers>
+						<answer>yawn</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>止</text>
+					<comment>zhǐ</comment>
+					<answers>
+						<answer>stop</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>歹歺</text>
+					<comment>dǎi</comment>
+					<answers>
+						<answer>death</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>殳</text>
+					<comment>shū</comment>
+					<answers>
+						<answer>weapon</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>毋母</text>
+					<comment>wú</comment>
+					<answers>
+						<answer>do not</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>比</text>
+					<comment>bǐ</comment>
+					<answers>
+						<answer>compare</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>毛</text>
+					<comment>máo</comment>
+					<answers>
+						<answer>fur</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>氏</text>
+					<comment>shì</comment>
+					<answers>
+						<answer>clan</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>气</text>
+					<comment>qì</comment>
+					<answers>
+						<answer>steam</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>水</text>
+					<comment>shuǐ</comment>
+					<answers>
+						<answer>water</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>火</text>
+					<comment>huǒ</comment>
+					<answers>
+						<answer>fire</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>爪爫</text>
+					<comment>zhǎo</comment>
+					<answers>
+						<answer>claw</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>父</text>
+					<comment>fù</comment>
+					<answers>
+						<answer>father</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>爻</text>
+					<comment>yáo</comment>
+					<answers>
+						<answer>double crosses</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>爿</text>
+					<comment>qiáng</comment>
+					<answers>
+						<answer>bed</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>片</text>
+					<comment>piàn</comment>
+					<answers>
+						<answer>slice</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>牙</text>
+					<comment>yá</comment>
+					<answers>
+						<answer>fang</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>牛</text>
+					<comment>niú</comment>
+					<answers>
+						<answer>cow</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>犬</text>
+					<comment>quǎn</comment>
+					<answers>
+						<answer>dog</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>玄</text>
+					<comment>xuán</comment>
+					<answers>
+						<answer>profound</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>玉</text>
+					<comment>yù (wáng)</comment>
+					<answers>
+						<answer>jade</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>瓜</text>
+					<comment>guā</comment>
+					<answers>
+						<answer>melon</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>瓦</text>
+					<comment>wǎ</comment>
+					<answers>
+						<answer>earthenware</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>甘</text>
+					<comment>gān</comment>
+					<answers>
+						<answer>sweet</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>生</text>
+					<comment>shēng</comment>
+					<answers>
+						<answer>life</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>用</text>
+					<comment>yòng</comment>
+					<answers>
+						<answer>use</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>田</text>
+					<comment>tián</comment>
+					<answers>
+						<answer>field</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>疋</text>
+					<comment>pǐ</comment>
+					<answers>
+						<answer>bolt of cloth</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>疒</text>
+					<comment>chuáng</comment>
+					<answers>
+						<answer>sickness</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>癶</text>
+					<comment>bō</comment>
+					<answers>
+						<answer>dotted tent</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>白</text>
+					<comment>bái</comment>
+					<answers>
+						<answer>white</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>皮</text>
+					<comment>pí</comment>
+					<answers>
+						<answer>skin</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>皿</text>
+					<comment>mǐn</comment>
+					<answers>
+						<answer>dish</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>目</text>
+					<comment>mù</comment>
+					<answers>
+						<answer>eye</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>矛</text>
+					<comment>máo</comment>
+					<answers>
+						<answer>halberd</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>矢</text>
+					<comment>shǐ</comment>
+					<answers>
+						<answer>arrow</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>石</text>
+					<comment>shí</comment>
+					<answers>
+						<answer>stone</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>示</text>
+					<comment>shì</comment>
+					<answers>
+						<answer>spirit</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>禸</text>
+					<comment>róu</comment>
+					<answers>
+						<answer>track</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>禾</text>
+					<comment>hé</comment>
+					<answers>
+						<answer>grain</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>穴</text>
+					<comment>xué</comment>
+					<answers>
+						<answer>cave</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>立</text>
+					<comment>lì</comment>
+					<answers>
+						<answer>stand</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>竹</text>
+					<comment>zhú</comment>
+					<answers>
+						<answer>bamboo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>米</text>
+					<comment>mǐ</comment>
+					<answers>
+						<answer>rice</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>糸</text>
+					<comment>si</comment>
+					<answers>
+						<answer>silk</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>缶</text>
+					<comment>fǒu</comment>
+					<answers>
+						<answer>jar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>网</text>
+					<comment>wǎng</comment>
+					<answers>
+						<answer>net</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>羊</text>
+					<comment>yáng</comment>
+					<answers>
+						<answer>sheep</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>羽</text>
+					<comment>yǔ</comment>
+					<answers>
+						<answer>feather</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>老</text>
+					<comment>lǎo</comment>
+					<answers>
+						<answer>old</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>而</text>
+					<comment>ér</comment>
+					<answers>
+						<answer>and</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>耒</text>
+					<comment>lěi</comment>
+					<answers>
+						<answer>plow</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>耳</text>
+					<comment>ěr</comment>
+					<answers>
+						<answer>ear</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>聿</text>
+					<comment>yù</comment>
+					<answers>
+						<answer>brush</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>肉</text>
+					<comment>ròu</comment>
+					<answers>
+						<answer>meat</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>臣</text>
+					<comment>chén</comment>
+					<answers>
+						<answer>minister</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>自</text>
+					<comment>zì</comment>
+					<answers>
+						<answer>self</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>至</text>
+					<comment>zhì</comment>
+					<answers>
+						<answer>arrive</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>臼</text>
+					<comment>jiù</comment>
+					<answers>
+						<answer>mortar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>舌</text>
+					<comment>shé</comment>
+					<answers>
+						<answer>tongue</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>舛</text>
+					<comment>chuǎn</comment>
+					<answers>
+						<answer>oppose</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>舟</text>
+					<comment>zhōu</comment>
+					<answers>
+						<answer>boat</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>艮</text>
+					<comment>gèn</comment>
+					<answers>
+						<answer>stopping</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>色</text>
+					<comment>sè</comment>
+					<answers>
+						<answer>color</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>艸</text>
+					<comment>cǎo</comment>
+					<answers>
+						<answer>grass</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>虍</text>
+					<comment>hǔ</comment>
+					<answers>
+						<answer>tiger</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>虫</text>
+					<comment>chóng</comment>
+					<answers>
+						<answer>insect</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>血</text>
+					<comment>xuè</comment>
+					<answers>
+						<answer>blood</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>行</text>
+					<comment>xíng</comment>
+					<answers>
+						<answer>walk enclosure</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>衣</text>
+					<comment>yī</comment>
+					<answers>
+						<answer>clothes</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>襾覀西</text>
+					<comment>xī</comment>
+					<answers>
+						<answer>west</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>見</text>
+					<comment>jiàn</comment>
+					<answers>
+						<answer>see</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>角</text>
+					<comment>jiǎo</comment>
+					<answers>
+						<answer>horn</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>言</text>
+					<comment>yán</comment>
+					<answers>
+						<answer>speech</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>谷</text>
+					<comment>gǔ</comment>
+					<answers>
+						<answer>valley</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>豆</text>
+					<comment>dòu</comment>
+					<answers>
+						<answer>bean</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>豕</text>
+					<comment>shǐ</comment>
+					<answers>
+						<answer>pig</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>豸</text>
+					<comment>zhì</comment>
+					<answers>
+						<answer>badger</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>貝</text>
+					<comment>bèi</comment>
+					<answers>
+						<answer>shell</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>赤</text>
+					<comment>chì</comment>
+					<answers>
+						<answer>red</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>走</text>
+					<comment>zǒu</comment>
+					<answers>
+						<answer>run</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>足</text>
+					<comment>zú</comment>
+					<answers>
+						<answer>foot</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>身</text>
+					<comment>shēn</comment>
+					<answers>
+						<answer>body</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>車</text>
+					<comment>chē</comment>
+					<answers>
+						<answer>car</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>辛</text>
+					<comment>xīn</comment>
+					<answers>
+						<answer>bitter</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>辰</text>
+					<comment>chén</comment>
+					<answers>
+						<answer>morning</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>辵</text>
+					<comment>chuò</comment>
+					<answers>
+						<answer>walk</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>邑</text>
+					<comment>yì</comment>
+					<answers>
+						<answer>city</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>酉</text>
+					<comment>yǒu</comment>
+					<answers>
+						<answer>wine</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>釆</text>
+					<comment>biàn</comment>
+					<answers>
+						<answer>distinguish</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>里</text>
+					<comment>lǐ</comment>
+					<answers>
+						<answer>village</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>金</text>
+					<comment>jīn</comment>
+					<answers>
+						<answer>metal</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>長</text>
+					<comment>cháng</comment>
+					<answers>
+						<answer>long</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>門</text>
+					<comment>mén</comment>
+					<answers>
+						<answer>gate</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>阜</text>
+					<comment>fù</comment>
+					<answers>
+						<answer>mound</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>隶</text>
+					<comment>lì</comment>
+					<answers>
+						<answer>slave</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>隹</text>
+					<comment>zhuī</comment>
+					<answers>
+						<answer>small bird</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>雨</text>
+					<comment>yǔ</comment>
+					<answers>
+						<answer>rain</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>靑青</text>
+					<comment>qīng</comment>
+					<answers>
+						<answer>blue</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>非</text>
+					<comment>fēi</comment>
+					<answers>
+						<answer>wrong</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>面</text>
+					<comment>miàn</comment>
+					<answers>
+						<answer>face</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>革</text>
+					<comment>gé</comment>
+					<answers>
+						<answer>leather</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>韋</text>
+					<comment>wéi</comment>
+					<answers>
+						<answer>tanned leather</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>韭</text>
+					<comment>jiǔ</comment>
+					<answers>
+						<answer>leek</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>音</text>
+					<comment>yīn</comment>
+					<answers>
+						<answer>sound</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>頁</text>
+					<comment>yè</comment>
+					<answers>
+						<answer>face</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>風</text>
+					<comment>fēng</comment>
+					<answers>
+						<answer>wind</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>飛</text>
+					<comment>fēi</comment>
+					<answers>
+						<answer>fly</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>食</text>
+					<comment>shí</comment>
+					<answers>
+						<answer>eat</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>首</text>
+					<comment>shǒu</comment>
+					<answers>
+						<answer>head</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>香</text>
+					<comment>xiāng</comment>
+					<answers>
+						<answer>fragrant</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>馬</text>
+					<comment>mǎ</comment>
+					<answers>
+						<answer>horse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>骨</text>
+					<comment>gǔ</comment>
+					<answers>
+						<answer>bone</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>高</text>
+					<comment>gāo</comment>
+					<answers>
+						<answer>tall</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>髟</text>
+					<comment>biāo</comment>
+					<answers>
+						<answer>hair</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>鬥</text>
+					<comment>dòu</comment>
+					<answers>
+						<answer>fight</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>鬯</text>
+					<comment>chàng</comment>
+					<answers>
+						<answer>sacrificial wine</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>鬲</text>
+					<comment>lì</comment>
+					<answers>
+						<answer>cauldron</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>鬼</text>
+					<comment>guǐ</comment>
+					<answers>
+						<answer>ghost</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>魚</text>
+					<comment>yú</comment>
+					<answers>
+						<answer>fish</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>鳥</text>
+					<comment>niǎo</comment>
+					<answers>
+						<answer>bird</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>鹵</text>
+					<comment>lǔ</comment>
+					<answers>
+						<answer>alkaline</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>鹿</text>
+					<comment>lù</comment>
+					<answers>
+						<answer>deer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>麥</text>
+					<comment>mài</comment>
+					<answers>
+						<answer>wheat</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>麻</text>
+					<comment>má</comment>
+					<answers>
+						<answer>hemp</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>黃</text>
+					<comment>huáng</comment>
+					<answers>
+						<answer>yellow</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>黍</text>
+					<comment>shǔ</comment>
+					<answers>
+						<answer>millet</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>黑</text>
+					<comment>hēi</comment>
+					<answers>
+						<answer>black</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>黹</text>
+					<comment>zhǐ</comment>
+					<answers>
+						<answer>needlework</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>黽</text>
+					<comment>mǐn</comment>
+					<answers>
+						<answer>amphibian</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>鼎</text>
+					<comment>dǐng</comment>
+					<answers>
+						<answer>tripod</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>鼓</text>
+					<comment>gǔ</comment>
+					<answers>
+						<answer>drum</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>鼠</text>
+					<comment>shǔ</comment>
+					<answers>
+						<answer>rat</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>鼻</text>
+					<comment>bí</comment>
+					<answers>
+						<answer>nose</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>齊</text>
+					<comment>qí</comment>
+					<answers>
+						<answer>uniformly</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>齒</text>
+					<comment>chǐ</comment>
+					<answers>
+						<answer>tooth</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>龍</text>
+					<comment>lóng</comment>
+					<answers>
+						<answer>dragon</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>龜</text>
+					<comment>guī</comment>
+					<answers>
+						<answer>tortoise</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>龠</text>
+					<comment>yuè</comment>
+					<answers>
+						<answer>flute</answer>
+					</answers>
+				</item>
+
+			</items>
+		</lesson>
+	</lessons>
+</brain>

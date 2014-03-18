@@ -1,0 +1,5948 @@
+<?xml version="1.0" encoding="latin1"?>
+<brain>
+	<lessons>
+		<lesson>
+			<title>DE-ES 1000</title>
+			<description>Basiswortschatz deutsch-spanisch (1000)</description>
+			<keyboardLayout>ES</keyboardLayout>
+			<items>
+				<item>
+					<text>(zu sich) nehmen</text>
+					<answers>
+						<answer>tomarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>Abendbrot</text>
+					<answers>
+						<answer>la cena</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>abends</text>
+					<answers>
+						<answer>por la tarde</answer>
+						<answer>por la noche</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>abfahren</text>
+					<answers>
+						<answer>salir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>abholen</text>
+					<answers>
+						<answer>recoger</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>abstellen</text>
+					<answers>
+						<answer>apagar</answer>
+						<answer>parar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>abzüglich</text>
+					<answers>
+						<answer>menos</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>acht</text>
+					<answers>
+						<answer>ocho</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>achtzehn</text>
+					<answers>
+						<answer>dieciocho</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>achtzig</text>
+					<answers>
+						<answer>ochenta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>allein</text>
+					<answers>
+						<answer>sólo</answer>
+						<answer>solamente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>alt</text>
+					<answers>
+						<answer>viejo</answer>
+						<answer>vieja</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>am liebsten</text>
+					<answers>
+						<answer>lo que más (me gustaría)</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>am Morgen</text>
+					<answers>
+						<answer>por la mañana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>anblicken</text>
+					<answers>
+						<answer>mirar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>andere, anderer, anderes</text>
+					<answers>
+						<answer>otro</answer>
+						<answer>otra</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>anders</text>
+					<answers>
+						<answer>de otra manera</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>anfangen</text>
+					<answers>
+						<answer>empezar</answer>
+						<answer>comenzar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>anhören</text>
+					<answers>
+						<answer>escuchar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ankommen</text>
+					<answers>
+						<answer>llegar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>anmutig</text>
+					<answers>
+						<answer>elegante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>anrufen</text>
+					<answers>
+						<answer>llamar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>anschauen</text>
+					<answers>
+						<answer>mirar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ansehen</text>
+					<answers>
+						<answer>mirar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>anstellen</text>
+					<answers>
+						<answer>encender</answer>
+						<answer>poner en marcha</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>antworten</text>
+					<answers>
+						<answer>responder</answer>
+						<answer>contestar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>anziehen</text>
+					<answers>
+						<answer>vestir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>arbeiten</text>
+					<answers>
+						<answer>trabajar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>arm</text>
+					<answers>
+						<answer>pobre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>auch</text>
+					<answers>
+						<answer>también</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>auf</text>
+					<answers>
+						<answer>sobre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>auf einmal</text>
+					<answers>
+						<answer>de repente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>auf Wiedersehen</text>
+					<answers>
+						<answer>adiós</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>aufhören</text>
+					<answers>
+						<answer>terminar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>aufmachen</text>
+					<answers>
+						<answer>abrir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>aufpassen</text>
+					<answers>
+						<answer>tener cuidado</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>aufräumen</text>
+					<answers>
+						<answer>ordenar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>aufrufen</text>
+					<answers>
+						<answer>llamar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>aufstehen</text>
+					<answers>
+						<answer>levantarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>aufwachen</text>
+					<answers>
+						<answer>despertarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>aufwärts gehen</text>
+					<answers>
+						<answer>subir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ausgehen</text>
+					<answers>
+						<answer>salir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ausgezeichnet</text>
+					<answers>
+						<answer>excelente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ausmachen</text>
+					<answers>
+						<answer>apagar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ausreichend</text>
+					<answers>
+						<answer>bastante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>aussehen</text>
+					<answers>
+						<answer>parecer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>außer</text>
+					<answers>
+						<answer>sobre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>außerdem</text>
+					<answers>
+						<answer>además</answer>
+						<answer>aparte</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>außerhalb</text>
+					<answers>
+						<answer>fuera</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>aussteigen</text>
+					<answers>
+						<answer>bajar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ausziehen</text>
+					<answers>
+						<answer>mudarse</answer>
+						<answer>cambiarse de casa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>backen</text>
+					<answers>
+						<answer>hacer al horno</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>baden</text>
+					<answers>
+						<answer>bañarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bald</text>
+					<answers>
+						<answer>pronto</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bauen</text>
+					<answers>
+						<answer>construir</answer>
+						<answer>edificar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bedeuten</text>
+					<answers>
+						<answer>significar</answer>
+						<answer>querer decir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bedienen</text>
+					<answers>
+						<answer>atender</answer>
+						<answer>servir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>beginnen</text>
+					<answers>
+						<answer>comenzar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>begreifen</text>
+					<answers>
+						<answer>comprender</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>behalten</text>
+					<answers>
+						<answer>conservar</answer>
+						<answer>guardar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bekommen</text>
+					<answers>
+						<answer>recibir</answer>
+						<answer>obtener</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>beobachten</text>
+					<answers>
+						<answer>observar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>beraten</text>
+					<answers>
+						<answer>aconsejar</answer>
+						<answer>asesorar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>berichten</text>
+					<answers>
+						<answer>informar</answer>
+						<answer>reportar</answer>
+						<answer>narrar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>berühren</text>
+					<answers>
+						<answer>tocar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>beschreiben</text>
+					<answers>
+						<answer>describir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>besichtigen</text>
+					<answers>
+						<answer>visitar</answer>
+						<answer>examinar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>besonders</text>
+					<answers>
+						<answer>especialmente</answer>
+						<answer>en particular</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>besorgen</text>
+					<answers>
+						<answer>proporcionar</answer>
+						<answer>conseguir</answer>
+						<answer>comprar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bestehen (aus)</text>
+					<answers>
+						<answer>constar (de)</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bestellen</text>
+					<answers>
+						<answer>pedir</answer>
+						<answer>reservar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bestimmt</text>
+					<answers>
+						<answer>seguro</answer>
+						<answer>seguramente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>besuchen</text>
+					<answers>
+						<answer>visitar</answer>
+						<answer>ir a ver</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>betreten</text>
+					<answers>
+						<answer>entrar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bevorzugen</text>
+					<answers>
+						<answer>preferir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bezahlen</text>
+					<answers>
+						<answer>pagar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bieten</text>
+					<answers>
+						<answer>ofrecer</answer>
+						<answer>presentar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>billig</text>
+					<answers>
+						<answer>barato</answer>
+						<answer>barata</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bitte</text>
+					<answers>
+						<answer>por favor</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bitten</text>
+					<answers>
+						<answer>pedir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>blau</text>
+					<answers>
+						<answer>azul</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bleiben</text>
+					<answers>
+						<answer>quedarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>blond</text>
+					<answers>
+						<answer>rubio</answer>
+						<answer>rubia</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>bloß</text>
+					<answers>
+						<answer>sólo</answer>
+						<answer>únicamente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>brauchen</text>
+					<answers>
+						<answer>necesitar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>braun</text>
+					<answers>
+						<answer>moreno</answer>
+						<answer>morena</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>braunhaarig</text>
+					<answers>
+						<answer>moreno</answer>
+						<answer>morena</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>buchen</text>
+					<answers>
+						<answer>reservar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>buchstabieren</text>
+					<answers>
+						<answer>deletrear</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>da</text>
+					<answers>
+						<answer>allí</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>daher</text>
+					<answers>
+						<answer>por eso</answer>
+						<answer>de ahí</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>damals</text>
+					<answers>
+						<answer>en aquel tiempo</answer>
+						<answer>entonces</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>danach</text>
+					<answers>
+						<answer>después</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>Danke.</text>
+					<answers>
+						<answer>Gracias.</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>dann</text>
+					<answers>
+						<answer>luego</answer>
+						<answer>entonces</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>darauf</text>
+					<answers>
+						<answer>después</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Abendessen</text>
+					<answers>
+						<answer>la cena</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Abenteuer</text>
+					<answers>
+						<answer>la aventura</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Alter</text>
+					<answers>
+						<answer>la edad</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Apartment</text>
+					<answers>
+						<answer>el apartamento</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Auto</text>
+					<answers>
+						<answer>el coche</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Baby</text>
+					<answers>
+						<answer>el bebé</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Bein</text>
+					<answers>
+						<answer>la pierna</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Bett</text>
+					<answers>
+						<answer>la cama</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Bier</text>
+					<answers>
+						<answer>la cerveza</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Bild</text>
+					<answers>
+						<answer>el cuadro</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Blatt</text>
+					<answers>
+						<answer>la hoja</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Blut</text>
+					<answers>
+						<answer>la sangre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Brot</text>
+					<answers>
+						<answer>el pan</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Buch</text>
+					<answers>
+						<answer>el libro</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Dorf</text>
+					<answers>
+						<answer>el pueblo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Eis</text>
+					<answers>
+						<answer>el helado</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Ende</text>
+					<answers>
+						<answer>el final</answer>
+						<answer>el fin</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das England</text>
+					<answers>
+						<answer>la Inglaterra</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Erfrischungsgetränk</text>
+					<answers>
+						<answer>el refresco</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Essen</text>
+					<answers>
+						<answer>la comida</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Examen</text>
+					<answers>
+						<answer>el examen</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Fahrrad</text>
+					<answers>
+						<answer>la bici</answer>
+						<answer>la bicicleta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Fernsehen</text>
+					<answers>
+						<answer>la televisión</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Feuer</text>
+					<answers>
+						<answer>el fuego</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Flugzeug</text>
+					<answers>
+						<answer>el avión</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Foto</text>
+					<answers>
+						<answer>la foto</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Frühstück</text>
+					<answers>
+						<answer>el desayuno</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Geld</text>
+					<answers>
+						<answer>el dinero</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Gemälde</text>
+					<answers>
+						<answer>el cuadro</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Geschäft</text>
+					<answers>
+						<answer>la tienda</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Geschenk</text>
+					<answers>
+						<answer>el regalo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Gesicht</text>
+					<answers>
+						<answer>la cara</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Haar</text>
+					<answers>
+						<answer>el pelo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Haus</text>
+					<answers>
+						<answer>la casa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Heft</text>
+					<answers>
+						<answer>el cuaderno</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Hemd</text>
+					<answers>
+						<answer>la camisa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Holz</text>
+					<answers>
+						<answer>la madera</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Hotel</text>
+					<answers>
+						<answer>el hotel</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Insekt</text>
+					<answers>
+						<answer>el insecto</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Jackett</text>
+					<answers>
+						<answer>la chaqueta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Jahr</text>
+					<answers>
+						<answer>el año</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Kino</text>
+					<answers>
+						<answer>el cine</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Kleid</text>
+					<answers>
+						<answer>el vestido</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Krankenhaus</text>
+					<answers>
+						<answer>el hospital</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Land</text>
+					<answers>
+						<answer>el país</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Leben</text>
+					<answers>
+						<answer>la vida</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Lied</text>
+					<answers>
+						<answer>la canción</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Mädchen</text>
+					<answers>
+						<answer>la chica</answer>
+						<answer>la niña</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Meer</text>
+					<answers>
+						<answer>el mar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Messer</text>
+					<answers>
+						<answer>el cuchillo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Obdach</text>
+					<answers>
+						<answer>el abrigo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Ohr</text>
+					<answers>
+						<answer>la oreja</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Papier</text>
+					<answers>
+						<answer>el papel</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Pferd</text>
+					<answers>
+						<answer>el caballo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Radio</text>
+					<answers>
+						<answer>la radio</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Rathaus</text>
+					<answers>
+						<answer>el ayuntamiento</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Restaurant</text>
+					<answers>
+						<answer>el restaurante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Rind</text>
+					<answers>
+						<answer>la vaca</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Salz</text>
+					<answers>
+						<answer>la sal</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Schaf</text>
+					<answers>
+						<answer>la oveja</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Schiff</text>
+					<answers>
+						<answer>el barco</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Schwein</text>
+					<answers>
+						<answer>el cerdo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Schwimmbad</text>
+					<answers>
+						<answer>la piscina</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Spiel</text>
+					<answers>
+						<answer>el juego</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Stockwerk</text>
+					<answers>
+						<answer>el piso</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Stück</text>
+					<answers>
+						<answer>el trozo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Telefon</text>
+					<answers>
+						<answer>el teléfono</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Tennis</text>
+					<answers>
+						<answer>el tenis</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Theater</text>
+					<answers>
+						<answer>el teatro</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Tier</text>
+					<answers>
+						<answer>el animal</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das T-Shirt</text>
+					<answers>
+						<answer>la camiseta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Unterhemd</text>
+					<answers>
+						<answer>la camiseta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Viertel</text>
+					<answers>
+						<answer>el barrio</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Volk</text>
+					<answers>
+						<answer>el pueblo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Wasser</text>
+					<answers>
+						<answer>la agua</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Wetter</text>
+					<answers>
+						<answer>el tiempo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Wort</text>
+					<answers>
+						<answer>la palabra</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Zentrum</text>
+					<answers>
+						<answer>el centro</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>das Zimmer</text>
+					<answers>
+						<answer>la habitación</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>dauern</text>
+					<answers>
+						<answer>durar</answer>
+						<answer>tardar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Abend</text>
+					<answers>
+						<answer>la noche</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Affe</text>
+					<answers>
+						<answer>el mono</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Apfel</text>
+					<answers>
+						<answer>la manzana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der April</text>
+					<answers>
+						<answer>el abril</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Arm</text>
+					<answers>
+						<answer>el brazo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Arzt</text>
+					<answers>
+						<answer>el médico</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Aufzug</text>
+					<answers>
+						<answer>el ascensor</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der August</text>
+					<answers>
+						<answer>el agosto</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Ausflug</text>
+					<answers>
+						<answer>la excursión</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Ausgang</text>
+					<answers>
+						<answer>la salida</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Backofen</text>
+					<answers>
+						<answer>el horno</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Bahnhof</text>
+					<answers>
+						<answer>la estación</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Balkon</text>
+					<answers>
+						<answer>el balcón</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Baum</text>
+					<answers>
+						<answer>el árbol</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Berg</text>
+					<answers>
+						<answer>el monte</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Brief</text>
+					<answers>
+						<answer>la carta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Bruder</text>
+					<answers>
+						<answer>el hermano</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Chef</text>
+					<answers>
+						<answer>el jefe</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Computer</text>
+					<answers>
+						<answer>el ordenador</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Cousin</text>
+					<answers>
+						<answer>el primo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Dezember</text>
+					<answers>
+						<answer>el diciembre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Dialog</text>
+					<answers>
+						<answer>el diálogo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Dienstag</text>
+					<answers>
+						<answer>el martes</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Doktor</text>
+					<answers>
+						<answer>el doctor</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Donnerstag</text>
+					<answers>
+						<answer>el jueves</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Durst</text>
+					<answers>
+						<answer>la sed</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Elefant</text>
+					<answers>
+						<answer>el elefante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Engländer</text>
+					<answers>
+						<answer>el inglés</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Erfolg</text>
+					<answers>
+						<answer>el éxito</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Februar</text>
+					<answers>
+						<answer>el febrero</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Fehler</text>
+					<answers>
+						<answer>la falta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Feiertag</text>
+					<answers>
+						<answer>la fiesta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Film</text>
+					<answers>
+						<answer>la película</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Fisch</text>
+					<answers>
+						<answer>el pez</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Fisch [Essen]</text>
+					<answers>
+						<answer>el pescado</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Fluss</text>
+					<answers>
+						<answer>el río</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Franzose</text>
+					<answers>
+						<answer>el francés</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Freitag</text>
+					<answers>
+						<answer>el viernes</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Freund</text>
+					<answers>
+						<answer>el amigo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Frühling</text>
+					<answers>
+						<answer>la primavera</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Fuß</text>
+					<answers>
+						<answer>el pie</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Fußball</text>
+					<answers>
+						<answer>el fútbol</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Garten</text>
+					<answers>
+						<answer>el jardín</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Gärtner</text>
+					<answers>
+						<answer>el jardinero</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Geburtstag</text>
+					<answers>
+						<answer>el cumpleaños</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Hafen</text>
+					<answers>
+						<answer>el puerto</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Herbst</text>
+					<answers>
+						<answer>el otoño</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Herr</text>
+					<answers>
+						<answer>el señor</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Honig</text>
+					<answers>
+						<answer>la miel</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Hubschrauber</text>
+					<answers>
+						<answer>el helicóptero</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Hund</text>
+					<answers>
+						<answer>el perro</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Hunger</text>
+					<answers>
+						<answer>el hambre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Idiot</text>
+					<answers>
+						<answer>el idiota</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Januar</text>
+					<answers>
+						<answer>el enero</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Juli</text>
+					<answers>
+						<answer>el julio</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Junge</text>
+					<answers>
+						<answer>el niño</answer>
+						<answer>el chico</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Juni</text>
+					<answers>
+						<answer>el junio</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Kaffee</text>
+					<answers>
+						<answer>el café</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Kilometer</text>
+					<answers>
+						<answer>el kilometro</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Krieg</text>
+					<answers>
+						<answer>la guerra</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Kugelschreiber</text>
+					<answers>
+						<answer>el bolígrafo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Kuss</text>
+					<answers>
+						<answer>el beso</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Mai</text>
+					<answers>
+						<answer>el mayo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Mann</text>
+					<answers>
+						<answer>el señor</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Mantel</text>
+					<answers>
+						<answer>el abrigo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Markt</text>
+					<answers>
+						<answer>el mercado</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der März</text>
+					<answers>
+						<answer>el marzo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Mittelpunkt</text>
+					<answers>
+						<answer>el centro</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Mittwoch</text>
+					<answers>
+						<answer>el miércoles</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Moment</text>
+					<answers>
+						<answer>el momento</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Monat</text>
+					<answers>
+						<answer>el mes</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Mond</text>
+					<answers>
+						<answer>la luna</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Montag</text>
+					<answers>
+						<answer>el lunes</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Morgen</text>
+					<answers>
+						<answer>la mañana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Mund</text>
+					<answers>
+						<answer>la boca</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Nachname</text>
+					<answers>
+						<answer>el apellido</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Name</text>
+					<answers>
+						<answer>el nombre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der November</text>
+					<answers>
+						<answer>el noviembre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Ofen</text>
+					<answers>
+						<answer>el horno</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Oktober</text>
+					<answers>
+						<answer>el octubre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Onkel</text>
+					<answers>
+						<answer>el tío</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Ort</text>
+					<answers>
+						<answer>el lugar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Park</text>
+					<answers>
+						<answer>el parque</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Parkplatz</text>
+					<answers>
+						<answer>el aparcamiento</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Preis</text>
+					<answers>
+						<answer>el precio</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Pullover</text>
+					<answers>
+						<answer>el jersey</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Raum</text>
+					<answers>
+						<answer>la sala</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Regen</text>
+					<answers>
+						<answer>la lluvia</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Reis</text>
+					<answers>
+						<answer>el arroz</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Rock</text>
+					<answers>
+						<answer>la falda</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Roman</text>
+					<answers>
+						<answer>la novela</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Rücken</text>
+					<answers>
+						<answer>la espalda</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Saal</text>
+					<answers>
+						<answer>la sala</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Salat</text>
+					<answers>
+						<answer>la lechuga</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Samstag</text>
+					<answers>
+						<answer>el sábado</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Sänger</text>
+					<answers>
+						<answer>el cantante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Schinken</text>
+					<answers>
+						<answer>el jamón</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Schlüssel</text>
+					<answers>
+						<answer>la llave</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Schmerz</text>
+					<answers>
+						<answer>el dolor</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Schmetterling</text>
+					<answers>
+						<answer>la mariposa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Schüler</text>
+					<answers>
+						<answer>el alumno</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der See</text>
+					<answers>
+						<answer>el lago</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Seehund</text>
+					<answers>
+						<answer>la foca</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der September</text>
+					<answers>
+						<answer>el septiembre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Sessel</text>
+					<answers>
+						<answer>el sillón</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Sitz</text>
+					<answers>
+						<answer>el asiento</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Sohn</text>
+					<answers>
+						<answer>el hijo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Sommer</text>
+					<answers>
+						<answer>el verano</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Sonnabend</text>
+					<answers>
+						<answer>el sábado</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Sonntag</text>
+					<answers>
+						<answer>el domingo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Spanier</text>
+					<answers>
+						<answer>el español</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Spiegel</text>
+					<answers>
+						<answer>el espejo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Spinat</text>
+					<answers>
+						<answer>las espinacas</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Stadtteil</text>
+					<answers>
+						<answer>el barrio</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Strand</text>
+					<answers>
+						<answer>la playa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Student</text>
+					<answers>
+						<answer>el estudiante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Stuhl</text>
+					<answers>
+						<answer>la silla</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Supermarkt</text>
+					<answers>
+						<answer>el supermercado</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Tag</text>
+					<answers>
+						<answer>el día</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Teller</text>
+					<answers>
+						<answer>el plato</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Tiger</text>
+					<answers>
+						<answer>el tigre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Tisch</text>
+					<answers>
+						<answer>la mesa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Topf</text>
+					<answers>
+						<answer>la marmita</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Unfall</text>
+					<answers>
+						<answer>el accidente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Urlaub</text>
+					<answers>
+						<answer>las vacaciones</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Vater</text>
+					<answers>
+						<answer>el padre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Vogel</text>
+					<answers>
+						<answer>el pájaro</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Wecker</text>
+					<answers>
+						<answer>el despertador</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Weg</text>
+					<answers>
+						<answer>el camino</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Winter</text>
+					<answers>
+						<answer>el invierno</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Wolf</text>
+					<answers>
+						<answer>el lobo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Zahn</text>
+					<answers>
+						<answer>el diente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>der Zucker</text>
+					<answers>
+						<answer>el azúcar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>deutsch</text>
+					<answers>
+						<answer>alemán</answer>
+						<answer>alemana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>Deutschland</text>
+					<answers>
+						<answer>Alemania</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Achtung</text>
+					<answers>
+						<answer>la atención</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Adresse</text>
+					<answers>
+						<answer>la dirección</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Allee</text>
+					<answers>
+						<answer>la avenida</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Angst</text>
+					<answers>
+						<answer>el miedo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Apotheke</text>
+					<answers>
+						<answer>la farmacia</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Ärztin</text>
+					<answers>
+						<answer>la médica</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Bäckerei</text>
+					<answers>
+						<answer>la panadería</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Banane</text>
+					<answers>
+						<answer>el plátano</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Bank</text>
+					<answers>
+						<answer>el banco</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Bibliothek</text>
+					<answers>
+						<answer>la biblioteca</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Bildung</text>
+					<answers>
+						<answer>la cultura</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Blume</text>
+					<answers>
+						<answer>la flor</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Bluse</text>
+					<answers>
+						<answer>la blusa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Brille</text>
+					<answers>
+						<answer>las gafas</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Bücherei</text>
+					<answers>
+						<answer>la biblioteca</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Cousine</text>
+					<answers>
+						<answer>la prima</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Dame</text>
+					<answers>
+						<answer>la señora</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Dusche</text>
+					<answers>
+						<answer>la ducha</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Ehefrau</text>
+					<answers>
+						<answer>la esposa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Einladung</text>
+					<answers>
+						<answer>la invitación</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Eltern</text>
+					<answers>
+						<answer>los padres</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Engländerin</text>
+					<answers>
+						<answer>la inglesa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Etage</text>
+					<answers>
+						<answer>el piso</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Fabrik</text>
+					<answers>
+						<answer>la fábrica</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Fahrkarte</text>
+					<answers>
+						<answer>el billete</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Familie</text>
+					<answers>
+						<answer>la familia</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Farbe</text>
+					<answers>
+						<answer>el color</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Ferien</text>
+					<answers>
+						<answer>las vacaciones</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Flasche</text>
+					<answers>
+						<answer>la botella</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Frage</text>
+					<answers>
+						<answer>la pregunta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Französin</text>
+					<answers>
+						<answer>la francesa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Frau</text>
+					<answers>
+						<answer>la mujer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Freundin</text>
+					<answers>
+						<answer>la amiga</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Garage</text>
+					<answers>
+						<answer>el garaje</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Geschichte (Erzählung)</text>
+					<answers>
+						<answer>el cuento</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Geschichte</text>
+					<answers>
+						<answer>la historia</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Grenze</text>
+					<answers>
+						<answer>la frontera</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Hand</text>
+					<answers>
+						<answer>la mano</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Hauptstadt</text>
+					<answers>
+						<answer>la capital</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Haut</text>
+					<answers>
+						<answer>la piel</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Hitze</text>
+					<answers>
+						<answer>el calor</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Hoffnung</text>
+					<answers>
+						<answer>la esperanza</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Information</text>
+					<answers>
+						<answer>la información</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Jacke</text>
+					<answers>
+						<answer>la chaqueta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Kamille</text>
+					<answers>
+						<answer>la manzanilla</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Karte</text>
+					<answers>
+						<answer>el mapa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Kartoffel</text>
+					<answers>
+						<answer>la patata</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Kasse</text>
+					<answers>
+						<answer>la caja</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Katze</text>
+					<answers>
+						<answer>el gato</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Kirche</text>
+					<answers>
+						<answer>la iglesia</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Kiste</text>
+					<answers>
+						<answer>la caja</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Klasse</text>
+					<answers>
+						<answer>la clase</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Kleidung</text>
+					<answers>
+						<answer>la ropa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Kreide</text>
+					<answers>
+						<answer>la tiza</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Küche</text>
+					<answers>
+						<answer>la cocina</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Kuh</text>
+					<answers>
+						<answer>la vaca</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Kultur</text>
+					<answers>
+						<answer>la cultura</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Lampe</text>
+					<answers>
+						<answer>la lámpara</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Liebe</text>
+					<answers>
+						<answer>el amor</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Lippe</text>
+					<answers>
+						<answer>el labio</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Meeresfrüchte</text>
+					<answers>
+						<answer>los mariscos</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Milch</text>
+					<answers>
+						<answer>la leche</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Minute</text>
+					<answers>
+						<answer>el minuto</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Möwe</text>
+					<answers>
+						<answer>la gaviota</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Musik</text>
+					<answers>
+						<answer>la música</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Mutter</text>
+					<answers>
+						<answer>la madre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Nachricht</text>
+					<answers>
+						<answer>el aviso</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Nase</text>
+					<answers>
+						<answer>la nariz</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Oper</text>
+					<answers>
+						<answer>la ópera</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Orange</text>
+					<answers>
+						<answer>la naranja</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Prüfung</text>
+					<answers>
+						<answer>el examen</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Quelle</text>
+					<answers>
+						<answer>la fuente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Rechnung</text>
+					<answers>
+						<answer>la cuenta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Region</text>
+					<answers>
+						<answer>la región</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Sache</text>
+					<answers>
+						<answer>la cosa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Sängerin</text>
+					<answers>
+						<answer>la cantante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Sau</text>
+					<answers>
+						<answer>la cerda</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Schallplatte</text>
+					<answers>
+						<answer>el disco</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Scheiße [vulg.]</text>
+					<answers>
+						<answer>la mierda</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Schokolade</text>
+					<answers>
+						<answer>el chocolate</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Schule</text>
+					<answers>
+						<answer>la escuela</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Schülerin</text>
+					<answers>
+						<answer>la alumna</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Schwester</text>
+					<answers>
+						<answer>la hermana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Seite</text>
+					<answers>
+						<answer>el lado</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Seite (Buch)</text>
+					<answers>
+						<answer>la página</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Socke</text>
+					<answers>
+						<answer>el calcetín</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Sonne [Astronomie]</text>
+					<answers>
+						<answer>el sol</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Spanierin</text>
+					<answers>
+						<answer>la española</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Sprache</text>
+					<answers>
+						<answer>la lengua</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Stadt</text>
+					<answers>
+						<answer>la ciudad</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Station</text>
+					<answers>
+						<answer>la estación</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Straße</text>
+					<answers>
+						<answer>la calle</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Studentin</text>
+					<answers>
+						<answer>la estudiante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Stunde</text>
+					<answers>
+						<answer>la hora</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Suppe</text>
+					<answers>
+						<answer>la sopa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Tafel</text>
+					<answers>
+						<answer>la pizarra</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Tante</text>
+					<answers>
+						<answer>la tía</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Tochter</text>
+					<answers>
+						<answer>la hija</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Tomate</text>
+					<answers>
+						<answer>el tomate</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Träne</text>
+					<answers>
+						<answer>la lágrima</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Treppe</text>
+					<answers>
+						<answer>la escalera</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Tür</text>
+					<answers>
+						<answer>la puerta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die U-Bahn</text>
+					<answers>
+						<answer>el metro</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Übung</text>
+					<answers>
+						<answer>el ejercicio</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Uhr</text>
+					<answers>
+						<answer>el reloj</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Wärme</text>
+					<answers>
+						<answer>el calor</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Welt</text>
+					<answers>
+						<answer>el mundo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Woche</text>
+					<answers>
+						<answer>la semana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Wohnung</text>
+					<answers>
+						<answer>el apartamento</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Zahl</text>
+					<answers>
+						<answer>el número</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Zeichnung</text>
+					<answers>
+						<answer>el dibujo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Zeit</text>
+					<answers>
+						<answer>el tiempo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>die Zeitung</text>
+					<answers>
+						<answer>el periódico</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>diesmal</text>
+					<answers>
+						<answer>esta vez</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>diskutieren (über)</text>
+					<answers>
+						<answer>discutir (de/sobre)</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>doch</text>
+					<answers>
+						<answer>sí</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>doof</text>
+					<answers>
+						<answer>tonto</answer>
+						<answer>tonta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>doppelt</text>
+					<answers>
+						<answer>doble</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>dort</text>
+					<answers>
+						<answer>allí</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>draußen</text>
+					<answers>
+						<answer>fuera</answer>
+						<answer>al aire libre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>drei</text>
+					<answers>
+						<answer>tres</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>dreißig</text>
+					<answers>
+						<answer>treinta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>dreizehn</text>
+					<answers>
+						<answer>trece</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>dringend</text>
+					<answers>
+						<answer>urgente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>dringlich</text>
+					<answers>
+						<answer>urgente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>dumm</text>
+					<answers>
+						<answer>tonto</answer>
+						<answer>tonta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>dunkelbraun</text>
+					<answers>
+						<answer>moreno</answer>
+						<answer>morena</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>dünn</text>
+					<answers>
+						<answer>delgado</answer>
+						<answer>delgada</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>dürfen</text>
+					<answers>
+						<answer>tener permiso</answer>
+						<answer>poder</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>duschen</text>
+					<answers>
+						<answer>ducharse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ein bisschen</text>
+					<answers>
+						<answer>algo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ein wenig</text>
+					<answers>
+						<answer>algo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>eindringen</text>
+					<answers>
+						<answer>entrar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>einfach</text>
+					<answers>
+						<answer>simplemente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>einkaufen</text>
+					<answers>
+						<answer>comprar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>einladen</text>
+					<answers>
+						<answer>invitar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>einpacken</text>
+					<answers>
+						<answer>empaquetar</answer>
+						<answer>envolver</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>eins</text>
+					<answers>
+						<answer>un</answer>
+						<answer>uno</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>einschalten</text>
+					<answers>
+						<answer>encender</answer>
+						<answer>poner en marcha</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>einschlafen</text>
+					<answers>
+						<answer>dormirse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>einsteigen</text>
+					<answers>
+						<answer>subir</answer>
+						<answer>entrar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>eintreffen</text>
+					<answers>
+						<answer>llegar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>einzahlen</text>
+					<answers>
+						<answer>pagar</answer>
+						<answer>ingresar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>einziehen (in)</text>
+					<answers>
+						<answer>instalarse (en)</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>elegant</text>
+					<answers>
+						<answer>elegante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>elf</text>
+					<answers>
+						<answer>once</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>endlich</text>
+					<answers>
+						<answer>por fin</answer>
+						<answer>finalmente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>englisch</text>
+					<answers>
+						<answer>inglés</answer>
+						<answer>inglesa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>entscheiden</text>
+					<answers>
+						<answer>decidir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>entschuldigen</text>
+					<answers>
+						<answer>disculpar</answer>
+						<answer>perdonar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>erbitten</text>
+					<answers>
+						<answer>pedir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>erfinden</text>
+					<answers>
+						<answer>inventar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>erhoffen</text>
+					<answers>
+						<answer>esperar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>erkältet sein</text>
+					<answers>
+						<answer>tener un resfriado</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>erkennen</text>
+					<answers>
+						<answer>reconocer</answer>
+						<answer>distinguir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>erklären</text>
+					<answers>
+						<answer>explicar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>erledigen</text>
+					<answers>
+						<answer>hacer</answer>
+						<answer>resolver</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>eröffnen</text>
+					<answers>
+						<answer>abrir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>erst</text>
+					<answers>
+						<answer>sólo</answer>
+						<answer>primero</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>erwarten</text>
+					<answers>
+						<answer>esperar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>erzählen</text>
+					<answers>
+						<answer>contar</answer>
+						<answer>narrar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>essen</text>
+					<answers>
+						<answer>comer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>etwa</text>
+					<answers>
+						<answer>aproximadamente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>etwas</text>
+					<answers>
+						<answer>algo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>exakt</text>
+					<answers>
+						<answer>exacto</answer>
+						<answer>exacta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>existieren</text>
+					<answers>
+						<answer>existir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fahren</text>
+					<answers>
+						<answer>salir</answer>
+						<answer>circular</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fallen</text>
+					<answers>
+						<answer>caer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fantastisch, wunderbar</text>
+					<answers>
+						<answer>fantástico</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fast</text>
+					<answers>
+						<answer>casi</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>faulenzen</text>
+					<answers>
+						<answer>holgazanear</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fehlen</text>
+					<answers>
+						<answer>faltar</answer>
+						<answer>estar ausente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>feiern</text>
+					<answers>
+						<answer>celebrar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fein</text>
+					<answers>
+						<answer>fino</answer>
+						<answer>fina</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fernsehen</text>
+					<answers>
+						<answer>ver la televisión</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>feucht</text>
+					<answers>
+						<answer>húmedo</answer>
+						<answer>húmeda</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>finden</text>
+					<answers>
+						<answer>encontrar</answer>
+						<answer>dar con</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fliegen</text>
+					<answers>
+						<answer>volar</answer>
+						<answer>ir en avión</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fließen</text>
+					<answers>
+						<answer>fluir</answer>
+						<answer>correr</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fotografieren</text>
+					<answers>
+						<answer>fotografiar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fragen</text>
+					<answers>
+						<answer>preguntar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fragen (nach)</text>
+					<answers>
+						<answer>preguntar (por)</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>französisch</text>
+					<answers>
+						<answer>francés</answer>
+						<answer>francesa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>froh</text>
+					<answers>
+						<answer>feliz</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>früh</text>
+					<answers>
+						<answer>temprano</answer>
+						<answer>temprana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>frühstücken</text>
+					<answers>
+						<answer>desayunar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>frühzeitig</text>
+					<answers>
+						<answer>temprano</answer>
+						<answer>temprana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>führen</text>
+					<answers>
+						<answer>llevar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fünf</text>
+					<answers>
+						<answer>cinco</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fünfzehn</text>
+					<answers>
+						<answer>quince</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>fünfzig</text>
+					<answers>
+						<answer>cincuenta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>funktionieren</text>
+					<answers>
+						<answer>funcionar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ganz</text>
+					<answers>
+						<answer>bastante</answer>
+						<answer>muy</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>geben</text>
+					<answers>
+						<answer>dar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>gebrauchen</text>
+					<answers>
+						<answer>usar</answer>
+						<answer>utilizar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>gedrungen</text>
+					<answers>
+						<answer>bajo</answer>
+						<answer>baja</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>gegen</text>
+					<answers>
+						<answer>sobre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>gehen</text>
+					<answers>
+						<answer>ir</answer>
+						<answer>andar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>gehören</text>
+					<answers>
+						<answer>pertenecer (a)</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>gelb</text>
+					<answers>
+						<answer>amarillo</answer>
+						<answer>amarilla</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>genau</text>
+					<answers>
+						<answer>exacto</answer>
+						<answer>exacta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>genug</text>
+					<answers>
+						<answer>bastante</answer>
+						<answer>suficiente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>geöffnet</text>
+					<answers>
+						<answer>abierto</answer>
+						<answer>abierta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>gerade</text>
+					<answers>
+						<answer>ahora mismo</answer>
+						<answer>precisamente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>geradeaus</text>
+					<answers>
+						<answer>recto</answer>
+						<answer>seguido</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>gern (lieber, am liebsten)</text>
+					<answers>
+						<answer>(hacer algo) con (mucho) gusto</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>gestern</text>
+					<answers>
+						<answer>ayer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>gesund</text>
+					<answers>
+						<answer>sano</answer>
+						<answer>sana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>Gesundheit!</text>
+					<answers>
+						<answer>¡Jesús!</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>getrennt</text>
+					<answers>
+						<answer>separado</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>gewinnen</text>
+					<answers>
+						<answer>ganar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>gießen</text>
+					<answers>
+						<answer>regar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>glauben</text>
+					<answers>
+						<answer>creer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>glücklich</text>
+					<answers>
+						<answer>feliz</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>Gott</text>
+					<answers>
+						<answer>Dios</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>groß</text>
+					<answers>
+						<answer>alto</answer>
+						<answer>alta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>grün</text>
+					<answers>
+						<answer>verde</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>haben</text>
+					<answers>
+						<answer>tener</answer>
+						<answer>haber</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>hart</text>
+					<answers>
+						<answer>fuerte</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>hässlich</text>
+					<answers>
+						<answer>feo</answer>
+						<answer>fea</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>häufig</text>
+					<answers>
+						<answer>a menudo</answer>
+						<answer>con frecuencia</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>heiraten</text>
+					<answers>
+						<answer>casarse (con)</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>heiß</text>
+					<answers>
+						<answer>caliente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>heißen</text>
+					<answers>
+						<answer>llamarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>helfen</text>
+					<answers>
+						<answer>ayudar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>herausgehen</text>
+					<answers>
+						<answer>salir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>herbringen, mitbringen</text>
+					<answers>
+						<answer>traer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>herstellen</text>
+					<answers>
+						<answer>producir</answer>
+						<answer>fabricar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>heute</text>
+					<answers>
+						<answer>hoy</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>hier</text>
+					<answers>
+						<answer>aquí</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>hinbringen, mitbringen</text>
+					<answers>
+						<answer>llevar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>hineingehen</text>
+					<answers>
+						<answer>entrar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>hinfallen</text>
+					<answers>
+						<answer>caerse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>hinter</text>
+					<answers>
+						<answer>detrás de</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>hoch</text>
+					<answers>
+						<answer>alto</answer>
+						<answer>alta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>höchstens</text>
+					<answers>
+						<answer>como mucho</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>hoffen</text>
+					<answers>
+						<answer>esperar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>holen</text>
+					<answers>
+						<answer>traer</answer>
+						<answer>recoger</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>horchen</text>
+					<answers>
+						<answer>escuchar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>hören</text>
+					<answers>
+						<answer>oír</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>hübsch</text>
+					<answers>
+						<answer>bonito</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>hundert</text>
+					<answers>
+						<answer>cien / ciento</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>immer</text>
+					<answers>
+						<answer>siempre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>informieren</text>
+					<answers>
+						<answer>informarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>intelligent</text>
+					<answers>
+						<answer>inteligente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>interessant</text>
+					<answers>
+						<answer>interesante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>irgendwann</text>
+					<answers>
+						<answer>algún día</answer>
+						<answer>en cualquier momento</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>Italien</text>
+					<answers>
+						<answer>Italia</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>italienisch</text>
+					<answers>
+						<answer>italiano</answer>
+						<answer>italiana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ja</text>
+					<answers>
+						<answer>sí</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>jemand</text>
+					<answers>
+						<answer>alguien</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>jetzt</text>
+					<answers>
+						<answer>ahora</answer>
+						<answer>en este momento</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>jung</text>
+					<answers>
+						<answer>joven</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kalt</text>
+					<answers>
+						<answer>frío</answer>
+						<answer>fría</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kaputt</text>
+					<answers>
+						<answer>roto</answer>
+						<answer>rota</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kaufen</text>
+					<answers>
+						<answer>comprar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kennen</text>
+					<answers>
+						<answer>saber</answer>
+						<answer>conocer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kennenlernen</text>
+					<answers>
+						<answer>conocer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>klein</text>
+					<answers>
+						<answer>pequeño</answer>
+						<answer>pequeña</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>klingeln</text>
+					<answers>
+						<answer>llamar</answer>
+						<answer>tocar al timbre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kochen</text>
+					<answers>
+						<answer>cocinar</answer>
+						<answer>hervir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kommen</text>
+					<answers>
+						<answer>venir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>können</text>
+					<answers>
+						<answer>poder</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kontrollieren</text>
+					<answers>
+						<answer>controlar</answer>
+						<answer>inspeccionar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>korrekt</text>
+					<answers>
+						<answer>correcto</answer>
+						<answer>correcta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>korrigieren</text>
+					<answers>
+						<answer>corregir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kosten (Preis)</text>
+					<answers>
+						<answer>costar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kosten (Geschmack)</text>
+					<answers>
+						<answer>probar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kräftig</text>
+					<answers>
+						<answer>fuerte</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kubanisch</text>
+					<answers>
+						<answer>cubano</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>kündigen</text>
+					<answers>
+						<answer>anunciar el desalojamiento</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>lachen</text>
+					<answers>
+						<answer>reírse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>lange</text>
+					<answers>
+						<answer>mucho tiempo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>langsam</text>
+					<answers>
+						<answer>despacio</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>langweilig</text>
+					<answers>
+						<answer>aburrido</answer>
+						<answer>aburrida</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>lassen</text>
+					<answers>
+						<answer>dejar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>laufen</text>
+					<answers>
+						<answer>correr</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>leben</text>
+					<answers>
+						<answer>vivir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>legen</text>
+					<answers>
+						<answer>tenderse</answer>
+						<answer>depositarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>leicht</text>
+					<answers>
+						<answer>fácil</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>leider</text>
+					<answers>
+						<answer>por desgracia</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>leihen</text>
+					<answers>
+						<answer>prestar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>leise (Stimme)</text>
+					<answers>
+						<answer>bajo</answer>
+						<answer>baja</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>lernen</text>
+					<answers>
+						<answer>aprender</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>lesen</text>
+					<answers>
+						<answer>leer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>letzt-</text>
+					<answers>
+						<answer>último</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>lieben</text>
+					<answers>
+						<answer>querer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>lieber tun</text>
+					<answers>
+						<answer>preferir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>liegen</text>
+					<answers>
+						<answer>estar acostado</answer>
+						<answer>estar tumbado</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>links</text>
+					<answers>
+						<answer>a la izquierda</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>losfahren</text>
+					<answers>
+						<answer>salir</answer>
+						<answer>ponerse en marcha</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>machen</text>
+					<answers>
+						<answer>hacer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>malen</text>
+					<answers>
+						<answer>pintar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>manchmal</text>
+					<answers>
+						<answer>a veces</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>matt</text>
+					<answers>
+						<answer>cansado</answer>
+						<answer>cansada</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>meinen</text>
+					<answers>
+						<answer>pensar</answer>
+						<answer>creer</answer>
+						<answer>opinar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>meistens</text>
+					<answers>
+						<answer>la mayoría de las veces</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>merken</text>
+					<answers>
+						<answer>darse cuenta</answer>
+						<answer>notar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>messen</text>
+					<answers>
+						<answer>medir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>minus</text>
+					<answers>
+						<answer>menos</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>mitkommen</text>
+					<answers>
+						<answer>acompañar</answer>
+						<answer>venir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>mittags</text>
+					<answers>
+						<answer>al mediodía</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>möchten</text>
+					<answers>
+						<answer>gustar mucho</answer>
+						<answer>desear</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>modern</text>
+					<answers>
+						<answer>moderno</answer>
+						<answer>moderna</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>mögen</text>
+					<answers>
+						<answer>querer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>morgen</text>
+					<answers>
+						<answer>mañana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>morgens</text>
+					<answers>
+						<answer>por la mañana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>müde</text>
+					<answers>
+						<answer>cansado</answer>
+						<answer>cansada</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>müssen</text>
+					<answers>
+						<answer>deber</answer>
+						<answer>tener que</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>nachher</text>
+					<answers>
+						<answer>después</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>nachmittags</text>
+					<answers>
+						<answer>por la tarde</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>nachts</text>
+					<answers>
+						<answer>por la noche</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>natürlich</text>
+					<answers>
+						<answer>naturalmente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>nehmen</text>
+					<answers>
+						<answer>tomar</answer>
+						<answer>coger</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>nein</text>
+					<answers>
+						<answer>no</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>nennen</text>
+					<answers>
+						<answer>llamar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>nett</text>
+					<answers>
+						<answer>simpático</answer>
+						<answer>simpática</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>neu</text>
+					<answers>
+						<answer>nuevo</answer>
+						<answer>nueva</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>neun</text>
+					<answers>
+						<answer>nueve</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>neunzehn</text>
+					<answers>
+						<answer>diecinueve</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>neunzig</text>
+					<answers>
+						<answer>noventa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>nicht</text>
+					<answers>
+						<answer>no</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>nie</text>
+					<answers>
+						<answer>nunca</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>niedrig</text>
+					<answers>
+						<answer>bajo</answer>
+						<answer>baja</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>niemals</text>
+					<answers>
+						<answer>jamás</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>niemand</text>
+					<answers>
+						<answer>nadie</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>nimm (Imperativ von tomarse)</text>
+					<answers>
+						<answer>tómate</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>noch</text>
+					<answers>
+						<answer>aún</answer>
+						<answer>todavía</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>noch einmal</text>
+					<answers>
+						<answer>otra vez</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>null</text>
+					<answers>
+						<answer>cero</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>nur</text>
+					<answers>
+						<answer>sólo</answer>
+						<answer>solamente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>oben</text>
+					<answers>
+						<answer>arriba</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>offen</text>
+					<answers>
+						<answer>abierto</answer>
+						<answer>abierta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>offensichtlich</text>
+					<answers>
+						<answer>evidente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>öffnen</text>
+					<answers>
+						<answer>abrir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>oft (öfter, am öftesten)</text>
+					<answers>
+						<answer>a menudo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ohne</text>
+					<answers>
+						<answer>sin</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>operieren</text>
+					<answers>
+						<answer>operar</answer>
+						<answer>proceder</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ordnen</text>
+					<answers>
+						<answer>ordenar</answer>
+						<answer>poner en orden</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>Österreich</text>
+					<answers>
+						<answer>Austria</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>packen</text>
+					<answers>
+						<answer>hacer las maletas</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>parken</text>
+					<answers>
+						<answer>aparcar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>passen</text>
+					<answers>
+						<answer>sentar bien</answer>
+						<answer>pegar</answer>
+						<answer>encajar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>passieren</text>
+					<answers>
+						<answer>pasar</answer>
+						<answer>ocurrir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>plötzlich</text>
+					<answers>
+						<answer>de repente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>putzen</text>
+					<answers>
+						<answer>limpiar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>Rad fahren</text>
+					<answers>
+						<answer>ir en bici</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>rauchen</text>
+					<answers>
+						<answer>fumar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>Recht haben</text>
+					<answers>
+						<answer>tener razón</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>rechts</text>
+					<answers>
+						<answer>a la derecha</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>regnen</text>
+					<answers>
+						<answer>llover</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>reich</text>
+					<answers>
+						<answer>rico</answer>
+						<answer>rica</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>reichen</text>
+					<answers>
+						<answer>bastar</answer>
+						<answer>ser suficiente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>reinigen</text>
+					<answers>
+						<answer>limpiar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>reisen</text>
+					<answers>
+						<answer>viajar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>reparieren</text>
+					<answers>
+						<answer>arreglar</answer>
+						<answer>reparar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>richtig</text>
+					<answers>
+						<answer>correcto</answer>
+						<answer>correcta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>rot</text>
+					<answers>
+						<answer>rojo</answer>
+						<answer>roja</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>rufen</text>
+					<answers>
+						<answer>llamar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sachte</text>
+					<answers>
+						<answer>despacio</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sagen</text>
+					<answers>
+						<answer>decir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sauber</text>
+					<answers>
+						<answer>limpio</answer>
+						<answer>limpia</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>säubern</text>
+					<answers>
+						<answer>limpiar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>scharf</text>
+					<answers>
+						<answer>picante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schauen</text>
+					<answers>
+						<answer>mirar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schenken</text>
+					<answers>
+						<answer>regalar</answer>
+						<answer>obsequiar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schick</text>
+					<answers>
+						<answer>elegante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schicken</text>
+					<answers>
+						<answer>mandar</answer>
+						<answer>enviar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schlafen</text>
+					<answers>
+						<answer>dormir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schlank</text>
+					<answers>
+						<answer>delgado</answer>
+						<answer>delgada</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schließen</text>
+					<answers>
+						<answer>cerrar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schmecken</text>
+					<answers>
+						<answer>gustar</answer>
+						<answer>saber</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schneiden</text>
+					<answers>
+						<answer>cortar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schneien</text>
+					<answers>
+						<answer>nevar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schon</text>
+					<answers>
+						<answer>ya</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schön</text>
+					<answers>
+						<answer>hermoso</answer>
+						<answer>hermosa</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schrecklich</text>
+					<answers>
+						<answer>horrible</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schreiben</text>
+					<answers>
+						<answer>escribir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schwarz</text>
+					<answers>
+						<answer>negro</answer>
+						<answer>negra</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schwer, schwierig</text>
+					<answers>
+						<answer>difícil</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>schwimmen</text>
+					<answers>
+						<answer>nadar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sechs</text>
+					<answers>
+						<answer>seis</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sechzehn</text>
+					<answers>
+						<answer>dieciseis</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sechzig</text>
+					<answers>
+						<answer>sesenta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sehen</text>
+					<answers>
+						<answer>ver</answer>
+						<answer>mirar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sehr (mehr, am meisten)</text>
+					<answers>
+						<answer>muy</answer>
+						<answer>mucho</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sein</text>
+					<answers>
+						<answer>ser</answer>
+						<answer>estar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>seit</text>
+					<answers>
+						<answer>desde</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>selbstverständlich</text>
+					<answers>
+						<answer>por supuesto</answer>
+						<answer>desde luego</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sich freuen</text>
+					<answers>
+						<answer>alegrarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sich interessieren</text>
+					<answers>
+						<answer>interesarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sieben</text>
+					<answers>
+						<answer>siete</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>siebzehn</text>
+					<answers>
+						<answer>diecisiete</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>siebzig</text>
+					<answers>
+						<answer>setenta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>singen</text>
+					<answers>
+						<answer>cantar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sitzen</text>
+					<answers>
+						<answer>estar sentado</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sofort</text>
+					<answers>
+						<answer>enseguida</answer>
+						<answer>en el acto</answer>
+						<answer>ahora mismo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sogar</text>
+					<answers>
+						<answer>incluso</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sollen</text>
+					<answers>
+						<answer>deber</answer>
+						<answer>querer que</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>Spanien</text>
+					<answers>
+						<answer>España</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>spanisch</text>
+					<answers>
+						<answer>español</answer>
+						<answer>española</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>spät</text>
+					<answers>
+						<answer>tarde</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>später</text>
+					<answers>
+						<answer>después</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>spazieren gehen</text>
+					<answers>
+						<answer>ir a pasear</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>spielen</text>
+					<answers>
+						<answer>jugar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>spielen (Instrument)</text>
+					<answers>
+						<answer>tocar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sprechen</text>
+					<answers>
+						<answer>hablar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>spülen</text>
+					<answers>
+						<answer>fregar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>stark</text>
+					<answers>
+						<answer>fuerte</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>stattfinden</text>
+					<answers>
+						<answer>tener lugar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>stehen</text>
+					<answers>
+						<answer>estar de pie</answer>
+						<answer>estar derecho</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>steigen</text>
+					<answers>
+						<answer>subir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>stellen</text>
+					<answers>
+						<answer>poner</answer>
+						<answer>colocar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sterben</text>
+					<answers>
+						<answer>morir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>stimmen</text>
+					<answers>
+						<answer>ser correcto</answer>
+						<answer>ser verdad</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>stören</text>
+					<answers>
+						<answer>estorbar</answer>
+						<answer>molestar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>studieren</text>
+					<answers>
+						<answer>estudiar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>suchen</text>
+					<answers>
+						<answer>buscar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>sympathisch</text>
+					<answers>
+						<answer>simpático</answer>
+						<answer>simpática</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>täglich</text>
+					<answers>
+						<answer>cada día</answer>
+						<answer>todos los días</answer>
+						<answer>diariamente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>tanzen</text>
+					<answers>
+						<answer>bailar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>tauschen</text>
+					<answers>
+						<answer>cambiar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>tausend</text>
+					<answers>
+						<answer>mil</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>telefonieren</text>
+					<answers>
+						<answer>hablar por teléfono</answer>
+						<answer>llamar por teléfono</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>teuer</text>
+					<answers>
+						<answer>caro</answer>
+						<answer>cara</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>tragen</text>
+					<answers>
+						<answer>llevar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>traurig</text>
+					<answers>
+						<answer>triste</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>treffen</text>
+					<answers>
+						<answer>encontrarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>trinken</text>
+					<answers>
+						<answer>tomar</answer>
+						<answer>beber</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>trocken</text>
+					<answers>
+						<answer>seco</answer>
+						<answer>seca</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>tun</text>
+					<answers>
+						<answer>hacer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>üben</text>
+					<answers>
+						<answer>practicar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>über</text>
+					<answers>
+						<answer>sobre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>überall</text>
+					<answers>
+						<answer>por todas partes</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>überlegen</text>
+					<answers>
+						<answer>pensar</answer>
+						<answer>reflexionar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>übernachten</text>
+					<answers>
+						<answer>pernoctar</answer>
+						<answer>pasar la noche</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>üblich</text>
+					<answers>
+						<answer>usual</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>übrigens</text>
+					<answers>
+						<answer>por cierto</answer>
+						<answer>dicho sea de paso</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>umziehen</text>
+					<answers>
+						<answer>mudarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ungefähr</text>
+					<answers>
+						<answer>sobre</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>unmöglich</text>
+					<answers>
+						<answer>imposible</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>unpünktlich</text>
+					<answers>
+						<answer>impuntual</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>unten</text>
+					<answers>
+						<answer>abajo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>verbieten</text>
+					<answers>
+						<answer>prohibir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>verdienen</text>
+					<answers>
+						<answer>ganar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vergessen</text>
+					<answers>
+						<answer>olvidar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vergleichen</text>
+					<answers>
+						<answer>comparar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>verkaufen</text>
+					<answers>
+						<answer>vender</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>verlangen</text>
+					<answers>
+						<answer>pedir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>verlassen</text>
+					<answers>
+						<answer>abandonar</answer>
+						<answer>salir de</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>verlieren</text>
+					<answers>
+						<answer>perder</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>verpassen</text>
+					<answers>
+						<answer>perder</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>verschieden</text>
+					<answers>
+						<answer>diferente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>verstehen</text>
+					<answers>
+						<answer>entender</answer>
+						<answer>comprender</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>versuchen</text>
+					<answers>
+						<answer>intentar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>verwenden</text>
+					<answers>
+						<answer>usar</answer>
+						<answer>utilizar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vielleicht</text>
+					<answers>
+						<answer>quizás</answer>
+						<answer>tal vez</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vier</text>
+					<answers>
+						<answer>cuatro</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vierzehn</text>
+					<answers>
+						<answer>catorce</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vierzig</text>
+					<answers>
+						<answer>cuarenta</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>völlig</text>
+					<answers>
+						<answer>completamente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vor</text>
+					<answers>
+						<answer>delante de</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vor allem</text>
+					<answers>
+						<answer>sobre todo</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vorbeikommen</text>
+					<answers>
+						<answer>pasar</answer>
+						<answer>poder pasar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vorbereiten</text>
+					<answers>
+						<answer>preparar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vorhaben</text>
+					<answers>
+						<answer>tener la intención</answer>
+						<answer>pensar hacer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vorher</text>
+					<answers>
+						<answer>antes</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vormittags</text>
+					<answers>
+						<answer>por la mañana</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vorwiegend</text>
+					<answers>
+						<answer>principalmente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>vorziehen</text>
+					<answers>
+						<answer>preferir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wachsen</text>
+					<answers>
+						<answer>crecer</answer>
+						<answer>aumentar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wählen</text>
+					<answers>
+						<answer>votar</answer>
+						<answer>elegir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wandern</text>
+					<answers>
+						<answer>caminar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wann?</text>
+					<answers>
+						<answer>¿cuándo?</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>warm</text>
+					<answers>
+						<answer>caliente</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>warten</text>
+					<answers>
+						<answer>esperar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>was?</text>
+					<answers>
+						<answer>¿qué?</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>waschen</text>
+					<answers>
+						<answer>lavar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wechseln</text>
+					<answers>
+						<answer>cambiar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wecken</text>
+					<answers>
+						<answer>despertar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wegfahren</text>
+					<answers>
+						<answer>partir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>weggehen</text>
+					<answers>
+						<answer>salir</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wehtun</text>
+					<answers>
+						<answer>doler</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>weil</text>
+					<answers>
+						<answer>porque</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>weinen</text>
+					<answers>
+						<answer>llorar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>weiß</text>
+					<answers>
+						<answer>blanco</answer>
+						<answer>blanca</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wenig</text>
+					<answers>
+						<answer>poco</answer>
+						<answer>poca</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wer?</text>
+					<answers>
+						<answer>¿quién?</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>werden</text>
+					<answers>
+						<answer>llegar a ser</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wieder</text>
+					<answers>
+						<answer>otra vez</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wirklich</text>
+					<answers>
+						<answer>de verdad</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wissen</text>
+					<answers>
+						<answer>saber</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wo</text>
+					<answers>
+						<answer>donde</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wohnen</text>
+					<answers>
+						<answer>vivir</answer>
+						<answer>habitar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>wollen</text>
+					<answers>
+						<answer>querer</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zahlen</text>
+					<answers>
+						<answer>pagar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zehn</text>
+					<answers>
+						<answer>diez</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zeichnen</text>
+					<answers>
+						<answer>dibujar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zeigen</text>
+					<answers>
+						<answer>mostrar</answer>
+						<answer>enseñar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ziehen</text>
+					<answers>
+						<answer>tirar</answer>
+						<answer>irse a vivir con</answer>
+						<answer>mudarse</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ziemlich</text>
+					<answers>
+						<answer>bastante</answer>
+						<answer>casi</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>ziemlich viel</text>
+					<answers>
+						<answer>bastante</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zu Abend essen</text>
+					<answers>
+						<answer>cenar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zuerst</text>
+					<answers>
+						<answer>primero</answer>
+						<answer>al principio</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zuhören</text>
+					<answers>
+						<answer>escuchar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zuknöpfen</text>
+					<answers>
+						<answer>abrochar</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zurückgeben</text>
+					<answers>
+						<answer>devolver</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zusammen</text>
+					<answers>
+						<answer>juntos</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zusammengehören</text>
+					<answers>
+						<answer>hacer juego</answer>
+						<answer>hacer pareja</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zwanzig</text>
+					<answers>
+						<answer>veinte</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zwei</text>
+					<answers>
+						<answer>dos</answer>
+					</answers>
+				</item>
+
+				<item>
+					<text>zwölf</text>
+					<answers>
+						<answer>doce</answer>
+					</answers>
+				</item>
+
+			</items>
+		</lesson>
+	</lessons>
+</brain>

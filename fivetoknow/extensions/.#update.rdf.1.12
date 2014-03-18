@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<RDF:RDF xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+  <!-- This Description resource includes all the update and compatibility information for
+       a single add-on with the id foobar@developer.mozilla.org. You can list multiple
+       add-ons information in the same RDF file. -->
+<RDF:Description about="urn:mozilla:extension:notonto@notonto.com">
+    <em:updates>
+      <RDF:Seq>
+
+        <!-- Each li is a different version of the same add-on -->
+        <RDF:li>
+          <RDF:Description>
+            <em:version>0.8</em:version> <!-- This is the version number of the add-on -->
+            <!-- One targetApplication for each application the add-on is compatible with -->
+            <em:targetApplication>
+              <RDF:Description>
+		        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->
+                <em:minVersion>1.5</em:minVersion>
+                <em:maxVersion>3.0.0.*</em:maxVersion>
+
+                <!-- This is where this version of the add-on will be downloaded from -->
+                <em:updateLink>https://www.notonto.de/notonto.0.8.xpi</em:updateLink>
+
+                <!-- A page describing what is new in this updated version -->
+                <!-- em:updateInfoURL>http://www.mysite.com/updateinfo2.2.xhtml</em:updateInfoURL -->
+              </RDF:Description>
+            </em:targetApplication>
+          </RDF:Description>
+        </RDF:li>
+
+        <!-- Each li is a different version of the same add-on -->
+        <RDF:li>
+          <RDF:Description>
+            <em:version>0.8.1</em:version> <!-- This is the version number of the add-on -->
+            <!-- One targetApplication for each application the add-on is compatible with -->
+            <em:targetApplication>
+              <RDF:Description>
+		        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->
+                <em:minVersion>1.5</em:minVersion>
+                <em:maxVersion>3.0.*</em:maxVersion>
+
+                <!-- This is where this version of the add-on will be downloaded from -->
+                <em:updateLink>https://www.notonto.de/notonto.0.8.1.xpi</em:updateLink>
+
+                <!-- A page describing what is new in this updated version -->
+                <!-- em:updateInfoURL>http://www.mysite.com/updateinfo2.2.xhtml</em:updateInfoURL -->
+              </RDF:Description>
+            </em:targetApplication>
+          </RDF:Description>
+        </RDF:li>
+
+        <!-- Each li is a different version of the same add-on -->
+        <RDF:li>
+          <RDF:Description>
+            <em:version>0.8.5</em:version> <!-- This is the version number of the add-on -->
+            <!-- One targetApplication for each application the add-on is compatible with -->
+            <em:targetApplication>
+              <RDF:Description>
+		        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->
+                <em:minVersion>1.5</em:minVersion>
+                <em:maxVersion>3.0.*</em:maxVersion>
+
+                <!-- This is where this version of the add-on will be downloaded from -->
+                <em:updateLink>https://www.notonto.de/notonto.0.8.5.xpi</em:updateLink>
+
+                <!-- A page describing what is new in this updated version -->
+                <!-- em:updateInfoURL>http://www.mysite.com/updateinfo2.2.xhtml</em:updateInfoURL -->
+              </RDF:Description>
+            </em:targetApplication>
+          </RDF:Description>
+        </RDF:li>
+
+        <!-- Each li is a different version of the same add-on -->
+        <RDF:li>
+          <RDF:Description>
+            <em:version>0.9</em:version> <!-- This is the version number of the add-on -->
+            <!-- One targetApplication for each application the add-on is compatible with -->
+            <em:targetApplication>
+              <RDF:Description>
+		        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->
+                <em:minVersion>1.5</em:minVersion>
+                <em:maxVersion>3.1.*</em:maxVersion>
+
+                <!-- This is where this version of the add-on will be downloaded from -->
+                <em:updateLink>https://www.notonto.de/notonto.0.9.xpi</em:updateLink>
+
+                <!-- A page describing what is new in this updated version -->
+                <!-- em:updateInfoURL>http://www.mysite.com/updateinfo2.2.xhtml</em:updateInfoURL -->
+              </RDF:Description>
+            </em:targetApplication>
+          </RDF:Description>
+        </RDF:li>
+
+        <!-- Each li is a different version of the same add-on -->
+        <RDF:li>
+          <RDF:Description>
+            <em:version>0.95</em:version> <!-- This is the version number of the add-on -->
+            <!-- One targetApplication for each application the add-on is compatible with -->
+            <em:targetApplication>
+              <RDF:Description>
+		        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->
+                <em:minVersion>1.5</em:minVersion>
+                <em:maxVersion>3.1.*</em:maxVersion>
+
+                <!-- This is where this version of the add-on will be downloaded from -->
+                <em:updateLink>https://www.notonto.de/notonto.0.9.5.xpi</em:updateLink>
+
+                <!-- A page describing what is new in this updated version -->
+                <!-- em:updateInfoURL>http://www.mysite.com/updateinfo2.2.xhtml</em:updateInfoURL -->
+              </RDF:Description>
+            </em:targetApplication>
+          </RDF:Description>
+        </RDF:li>
+
+        <!-- Each li is a different version of the same add-on -->
+        <RDF:li>
+          <RDF:Description>
+            <em:version>1.0</em:version> <!-- This is the version number of the add-on -->
+            <!-- One targetApplication for each application the add-on is compatible with -->
+            <em:targetApplication>
+              <RDF:Description>
+		        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->
+                <em:minVersion>2.0</em:minVersion>
+                <em:maxVersion>3.6.*</em:maxVersion>
+
+                <!-- This is where this version of the add-on will be downloaded from -->
+                <em:updateLink>https://www.notonto.de/notonto.1.0.0.xpi</em:updateLink>
+
+                <!-- A page describing what is new in this updated version -->
+                <!-- em:updateInfoURL>http://www.mysite.com/updateinfo2.2.xhtml</em:updateInfoURL -->
+              </RDF:Description>
+            </em:targetApplication>
+          </RDF:Description>
+        </RDF:li>
+
+        <!-- Each li is a different version of the same add-on -->
+        <RDF:li>
+          <RDF:Description>
+            <em:version>1.0.1</em:version> <!-- This is the version number of the add-on -->
+            <!-- One targetApplication for each application the add-on is compatible with -->
+            <em:targetApplication>
+              <RDF:Description>
+		        <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id> <!-- firefox -->
+                <em:minVersion>2.0</em:minVersion>
+                <em:maxVersion>3.*</em:maxVersion>
+
+                <!-- This is where this version of the add-on will be downloaded from -->
+                <em:updateLink>https://www.notonto.de/notonto.1.0.1.xpi</em:updateLink>
+
+                <!-- A page describing what is new in this updated version -->
+                <!-- em:updateInfoURL>http://www.mysite.com/updateinfo2.2.xhtml</em:updateInfoURL -->
+              </RDF:Description>
+            </em:targetApplication>
+          </RDF:Description>
+        </RDF:li>
+
+      </RDF:Seq>
+    </em:updates>
+
+  </RDF:Description>
+</RDF:RDF>

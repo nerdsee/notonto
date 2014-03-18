@@ -1,0 +1,217 @@
+CHK214-DE
+214 Kangxi Radikale (Chinesisch - Deutsch)
+DE
+一	$$	yī	::	eins
+丨	$$	gǔn	::	der Stock
+丶	$$	zhǔ	::	der Punkt
+丿	$$	piě	::	der Teil
+乙	$$	yǐ	::	die Sichel
+亅	$$	jué	::	der Haken
+二	$$	èr	::	zwei
+亠	$$	tōu	::	der Deckel
+人	$$	rén	::	der Mensch
+儿	$$	ér	::	die Beine
+入	$$	rù	::	eintreten, betreten
+八	$$	bā	::	acht
+冂	$$	jiōng	::	umfassen
+冖	$$	mī	::	bedecken
+冫	$$	bīng	::	das Eis
+几	$$	jī	::	der Tisch
+凵	$$	qǔ	::	der Behälter
+刀	$$	dāo	::	das Messer
+力	$$	lì	::	die Kraft, die Fähigkeit
+勹	$$	bāo	::	einwickeln, umarmen
+匕	$$	bǐ	::	der Löffel
+匚	$$	fāng	::	der Kasten
+匸	$$	xǐ	::	verstecken
+十	$$	shí	::	zehn
+卜	$$	bǔ	::	das Orakel
+卩	$$	jié	::	das Siegel
+厂	$$	hàn	::	der Abhang
+厶	$$	sī	::	privat
+又	$$	yòu	::	wieder
+口	$$	kǒu	::	der Mund
+囗	$$	wéi	::	die Begrenzung
+土	$$	tǔ	::	die Erde, der Boden
+士	$$	shì	::	der Gelehrte
+夂	$$	zhǐ	::	schlendern
+夊	$$	suī	::	überholen
+夕	$$	xī	::	der Abend, der Sonnenuntergang
+大	$$	dà	::	groß
+女	$$	nǚ	::	die Frau
+子	$$	zǐ	::	das Kind
+宀	$$	mián	::	das Dach
+寸	$$	cùn	::	der Daumen, das Zoll
+小	$$	xiǎo	::	klein, geringfügig, unbedeutend
+尢	$$	wāng	::	lahm
+尸	$$	shī	::	die Leiche
+屮	$$	chè	::	der Spross, der Keim
+山	$$	shān	::	der Berg, das Gebirge
+巛	$$	chuān	::	der Fluss
+工	$$	gōng	::	die Arbeit
+己	$$	jǐ	::	selbst, persönlich
+巾	$$	jīn	::	das Tuch, der Schal
+干	$$	gān	::	trocken
+幺	$$	yāo	::	jung, klein
+广	$$	guǎng	::	das Schrägdach
+廴	$$	yín	::	bewegen, marschieren
+廾	$$	gǒng	::	zwei Hände
+弋	$$	yì	::	der Pfeil
+弓	$$	gōng	::	der Bogen
+彐	$$	jì	::	die Schweineschnauze
+彡	$$	xū	::	der Bart, die Haare
+彳	$$	chì	::	der Schritt
+心	$$	xīn	::	das Herz, das Gefühl
+戈	$$	gē	::	die Hellebarde
+戶	$$	hù	::	die Tür
+手	$$	shǒu	::	die Hand, in der Hand halten
+支	$$	zhī	::	der Zweig, die Abzweigung
+攴	$$	pū	::	schlagen
+文	$$	wén	::	die Schrift, die Sprache
+斗	$$	dǒu	::	die Kelle
+斤	$$	jīn	::	die Axt
+方	$$	fāng	::	das Viereck
+无	$$	wú	::	nicht, keiner, ohne
+日	$$	rì	::	die Sonne, der Tag
+曰	$$	yuē	::	sagen, sprechen
+月	$$	yuè	::	der Mond, der Monat
+木	$$	mù	::	der Baum, das Holz
+欠	$$	qiàn	::	mangeln, gähnen
+止	$$	zhǐ	::	anhalten, aufhören, stoppen
+歹	$$	dǎi	::	der Tod
+殳	$$	shū	::	die Waffe
+毋	$$	wú	::	nicht
+比	$$	bǐ	::	vergleichen, sich messen mit
+毛	$$	máo	::	das Haar, die Borste
+氏	$$	shì	::	die Familie, die Sippe
+气	$$	qì	::	der Dampf
+水	$$	shuǐ	::	das Wasser, das Gewässer
+火	$$	huǒ	::	das Feuer
+爪	$$	zhǎo	::	die Klaue, die Kralle
+父	$$	fù	::	der Vater
+爻	$$	yáo	::	mischen, durchkreuzen
+爿	$$	qiáng	::	gespaltenes Holz 
+片	$$	piàn	::	die Scheibe
+牙	$$	yá	::	der Eckzahn
+牛	$$	niú	::	das Rind
+犬	$$	quǎn	::	der Hund
+玄	$$	xuán	::	dunkel
+玉	$$	yù (wáng)	::	die Jade
+瓜	$$	guā	::	die Melone, der Kürbis, die Gurke
+瓦	$$	wǎ	::	der Ziegel
+甘	$$	gān	::	süß, wohlschmeckend
+生	$$	shēng	::	leben, geboren werden
+用	$$	yòng	::	gebrauchen, benutzen, nötig haben
+田	$$	tián	::	das Feld, das Reisfeld
+疋	$$	pǐ	::	der Stoffballen
+疒	$$	chuáng	::	die Krankheit
+癶	$$	bō	::	aufsteigen
+白	$$	bái	::	weiß
+皮	$$	pí	::	die Haut
+皿	$$	mǐn	::	die Schüssel, der Teller
+目	$$	mù	::	das Auge
+矛	$$	máo	::	der Speer
+矢	$$	shǐ	::	der Pfeil
+石	$$	shí	::	der Stein
+示	$$	shì	::	zeigen, Vorfahren, verehren
+禸	$$	róu	::	der Fußstapfen, die Spur
+禾	$$	hé	::	das Getreide
+穴	$$	xué	::	die Höhle
+立	$$	lì	::	stehen, aufrichten
+竹	$$	zhú	::	der Bambus
+米	$$	mǐ	::	der Reis
+糸	$$	si	::	die Seide
+缶	$$	fǒu	::	der Krug, die Amphore
+网	$$	wǎng	::	das Netz
+羊	$$	yáng	::	das Schaf, die Ziege
+羽	$$	yǔ	::	die Vogelfeder
+老	$$	lǎo	::	alt
+而	$$	ér	::	und, aber
+耒	$$	lěi	::	der Pflug, die Egge
+耳	$$	ěr	::	das Ohr
+聿	$$	yù	::	der Schreibpinsel
+肉	$$	ròu	::	das Fleisch
+臣	$$	chén	::	der Diener, der Minister
+自	$$	zì	::	selbst
+至	$$	zhì	::	ankommen, erreichen
+臼	$$	jiù	::	der Mörser
+舌	$$	shé	::	die Zunge
+舛	$$	chuǎn	::	gegensätzlich, irren
+舟	$$	zhōu	::	das Schiff, das Boot
+艮	$$	gēn	::	die Grenze
+色	$$	sè	::	die Farbe
+艸	$$	cǎo	::	das Gras
+虍	$$	hǔ	::	der Tiger
+虫	$$	chóng	::	das Insekt
+血	$$	xuè	::	das Blut
+行	$$	xíng	::	gehen, machen, tun
+衣	$$	yī	::	die Kleidung
+西	$$	xī	::	Westen
+见	$$	jiàn	::	sehen
+角	$$	jiǎo	::	das Horn
+讠	$$	yán	::	sprechen, das Wort
+谷	$$	gǔ	::	das Tal, die Schlucht
+豆	$$	dòu	::	die Bohne
+豕	$$	shǐ	::	das Schwein
+豸	$$	zhì	::	der Dachs, die Katze
+贝	$$	bèi	::	das Muschelgeld, die Muschel
+赤	$$	chì	::	rot
+走	$$	zǒu	::	laufen, fortgehen
+足	$$	zú	::	der Fuß
+身	$$	shēn	::	der Körper, der Rumpf
+车	$$	chē	::	der Wagen, das Rad, das Fahrzeug
+辛	$$	xīn	::	bitter, scharf
+辰	$$	chén	::	der Morgen
+辵	$$	chuò	::	vorwärts gehen
+邑	$$	yì	::	die Stadt
+酉	$$	yǒu	::	der Wein, der Alkohol
+釆	$$	biàn	::	trennen, unterscheiden, auswählen
+里	$$	lǐ	::	das Dorf
+钅	$$	jīn	::	das Metall, das Gold
+长	$$	cháng	::	lang, älter
+门	$$	mén	::	das Tor, die Tür
+阜	$$	fù	::	der Hügel, der Damm
+隶	$$	lì	::	fangen, untergeordnet sein
+隹	$$	zhuī	::	der kleine Vogel
+雨	$$	yǔ	::	der Regen
+青	$$	qīng	::	blau, jung
+非	$$	fēi	::	falsch, der Fehler
+面	$$	miàn	::	das Gesicht
+革	$$	gé	::	ungegerbtes Leder
+韦	$$	wéi	::	gegerbtes Leder
+韭	$$	jiǔ	::	der Lauch
+音	$$	yīn	::	der Laut, der Ton
+页	$$	yè	::	der Kopf
+风	$$	fēng	::	der Wind
+飞	$$	fēi	::	fliegen
+饣	$$	shí	::	das Essen, das Futter
+首	$$	shǒu	::	der Kopf, das Haupt
+香	$$	xiāng	::	der Duft
+马	$$	mǎ	::	das Pferd
+骨	$$	gǔ	::	der Knochen
+高	$$	gāo	::	hoch
+髟	$$	biāo	::	die langen Haare
+鬥	$$	dòu	::	kämpfen
+鬯	$$	chàng	::	die duftenden Kräuter
+鬲	$$	lì	::	der Kessel
+鬼	$$	guǐ	::	das Gespenst, der Dämon
+鱼	$$	yú	::	der Fisch
+鸟	$$	niǎo	::	der Vogel
+卤	$$	lǔ	::	das Salz, die Lauge
+鹿	$$	lù	::	der Hirsch, das Reh
+麦	$$	mài	::	der Weizen, die Gerste
+麻	$$	má	::	der Hanf, der Flachs, die Jute
+黃	$$	huáng	::	gelb
+黍	$$	shǔ	::	die Hirse
+黑	$$	hēi	::	schwarz
+黹	$$	zhǐ	::	sticken, die Näharbeit
+黾	$$	mǐn	::	der Frosch, die Amphibie
+鼎	$$	dǐng	::	der Dreifuß
+鼓	$$	gǔ	::	die Trommel
+鼠	$$	shǔ	::	die Ratte, die Maus
+鼻	$$	bí	::	die Nase
+齐	$$	qí	::	gleich, ordnen, gleichmäßig
+齒	$$	chǐ	::	der Backenzahn, der Zahn
+龙	$$	lóng	::	der Drache
+龟	$$	guī	::	die Schildkröte
+龠	$$	yuè	::	die Flöte

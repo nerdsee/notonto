@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<brain>
+	<items>
+		<item id="1" lessonID="1" answer="2">
+			<text>der Ball</text>
+		</item>
+		<item id="2" lessonID="2" answer="1">
+			<text>la pélota</text>
+		</item>
+		<item id="3" lessonID="1" answer="4">
+			<text>das Mädchen</text>
+		</item>
+		<item id="4" lessonID="2" answer="3">
+			<text>la niña</text>
+		</item>
+		<item id="5" lessonID="1" answer="6">
+			<text>hübsch</text>
+		</item>
+		<item id="6" lessonID="2" answer="5">
+			<text>bonito, -a</text>
+			<aliases>
+				<alias>bonito</alias>
+				<alias>bonita</alias>
+			</aliases>
+		</item>
+	</items>
+	<lessons>
+		<lesson id="1">
+			<title>DE-EN</title>
+		</lesson>
+		<lesson id="2">
+			<title>EN-DE</title>
+		</lesson>
+	</lessons>
+	<users>
+		<user id="1">
+			<name>jan</name>
+		</user>
+		<user id="2">
+			<name>steffi</name>
+		</user>
+	</users>
+</brain>

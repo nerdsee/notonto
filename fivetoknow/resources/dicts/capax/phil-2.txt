@@ -1,0 +1,25 @@
+CAPAX-TEST
+Capax Text Lesson
+DE
+the memorial$$-$$1$$0::das Mahmal
+underground$$-$$1$$0::unterirdirsch
+the pillar$$-$$1$$0::der Pfeiler
+uneven$$-$$1$$0::unregelmässig
+during$$-$$1$$0::während
+while$$-$$1$$0::während
+the inhabitant$$-$$1$$0::Einwohner
+the lid$$-$$1$$0::der Deckel
+to pour$$-$$1$$0::giessen
+to depict$$-$$1$$0::abbilden
+the driving licence$$-$$1$$0::der Führerschein
+a no-go area$$-$$1$$0::das Sperrgebiet
+each$$-$$1$$0::jeweils
+by far$$-$$1$$0::mit Abstand
+the sight (monument)$$-$$1$$0::die Sehenswürdigkeit
+the coin$$-$$1$$0::Die Münze
+situated$$-$$1$$0::steht
+May/Can I get through?$$-$$1$$0::Darf ich bitte durch?
+Can you help me?$$-$$1$$0::Können Sie mir helfen?
+Can I help you?$$-$$1$$0::Kann ich Ihnen helfen?
+the road sign$$-$$1$$0::das Verkehrsschild
+to overtake$$-$$1$$0::überholen

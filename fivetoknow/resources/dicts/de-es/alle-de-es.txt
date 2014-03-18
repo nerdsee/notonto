@@ -1,0 +1,822 @@
+(zu sich) nehmen :: tomarse
+Abendbrot :: la cena 
+abends :: por la tarde, por la noche
+abfahren :: salir
+abholen :: recoger
+abstellen :: apagar, parar
+abzüglich :: menos
+acht :: ocho
+achtzehn :: dieciocho
+achtzig :: ochenta
+allein :: sólo, solamente
+alt :: viejo, vieja
+am liebsten :: lo que más (me gustaría)
+am Morgen :: por la mañana
+anblicken :: mirar
+andere, anderer, anderes :: otro, otra
+anders :: de otra manera
+anfangen :: empezar, comenzar
+anhören :: escuchar
+ankommen :: llegar
+anmutig :: elegante 
+anrufen :: llamar
+anschauen :: mirar
+ansehen :: mirar
+anstellen :: encender, poner en marcha
+antworten :: responder, contestar
+anziehen :: vestir
+arbeiten :: trabajar
+arm :: pobre
+auch :: también
+auf :: sobre
+auf einmal :: de repente
+auf Wiedersehen :: adiós
+aufhören :: terminar
+aufmachen :: abrir
+aufpassen :: tener cuidado
+aufräumen :: ordenar
+aufrufen :: llamar
+aufstehen :: levantarse
+aufwachen :: despertarse
+aufwärts gehen :: subir
+ausgehen :: salir
+ausgezeichnet :: excelente
+ausmachen :: apagar
+ausreichend :: bastante 
+aussehen :: parecer
+außerdem :: además, aparte
+außerhalb :: fuera
+aussteigen :: bajar
+ausziehen (Wohnung) :: mudarse, cambiarse de casa
+backen :: hacer al horno
+baden :: bañarse
+bald :: pronto
+bauen :: construir, edificar
+bedeuten :: significar, querer decir
+bedienen :: atender, servir
+beginnen :: comenzar
+begreifen :: comprender
+behalten :: conservar, guardar
+bekommen :: recibir, obtener
+beobachten :: observar
+beraten :: aconsejar, asesorar
+berichten :: informar, reportar, narrar
+berühren :: tocar
+beschreiben :: describir
+besichtigen :: visitar, examinar
+besonders :: especialmente, en particular
+besorgen :: proporcionar, conseguir, comprar
+bestehen (aus) :: constar (de)
+bestellen :: pedir, reservar
+bestimmt :: seguro, seguramente
+besuchen :: visitar, ir a ver
+betreten :: entrar
+bevorzugen :: preferir
+bezahlen :: pagar
+bieten :: ofrecer, presentar
+billig :: barato, barata 
+bitte :: por favor
+bitten :: pedir
+blau :: azul
+bleiben :: quedarse
+blond :: rubio, rubia
+bloß :: sólo, únicamente
+brauchen :: necesitar
+braun :: moreno, morena
+braunhaarig :: moreno, morena
+buchen :: reservar
+buchstabieren :: deletrear
+da :: allí
+daher :: por eso, de ahí
+damals :: en aquel tiempo, entonces
+danach :: después
+Danke. :: Gracias.
+dann :: luego, entonces
+darauf :: después
+das Abendessen :: la cena 
+das Abenteuer :: la aventura 
+das Alter :: la edad 
+das Apartment :: el apartamento 
+das Auto :: el coche 
+das Baby :: el bebé 
+das Bein :: la pierna 
+das Bett :: la cama 
+das Bier :: la cerveza 
+das Bild :: el cuadro 
+das Blatt :: la hoja 
+das Blut :: la sangre 
+das Brot :: el pan 
+das Buch :: el libro 
+das Dorf :: el pueblo 
+das Eis :: el helado 
+das Ende :: el final, el fin
+das England :: la Inglaterra 
+das Erfrischungsgetränk :: el refresco 
+das Essen :: la comida 
+das Examen :: el examen 
+das Fahrrad :: la bici, la bicicleta 
+das Fernsehen :: la televisión 
+das Feuer :: el fuego 
+das Flugzeug :: el avión 
+das Foto :: la foto 
+das Frühstück :: el desayuno 
+das Geld :: el dinero 
+das Gemälde :: el cuadro 
+das Geschäft :: la tienda 
+das Geschenk :: el regalo 
+das Gesicht :: la cara 
+das Haar :: el pelo
+das Haus :: la casa 
+das Heft :: el cuaderno 
+das Hemd :: la camisa 
+das Holz :: la madera 
+das Hotel :: el hotel 
+das Insekt :: el insecto 
+das Jackett :: la chaqueta 
+das Jahr :: el año 
+das Kino :: el cine
+das Kleid :: el vestido 
+das Krankenhaus :: el hospital 
+das Land :: el país 
+das Leben :: la vida 
+das Lied :: la canción 
+das Mädchen :: la chica, la niña 
+das Meer :: el mar 
+das Messer :: el cuchillo 
+das Obdach :: el abrigo
+das Ohr :: la oreja 
+das Papier :: el papel 
+das Pferd :: el caballo 
+das Radio :: la radio 
+das Rathaus :: el ayuntamiento 
+das Restaurant :: el restaurante 
+das Rind :: la vaca 
+das Salz :: la sal 
+das Schaf :: la oveja 
+das Schiff :: el barco 
+das Schwein :: el cerdo 
+das Schwimmbad :: la piscina
+das Spiel :: el juego 
+das Stockwerk :: el piso 
+das Stück :: el trozo 
+das Telefon :: el teléfono 
+das Tennis :: el tenis 
+das Theater :: el teatro 
+das Tier :: el animal 
+das T-Shirt :: la camiseta 
+das Unterhemd :: la camiseta 
+das Viertel :: el barrio 
+das Volk :: el pueblo 
+das Wasser :: la agua 
+das Wetter :: el tiempo 
+das Wort :: la palabra 
+das Zentrum :: el centro 
+das Zimmer :: la habitación 
+dauern :: durar, tardar
+der Abend :: la noche 
+der Affe :: el mono 
+der Apfel :: la manzana 
+der April :: el abril 
+der Arm :: el brazo 
+der Arzt :: el médico 
+der Aufzug :: el ascensor 
+der August :: el agosto 
+der Ausflug :: la excursión 
+der Ausgang :: la salida 
+der Backofen :: el horno 
+der Bahnhof :: la estación 
+der Balkon :: el balcón 
+der Baum :: el árbol 
+der Berg :: el monte 
+der Brief :: la carta 
+der Bruder :: el hermano 
+der Chef :: el jefe 
+der Computer :: el ordenador 
+der Cousin :: el primo 
+der Dezember :: el diciembre 
+der Dialog :: el diálogo
+der Dienstag :: el martes 
+der Doktor :: el doctor 
+der Donnerstag :: el jueves 
+der Durst :: la sed 
+der Elefant :: el elefante 
+der Engländer :: el inglés
+der Erfolg :: el éxito 
+der Februar :: el febrero 
+der Fehler :: la falta 
+der Feiertag :: la fiesta 
+der Film :: la película 
+der Fisch :: el pez 
+der Fisch [Essen] :: el pescado 
+der Fluss :: el río 
+der Franzose :: el francés
+der Freitag :: el viernes 
+der Freund :: el amigo 
+der Frühling :: la primavera 
+der Fuß :: el pie 
+der Fußball :: el fútbol 
+der Garten :: el jardín 
+der Gärtner :: el jardinero 
+der Geburtstag :: el cumpleaños 
+der Hafen :: el puerto
+der Herbst :: el otoño 
+der Herr :: el señor 
+der Honig :: la miel 
+der Hubschrauber :: el helicóptero 
+der Hund :: el perro 
+der Hunger :: el hambre
+der Idiot :: el idiota 
+der Januar :: el enero 
+der Juli :: el julio 
+der Junge :: el niño, el chico 
+der Juni :: el junio 
+der Kaffee :: el café 
+der Kilometer :: el kilometro 
+der Krieg :: la guerra 
+der Kugelschreiber :: el bolígrafo 
+der Kuss :: el beso 
+der Mai :: el mayo 
+der Mann :: el señor 
+der Mantel :: el abrigo
+der Markt :: el mercado 
+der März :: el marzo 
+der Mittelpunkt :: el centro 
+der Mittwoch :: el miércoles 
+der Moment :: el momento 
+der Monat :: el mes 
+der Mond :: la luna 
+der Montag :: el lunes 
+der Morgen :: la mañana 
+der Mund :: la boca 
+der Nachname :: el apellido 
+der Name :: el nombre 
+der November :: el noviembre 
+der Ofen :: el horno 
+der Oktober :: el octubre 
+der Onkel :: el tío 
+der Ort :: el lugar 
+der Park :: el parque
+der Parkplatz :: el aparcamiento 
+der Preis :: el precio
+der Pullover :: el jersey
+der Raum :: la sala 
+der Regen :: la lluvia 
+der Reis :: el arroz 
+der Rock :: la falda 
+der Roman :: la novela 
+der Rücken :: la espalda 
+der Saal :: la sala 
+der Salat :: la lechuga 
+der Samstag :: el sábado 
+der Sänger :: el cantante 
+der Schinken :: el jamón 
+der Schlüssel :: la llave 
+der Schmerz :: el dolor 
+der Schmetterling :: la mariposa 
+der Schüler :: el alumno 
+der See :: el lago
+der Seehund :: la foca 
+der September :: el septiembre 
+der Sessel :: el sillón 
+der Sitz :: el asiento 
+der Sohn :: el hijo 
+der Sommer :: el verano 
+der Sonnabend :: el sábado 
+der Sonntag :: el domingo 
+der Spanier :: el español 
+der Spiegel :: el espejo 
+der Spinat :: las espinacas
+der Stadtteil :: el barrio 
+der Strand :: la playa 
+der Student :: el estudiante 
+der Stuhl :: la silla 
+der Supermarkt :: el supermercado
+der Tag :: el día 
+der Teller :: el plato 
+der Tiger :: el tigre 
+der Tisch :: la mesa 
+der Topf :: la marmita 
+der Unfall :: el accidente 
+der Urlaub :: las vacaciones
+der Vater :: el padre 
+der Vogel :: el pájaro 
+der Wecker :: el despertador 
+der Weg :: el camino 
+der Winter :: el invierno 
+der Wolf :: el lobo 
+der Zahn :: el diente
+der Zucker :: el azúcar 
+deutsch :: alemán, alemana 
+Deutschland :: Alemania 
+die Achtung :: la atención 
+die Adresse :: la dirección 
+die Allee :: la avenida 
+die Angst :: el miedo 
+die Apotheke :: la farmacia 
+die Ärztin :: la médica 
+die Bäckerei :: la panadería 
+die Banane :: el plátano 
+die Bank :: el banco 
+die Bibliothek :: la biblioteca 
+die Bildung :: la cultura 
+die Blume :: la flor 
+die Bluse :: la blusa 
+die Brille :: las gafas
+die Bücherei :: la biblioteca 
+die Cousine :: la prima 
+die Dame :: la señora 
+die Dusche :: la ducha 
+die Ehefrau :: la esposa 
+die Einladung :: la invitación 
+die Eltern :: los padres 
+die Engländerin :: la inglesa
+die Etage :: el piso 
+die Fabrik :: la fábrica 
+die Fahrkarte :: el billete 
+die Familie :: la familia 
+die Farbe :: el color 
+die Ferien :: las vacaciones
+die Flasche :: la botella 
+die Frage :: la pregunta 
+die Französin :: la francesa
+die Frau :: la mujer 
+die Freundin :: la amiga 
+die Garage :: el garaje 
+die Geschichte (Erzählung) :: el cuento 
+die Geschichte :: la historia 
+die Grenze :: la frontera 
+die Hand :: la mano 
+die Hauptstadt :: la capital 
+die Haut :: la piel 
+die Hitze :: el calor 
+die Hoffnung :: la esperanza 
+die Information :: la información 
+die Jacke :: la chaqueta 
+die Kamille :: la manzanilla 
+die Karte :: el mapa 
+die Kartoffel :: la patata 
+die Kasse :: la caja 
+die Katze :: el gato 
+die Kirche :: la iglesia 
+die Kiste :: la caja 
+die Klasse :: la clase 
+die Kleidung :: la ropa 
+die Kreide :: la tiza
+die Küche :: la cocina 
+die Kuh :: la vaca 
+die Kultur :: la cultura 
+die Lampe :: la lámpara
+die Liebe :: el amor 
+die Lippe :: el labio 
+die Meeresfrüchte :: los mariscos
+die Milch :: la leche 
+die Minute :: el minuto 
+die Möwe :: la gaviota 
+die Musik :: la música 
+die Mutter :: la madre 
+die Nachricht :: el aviso 
+die Nase :: la nariz
+die Oper :: la ópera 
+die Orange :: la naranja 
+die Prüfung :: el examen 
+die Quelle :: la fuente 
+die Rechnung :: la cuenta 
+die Region :: la región 
+die Sache :: la cosa 
+die Sängerin :: la cantante 
+die Sau :: la cerda 
+die Schallplatte :: el disco 
+die Scheiße [vulg.] :: la mierda 
+die Schokolade :: el chocolate 
+die Schule :: la escuela 
+die Schülerin :: la alumna 
+die Schwester :: la hermana 
+die Seite :: el lado 
+die Seite (Buch) :: la página 
+die Socke :: el calcetín 
+die Sonne [Astronomie] :: el sol 
+die Spanierin :: la española 
+die Sprache :: la lengua 
+die Stadt :: la ciudad 
+die Station :: la estación 
+die Straße :: la calle 
+die Studentin :: la estudiante 
+die Stunde :: la hora 
+die Suppe :: la sopa 
+die Tafel :: la pizarra 
+die Tante :: la tía 
+die Tochter :: la hija 
+die Tomate :: el tomate 
+die Träne :: la lágrima 
+die Treppe :: la escalera
+die Tür :: la puerta 
+die U-Bahn :: el metro 
+die Übung :: el ejercicio 
+die Uhr :: el reloj 
+die Wärme :: el calor 
+die Welt :: el mundo 
+die Woche :: la semana 
+die Wohnung :: el apartamento 
+die Zahl :: el número 
+die Zeichnung :: el dibujo 
+die Zeit :: el tiempo 
+die Zeitung :: el periódico 
+diesmal :: esta vez
+diskutieren (über) :: discutir (de/sobre)
+doch :: sí
+doof :: tonto, tonta 
+doppelt :: doble
+dort :: allí 
+draußen :: fuera, al aire libre
+drei :: tres
+dreißig :: treinta
+dreizehn :: trece
+dringend :: urgente
+dringlich :: urgente
+dumm :: tonto, tonta 
+dunkelbraun :: moreno, morena
+dünn :: delgado, delgada 
+dürfen :: tener permiso, poder
+duschen :: ducharse
+ein bisschen :: algo
+ein wenig :: algo
+eindringen :: entrar
+einfach :: simplemente
+einkaufen :: comprar
+einladen :: invitar
+einpacken :: empaquetar, envolver
+eins :: un, uno
+einschalten :: encender, poner en marcha
+einschlafen :: dormirse
+einsteigen :: subir, entrar
+eintreffen :: llegar
+einzahlen :: pagar, ingresar
+einziehen (in) :: instalarse (en)
+elegant :: elegante 
+elf :: once
+endlich :: por fin, finalmente
+englisch :: inglés, inglesa 
+entscheiden :: decidir
+entschuldigen :: disculpar, perdonar
+erbitten :: pedir
+erfinden :: inventar
+erhoffen :: esperar
+erkältet sein :: tener un resfriado
+erkennen :: reconocer, distinguir
+erklären :: explicar
+erledigen :: hacer, resolver
+eröffnen :: abrir
+erst :: sólo, primero
+erwarten :: esperar
+erzählen :: contar, narrar
+essen :: comer
+etwa :: aproximadamente
+etwas :: algo
+exakt :: exacto, exacta
+existieren :: existir
+fahren :: salir, circular
+fallen :: caer
+fantastisch, wunderbar :: fantástico
+fast :: casi
+faulenzen :: holgazanear
+fehlen :: faltar, estar ausente
+feiern :: celebrar
+fein :: fino, fina
+fernsehen :: ver la televisión
+feucht :: húmedo, húmeda
+finden :: encontrar, dar con
+fliegen :: volar, ir en avión
+fließen :: fluir, correr
+fotografieren :: fotografiar
+fragen :: preguntar
+fragen (nach) :: preguntar (por)
+französisch :: francés, francesa 
+froh :: feliz 
+früh :: temprano, temprana
+frühstücken :: desayunar
+frühzeitig :: temprano, temprana
+führen :: llevar
+fünf :: cinco
+fünfzehn :: quince
+fünfzig :: cincuenta
+funktionieren :: funcionar
+ganz :: bastante, muy
+geben :: dar
+gebrauchen :: usar, utilizar
+gedrungen :: bajo, baja 
+gegen :: sobre
+gehen :: ir, andar
+gehören :: pertenecer (a)
+gelb :: amarillo, amarilla 
+genau :: exacto, exacta
+genug :: bastante, suficiente
+geöffnet :: abierto, abierta
+gerade :: ahora mismo, precisamente
+geradeaus :: recto, seguido
+gern (lieber, am liebsten) :: (hacer algo) con (mucho) gusto
+gestern :: ayer
+gesund :: sano, sana 
+Gesundheit! :: ¡Jesús!
+getrennt :: separado
+gewinnen :: ganar
+gießen :: regar
+glauben :: creer
+glücklich :: feliz 
+Gott :: Dios
+groß :: alto, alta 
+grün :: verde
+haben :: tener, haber
+hart :: fuerte
+hässlich :: feo, fea 
+häufig :: a menudo, con frecuencia
+heiraten :: casarse (con)
+heiß :: caliente 
+heißen :: llamarse
+helfen :: ayudar
+herausgehen :: salir
+herbringen, mitbringen :: traer
+herstellen :: producir, fabricar
+heute :: hoy
+hier :: aquí
+hinbringen, mitbringen :: llevar
+hineingehen :: entrar
+hinfallen :: caerse
+hinter :: detrás de
+hoch :: alto, alta 
+höchstens :: como mucho
+hoffen :: esperar
+holen :: traer, recoger
+horchen :: escuchar
+hören :: oír
+hübsch :: bonito 
+hundert :: cien / ciento
+immer :: siempre
+informieren :: informarse
+intelligent :: inteligente
+interessant :: interesante
+irgendwann :: algún día, en cualquier momento
+Italien :: Italia
+italienisch :: italiano, italiana 
+ja :: sí
+jemand :: alguien
+jetzt :: ahora, en este momento
+jung :: joven 
+kalt :: frío, fría
+kaputt :: roto, rota
+kaufen :: comprar
+kennen :: saber, conocer
+kennenlernen :: conocer
+klein :: pequeño, pequeña
+klingeln :: llamar, tocar al timbre
+kochen :: cocinar, hervir
+kommen :: venir
+können :: poder
+kontrollieren :: controlar, inspeccionar
+korrekt :: correcto, correcta
+korrigieren :: corregir
+kosten (Preis) :: costar
+kosten (Geschmack) :: probar
+kräftig :: fuerte
+kubanisch :: cubano 
+kündigen :: anunciar el desalojamiento
+lachen :: reírse
+lange :: mucho tiempo
+langsam :: despacio 
+langweilig :: aburrido, aburrida 
+lassen :: dejar
+laufen :: correr
+leben :: vivir
+legen :: tenderse, depositarse
+leicht :: fácil
+leider :: por desgracia
+leihen :: prestar
+leise (Stimme) :: bajo, baja 
+lernen :: aprender
+lesen :: leer
+letzt- :: último
+lieben :: querer
+lieber tun :: preferir
+liegen :: estar acostado, estar tumbado
+links :: a la izquierda
+losfahren :: salir, ponerse en marcha
+machen :: hacer
+malen :: pintar
+manchmal :: a veces
+matt :: cansado, cansada
+meinen :: pensar, creer, opinar
+meistens :: la mayoría de las veces
+merken :: darse cuenta, notar
+messen :: medir
+minus :: menos
+mitkommen :: acompañar, venir
+mittags :: al mediodía
+möchten :: gustar mucho, desear
+modern :: moderno, moderna
+mögen :: querer
+morgen :: mañana
+morgens :: por la mañana
+müde :: cansado, cansada
+müssen :: deber, tener que
+nachher :: después
+nachmittags :: por la tarde
+nachts :: por la noche
+natürlich :: naturalmente
+nehmen :: tomar, coger
+nein :: no
+nennen :: llamar
+nett :: simpático, simpática 
+neu :: nuevo, nueva
+neun :: nueve
+neunzehn :: diecinueve
+neunzig :: noventa
+nicht :: no
+nie :: nunca
+niedrig :: bajo, baja 
+niemals :: jamás
+niemand :: nadie
+nimm (Imperativ von tomarse) :: tómate
+noch :: aún, todavía
+noch einmal :: otra vez
+null :: cero
+nur :: sólo, solamente
+oben :: arriba
+offen :: abierto, abierta
+offensichtlich :: evidente
+öffnen :: abrir
+oft (öfter, am öftesten) :: a menudo
+ohne :: sin
+operieren :: operar, proceder
+ordnen :: ordenar, poner en orden
+Österreich :: Austria
+packen :: hacer las maletas
+parken :: aparcar
+passen :: sentar bien, pegar, encajar
+passieren :: pasar, ocurrir
+plötzlich :: de repente
+putzen :: limpiar
+Rad fahren :: ir en bici
+rauchen :: fumar
+Recht haben :: tener razón
+rechts :: a la derecha
+regnen :: llover
+reich :: rico, rica
+reichen :: bastar, ser suficiente
+reinigen :: limpiar
+reisen :: viajar
+reparieren :: arreglar, reparar
+richtig :: correcto, correcta
+rot :: rojo, roja
+rufen :: llamar
+sachte :: despacio 
+sagen :: decir
+sauber :: limpio, limpia
+säubern :: limpiar
+scharf :: picante 
+schauen :: mirar
+schenken :: regalar, obsequiar
+schick :: elegante 
+schicken :: mandar, enviar
+schlafen :: dormir
+schlank :: delgado, delgada 
+schließen :: cerrar
+schmecken :: gustar, saber
+schneiden :: cortar
+schneien :: nevar
+schon :: ya
+schön :: hermoso, hermosa
+schrecklich :: horrible
+schreiben :: escribir
+schwarz :: negro, negra
+schwer, schwierig :: difícil
+schwimmen :: nadar
+sechs :: seis
+sechzehn :: dieciseis
+sechzig :: sesenta
+sehen :: ver, mirar
+sehr (mehr, am meisten) :: muy, mucho
+sein :: ser, estar
+seit :: desde
+selbstverständlich :: por supuesto, desde luego
+sich freuen :: alegrarse
+sich interessieren :: interesarse
+sieben :: siete
+siebzehn :: diecisiete
+siebzig :: setenta
+singen :: cantar
+sitzen :: estar sentado
+sofort :: enseguida, en el acto, ahora mismo
+sogar :: incluso
+sollen :: deber, querer que
+Spanien :: España
+spanisch :: español, española 
+spät :: tarde
+später :: después
+spazieren gehen :: ir a pasear
+spielen :: jugar
+spielen (Instrument) :: tocar
+sprechen :: hablar
+spülen :: fregar
+stark :: fuerte
+stattfinden :: tener lugar
+stehen :: estar de pie, estar derecho
+steigen :: subir
+stellen :: poner, colocar
+sterben :: morir
+stimmen :: ser correcto, ser verdad
+stören :: estorbar, molestar
+studieren :: estudiar
+suchen :: buscar
+sympathisch :: simpático, simpática 
+täglich :: cada día, todos los días, diariamente
+tanzen :: bailar
+tauschen :: cambiar
+tausend :: mil
+telefonieren :: hablar por teléfono, llamar por teléfono
+teuer :: caro, cara 
+tragen :: llevar
+traurig :: triste 
+treffen :: encontrarse
+trinken :: tomar, beber
+trocken :: seco, seca
+tun :: hacer
+üben :: practicar
+über :: sobre
+überall :: por todas partes
+überlegen :: pensar, reflexionar
+übernachten :: pernoctar, pasar la noche
+üblich :: usual
+übrigens :: por cierto, dicho sea de paso
+umziehen :: mudarse
+ungefähr :: sobre
+unmöglich :: imposible
+unpünktlich :: impuntual
+unten :: abajo
+verbieten :: prohibir
+verdienen :: ganar
+vergessen :: olvidar
+vergleichen :: comparar
+verkaufen :: vender
+verlangen :: pedir
+verlassen :: abandonar, salir de
+verlieren :: perder
+verpassen :: perder
+verschieden :: diferente
+verstehen :: entender, comprender
+versuchen :: intentar
+verwenden :: usar, utilizar
+vielleicht :: quizás, tal vez
+vier :: cuatro
+vierzehn :: catorce
+vierzig :: cuarenta
+völlig :: completamente
+vor :: delante de
+vor allem :: sobre todo
+vorbeikommen :: pasar, poder pasar
+vorbereiten :: preparar
+vorhaben :: tener la intención, pensar hacer
+vorher :: antes
+vormittags :: por la mañana
+vorwiegend :: principalmente
+vorziehen :: preferir
+wachsen :: crecer, aumentar
+wählen :: votar, elegir
+wandern :: caminar
+wann? :: ¿cuándo?
+warm :: caliente 
+warten :: esperar
+was? :: ¿qué?
+waschen :: lavar
+wechseln :: cambiar
+wecken :: despertar
+wegfahren :: partir
+weggehen :: salir
+wehtun :: doler
+weil :: porque
+weinen :: llorar
+weiß :: blanco, blanca
+wenig :: poco, poca
+wer? :: ¿quién?
+werden :: llegar a ser
+wieder :: otra vez
+wirklich :: de verdad
+wissen :: saber
+wo :: donde
+wohnen :: vivir, habitar
+wollen :: querer
+zahlen :: pagar
+zehn :: diez
+zeichnen :: dibujar
+zeigen :: mostrar, enseñar
+ziehen :: tirar, irse a vivir con, mudarse
+ziemlich :: bastante, casi
+ziemlich viel :: bastante 
+zu Abend essen :: cenar
+zuerst :: primero, al principio
+zuhören :: escuchar
+zuknöpfen :: abrochar
+zurückgeben :: devolver
+zusammen :: juntos
+zusammengehören :: hacer juego, hacer pareja
+zwanzig :: veinte
+zwei :: dos
+zwölf :: doce

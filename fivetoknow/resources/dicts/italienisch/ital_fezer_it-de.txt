@@ -1,0 +1,765 @@
+FEZER-ITAL-DE
+Basisvokabular (Italienisch - Deutsch)
+DE
+la lezione	::	Lektion	##		##	
+ciao	::	hallo	##	servus	##	tschüs
+Come stai?	::	Wie geht es dir?	##		##	
+come	::	wie	##		##	
+andare	::	gehen	##	fahren	##	
+lui va	::	er geht	##		##	
+a	::	in	##	zu 	##	nach
+la casa	::	Haus	##		##	
+di	::	aus	##	von	##	
+che	::	welcher	##	welche 	##	welches
+abitare	::	wohnen	##		##	
+con	::	mit	##		##	
+la madre	::	Mutter	##		##	
+ascoltare	::	hören	##		##	
+sentire	::	hören	##		##	
+l´informazione	::	Information	##		##	
+esatto	::	richtig	##		##	
+essere	::	sein	##		##	
+lui è	::	er ist	##		##	
+il salotto	::	Wohnzimmer	##		##	
+la cucina	::	Küche	##		##	
+il giardino	::	Garten	##		##	
+lo spagnolo	::	Spanier	##		##	
+spagnolo	::	spanisch	##		##	
+il portoghese	::	Portugieser	##		##	
+portoghese	::	portugiesisch	##		##	
+il brasiliano	::	Brasilianer	##		##	
+brasiliano	::	brasilianisch	##		##	
+l´Italia	::	Italien	##		##	
+la vacanza	::	Urlaub	##		##	
+il lavoro	::	Arbeit	##		##	
+per	::	für	##	um zu	##	nach
+per lavoro	::	beruflich	##		##
+studiare	::	studieren	##	lernen	##
+l´italiano	::	Italiener	##	italienisch	##
+il giornalista	::	Journalist	##		##
+la giornalista	::	Journalistin	##		##
+l´architetto	::	Architekt	##		##
+l´insegnante	::	Lehrer	##	Lehrerin	##
+bere	::	trinken	##		##
+lui beve	::	er trinkt	##		##
+un	::	ein	##		##
+il prosecco	::	Prosecco	##	italienischer Perlwein	##
+buenasera	::	guten Abend	##		##
+la signora	::	Frau	##		##
+bene	::	gut 	##		##
+e	::	und	##		##
+stare bene	::	gut gehen	##		##
+stare male	::	schlecht gehen	##		##	
+non c´è male	::	nicht schlecht	##		##	
+male	::	schlecht	##		##	
+grazie	::	danke	##		##	
+buongiorno	::	guten Tag	##		##	
+il signor	::	Herr	##		##	
+il signore	::	Herr	##		##	
+abbastanza	::	ziemlich 	##		##	
+benissimo	::	sehr gut	##		##	
+incontrare	::	treffen	##		##	
+che cosa	::	was	##		##	
+dire	::	sagen	##		##	
+lui dice	::	er sagt	##		##	
+tutto bene	::	alles in Ordnung	##		##	
+tutto	::	alles	##		##	
+senti	::	hör zu	##	pass auf	##	bitte schön
+presentare	::	vorstellen	##		##
+la mia amica	::	meine Freundin	##		##
+l´amica	::	Freundin	##		##
+piacere	::	schmecken	##	angenehm	##
+completare	::	ergänzen	##		##
+formale 	::	Sie-Form	##		##
+confidenziale	::	Du-Form	##		##
+il mio amico	::	mein Freund	##		##
+l´amico	::	Freund	##		##
+nolto	::	sehr	##		##
+lieto	::	erfreut	##		##
+questo	::	dieser	##		##
+il dottore	::	Herr Doktor	##		##
+la dottoressa	::	Frau Doktor	##		##
+toccare	::	dran sein	##		##
+scusare	::	entschuldigen	##		##
+Scusa!	::	Entschuldige!	##		##
+chiamarsi	::	heißen	##		##
+ma 	::	aber	##		##
+il cognome	::	Nachname	##		##
+non	::	nicht	##		##
+no	::	nein	##		##
+di dove	::	woher	##		##
+l´inglese	::	Engländer	##		##
+inglese	::	englisch	##		##
+l´americano	::	Amerikaner	##		##
+americano	::	amerikanisch	##		##
+il tedesco	::	Deutscher	##		##
+tedesco	::	deutsch	##		##
+l´austriaco	::	Österreicher	##		##
+austriaco	::	österreichisch	##		##
+il francese	::	Franzose	##		##
+francese	::	französisch	##		##
+il canadese	::	Kanadier	##		##
+canadese	::	kanadisch	##		##
+l´argentino	::	Argentinier	##		##
+argentino	::	argentinisch	##		##
+il norvegese	::	Norweger	##		##
+norvegese	::	norwegisch	##		##
+il danese	::	Däne	##		##
+danese	::	dänisch	##		##
+lo svizzero	::	Schweizer	##		##
+svizzero 	::	Schweizerisch	##		##
+vivere	::	leben	##		##
+il Brasile	::	Brasilien	##		##
+o	::	oder	##		##
+parlare	::	sprechen	##		##
+perché	::	weil	##	warum	##
+si	::	ja	##		##
+Ah, ecco!	::	Ah, deswegen!	##	Ah, deshalb!	##
+l´origine	::	Herkunft	##		##
+fare	::	machen	##		##
+adesso	::	jetzt	##		##
+qui	::	hier	##		##
+la domanda	::	Frage	##		##
+rispondere	::	antworten	##		##
+la Germania	::	Deutschland	##		##
+l´Austria 	::	Österreich	##		##
+la Francia	::	Frankreich	##		##
+il Canada	::	Kanada	##		##
+la Spagna	::	Spanien	##		##
+l´Argentina	::	Argentinien	##		##
+la Norvegia	::	Norwegen	##		##
+la Danimarca	::	Dänemark	##		##
+la Svizzera	::	Schweiz	##		##
+l´ingegnere	::	Ingenieur	##		##
+l´impiegata	::	Angestellte	##		##
+il comesso	::	Verkäufer	##		##
+il medico	::	Arzt	##		##
+la segretaria	::	Sekretärin	##		##
+l´operaio	::	Arbeiter	##		##
+la casalinga	::	Hausfrau	##		##
+la farmacista	::	Apothekerin	##		##
+l´avvocato	::	Rechtsanwalt	##		##
+invece	::	dagegen	##		##
+anche	::	auch	##		##
+lavorare	::	arbeiten	##		##
+il liceo	::	Gymnasium	##		##
+dove	::	wo	##		##
+vicino a	::	in der Nähe von	##		##
+la farmacia	::	Apotheke	##		##
+l´ufficio	::	Büro	##		##
+lo studio	::	Büro	##		##
+l´agenzia	::	Agentur	##		##
+confrontare	::	vergleichen	##		##
+il compagno	::	Partner	##		##
+la scuola	::	Schule	##		##
+il supermercato	::	Supermarkt	##		##
+intervistare	::	interviewen	##		##
+almeno	::	mindestens	##		##
+chiedere	::	fragen	##		##
+ragazzi  	::	junge Leute	##		##
+il ragazzo	::	junger Mann	##		##
+prendere	::	nehmen	##	trinken	##
+qualcosa	::	etwas	##		##
+volentieri	::	gerne	##		##
+la signorina	::	Fräulein	##		##
+analcolico	::	alkoholfrei	##		##
+preferire	::	vorziehen	##		##
+Alla salute!	::	Zum Wohl!	##		##
+prego	::	bitte	##		##
+Cin cin!	::	Prost!	##		##
+l´acqua minerale	::	Mineralwasser	##		##
+l´acqua 	::	Wasser	##		##
+il vino	::	Wein	##		##
+il vino bianco	::	Weißwein	##		##
+il vino rosso	::	Rotwein	##		##
+bianco	::	weiß 	##		##
+rosso	::	rot	##		##
+l´aranciata	::	Orangenlimonade	##		##
+la birra	::	Bier	##		##
+lo spumante	::	Sekt	##		##
+scrivere	::	schreiben	##		##
+la e-mail	::	E-Mail	##		##
+caro	::	lieb	##	teuer	##
+la vita	::	Leben	##		##
+il momento	::	Moment	##		##
+piccolo 	::	klein	##		##
+il problema	::	Problem	##		##
+il mese	::	Monat	##		##
+prossimo	::	nächster	##		##
+partire	::	abreisen	##		##
+quindi	::	also	##	deshalb	##
+cercare	::	suchen	##		##
+la baby sitter	::	Babysitter	##		##
+il bambino	::	Kind	##		##
+conoscere	::	kennen	##		##
+la ragazza	::	Mädchen	##		##
+serio	::	ernst	##	zuverlässig	##
+simpatico	::	sympathisch	##		##
+venire	::	kommen	##		##
+il giorno	::	Tag	##		##
+presto	::	bald	##		##
+cari saluti	::	liebe Grüße	##		##
+il saluto	::	Gruß	##		##
+forse 	::	vielleicht	##		##
+trovare	::	finden	##		##
+avere	::	haben	##		##
+da 	::	seit	##		##
+l´anno	::	Jahr	##		##
+la pedagogia	::	Pädagogik	##		##
+capire	::	verstehen	##		##
+un po´	::	ein wenig	##		##
+il numero di telefono	::	Telefonnummer	##		##
+il numero	::	Zahl	##		##
+il telefono	::	Telefon	##		##
+l´indirizzo	::	Adresse	##		##
+l´indirizzo mail	::	E-Mail-Adresse	##		##
+a presto	::	bis bald	##		##
+chi	::	wer	##		##
+la lingua	::	Sprache	##		##
+maschile	::	männlich	##		##
+femminile	::	weiblich	##		##
+la libreria	::	Buchhandlung	##		##
+la banca	::	Bank	##		##
+la settimana	::	Woche	##		##
+Che cosa prendi?	::	Was nimmst du?	##		##
+il bar	::	Bar	##	Café	##
+il listino prezzi	::	Preisliste	##		##
+il caffé	::	Kaffee	##		##
+l´espresso	::	Espresso	##		##
+il caffé corretto	::	Kaffee mit Schuss	##		##
+decaffeinato	::	entkoffeiniert	##		##
+il caffelatte	::	Milchkaffee	##		##
+il latte	::	Milch 	##		##
+il cappuccino	::	Cappuccino	##	Espresso mit aufgeschäumter Milch	##
+il cioccolato	::	Schokolade	##		##
+il the	::	Tee	##		##
+la cammomilla	::	Kamillentee	##		##
+il punsch	::	Punsch	##		##
+l´aperitivo	::	Aperitiv	##		##
+la marca	::	Marke	##		##
+l´analcolico	::	alkoholfreier Aperitiv	##		##
+l´amaro	::	Bitter	##	Kräuterlikör	##
+il liquore	::	Likör	##		##
+nazionale	::	einheimisch	##	national	##
+il brandy	::	Brandy	##		##
+la grappa	::	Grappa	##		##
+estero	::	ausländisch	##		##
+il cognac	::	Cognac	##		##
+il whisky	::	Whisky	##		##
+il vermouth	::	Wermut	##		##
+il bicchiere	::	Glas	##		##
+il vino da dessert	::	Dessertwein	##		##
+il porto 	::	Portwein	##		##
+la bibita	::	Getränk	##		##
+grande	::	groß	##		##
+la lattina	::	Dose	##		##
+la bottiglia	::	Flasche	##		##
+la spremuta	::	frisch ausgepresster Saft	##		##
+il succo die frutta	::	Fruchtsaft	##		##
+la gassosa	::	Limonade	##		##
+lo snack	::	Imbiss	##		##
+la pasta	::	Gebäck	##		##
+il panino	::	Brötchen	##		##
+la pizza	::	Pizza	##		##
+la tartina	::	belegte Brotscheibe	##		##
+il toast	::	Toast	##		##
+la focaccia	::	Fladen	##		##
+la brioche	::	Brioche	##	feines Hefegebäck	##
+oggi	::	heute	##		##
+bello	::	schön	##		##
+la giornata	::	Tag	##		##
+mentre	::	während	##		##
+passegiare	::	spazierengehen	##		##
+il centro	::	Zentrum	##	Mitte	##
+vedere	::	sehen	##		##
+stanco	::	müde	##		##
+la sete	::	Durst	##		##
+avere sete	::	Durst haben	##		##
+avere fame	::	Hunger haben	##		##
+la fame 	::	Hunger	##		##
+ordinare	::	bestellen	##		##
+il medaglione	::	Sandwich	##		##
+il tramezzino	::	Sandwich	##		##
+la pizzetta	::	kleine Pizza	##		##
+l´appuntamento	::	Verabredung	##	Termin	##
+il collega	::	Kollege	##		##
+la collega	::	Kollegin	##		##
+il conoscente	::	Bekannter	##		##
+la conoscente	::	Bekannte	##		##
+a mezzogiorno	::	mittags	##		##
+mezzogiorno	::	Mittag 	##		##
+desiderare	::	wünschen	##	begehren	##
+dunque	::	also	##		##
+il limone	::	Zitrone	##		##
+il cornetto	::	Hörnchen	##		##
+la crema	::	Creme	##		##
+la marmellata	::	Marmelade	##		##
+liscio	::	pur	##		##
+il ghiaccio	::	Eis	##	Eiswürfel	##
+il prosciutto	::	Schinken	##		##
+il salame	::	Salami	##		##
+caldo	::	warm	##		##
+freddo	::	kalt	##		##
+il gelato	::	Eis	##		##
+senza	::	ohne	##		##
+la panna	::	Sahne	##		##
+alcolico	::	alkoholhaltig	##		##
+dolce	::	süß	##		##
+amaro	::	bitter	##		##	
+mangiare	::	essen	##		##	
+lo spuntino	::	Imbiss	##		##	
+guardare	::	schauen	##	aufpassen	##	
+poi	::	dann	##	danach	##	
+magari	::	eher	##	lieber	##	vielleicht
+solito	::	üblich	##	gewöhnlich	##	
+il tonno	::	Thunfisch	##		##	
+il pomodoro	::	Tomate	##		##	
+la mozarella	::	Moarella	##		##	
+gli spinaci	::	Spinat	##		##	
+il fungo	::	Pilz	##		##	
+c´è	::	da ist	##	es gibt	##	
+l´ordinazione	::	Bestellung	##		##	
+il cameririere	::	Kellner	##		##	
+il cliente	::	Kunde	##		##	
+offrire	::	anbieten	##	bieten	##
+l´ingrediente	::	Zutat	##		##
+l´aspergo	::	Spargel	##		##
+la melanzana	::	Aubergine	##		##
+l´uovo	::	Ei	##		##
+le uova	::	Eier	##		##
+il gamberetto	::	Garnele	##		##
+il frormaggio	::	Käse	##		##
+il radicchio	::	Radicchio	##		##
+pagare	::	zahlen	##		##
+subito	::	sofort	##		##
+peró	::	aber	##		##
+Ma dai!	::	Also hör mal!	##		##
+sempre	::	immer	##		##
+Lascia!	::	Lass schon!	##		##
+lasciare	::	lassen	##		##
+Quant´è?	::	Was macht es?	##		##	
+ecco	::	hier	##	da	##	hier bitte
+pure	::	ruhig	##	nur	##	auch
+tenere	::	halten	##		##	
+il resto	::	Rest	##		##	
+potere	::	können	##	dürfen	##	
+il portacenere	::	Aschenbecher	##		##	
+per cortesia	::	bitte	##		##	
+certo	::	sicher	##	natürlich	##	selbstverständlich
+il centesimo	::	Cent	##		##	
+lo zucchero	::	Zucker	##		##	
+un altro	::	noch ein	##		##	
+un´altra	::	noch eine	##		##	
+il tovagliolo	::	Serviette	##		##	
+il cucchiaono	::	Teelöffel	##		##	
+lo scontrino	::	Zettel	##	Rechnung	##	Quittung
+il prezzo	::	Preis	##		##
+leggere	::	lesen	##		##
+la cartolina	::	Postkarte	##	Ansichtskarte	##
+la mamma	::	Mutter	##		##
+il papà	::	Vater	##		##
+la campagna	::	Land	##		##
+il posto 	::	Ort	##	Platz	##
+noioso	::	langweilig	##		##
+per fortuna	::	zum Glück	##		##
+la fortuna	::	Glück	##		##
+la città	::	Stadt	##		##
+esserci	::	da sein	##	stattfinden	##
+molto 	::	viel	##		##
+il locale	::	Lokal	##		##
+carino	::	hübsch	##		##
+qui vicino	::	hier in der Nähe	##		##
+la discoteca	::	Diskothek	##		##
+la sera	::	Abend	##		##
+spesso	::	oft	##	häufig	##
+la macchina	::	Auto	##		##
+ballare	::	tanzen	##		##
+restare	::	bleiben	##		##
+la televisione	::	Fernsehen	##		##
+fino a	::	bis	##		##
+la fine	::	Ende	##		##
+tornare	::	zurückfahren	##		##
+fra	::	in	##		##
+quando	::	wenn	##		##
+l´abbraccio	::	Umarmung	##		##
+la torre	::	Turm	##		##
+la torre pendente	::	der Schiefe Turm	##		##
+il museo	::	Museum	##		##
+il succo	::	Saft	##		##
+la pesca	::	Pfirsich	##		##
+essere buono	::	gut sein	##		##
+buono	::	gut	##		##
+volere	::	möchten	##	wollen	##
+assaggiare	::	probieren	##		##
+l´ora	::	Stunde	##		##
+Che ore sono?	::	Wie spät ist es?	##		##
+devo andare	::	ich muss gehen	##		##
+avere tempo	::	Zeit haben	##		##
+il tempo	::	Zeit	##		##
+Dai!	::	Komm schon!	##		##
+la ragione	::	Recht	##		##
+avere ragione	::	Recht haben	##		##
+la nocciolina	::	Erdnuss	##		##
+scoprire	::	entdecken	##		##
+il gusto	::	Vorliebe	##		##
+la patatina	::	Kartoffelchip	##		##
+il quarto	::	Viertel	##		##
+mezzo 	::	halb	##		##
+mezza	::	halb	##		##
+mezzanotte	::	Mitternacht	##		##
+domandare	::	fragen	##		##
+l´ora	::	Uhrzeit	##		##
+Attenzione!	::	Vorsicht!	##		##
+mezz´ora	::	eine halbe Stunde	##		##
+dopo	::	danach	##		##
+la fragola	::	Erdbeere	##		##
+la coca cola	::	Coca-Cola	##		##
+il rum	::	Rum	##		##
+gasata	::	mit Kohlensäure	##		##
+naturale	::	still	##		##
+alla spina	::	vom Fass	##		##	
+l´insalata	::	Salat	##		##	
+normale	::	üblich	##	normal	##	
+al sud	::	im Süden	##		##	
+in estate	::	im Sommer	##		##	
+la mattina	::	Vormittag	##	Morgen	##	
+la tazza	::	Tasse	##		##	
+la camera	::	Zimmer	##		##	
+prenotato	::	reserviert	##		##	
+quale	::	welcher	##	welche	##	welches
+la sistemazione	::	Unterkunft	##	Unterbringung	##	
+il campeggio	::	Campingplatz	##		##	
+la pineta	::	Pinienwald	##		##	
+la soluzione	::	Lösung	##		##	
+economico	::	preiswert	##	billig	##	
+amare	::	lieben	##		##	
+l´aria	::	Luft	##		##	
+aperto	::	offen	##	frei	##	
+l´arte	::	Kunst	##		##	
+toscano	::	toskanisch	##		##	
+la tranquillità	::	Ruhe	##		##	
+il benessere	::	Wohlbefinden	##		##	
+la salute	::	Gesundheit	##		##	
+l´ambiente	::	Umgebung	##	Ambiente	##	Atmosphäre
+l´azienda agrituristica	::	Pension auf dem Bauernhof	##		##	
+la quiete	::	Ruhe	##		##	
+genuino	::	echt	##	unverfälscht	##	
+la portineria	::	Rezeption	##		##	
+il televisore	::	Fernseher	##		##	
+la doccia	::	Dusche	##		##	
+il bagno	::	Bad	##		##	
+la sveglia	::	Wecker	##	Weckdienst	##	
+la forma di pagamento	::	Zahlungsmodus	##		##
+il frigo-bar	::	Minibar	##		##
+l´aria condizionata	::	Klimaanlage	##		##
+il receptionist	::	Empfangschef	##		##
+la camera doppia	::	Doppelzimmer	##		##
+la camera singola	::	Einzelzimmer	##		##
+la camera matrimoniale	::	Zimmer mit Ehebett	##		##
+luminoso	::	hell	##		##
+silenzioso	::	ruhig	##		##
+il passaporto	::	Reisepass	##		##
+la carta d´identità	::	Personalausweis	##		##
+la patente	::	Führerschein	##		##
+dovere	::	müssen	##	sollen	##
+prenotare	::	vorbestellen	##	reservieren	##
+la valigia	::	Koffer	##		##
+il bagaglio	::	Gepäck	##		##
+il garage	::	Garage	##		##
+attendere	::	warten	##		##
+la stanza	::	Zimmer	##		##
+esattamente	::	genau	##	richtig	##
+dare	::	geben	##		##
+la chiave	::	Schlüssel	##		##
+Vero?	::	Nicht wahr?	##		##
+interno	::	innen	##		##
+dare su	::	gehen zu	##		##
+su 	::	zu	##		##
+il cortile	::	Hof	##		##
+ripetere	::	wiederholen	##		##
+il letto	::	Bett	##		##
+la notte	::	Nacht	##		##
+tranquillo	::	ruhig	##		##
+rumoroso	::	laut	##		##
+ultimo	::	letzter	##		##	
+il piano	::	Stockwerk	##		##	
+la strada 	::	Straße	##		##	
+primo	::	erster	##	erste	##	erstes
+il parco	::	Park	##		##	
+la cena	::	Abendessen	##		##	
+la colazione	::	Frühstück	##		##	
+eventualmente	::	eventuell	##		##	
+possibile	::	möglich	##		##	
+fare colazione	::	frühstücken	##		##	
+pranzare	::	Mittag essen	##		##	
+cenare	::	Abend essen	##		##	
+il pranzo	::	Mittagessen	##		##	
+la mezza pensione	::	Halbpension	##		##	
+la pensione completa	::	Vollpension	##		##	
+completo	::	voll 	##		##	
+il gatto	::	Katze	##		##
+l´asciugamano	::	Handtuch	##		##
+l´assegno	::	Scheck	##		##
+la carta di credito	::	Kreditkarte	##		##
+parcheggiare	::	parken	##		##
+se	::	ob	##		##
+sapere	::	wissen	##		##
+dare fastidio	::	stören	##		##
+non c´è problema	::	kein Problem	##		##
+communque	::	aber	##		##
+lì	::	dort	##		##
+disturbare	::	stören	##		##
+preoccuparsi	::	sich Sorgen machen	##		##
+assolutamente	::	bestimmt	##		##
+l´ascensore	::	Aufzug	##		##
+Guardi!	::	Sehen Sie!	##		##
+A più tardi!	::	Bis später!	##		##
+tardi	::	spät	##		##
+arrividerci	::	Auf Wiedersehen	##		##
+la pensione  	::	Pension	##		##
+l´ostello della gioventù	::	Jugendherberge	##		##
+la gioventù	::	Jugend	##		##
+il motel	::	Motel	##		##
+la locanda	::	Gasthaus	##		##
+la sala da pranzo	::	Speisesaal	##		##
+la sala	::	Saal	##		##
+a sinistra	::	links	##		##
+là	::	dort	##		##
+in fondo	::	hinten	##	unten	##
+a destra	::	rechts	##		##
+la scala	::	Treppe	##		##
+dietro	::	hinter	##	dahinter	##
+il fax	::	Fax	##		##
+compreso	::	inklusive	##	einschließlich	##
+il corso	::	Kurs	##		##
+l´aquarello	::	Aquarell	##		##
+la tivù	::	TV	##		##
+la piscina	::	Schwimmbad	##		##
+il tennis	::	Tennis	##		##
+il fitness	::	Fitness	##		##
+il parcheggio	::	Parkplatz	##		##
+la metà	::	Mitte 	##	Hälfte	##
+il marzo	::	März	##		##
+il novembre	::	November	##		##
+verde 	::	grün	##		##
+regionale	::	regional	##		##
+chiuso	::	geschlossen	##		##
+il gennaio	::	Januar	##		##
+il fon	::	Haartrockner	##	Fön	##
+la clientela	::	Gäste	##	Kunden	##
+la bicicletta	::	Fahrrad	##		##
+a disposizione	::	zur Verfügung	##		##
+solo	::	einzig	##	allein	##
+pernottare	::	übernachten	##		##
+fare a meno	::	verzichten	##		##
+quanto	::	wieviel	##		##
+va bene	::	in Ordnung	##		##
+cento	::	einhundert	##		##
+l´alfabeto	::	Alphabet	##		##
+la lettera	::	Buchstabe	##		##
+la parte	::	Teil	##		##
+telefonare	::	anrufen	##		##
+la prenotazione	::	Vorbestellung	##		##
+spettabile	::	adressiert an	##		##
+ confermare	::	bestätigen	##		##
+telefonico	::	telefonisch	##		##
+l´appartamento	::	Appartment	##	Wohnung	##
+la persona	::	Person	##		##
+il dicembre	::	Dezember	##		##
+pregare	::	bitten	##		##
+riservare	::	reservieren	##		##
+valido	::	gültig	##		##
+cordiale	::	herzlich	##		##
+il lettino	::	Kinderbett	##		##
+l´ottobre	::	Oktober	##		##
+il maggio	::	Mai	##		##
+il nome	::	Name	##		##
+il codice di avviamento postale	::	Postleitzahl	##		##
+il messagio	::	Mitteilung	##		##
+il febbraio	::	Februar	##		##
+in attesa di	::	in Erwartung	##		##
+la vconferma	::	Zusage	##		##
+inviare	::	senden	##	schicken	##
+invio distinti saluti	::	verbleibe ich mit freundlichen Grüßen	##		##
+da solo	::	allein	##		##
+ammesso	::	erlaubt	##		##
+l´animale	::	Tier	##		##
+rispettare	::	respektieren	##		##
+l´abitudine	::	Gewohnheit	##		##
+semplice	::	einfach	##		##
+a volte	::	manchmal	##	hin und wieder	##
+l´orario	::	Zeit	##	Zeitpunkt	##
+il rientro	::	Rückkehr	##		##
+osservare	::	einhalten	##		##
+basso 	::	niedrig	##		##
+la zona	::	Zone	##	Gegend	##
+per esempio	::	zum Beispiel	##		##
+diverso	::	verschieden	##		##
+la vista	::	Blick	##	Ausblick	##
+la chiesa	::	Kirche	##		##
+l´olivo	::	Olivenbaum	##		##
+libero	::	frei	##		##
+ospitale	::	gastfreundlich	##	gastlich	##
+l´arrivo	::	Ankunft	##		##
+la tradizione	::	Tradition	##		##
+famoso	::	berühmt	##		##
+il rosatello	::	Roséwein	##		##
+direttamente	::	direkt	##		##
+visitare	::	besichtigen	##		##
+vostro	::	euer	##	Ihr	##
+tra	::	zwischen	##	innerhalb	##
+l´esempio	::	Beispiel	##		##
+tipico	::	typisch	##		##	
+la famiglia	::	Familie	##		##	
+l´inizio	::	Anfang	##	Beginn	##	
+il secolo	::	Jahrhundert	##		##	
+ospitare	::	beherbergen	##		##	
+l´opera	::	Werk	##	Opernhaus	##	Oper
+chiudere	::	schließen	##		##	
+il biglietto 	::	Eintrittskarte	##		##	
+ridotto	::	ermäßigt	##		##	
+il servicio	::	Serviceleistung	##		##	
+la toilette	::	Toilette	##		##	
+il taxi	::	Taxi	##		##	
+moderno	::	modern	##		##	
+contemporaneo	::	zeitgenössisch	##		##	
+costruire	::	bauen	##	erbauen	##	
+l´esposizione	::	Ausstellung	##		##	
+l´ingresso	::	Einlass	##		##
+il minuto	::	Minute	##		##
+prima di	::	vor	##		##
+la chiusura	::	Schließung	##		##
+metà prezzo	::	halber Preis	##		##
+il visitatore	::	Besucher	##		##
+lo studente	::	Student	##		##
+la biblioteca	::	Bibliothek	##		##
+la caffetteria	::	Cafeteria	##		##
+la storia	::	Geschichte	##		##
+il castello	::	Burg 	##	Schloss	##
+il turista	::	Tourist	##		##
+la turista	::	Touristin	##		##
+arrivare	::	ankommen	##	gelangen	##
+l´autobus	::	Bus	##		##
+il tram	::	Straßenbahn	##		##
+la metropolitana	::	U-Bahn	##		##
+normalmente	::	normalerweise	##		##
+il lunedì	::	Montag	##		##
+il martedì	::	Dienstag	##		##
+il mercoledì	::	Mittwoch	##		##
+il giovedì	::	Donnerstag	##		##
+il venerdì	::	Freitag	##		##
+il sabato	::	Samstag	##		##
+il domenica	::	Sonntag	##		##
+le ferie	::	Ferien	##		##
+permettere	::	erlauben	##		##
+Dica!	::	Ja, bitte!	##		##
+dispiacere	::	Leid tun	##		##
+Non lo so.	::	Ich weiß es nicht.	##		##
+Non sono di qui. 	::	Ich bin nicht von hier.	##		##
+il vigile	::	Verkehrspolizist	##		##
+senz´altro	::	sicherlich	##	bestimmt	##
+ringraziare	::	bedanken	##		##
+Non c´è di che.	::	Keine Ursache.	##		##
+il palazzo	::	Palast	##		##
+il theatro	::	Theater	##		##
+lo zoo	::	Zoo	##	Tierpark	##
+la via	::	Straße	##		##
+la piazza	::	Platz	##		##
+la galleria	::	Gemäldegallerie	##		##
+il testo	::	Text	##		##
+controllare	::	kontrollieren	##	überprüfen	##
+a piedi	::	zu Fuß	##		##
+lontano	::	weit	##		##
+ci	::	dort	##	dorthin	##
+passare	::	vorbeifahren	##	verbringen	##
+vicino	::	nah	##		##
+accanto a	::	neben	##		##
+l´edicola	::	Zeitungskiosk	##		##
+scendere	::	aussteigen	##		##
+la fermata	::	Haltestelle	##		##
+davanti a	::	vor	##		##
+di fronte a	::	gegenüber	##		##
+il cinema	::	Kino	##		##
+la trattoria	::	Gastwirtschaft	##		##
+la stazione	::	Bahnhof	##		##
+il giardini pubblici	::	Stadtpark	##		##
+il ponte	::	Brücke	##		##
+la posta	::	Post	##		##
+la polizia	::	Polizei	##		##
+il distributore	::	Tankstelle	##		##
+avanti	::	weiter	##	vorwärts	##
+seguire	::	folgen	##		##
+riconoscere	::	erkennen	##		##
+il mercato	::	Markt	##		##
+attraversare	::	überqueren	##		##
+la fontana	::	Brunnen	##		##
+dritto	::	geradeaus	##		##
+l´incrocio	::	Kreuzung	##		##
+la traversa	::	Querstraße	##		##
+l´angolo	::	Ecke	##		##
+girare	::	abbiegen	##		##
+il semaforo	::	Ampel	##		##
+il messagio	::	Nachricht	##		##
+la segretaria telefonica	::	Anrufbeantworter	##		##
+il quartiere	::	Stadtviertel	##		##
+segnare	::	eintragen	##		##
+la piantina	::	Stadtplan	##		##
+accompagnara	::	begleiten	##		##
+purtroppo	::	leider	##		##
+dopodomani	::	übermorgen	##		##
+la novità	::	Neuigkeit	##		##
+la riunione	::	Versammlung	##		##
+difficile	::	schwierig	##	schwer	##
+il capolinea	::	Endstation	##		##
+continuare	::	weitergehen	##		##
+il metro	::	Meter	##		##
+il tabaccaio	::	Tabakladen	##		##
+domani	::	morgen	##		##
+uscire	::	ausgehen	##	hinausgehen	##
+verso	::	gegen	##		##
+pensare	::	denken	##		##
+Buon viaggio!	::	Gute Reise!	##		##
+il viaggio	::	Reise	##		##
+immaginare	::	sich etwas vorstellen	##		##
+spiegare	::	erklären	##		##	
+pubblico	::	öffentlich	##		##	
+consigliare	::	empfehlen	##		##	
+la foto	::	Foti	##		##	
+così	::	so	##		##	
+il negozio	::	Geschäft	##	Laden	##	
+uguale	::	gleich	##		##	
+ogni	::	jeder	##	jede	##	jedes
+il comune	::	Kommune	##	Gemeinde	##	
+infatti	::	tatsächlich	##	in der Tat	##	
+il sindaco	::	Bürgermeister	##		##	
+decidere	::	entscheiden	##		##	
+stesso	::	derselbe	##		##	
+la regione	::	Region	##		##	
+di solito	::	gewöhnlich	##		##	
+il giorno feriale	::	Wochentag	##	Werktag	##	
+circa	::	ungefähr	##	circa	##
+il pomeriggio	::	Nachmittag	##		##
+il grande magazzino	::	Kaufhaus	##		##
+l´ipermercato	::	Supermarkt	##		##
+durante	::	während	##		##
+in genere	::	gewöhnlich	##		##
+gli alimentari	::	Lebensmittelgeschäfte	##		##
+il mare	::	Meer	##		##
+la montagna	::	Gebirge	##		##
+la stagione	::	Saison	##		##
+il giorno festivo	::	Feiertag	##		##
+la farmacia di turno	::	diensthabende Apotheke	##		##
+di turno	::	diensthabend 	##		##
+inoltre	::	außerdem	##		##
+apire	::	öffnen	##		##
+di notte	::	nachts	##		##
+quasi	::	fast	##		##
+il giornale	::	Tageszeitung	##		##
+succedere	::	passieren	##	gelten	##
+l´autostrada	::	Autobahn	##		##
+la stazione di servizio	::	Raststätte	##	Autobahnraststätte	##
+salutare	::	grüßen	##		##
+entrare	::	hereinkommen	##	eintreten	##
+l´esame	::	Prüfung	##		##
+la cabina telefonica	::	Telefonzelle	##		##
+l´orologio	::	Uhr	##		##

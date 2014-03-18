@@ -1,0 +1,38 @@
+POL
+Aktuelle deutsche Politiker (Stand 20.01.2008)
+DE
+Bundeskanzlerin 	::	Dr. Angela Merkel 
+Stellvertreter der Bundeskanzlerin 	::	Dr. Frank-Walter Steinmeier
+Bundesminister für Auswärtiges 	::	Dr. Frank-Walter Steinmeier 
+Bundesminister für Inneres 	::	Dr. Wolfgang Schäuble 
+Bundesminister für Justiz 	::	Brigitte Zypries 
+Bundesminister für Finanzen 	::	Peer Steinbrück 
+Bundesminister für Wirtschaft und Technologie 	::	Michael Glos 
+Bundesminister für Arbeit und Soziales 	::	Olaf Scholz
+Bundesminister für Ernährung, Landwirtschaft und Verbraucherschutz 	::	Horst Seehofer 
+Bundesminister für Verteidigung	::	Dr. Franz Josef Jung 
+Bundesminister für Familie, Senioren, Frauen und Jugend 	::	Dr. Ursula von der Leyen 
+Bundesminister für Gesundheit 	::	Ulla Schmidt 
+Bundesminister für Verkehr, Bau und Stadtentwicklung 	::	Wolfgang Tiefensee 
+Bundesminister für Umwelt, Naturschutz und Reaktorsicherheit 	::	Sigmar Gabriel 
+Bundesminister für Bildung und Forschung 	::	Dr. Annette Schavan 
+Bundesminister für besondere Aufgaben und Chef des Bundeskanzleramtes 	::	Dr. Thomas de Maizière 
+Bundesminister für Wirtschaftliche Zusammenarbeit und Entwicklung 	::	Heidemarie Wieczorek-Zeul 
+Bundestagspräsident	::	Norbert Lammert
+Bundesratspräsident	::	Ole von Beust
+Ministerpräsident von Baden-Württemberg	::	Günther Oettinger
+Ministerpräsident von Bayern	::	Günther Beckstein
+Regierender Bürgermeister von Berlin	::	Klaus Wowereit
+Ministerpräsident von Brandenburg	::	Matthias Platzeck
+Präsident des Bremer Senats und Bürgermeister	::	Jens Böhrnsen
+Präsident des Hamburger Senats und erster Bürgermeister	::	Ole von Beust
+Ministerpräsident von Hessen	::	Roland Koch
+Ministerpräsident von Mecklenburg-Vorpommern	::	Dr. Harald Ringstorff
+Ministerpräsident von Niedersachsen	::	Christian Wulff
+Ministerpräsident von Nordrhein-Westphalen	::	Jürgen Rüttgers
+Ministerpräsident von Rheinland-Pfalz	::	Kurt Beck
+Ministerpräsident vom Saarland	::	Peter Müller
+Ministerpräsident von Sachsen	::	Prof. Dr. Georg Milbradt
+Ministerpräsident von Sachsen-Anhalt	::	Prof. Dr. Wolfgang Böhmer
+Ministerpräsident von Schleswig-Holstein	::	Peter Harry Carstensen
+Ministerpräsident von Thüringen	::	Dieter Althaus

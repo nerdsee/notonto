@@ -1,0 +1,4260 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<brain>
+			<lessons>
+			<lesson>
+			<title>BUS-DE-EN</title>
+			<description>Business English (deutsch-englisch)</description>
+			<keyboardLayout>EN</keyboardLayout>
+			<type>1</type>
+<items>
+<item id="0"><text>absagen</text>
+<comment></comment>
+<answers>
+<answer>to cancel</answer>
+</answers>
+</item>
+
+<item id="0"><text>abschließen</text>
+<comment></comment>
+<answers>
+<answer>to finalize</answer>
+</answers>
+</item>
+
+<item id="0"><text>abstimmen</text>
+<comment></comment>
+<answers>
+<answer>to vote</answer>
+</answers>
+</item>
+
+<item id="0"><text>abwesend</text>
+<comment></comment>
+<answers>
+<answer>absent</answer>
+</answers>
+</item>
+
+<item id="0"><text>aktuell</text>
+<comment></comment>
+<answers>
+<answer>current</answer>
+</answers>
+</item>
+
+<item id="0"><text>als Gegenleistung</text>
+<comment></comment>
+<answers>
+<answer>quid pro quo</answer>
+</answers>
+</item>
+
+<item id="0"><text>ändern</text>
+<comment></comment>
+<answers>
+<answer>to amend</answer>
+</answers>
+</item>
+
+<item id="0"><text>Angebot und Nachfrage</text>
+<comment></comment>
+<answers>
+<answer>supply and demand</answer>
+</answers>
+</item>
+
+<item id="0"><text>anstellen</text>
+<comment></comment>
+<answers>
+<answer>to hire</answer>
+</answers>
+</item>
+
+<item id="0"><text>anwesend</text>
+<comment></comment>
+<answers>
+<answer>present</answer>
+</answers>
+</item>
+
+<item id="0"><text>aufheben [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>to rescind</answer>
+</answers>
+</item>
+
+<item id="0"><text>ausbauen</text>
+<comment></comment>
+<answers>
+<answer>to extend</answer>
+</answers>
+</item>
+
+<item id="0"><text>ausführen</text>
+<comment></comment>
+<answers>
+<answer>to export</answer>
+</answers>
+</item>
+
+<item id="0"><text>ausgeben</text>
+<comment></comment>
+<answers>
+<answer>issue</answer>
+<answer>to spend</answer>
+</answers>
+</item>
+
+<item id="0"><text>ausgegebenes Kapital</text>
+<comment></comment>
+<answers>
+<answer>issued capital</answer>
+</answers>
+</item>
+
+<item id="0"><text>aushandeln</text>
+<comment></comment>
+<answers>
+<answer>to negotiate</answer>
+</answers>
+</item>
+
+<item id="0"><text>automatisiert</text>
+<comment></comment>
+<answers>
+<answer>automated</answer>
+</answers>
+</item>
+
+<item id="0"><text>beglaubigen</text>
+<comment></comment>
+<answers>
+<answer>to witness</answer>
+</answers>
+</item>
+
+<item id="0"><text>beliegt</text>
+<comment></comment>
+<answers>
+<answer>popular</answer>
+</answers>
+</item>
+
+<item id="0"><text>beschaffen</text>
+<comment></comment>
+<answers>
+<answer>to purchase</answer>
+</answers>
+</item>
+
+<item id="0"><text>beschränkte Haftung</text>
+<comment></comment>
+<answers>
+<answer>limited liability</answer>
+</answers>
+</item>
+
+<item id="0"><text>bestimmen</text>
+<comment></comment>
+<answers>
+<answer>to stipulate</answer>
+</answers>
+</item>
+
+<item id="0"><text>beteiligen</text>
+<comment></comment>
+<answers>
+<answer>to participate in</answer>
+</answers>
+</item>
+
+<item id="0"><text>Bezahlen gegen Dokumente</text>
+<comment></comment>
+<answers>
+<answer>cash against documents</answer>
+</answers>
+</item>
+
+<item id="0"><text>bezahlen</text>
+<comment></comment>
+<answers>
+<answer>to pay</answer>
+</answers>
+</item>
+
+<item id="0"><text>brandneu</text>
+<comment></comment>
+<answers>
+<answer>brand-new</answer>
+</answers>
+</item>
+
+<item id="0"><text>brutto</text>
+<comment></comment>
+<answers>
+<answer>gross</answer>
+</answers>
+</item>
+
+<item id="0"><text>computergesteuert</text>
+<comment></comment>
+<answers>
+<answer>computerized</answer>
+</answers>
+</item>
+
+<item id="0"><text>dafür</text>
+<comment></comment>
+<answers>
+<answer>in favour</answer>
+</answers>
+</item>
+
+<item id="0"><text>dagegen</text>
+<comment></comment>
+<answers>
+<answer>against</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Abkommen</text>
+<comment></comment>
+<answers>
+<answer>agreement</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Ablaufdatum</text>
+<comment></comment>
+<answers>
+<answer>expiry date</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Abonnement</text>
+<comment></comment>
+<answers>
+<answer>subscription</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Akkreditiv</text>
+<comment></comment>
+<answers>
+<answer>letter of credit</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Alleinvertriebsrecht</text>
+<comment></comment>
+<answers>
+<answer>exclusive distribution rights</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Angebot</text>
+<comment></comment>
+<answers>
+<answer>offer</answer>
+<answer>quotation</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Anlagevermögen</text>
+<comment></comment>
+<answers>
+<answer>fixed assets</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Aufgeld</text>
+<comment></comment>
+<answers>
+<answer>surcharge premium</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Ausbildungszentrum</text>
+<comment></comment>
+<answers>
+<answer>training centre</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Ausstellungsverzeichnis</text>
+<comment></comment>
+<answers>
+<answer>exhibition guide</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Aussttellungsstück</text>
+<comment></comment>
+<answers>
+<answer>sample not for sale</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Bestellformular</text>
+<comment></comment>
+<answers>
+<answer>order form</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Betriebskapital</text>
+<comment></comment>
+<answers>
+<answer>working capital</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Bezugsrecht</text>
+<comment></comment>
+<answers>
+<answer>subscription right</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Bruttoinlandsprodukt</text>
+<comment></comment>
+<answers>
+<answer>GDP</answer>
+<answer>gross domestic product</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Depot, die Einlage</text>
+<comment></comment>
+<answers>
+<answer>deposit</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Dollargebiet</text>
+<comment></comment>
+<answers>
+<answer>dollar area</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Eigenkapital</text>
+<comment></comment>
+<answers>
+<answer>company capital</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Ergebnis</text>
+<comment></comment>
+<answers>
+<answer>result</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Fax</text>
+<comment></comment>
+<answers>
+<answer>fax</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Finanzjahr</text>
+<comment></comment>
+<answers>
+<answer>financial year</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Firmenimage</text>
+<comment></comment>
+<answers>
+<answer>corporate image</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Fließband</text>
+<comment></comment>
+<answers>
+<answer>production line</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Fremdkapital</text>
+<comment></comment>
+<answers>
+<answer>outside capital</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Gemeinschaftsunternehmen</text>
+<comment></comment>
+<answers>
+<answer>joint venture</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Geschäft</text>
+<comment></comment>
+<answers>
+<answer>business</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Geschäftsjahr</text>
+<comment></comment>
+<answers>
+<answer>business year</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Grundmaterial</text>
+<comment></comment>
+<answers>
+<answer>commodity</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Haushaltsjahr</text>
+<comment></comment>
+<answers>
+<answer>fiscal year</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Inventar</text>
+<comment></comment>
+<answers>
+<answer>stock inventory</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Kapital</text>
+<comment></comment>
+<answers>
+<answer>capital</answer>
+<answer>assets</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Kerngeschäft</text>
+<comment></comment>
+<answers>
+<answer>core business</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Kleingedruckte</text>
+<comment></comment>
+<answers>
+<answer>small print</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Konsortium</text>
+<comment></comment>
+<answers>
+<answer>consortium</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Konsulat</text>
+<comment></comment>
+<answers>
+<answer>consulate</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Kontokorrent</text>
+<comment></comment>
+<answers>
+<answer>current account</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Lager</text>
+<comment></comment>
+<answers>
+<answer>store</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Lizenzabkommen</text>
+<comment></comment>
+<answers>
+<answer>licensing agreement</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Lohnabkommen</text>
+<comment></comment>
+<answers>
+<answer>pay agreement</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Mailing</text>
+<comment></comment>
+<answers>
+<answer>mail shot</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Management</text>
+<comment></comment>
+<answers>
+<answer>Management</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Marktsegment</text>
+<comment></comment>
+<answers>
+<answer>sector of the market</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Messebüro</text>
+<comment></comment>
+<answers>
+<answer>trade fair office</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Messegelände</text>
+<comment></comment>
+<answers>
+<answer>exhibition centre</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Messezentrum</text>
+<comment></comment>
+<answers>
+<answer>trade fair centre</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Minderheitsinteresse</text>
+<comment></comment>
+<answers>
+<answer>minority interest</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Mittel</text>
+<comment></comment>
+<answers>
+<answer>resources</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Monopol</text>
+<comment></comment>
+<answers>
+<answer>monopoly</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Muster</text>
+<comment></comment>
+<answers>
+<answer>sample</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Namenspapier, die Namensaktie</text>
+<comment></comment>
+<answers>
+<answer>registered stock</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Parfüm</text>
+<comment></comment>
+<answers>
+<answer>perfume</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Patent</text>
+<comment></comment>
+<answers>
+<answer>patent</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Porto</text>
+<comment></comment>
+<answers>
+<answer>postage</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Protokoll führen</text>
+<comment></comment>
+<answers>
+<answer>to take the minutes</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Protokoll</text>
+<comment></comment>
+<answers>
+<answer>minutes</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Reinvermögen</text>
+<comment></comment>
+<answers>
+<answer>net assets</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Segment</text>
+<comment></comment>
+<answers>
+<answer>segment</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Sondierungsgespräch</text>
+<comment></comment>
+<answers>
+<answer>exploratory discussion</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Stammkapital</text>
+<comment></comment>
+<answers>
+<answer>share capital</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Standardmodell</text>
+<comment></comment>
+<answers>
+<answer>basic model</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Teilzahlungsgeschäft</text>
+<comment></comment>
+<answers>
+<answer>hire purchase</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Umlaufvermögen</text>
+<comment></comment>
+<answers>
+<answer>current assets</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Verhandlungspaket</text>
+<comment></comment>
+<answers>
+<answer>negotiation package</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Vertriebsnetz</text>
+<comment></comment>
+<answers>
+<answer>distribution network</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Vorkaufsrecht</text>
+<comment></comment>
+<answers>
+<answer>option to purchase</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Vorstandsmitglied</text>
+<comment></comment>
+<answers>
+<answer>director</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Warenzeichen</text>
+<comment></comment>
+<answers>
+<answer>trademark</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Werbegeschenk</text>
+<comment></comment>
+<answers>
+<answer>giveaway</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Werbematerial</text>
+<comment></comment>
+<answers>
+<answer>advertising material</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Werk</text>
+<comment></comment>
+<answers>
+<answer>plant</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Werkzeug</text>
+<comment></comment>
+<answers>
+<answer>tool</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Ziel</text>
+<comment></comment>
+<answers>
+<answer>aim</answer>
+<answer>target</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Zolllager</text>
+<comment></comment>
+<answers>
+<answer>bonded warehouse</answer>
+</answers>
+</item>
+
+<item id="0"><text>das Zwischenlager</text>
+<comment></comment>
+<answers>
+<answer>buffer stock</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Ablagekorb</text>
+<comment></comment>
+<answers>
+<answer>tray</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Absatz [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>paragraph</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Absatzmarkt</text>
+<comment></comment>
+<answers>
+<answer>outlet market</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Adapter</text>
+<comment></comment>
+<answers>
+<answer>adaptor</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Agio</text>
+<comment></comment>
+<answers>
+<answer>surcharge premium</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Aktionär</text>
+<comment></comment>
+<answers>
+<answer>shareholder</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Angestellte</text>
+<comment></comment>
+<answers>
+<answer>employee</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Anhang</text>
+<comment></comment>
+<answers>
+<answer>appendix</answer>
+<answer>annexe</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Anspruch</text>
+<comment></comment>
+<answers>
+<answer>claim</answer>
+<answer>demand</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Anteil</text>
+<comment></comment>
+<answers>
+<answer>interest share</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Antrag</text>
+<comment></comment>
+<answers>
+<answer>motion</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Arbeiter</text>
+<comment></comment>
+<answers>
+<answer>worker</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Aufsichtsrat</text>
+<comment></comment>
+<answers>
+<answer>supervisory board</answer>
+<answer>board of directors</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Auftrag</text>
+<comment></comment>
+<answers>
+<answer>order</answer>
+<answer>contract</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Ausgangskorb</text>
+<comment></comment>
+<answers>
+<answer>out-tray</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Aussteller</text>
+<comment></comment>
+<answers>
+<answer>exhibitor</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Bedarf</text>
+<comment></comment>
+<answers>
+<answer>need</answer>
+<answer>requirement</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Berater</text>
+<comment></comment>
+<answers>
+<answer>consultant</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Besprechungsraum</text>
+<comment></comment>
+<answers>
+<answer>conference room</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Bestand</text>
+<comment></comment>
+<answers>
+<answer>stock</answer>
+<answer>inventory</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Bestandteil</text>
+<comment></comment>
+<answers>
+<answer>component</answer>
+<answer>part</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Betriebsgewinn</text>
+<comment></comment>
+<answers>
+<answer>trading profit</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Betriebsrat</text>
+<comment></comment>
+<answers>
+<answer>works committee</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Betriebswirt</text>
+<comment></comment>
+<answers>
+<answer>management expert</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Bevollmächtigte</text>
+<comment></comment>
+<answers>
+<answer>proxy</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Börseneingang</text>
+<comment></comment>
+<answers>
+<answer>stock market listing</answer>
+<answer>flotation</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Börsenmakler</text>
+<comment></comment>
+<answers>
+<answer>stockbroker</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Brief</text>
+<comment></comment>
+<answers>
+<answer>letter</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Briefumschlag</text>
+<comment></comment>
+<answers>
+<answer>envelope</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Dauerauftrag</text>
+<comment></comment>
+<answers>
+<answer>standing order</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Deckungsbeitrag</text>
+<comment></comment>
+<answers>
+<answer>share for break-even</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Devisenkurs, der Wechselkurs</text>
+<comment></comment>
+<answers>
+<answer>exchange rate</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Diskont, der Rabatt</text>
+<comment></comment>
+<answers>
+<answer>discount</answer>
+<answer>rebate</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Diskontsatz</text>
+<comment></comment>
+<answers>
+<answer>bank rate</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Doppelbesteuerungsnachlaß</text>
+<comment></comment>
+<answers>
+<answer>double taxation relief</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Eigentumsvorbehalt</text>
+<comment></comment>
+<answers>
+<answer>reservation of proprietary rights</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Einfuhrzoll</text>
+<comment></comment>
+<answers>
+<answer>customs duty</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Eingangskorb</text>
+<comment></comment>
+<answers>
+<answer>in-tray</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Einkaufspreis</text>
+<comment></comment>
+<answers>
+<answer>wholesale price</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Erfüllungsort</text>
+<comment></comment>
+<answers>
+<answer>place of delivery</answer>
+<answer>performance</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Ersatz, die Ersetzung</text>
+<comment></comment>
+<answers>
+<answer>substitute</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Firmenwert</text>
+<comment></comment>
+<answers>
+<answer>goodwill</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Freihandel</text>
+<comment></comment>
+<answers>
+<answer>free trade</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Generaldirektor</text>
+<comment></comment>
+<answers>
+<answer>managing director</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Generaldirektor und Vorsitzender des Vorstands</text>
+<comment></comment>
+<answers>
+<answer>chairman and managing director</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Gerichtsstand</text>
+<comment></comment>
+<answers>
+<answer>venue</answer>
+<answer>court of jurisdiction</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Geschäftsbereich</text>
+<comment></comment>
+<answers>
+<answer>business area</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Gesellschafter</text>
+<comment></comment>
+<answers>
+<answer>shareholder</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Gläubiger</text>
+<comment></comment>
+<answers>
+<answer>creditor</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Grenzwert</text>
+<comment></comment>
+<answers>
+<answer>marginal value</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Großhandelspreis</text>
+<comment></comment>
+<answers>
+<answer>wholesale price</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Gründer</text>
+<comment></comment>
+<answers>
+<answer>founder</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Güterumschlag</text>
+<comment></comment>
+<answers>
+<answer>cargo handling</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Handel</text>
+<comment></comment>
+<answers>
+<answer>trade</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Handelspreis</text>
+<comment></comment>
+<answers>
+<answer>trade price</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Handelsrabatt</text>
+<comment></comment>
+<answers>
+<answer>trade discount</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Händler</text>
+<comment></comment>
+<answers>
+<answer>dealer</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Hauptgeschäftsführer</text>
+<comment></comment>
+<answers>
+<answer>general manager</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Hersteller</text>
+<comment></comment>
+<answers>
+<answer>producer</answer>
+<answer>manufacturer</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Industriekaufmann</text>
+<comment></comment>
+<answers>
+<answer>industrial manager</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Investor</text>
+<comment></comment>
+<answers>
+<answer>investor</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Kapitalaufwand</text>
+<comment></comment>
+<answers>
+<answer>capital spending</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Konferenzraum</text>
+<comment></comment>
+<answers>
+<answer>meeting room</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Konjunkturzyklus</text>
+<comment></comment>
+<answers>
+<answer>trade cycle</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Konkurrent</text>
+<comment></comment>
+<answers>
+<answer>competitor</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Konkurs, der Bankrott</text>
+<comment></comment>
+<answers>
+<answer>insolvency</answer>
+<answer>bankruptcy</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Kontoauszug</text>
+<comment></comment>
+<answers>
+<answer>statement of account</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Kostenvoranschlag</text>
+<comment></comment>
+<answers>
+<answer>offer</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Kredit, die Gutschrift</text>
+<comment></comment>
+<answers>
+<answer>credit</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Kunde</text>
+<comment></comment>
+<answers>
+<answer>client</answer>
+<answer>customer</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Kurs</text>
+<comment></comment>
+<answers>
+<answer>market price</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Ladenpreis</text>
+<comment></comment>
+<answers>
+<answer>retail price</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Ladeplatz</text>
+<comment></comment>
+<answers>
+<answer>loading bay</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Ladeschein</text>
+<comment></comment>
+<answers>
+<answer>bill of landing</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Lagerbestand</text>
+<comment></comment>
+<answers>
+<answer>stock</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Lieferant</text>
+<comment></comment>
+<answers>
+<answer>supplier</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Lieferschein</text>
+<comment></comment>
+<answers>
+<answer>delivery note</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Liquidationswert</text>
+<comment></comment>
+<answers>
+<answer>break-up value</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Listenpreis</text>
+<comment></comment>
+<answers>
+<answer>list price</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Lizenzgeber</text>
+<comment></comment>
+<answers>
+<answer>licenser </answer>
+</answers>
+</item>
+
+<item id="0"><text>der Lizenznehmer</text>
+<comment></comment>
+<answers>
+<answer>licensee</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Lockartikel</text>
+<comment></comment>
+<answers>
+<answer>loss-leader</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Manager, der Geschäftsleiter</text>
+<comment></comment>
+<answers>
+<answer>manager</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Marktanteil</text>
+<comment></comment>
+<answers>
+<answer>market share</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Mengenrabatt</text>
+<comment></comment>
+<answers>
+<answer>discount on quantity </answer>
+<answer>discount for quantity</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Mindestertrag</text>
+<comment></comment>
+<answers>
+<answer>fallback</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Mindestpreis</text>
+<comment></comment>
+<answers>
+<answer>reserve price</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Moderator</text>
+<comment></comment>
+<answers>
+<answer>chairperson</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Nennwert, der Nominalwert</text>
+<comment></comment>
+<answers>
+<answer>nominal value</answer>
+<answer>par</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Paragraph [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>section</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Preis</text>
+<comment></comment>
+<answers>
+<answer>price</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Preis ab Werk</text>
+<comment></comment>
+<answers>
+<answer>factory price</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Produktionsablauf</text>
+<comment></comment>
+<answers>
+<answer>production process</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Produzentenpreis</text>
+<comment></comment>
+<answers>
+<answer>producers' price</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Prospekt</text>
+<comment></comment>
+<answers>
+<answer>leaflet</answer>
+<answer>brochure</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Prozentsatz</text>
+<comment></comment>
+<answers>
+<answer>percentage</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Rabatt</text>
+<comment></comment>
+<answers>
+<answer>rebate</answer>
+<answer>discount</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Rechnungsprüfer</text>
+<comment></comment>
+<answers>
+<answer>accountant</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Rechtsstreit</text>
+<comment></comment>
+<answers>
+<answer>litigation</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Reingewinn</text>
+<comment></comment>
+<answers>
+<answer>net profit</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Rohgewinn</text>
+<comment></comment>
+<answers>
+<answer>gross proceeds</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Rohstoff</text>
+<comment></comment>
+<answers>
+<answer>raw material</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Saldo</text>
+<comment></comment>
+<answers>
+<answer>balance</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Schadenersatz</text>
+<comment></comment>
+<answers>
+<answer>compensation claim</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Schuldner</text>
+<comment></comment>
+<answers>
+<answer>debtor</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Schuldschein</text>
+<comment></comment>
+<answers>
+<answer>I.O.U.</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Selbstkostenpreis</text>
+<comment></comment>
+<answers>
+<answer>prime cost</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Skonto, der Rabatt</text>
+<comment></comment>
+<answers>
+<answer>discount</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Staatsbesitz</text>
+<comment></comment>
+<answers>
+<answer>public ownership</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Stellvertreter</text>
+<comment></comment>
+<answers>
+<answer>proxy</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Stückpreis</text>
+<comment></comment>
+<answers>
+<answer>unit price</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Tagesordnungspunkt</text>
+<comment></comment>
+<answers>
+<answer>item on the agenda</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Teilnehmer</text>
+<comment></comment>
+<answers>
+<answer>participant</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Termin [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>deadline</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Terminmarkt</text>
+<comment></comment>
+<answers>
+<answer>forward market</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Umsatz</text>
+<comment></comment>
+<answers>
+<answer>turnover</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Umschlag</text>
+<comment></comment>
+<answers>
+<answer>envelope</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Unterzeichner</text>
+<comment></comment>
+<answers>
+<answer>signatory</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Verbrauch</text>
+<comment></comment>
+<answers>
+<answer>consumption</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Verhandlungsbasis</text>
+<comment></comment>
+<answers>
+<answer>basis for negotiation</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Verhandlungsführer</text>
+<comment></comment>
+<answers>
+<answer>negotiator</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Verkäufer</text>
+<comment></comment>
+<answers>
+<answer>sales assistant</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Verkaufspreis</text>
+<comment></comment>
+<answers>
+<answer>retail price</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Verkaufsschlager</text>
+<comment></comment>
+<answers>
+<answer>best-seller</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Versand</text>
+<comment></comment>
+<answers>
+<answer>despatch</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Versuch</text>
+<comment></comment>
+<answers>
+<answer>trial</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Vertrag</text>
+<comment></comment>
+<answers>
+<answer>contract</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Vertragsbruch, die Vertragsverletzung</text>
+<comment></comment>
+<answers>
+<answer>breach of contract</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Vertragspartner</text>
+<comment></comment>
+<answers>
+<answer>party to the contract</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Vertrieb</text>
+<comment></comment>
+<answers>
+<answer>distribution</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Vertriebskanal</text>
+<comment></comment>
+<answers>
+<answer>marketing channel</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Verzicht, die Außerkraftsetzung</text>
+<comment></comment>
+<answers>
+<answer>waiver</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Voranschlag</text>
+<comment></comment>
+<answers>
+<answer>estimation</answer>
+<answer>budget</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Vorarbeiter</text>
+<comment></comment>
+<answers>
+<answer>foreman</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Vorsitzende</text>
+<comment></comment>
+<answers>
+<answer>chairman</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Vorstand</text>
+<comment></comment>
+<answers>
+<answer>executive board</answer>
+<answer>board of directors</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Wareneinsatz</text>
+<comment></comment>
+<answers>
+<answer>material costs</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Wechsel [finanz.]</text>
+<comment></comment>
+<answers>
+<answer>bill of exchange</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Werbezettel</text>
+<comment></comment>
+<answers>
+<answer>leaflet</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Wettbewerb</text>
+<comment></comment>
+<answers>
+<answer>competition</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Wirtschaftsprüfer</text>
+<comment></comment>
+<answers>
+<answer>accountant</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Wissenschaftler</text>
+<comment></comment>
+<answers>
+<answer>scientist</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Zeitlohn</text>
+<comment></comment>
+<answers>
+<answer>time rates</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Zinsfuß, die Zinsrate</text>
+<comment></comment>
+<answers>
+<answer>interest rate</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Zoll</text>
+<comment></comment>
+<answers>
+<answer>customs</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Zugang (v. Waren)</text>
+<comment></comment>
+<answers>
+<answer>receipt of goods</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Zusammenschluß</text>
+<comment></comment>
+<answers>
+<answer>merger</answer>
+</answers>
+</item>
+
+<item id="0"><text>der Zuteilungsschein</text>
+<comment></comment>
+<answers>
+<answer>allotment letter</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Absichtserklärung</text>
+<comment></comment>
+<answers>
+<answer>declaration of intent</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Abteilung</text>
+<comment></comment>
+<answers>
+<answer>department</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Abwertung</text>
+<comment></comment>
+<answers>
+<answer>devaluation</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Agentur</text>
+<comment></comment>
+<answers>
+<answer>agency</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Akte</text>
+<comment></comment>
+<answers>
+<answer>file</answer>
+<answer>record</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Aktie</text>
+<comment></comment>
+<answers>
+<answer>share</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Aktiengesellschaft</text>
+<comment></comment>
+<answers>
+<answer>public company</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Aktiva</text>
+<comment></comment>
+<answers>
+<answer>assets</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Alleinvertretung</text>
+<comment></comment>
+<answers>
+<answer>exclusivity</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Änderung [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>amendment</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Angaben</text>
+<comment></comment>
+<answers>
+<answer>specifications</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Anlage [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>appendix</answer>
+<answer>annexe</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Anlage</text>
+<comment></comment>
+<answers>
+<answer>investment</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Anweisungen</text>
+<comment></comment>
+<answers>
+<answer>instructions</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Arbeitslosigkeit</text>
+<comment></comment>
+<answers>
+<answer>unemployment</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Arbeitsstudie</text>
+<comment></comment>
+<answers>
+<answer>work study</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Aufwertung</text>
+<comment></comment>
+<answers>
+<answer>revaluation</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Ausgabe mit Bezugsrecht</text>
+<comment></comment>
+<answers>
+<answer>rights issue</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Ausgabe, die Emission</text>
+<comment></comment>
+<answers>
+<answer>issue</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Auskunftstelle, die Information</text>
+<comment></comment>
+<answers>
+<answer>information desk</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Auslandsinvestition</text>
+<comment></comment>
+<answers>
+<answer>foreign investment</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Ausschlussklausel</text>
+<comment></comment>
+<answers>
+<answer>exclusion clause</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Ausschreibung</text>
+<comment></comment>
+<answers>
+<answer>tender</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Auszahlungsrelation</text>
+<comment></comment>
+<answers>
+<answer>pay out ratio</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Baisse</text>
+<comment></comment>
+<answers>
+<answer>fall</answer>
+<answer>slump</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Bankfiliale</text>
+<comment></comment>
+<answers>
+<answer>branch of a bank</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Bankgebühren</text>
+<comment></comment>
+<answers>
+<answer>bank charges</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Bankleitzahl</text>
+<comment></comment>
+<answers>
+<answer>bank sorting code</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Bedingungen</text>
+<comment></comment>
+<answers>
+<answer>conditions</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Beschäftigten</text>
+<comment></comment>
+<answers>
+<answer>to employ</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Besprechung</text>
+<comment></comment>
+<answers>
+<answer>meeting</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Bestellkarte</text>
+<comment></comment>
+<answers>
+<answer>order card</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Bestimmung [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>stipulation</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Beteiligung</text>
+<comment></comment>
+<answers>
+<answer>participation</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Betriebskosten</text>
+<comment></comment>
+<answers>
+<answer>overheads</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Betriebswirtschaft</text>
+<comment></comment>
+<answers>
+<answer>business management</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Bezahlung</text>
+<comment></comment>
+<answers>
+<answer>payment</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Bilanz</text>
+<comment></comment>
+<answers>
+<answer>balance sheet</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Börse</text>
+<comment></comment>
+<answers>
+<answer>stock exchange</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Börse, wechseln</text>
+<comment></comment>
+<answers>
+<answer>exchange</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Botschaft</text>
+<comment></comment>
+<answers>
+<answer>Embassy</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Botschaften</text>
+<comment></comment>
+<answers>
+<answer>ambassador</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Bürgschaft</text>
+<comment></comment>
+<answers>
+<answer>security</answer>
+<answer>surety</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Datenverarbeitung</text>
+<comment></comment>
+<answers>
+<answer>data processing</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Deckung, die Sicherheit</text>
+<comment></comment>
+<answers>
+<answer>collateral</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Defizitfinanzierung</text>
+<comment></comment>
+<answers>
+<answer>deficit financing</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Depression, die Baisse, die Flaute</text>
+<comment></comment>
+<answers>
+<answer>depression</answer>
+<answer>slump</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Devisen</text>
+<comment></comment>
+<answers>
+<answer>foreign exchange</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Dienstleistungen</text>
+<comment></comment>
+<answers>
+<answer>services</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Dienstleistungsbilanz</text>
+<comment></comment>
+<answers>
+<answer>invisible trade balance</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Eigentumsübertragung</text>
+<comment></comment>
+<answers>
+<answer>conveyance of a property</answer>
+<answer>transfer</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Einfuhrquote</text>
+<comment></comment>
+<answers>
+<answer>import quota</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Einkommenssteuer</text>
+<comment></comment>
+<answers>
+<answer>income tax</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Einladung</text>
+<comment></comment>
+<answers>
+<answer>invitation</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Einlage</text>
+<comment></comment>
+<answers>
+<answer>deposit</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Einnahmereserven</text>
+<comment></comment>
+<answers>
+<answer>revenue reserves</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Endmontage</text>
+<comment></comment>
+<answers>
+<answer>final assembly</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Enthaltung</text>
+<comment></comment>
+<answers>
+<answer>abstention</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Entschädigung</text>
+<comment></comment>
+<answers>
+<answer>indemnity</answer>
+<answer>compensation</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Entscheidungsfindung</text>
+<comment></comment>
+<answers>
+<answer>decision-making</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Entwicklung</text>
+<comment></comment>
+<answers>
+<answer>development</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Erbschaftssteuer</text>
+<comment></comment>
+<answers>
+<answer>estate duty</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Erfolgsrechnung</text>
+<comment></comment>
+<answers>
+<answer>profit and loss account</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Ersatzteile</text>
+<comment></comment>
+<answers>
+<answer>share parts</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Etatkontrolle</text>
+<comment></comment>
+<answers>
+<answer>budgetary control</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Fabrik, das Werk</text>
+<comment></comment>
+<answers>
+<answer>factory</answer>
+<answer>plant</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Fälligkeit, die Verfallzeit</text>
+<comment></comment>
+<answers>
+<answer>maturity</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Fertigung</text>
+<comment></comment>
+<answers>
+<answer>production area</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Fixkosten</text>
+<comment></comment>
+<answers>
+<answer>overheads</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Forderungen</text>
+<comment></comment>
+<answers>
+<answer>accounts receivable</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Formulierung</text>
+<comment></comment>
+<answers>
+<answer>formulation</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Forschung</text>
+<comment></comment>
+<answers>
+<answer>research</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Fracht</text>
+<comment></comment>
+<answers>
+<answer>freight</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Frist</text>
+<comment></comment>
+<answers>
+<answer>deadline</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Fusion</text>
+<comment></comment>
+<answers>
+<answer>merger</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Garantie</text>
+<comment></comment>
+<answers>
+<answer>guarantee</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Gebühr</text>
+<comment></comment>
+<answers>
+<answer>charge</answer>
+<answer>fee</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Gemeinkosten</text>
+<comment></comment>
+<answers>
+<answer>overhead costs</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Generalvertretung</text>
+<comment></comment>
+<answers>
+<answer>sole agency</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Genossenschaft</text>
+<comment></comment>
+<answers>
+<answer>association</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Geschäftsbedingungen</text>
+<comment></comment>
+<answers>
+<answer>terms of business</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Gewinn- und Verlustrechnung</text>
+<comment></comment>
+<answers>
+<answer>profits and loss account</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Gewinnbeteiligung</text>
+<comment></comment>
+<answers>
+<answer>profit sharing</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Gewinnspanne</text>
+<comment></comment>
+<answers>
+<answer>profit margin</answer>
+</answers>
+</item>
+
+<item id="0"><text>die GmbH</text>
+<comment></comment>
+<answers>
+<answer>limited liability company</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Güter</text>
+<comment></comment>
+<answers>
+<answer>goods</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Haftpflicht, dieHaftung</text>
+<comment></comment>
+<answers>
+<answer>liability</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Handelsbilanz</text>
+<comment></comment>
+<answers>
+<answer>trade balance</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Handelsinvestition</text>
+<comment></comment>
+<answers>
+<answer>trade investments</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Handelskammer</text>
+<comment></comment>
+<answers>
+<answer>chamber of commerce</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Handelslücke</text>
+<comment></comment>
+<answers>
+<answer>trade gap</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Handelsmarke</text>
+<comment></comment>
+<answers>
+<answer>trade mark</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Handelsspanne</text>
+<comment></comment>
+<answers>
+<answer>profit margin</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Handelswaren</text>
+<comment></comment>
+<answers>
+<answer>merchandise</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Hauptverwaltung</text>
+<comment></comment>
+<answers>
+<answer>headquarters</answer>
+<answer>headoffice</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Hausse</text>
+<comment></comment>
+<answers>
+<answer>boom</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Herstellung</text>
+<comment></comment>
+<answers>
+<answer>production</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Hochkonjunktur</text>
+<comment></comment>
+<answers>
+<answer>boom</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Hypothek</text>
+<comment></comment>
+<answers>
+<answer>mortgage</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Investition</text>
+<comment></comment>
+<answers>
+<answer>investment</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Investitionsgüter</text>
+<comment></comment>
+<answers>
+<answer>capital goods</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Kapazität</text>
+<comment></comment>
+<answers>
+<answer>capacity</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Kapazitätsauslastung</text>
+<comment></comment>
+<answers>
+<answer>use to capacity</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Kapitalertragssteuer</text>
+<comment></comment>
+<answers>
+<answer>withholding tax</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Kapitalzuwachssteuer</text>
+<comment></comment>
+<answers>
+<answer>capital gains tax</answer>
+</answers>
+</item>
+
+<item id="0"><text>die KG</text>
+<comment></comment>
+<answers>
+<answer>limited partnership</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Klausel</text>
+<comment></comment>
+<answers>
+<answer>clause</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Kontoüberziehung</text>
+<comment></comment>
+<answers>
+<answer>overdraft</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Konzession</text>
+<comment></comment>
+<answers>
+<answer>franchise</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Körperschaftssteuer</text>
+<comment></comment>
+<answers>
+<answer>corporation tax</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Kosten</text>
+<comment></comment>
+<answers>
+<answer>costs</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Kreditbeschränkung</text>
+<comment></comment>
+<answers>
+<answer>credit squeeze</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Kursnotierung</text>
+<comment></comment>
+<answers>
+<answer>rate of exchange</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Kurstreiberei</text>
+<comment></comment>
+<answers>
+<answer>rigging the market</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Kurzarbeit</text>
+<comment></comment>
+<answers>
+<answer>short-time-work</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Lagerhalle</text>
+<comment></comment>
+<answers>
+<answer>warehouse</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Lagerung</text>
+<comment></comment>
+<answers>
+<answer>storage</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Lebensunterhaltskosten</text>
+<comment></comment>
+<answers>
+<answer>cost of living</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Leistung</text>
+<comment></comment>
+<answers>
+<answer>performance</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Leistungbilanz</text>
+<comment></comment>
+<answers>
+<answer>trade balance</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Lieferbedingungen</text>
+<comment></comment>
+<answers>
+<answer>delivery conditions</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Lieferfrist</text>
+<comment></comment>
+<answers>
+<answer>time of delivery</answer>
+<answer>delivery period</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Lieferung gegen Nachnahme</text>
+<comment></comment>
+<answers>
+<answer>cash on delivery</answer>
+<answer>C.O.D.</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Lieferung</text>
+<comment></comment>
+<answers>
+<answer>delivery</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Lizenz</text>
+<comment></comment>
+<answers>
+<answer>licence</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Lizenzgebühr</text>
+<comment></comment>
+<answers>
+<answer>royalty</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Lizenzwaren</text>
+<comment></comment>
+<answers>
+<answer>goods produced under licence</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Lohnsummensteuer</text>
+<comment></comment>
+<answers>
+<answer>pay roll tax</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Maklergebühr [finanz.]</text>
+<comment></comment>
+<answers>
+<answer>brokerage</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Marke</text>
+<comment></comment>
+<answers>
+<answer>brand</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Marktbewertung</text>
+<comment></comment>
+<answers>
+<answer>market valuation</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Marktlücke</text>
+<comment></comment>
+<answers>
+<answer>gap in the market</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Materialförderung</text>
+<comment></comment>
+<answers>
+<answer>materials handling</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Mehrheitsbeteiligung</text>
+<comment></comment>
+<answers>
+<answer>majority-interest</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Mehrkosten</text>
+<comment></comment>
+<answers>
+<answer>cost overrun</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Mehrwertsteuer</text>
+<comment></comment>
+<answers>
+<answer>value added tax VAT</answer>
+<answer>VAT</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Messe</text>
+<comment></comment>
+<answers>
+<answer>trade fair</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Miete</text>
+<comment></comment>
+<answers>
+<answer>rental charge</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Montage</text>
+<comment></comment>
+<answers>
+<answer>assembly</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Nebenleistungen</text>
+<comment></comment>
+<answers>
+<answer>fringe benefits</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Obligation</text>
+<comment></comment>
+<answers>
+<answer>bond</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Pacht</text>
+<comment></comment>
+<answers>
+<answer>lease</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Palette (Produkt-)</text>
+<comment></comment>
+<answers>
+<answer>range</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Parität</text>
+<comment></comment>
+<answers>
+<answer>parity</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Passiva</text>
+<comment></comment>
+<answers>
+<answer>liabilities</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Personalnebenkosten</text>
+<comment></comment>
+<answers>
+<answer>additional costs for personnel</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Planungsbesprechung</text>
+<comment></comment>
+<answers>
+<answer>planning meeting</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Preisgleitklausel</text>
+<comment></comment>
+<answers>
+<answer>price escalator clause</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Preisliste</text>
+<comment></comment>
+<answers>
+<answer>price list</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Pressekonferenz</text>
+<comment></comment>
+<answers>
+<answer>press conference</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Pressemitteilung</text>
+<comment></comment>
+<answers>
+<answer>press release</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Produktionsstätte</text>
+<comment></comment>
+<answers>
+<answer>production area</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Pro-forma-Rechnung</text>
+<comment></comment>
+<answers>
+<answer>pro forma invoice</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Provision</text>
+<comment></comment>
+<answers>
+<answer>commission</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Qualitätskontrolle </text>
+<comment></comment>
+<answers>
+<answer>quality control</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Quittung</text>
+<comment></comment>
+<answers>
+<answer>receipt</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Rechnung</text>
+<comment></comment>
+<answers>
+<answer>invoice</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Relation, das Verhältnis</text>
+<comment></comment>
+<answers>
+<answer>ratio</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Rentabilität</text>
+<comment></comment>
+<answers>
+<answer>profitability</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Rezession</text>
+<comment></comment>
+<answers>
+<answer>recession</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Rückstellung</text>
+<comment></comment>
+<answers>
+<answer>appropriation</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Rücktrittsklausel</text>
+<comment></comment>
+<answers>
+<answer>escape clause</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Schicht [Arbeit]</text>
+<comment></comment>
+<answers>
+<answer>shift</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Schleuderausfuhr</text>
+<comment></comment>
+<answers>
+<answer>dumping</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Schuldverschreibung</text>
+<comment></comment>
+<answers>
+<answer>debenture certificate</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Sicherheitsvorschriften</text>
+<comment></comment>
+<answers>
+<answer>safety regulations</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Sondersitzung</text>
+<comment></comment>
+<answers>
+<answer>special meeting</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Sozialversicherung</text>
+<comment></comment>
+<answers>
+<answer>social security</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Spanne</text>
+<comment></comment>
+<answers>
+<answer>margin</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Stammgesellschaft</text>
+<comment></comment>
+<answers>
+<answer>parent company</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Steuer</text>
+<comment></comment>
+<answers>
+<answer>tax</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Stimmvollmacht, das Prokurat</text>
+<comment></comment>
+<answers>
+<answer>proxy</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Strafklausel</text>
+<comment></comment>
+<answers>
+<answer>penalty clause</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Strategie</text>
+<comment></comment>
+<answers>
+<answer>strategy</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Streitigkeiten</text>
+<comment></comment>
+<answers>
+<answer>disagreements</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Streuung, dieVeränderung</text>
+<comment></comment>
+<answers>
+<answer>diversification</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Subvention</text>
+<comment></comment>
+<answers>
+<answer>subsidy</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Tagesordnung festlegen</text>
+<comment></comment>
+<answers>
+<answer>to draw up the agenda</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Tagesordnung</text>
+<comment></comment>
+<answers>
+<answer>agenda</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Tantieme</text>
+<comment></comment>
+<answers>
+<answer>royalty</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Teilhaberschaft</text>
+<comment></comment>
+<answers>
+<answer>partnerships</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Tilgung</text>
+<comment></comment>
+<answers>
+<answer>redemption</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Übernahme</text>
+<comment></comment>
+<answers>
+<answer>takeover</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Überschuldung</text>
+<comment></comment>
+<answers>
+<answer>excessive debts</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Umsatzsteuer</text>
+<comment></comment>
+<answers>
+<answer>purchase tax</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Unterschrift</text>
+<comment></comment>
+<answers>
+<answer>signature</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Veraltung</text>
+<comment></comment>
+<answers>
+<answer>obsolescence</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Veranstaltung</text>
+<comment></comment>
+<answers>
+<answer>event</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Verarbeitungskontrolle</text>
+<comment></comment>
+<answers>
+<answer>process control</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Verbindlichkeit</text>
+<comment></comment>
+<answers>
+<answer>liability</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Verbrauchsgüter</text>
+<comment></comment>
+<answers>
+<answer>consumer goods</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Verbrauchssteuer</text>
+<comment></comment>
+<answers>
+<answer>excise</answer>
+<answer>indirect tax</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Vereinbarung</text>
+<comment></comment>
+<answers>
+<answer>agreement</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Verhandlung</text>
+<comment></comment>
+<answers>
+<answer>negotiations</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Verkäufe</text>
+<comment></comment>
+<answers>
+<answer>sales</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Verkaufskosten</text>
+<comment></comment>
+<answers>
+<answer>selling costs</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Vermögenswerte</text>
+<comment></comment>
+<answers>
+<answer>assets</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Verpackung</text>
+<comment></comment>
+<answers>
+<answer>packaging</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Verpflichtung</text>
+<comment></comment>
+<answers>
+<answer>obligation</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Versicherung</text>
+<comment></comment>
+<answers>
+<answer>insurance</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Verstaatlichung</text>
+<comment></comment>
+<answers>
+<answer>nationalisation</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Vertragserfüllung</text>
+<comment></comment>
+<answers>
+<answer>completion of contract</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Vertragsstrafe</text>
+<comment></comment>
+<answers>
+<answer>penalty for breach of contract</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Verwaltung</text>
+<comment></comment>
+<answers>
+<answer>administration</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Visitenkarte</text>
+<comment></comment>
+<answers>
+<answer>business card</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Vollmacht</text>
+<comment></comment>
+<answers>
+<answer>power of attorney</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Vorbesprechung</text>
+<comment></comment>
+<answers>
+<answer>preliminary meeting</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Wachstumsrate</text>
+<comment></comment>
+<answers>
+<answer>growth rate</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Wagniskosten</text>
+<comment></comment>
+<answers>
+<answer>risk costs</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Währung</text>
+<comment></comment>
+<answers>
+<answer>currency</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Wartung</text>
+<comment></comment>
+<answers>
+<answer>maintenance</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Werkhalle</text>
+<comment></comment>
+<answers>
+<answer>production hall</answer>
+<answer>factory building</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Werkstatt</text>
+<comment></comment>
+<answers>
+<answer>workshop</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Wertpapiere</text>
+<comment></comment>
+<answers>
+<answer>value equities</answer>
+<answer>securities</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Wertsteigerung</text>
+<comment></comment>
+<answers>
+<answer>appreciation</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Zahlungsbedingungen</text>
+<comment></comment>
+<answers>
+<answer>conditions of payment</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Zahlungsbilanz</text>
+<comment></comment>
+<answers>
+<answer>balance of payments</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Zeitschriften</text>
+<comment></comment>
+<answers>
+<answer>magazines</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Zeitungen</text>
+<comment></comment>
+<answers>
+<answer>newspapers</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Zentralbank</text>
+<comment></comment>
+<answers>
+<answer>central bank</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Zielgruppe</text>
+<comment></comment>
+<answers>
+<answer>target group</answer>
+</answers>
+</item>
+
+<item id="0"><text>die Zollerklärung</text>
+<comment></comment>
+<answers>
+<answer>customs declaration</answer>
+</answers>
+</item>
+
+<item id="0"><text>diversifizieren</text>
+<comment></comment>
+<answers>
+<answer>to diversify</answer>
+</answers>
+</item>
+
+<item id="0"><text>effektiv</text>
+<comment></comment>
+<answers>
+<answer>effective</answer>
+</answers>
+</item>
+
+<item id="0"><text>effizient</text>
+<comment></comment>
+<answers>
+<answer>efficient</answer>
+</answers>
+</item>
+
+<item id="0"><text>eine Besprechung abhalten</text>
+<comment></comment>
+<answers>
+<answer>to have a meeting</answer>
+</answers>
+</item>
+
+<item id="0"><text>eine Besprechung ansetzen</text>
+<comment></comment>
+<answers>
+<answer>to arrange a meeting</answer>
+</answers>
+</item>
+
+<item id="0"><text>eine Besprechung moderieren</text>
+<comment></comment>
+<answers>
+<answer>to chair a meeting</answer>
+</answers>
+</item>
+
+<item id="0"><text>eine Besprechung vorbereiten</text>
+<comment></comment>
+<answers>
+<answer>to plan a meeting</answer>
+</answers>
+</item>
+
+<item id="0"><text>einen Antrag stellen</text>
+<comment></comment>
+<answers>
+<answer>to propose a motion</answer>
+</answers>
+</item>
+
+<item id="0"><text>einen Auftrag erteilen [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>to award a contract</answer>
+</answers>
+</item>
+
+<item id="0"><text>einführen</text>
+<comment></comment>
+<answers>
+<answer>to import</answer>
+</answers>
+</item>
+
+<item id="0"><text>Einkünfte aus Kapitalbesitz</text>
+<comment></comment>
+<answers>
+<answer>unearned income</answer>
+</answers>
+</item>
+
+<item id="0"><text>einladen</text>
+<comment></comment>
+<answers>
+<answer>to invite</answer>
+</answers>
+</item>
+
+<item id="0"><text>einstimmig</text>
+<comment></comment>
+<answers>
+<answer>unanimous</answer>
+</answers>
+</item>
+
+<item id="0"><text>entlassen</text>
+<comment></comment>
+<answers>
+<answer>to sack</answer>
+<answer>to fire</answer>
+</answers>
+</item>
+
+<item id="0"><text>entwerfen [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>to draw up</answer>
+</answers>
+</item>
+
+<item id="0"><text>erfolgreich</text>
+<comment></comment>
+<answers>
+<answer>successful</answer>
+</answers>
+</item>
+
+<item id="0"><text>erfüllen</text>
+<comment></comment>
+<answers>
+<answer>to fulfil</answer>
+<answer>to comply with</answer>
+</answers>
+</item>
+
+<item id="0"><text>erhöhen</text>
+<comment></comment>
+<answers>
+<answer>to increase</answer>
+<answer>to raise</answer>
+</answers>
+</item>
+
+<item id="0"><text>erprobt</text>
+<comment></comment>
+<answers>
+<answer>tested</answer>
+</answers>
+</item>
+
+<item id="0"><text>erstklassig</text>
+<comment></comment>
+<answers>
+<answer>first class</answer>
+</answers>
+</item>
+
+<item id="0"><text>expandieren</text>
+<comment></comment>
+<answers>
+<answer>to expand</answer>
+</answers>
+</item>
+
+<item id="0"><text>fällig</text>
+<comment></comment>
+<answers>
+<answer>due</answer>
+<answer>payable</answer>
+</answers>
+</item>
+
+<item id="0"><text>faxen</text>
+<comment></comment>
+<answers>
+<answer>to fax</answer>
+</answers>
+</item>
+
+<item id="0"><text>feindliche Übernahme</text>
+<comment></comment>
+<answers>
+<answer>hostile takeover</answer>
+<answer>unfriendly takeover</answer>
+</answers>
+</item>
+
+<item id="0"><text>finanzieren</text>
+<comment></comment>
+<answers>
+<answer>to finance</answer>
+</answers>
+</item>
+
+<item id="0"><text>Forschung und Entwicklung</text>
+<comment></comment>
+<answers>
+<answer>research and development </answer>
+<answer>R + D</answer>
+</answers>
+</item>
+
+<item id="0"><text>Forschungszentrum</text>
+<comment></comment>
+<answers>
+<answer>research centre</answer>
+</answers>
+</item>
+
+<item id="0"><text>führend</text>
+<comment></comment>
+<answers>
+<answer>leading</answer>
+</answers>
+</item>
+
+<item id="0"><text>fusionieren</text>
+<comment></comment>
+<answers>
+<answer>to merge</answer>
+</answers>
+</item>
+
+<item id="0"><text>geeignet</text>
+<comment></comment>
+<answers>
+<answer>suitable</answer>
+</answers>
+</item>
+
+<item id="0"><text>genehmigtes Kapital</text>
+<comment></comment>
+<answers>
+<answer>authorised capital</answer>
+</answers>
+</item>
+
+<item id="0"><text>Gewinn machen</text>
+<comment></comment>
+<answers>
+<answer>to make a profit</answer>
+</answers>
+</item>
+
+<item id="0"><text>gleitender Wechselkurs</text>
+<comment></comment>
+<answers>
+<answer>floating exchange rate</answer>
+</answers>
+</item>
+
+<item id="0"><text>global</text>
+<comment></comment>
+<answers>
+<answer>global</answer>
+</answers>
+</item>
+
+<item id="0"><text>gründen</text>
+<comment></comment>
+<answers>
+<answer>to found</answer>
+</answers>
+</item>
+
+<item id="0"><text>gültig</text>
+<comment></comment>
+<answers>
+<answer>valid</answer>
+</answers>
+</item>
+
+<item id="0"><text>günstig</text>
+<comment></comment>
+<answers>
+<answer>reasonable</answer>
+<answer>moderate</answer>
+</answers>
+</item>
+
+<item id="0"><text>gutgläubig</text>
+<comment></comment>
+<answers>
+<answer>bona fide</answer>
+</answers>
+</item>
+
+<item id="0"><text>haften für</text>
+<comment></comment>
+<answers>
+<answer>to be liable for</answer>
+</answers>
+</item>
+
+<item id="0"><text>handeln</text>
+<comment></comment>
+<answers>
+<answer>to bargain</answer>
+</answers>
+</item>
+
+<item id="0"><text>handelsüblich</text>
+<comment></comment>
+<answers>
+<answer>customary</answer>
+</answers>
+</item>
+
+<item id="0"><text>harte Währung</text>
+<comment></comment>
+<answers>
+<answer>hard currency</answer>
+</answers>
+</item>
+
+<item id="0"><text>herstellen</text>
+<comment></comment>
+<answers>
+<answer>to produce</answer>
+<answer>to manufacture</answer>
+</answers>
+</item>
+
+<item id="0"><text>hervorragend</text>
+<comment></comment>
+<answers>
+<answer>excellent</answer>
+<answer>outstanding</answer>
+</answers>
+</item>
+
+<item id="0"><text>höhere Gewalt [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>act of God</answer>
+</answers>
+</item>
+
+<item id="0"><text>im Einzelverkauf</text>
+<comment></comment>
+<answers>
+<answer>retail</answer>
+</answers>
+</item>
+
+<item id="0"><text>im Großhandel</text>
+<comment></comment>
+<answers>
+<answer>wholesale</answer>
+</answers>
+</item>
+
+<item id="0"><text>immaterielle Werte</text>
+<comment></comment>
+<answers>
+<answer>intangible assets</answer>
+</answers>
+</item>
+
+<item id="0"><text>in Konkurs geraten</text>
+<comment></comment>
+<answers>
+<answer>to go bankrupt</answer>
+</answers>
+</item>
+
+<item id="0"><text>in Kraft treten</text>
+<comment></comment>
+<answers>
+<answer>to come into effect</answer>
+</answers>
+</item>
+
+<item id="0"><text>in Lizenz herstellen</text>
+<comment></comment>
+<answers>
+<answer>to manufacture under licence</answer>
+</answers>
+</item>
+
+<item id="0"><text>informelles Gespräch</text>
+<comment></comment>
+<answers>
+<answer>informal discussion</answer>
+</answers>
+</item>
+
+<item id="0"><text>investieren</text>
+<comment></comment>
+<answers>
+<answer>to invest</answer>
+</answers>
+</item>
+
+<item id="0"><text>konkurrenzlos</text>
+<comment></comment>
+<answers>
+<answer>no competition</answer>
+</answers>
+</item>
+
+<item id="0"><text>konkurrieren</text>
+<comment></comment>
+<answers>
+<answer>to compete</answer>
+</answers>
+</item>
+
+<item id="0"><text>konzentrieren</text>
+<comment></comment>
+<answers>
+<answer>to concentrate</answer>
+</answers>
+</item>
+
+<item id="0"><text>kündigen</text>
+<comment></comment>
+<answers>
+<answer>to terminate</answer>
+</answers>
+</item>
+
+<item id="0"><text>langlebige Verbrauchsgüter</text>
+<comment></comment>
+<answers>
+<answer>durable commodities</answer>
+</answers>
+</item>
+
+<item id="0"><text>leiten</text>
+<comment></comment>
+<answers>
+<answer>to manage</answer>
+</answers>
+</item>
+
+<item id="0"><text>leitender</text>
+<comment></comment>
+<answers>
+<answer>executive</answer>
+</answers>
+</item>
+
+<item id="0"><text>Marktpreis</text>
+<comment></comment>
+<answers>
+<answer>market price</answer>
+</answers>
+</item>
+
+<item id="0"><text>maximal</text>
+<comment></comment>
+<answers>
+<answer>maximum</answer>
+</answers>
+</item>
+
+<item id="0"><text>minimal</text>
+<comment></comment>
+<answers>
+<answer>minimum</answer>
+</answers>
+</item>
+
+<item id="0"><text>mittelfristig</text>
+<comment></comment>
+<answers>
+<answer>medium term</answer>
+</answers>
+</item>
+
+<item id="0"><text>moderieren </text>
+<comment></comment>
+<answers>
+<answer>to chair</answer>
+</answers>
+</item>
+
+<item id="0"><text>mündelsichere Wertpapiere</text>
+<comment></comment>
+<answers>
+<answer>gilt-edged securities</answer>
+</answers>
+</item>
+
+<item id="0"><text>netto, Rein-</text>
+<comment></comment>
+<answers>
+<answer>net</answer>
+</answers>
+</item>
+
+<item id="0"><text>null und nichtig</text>
+<comment></comment>
+<answers>
+<answer>null and void</answer>
+</answers>
+</item>
+
+<item id="0"><text>öffentlich rechtliche Körperschaft</text>
+<comment></comment>
+<answers>
+<answer>public corporation</answer>
+</answers>
+</item>
+
+<item id="0"><text>per Prokura</text>
+<comment></comment>
+<answers>
+<answer>per pro</answer>
+</answers>
+</item>
+
+<item id="0"><text>privatisieren</text>
+<comment></comment>
+<answers>
+<answer>to privatize</answer>
+</answers>
+</item>
+
+<item id="0"><text>rationalisieren</text>
+<comment></comment>
+<answers>
+<answer>to rationalize</answer>
+</answers>
+</item>
+
+<item id="0"><text>reduzieren</text>
+<comment></comment>
+<answers>
+<answer>to cut back</answer>
+</answers>
+</item>
+
+<item id="0"><text>regional</text>
+<comment></comment>
+<answers>
+<answer>regional</answer>
+<answer>local</answer>
+</answers>
+</item>
+
+<item id="0"><text>reibungslos</text>
+<comment></comment>
+<answers>
+<answer>trouble-free</answer>
+</answers>
+</item>
+
+<item id="0"><text>restriktive Praktiken</text>
+<comment></comment>
+<answers>
+<answer>restrictive practice</answer>
+</answers>
+</item>
+
+<item id="0"><text>schlüsselfertig</text>
+<comment></comment>
+<answers>
+<answer>turnkey</answer>
+</answers>
+</item>
+
+<item id="0"><text>schrumpfende Erträge</text>
+<comment></comment>
+<answers>
+<answer>diminishing returns</answer>
+</answers>
+</item>
+
+<item id="0"><text>sich halten an [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>to abide by</answer>
+</answers>
+</item>
+
+<item id="0"><text>sicher</text>
+<comment></comment>
+<answers>
+<answer>safe</answer>
+</answers>
+</item>
+
+<item id="0"><text>stilllegen, schließen</text>
+<comment></comment>
+<answers>
+<answer>to close down</answer>
+</answers>
+</item>
+
+<item id="0"><text>storniert</text>
+<comment></comment>
+<answers>
+<answer>cancelled</answer>
+</answers>
+</item>
+
+<item id="0"><text>strategisch</text>
+<comment></comment>
+<answers>
+<answer>strategic</answer>
+</answers>
+</item>
+
+<item id="0"><text>Stück pro Tag</text>
+<comment></comment>
+<answers>
+<answer>units per day</answer>
+</answers>
+</item>
+
+<item id="0"><text>subventionieren</text>
+<comment></comment>
+<answers>
+<answer>to subsidize</answer>
+</answers>
+</item>
+
+<item id="0"><text>technischer Standard</text>
+<comment></comment>
+<answers>
+<answer>technical standard</answer>
+</answers>
+</item>
+
+<item id="0"><text>teilnehmen</text>
+<comment></comment>
+<answers>
+<answer>to attend</answer>
+</answers>
+</item>
+
+<item id="0"><text>termingerecht [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>on schedule</answer>
+</answers>
+</item>
+
+<item id="0"><text>übernehmen</text>
+<comment></comment>
+<answers>
+<answer>to take over</answer>
+</answers>
+</item>
+
+<item id="0"><text>Überstunden</text>
+<comment></comment>
+<answers>
+<answer>overtime</answer>
+</answers>
+</item>
+
+<item id="0"><text>Übertragungsangebot</text>
+<comment></comment>
+<answers>
+<answer>transfer offer</answer>
+</answers>
+</item>
+
+<item id="0"><text>umorganisiseren</text>
+<comment></comment>
+<answers>
+<answer>to reorganize</answer>
+</answers>
+</item>
+
+<item id="0"><text>unentschieden</text>
+<comment></comment>
+<answers>
+<answer>split decision</answer>
+<answer>not settled</answer>
+</answers>
+</item>
+
+<item id="0"><text>unterschreiben</text>
+<comment></comment>
+<answers>
+<answer>to sign</answer>
+</answers>
+</item>
+
+<item id="0"><text>unterschreiten</text>
+<comment></comment>
+<answers>
+<answer>to overrun</answer>
+</answers>
+</item>
+
+<item id="0"><text>unwiderruflich [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>irrevocable</answer>
+</answers>
+</item>
+
+<item id="0"><text>unwirksam [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>inoperative</answer>
+<answer>null and void</answer>
+</answers>
+</item>
+
+<item id="0"><text>verarbeiten</text>
+<comment></comment>
+<answers>
+<answer>to process</answer>
+</answers>
+</item>
+
+<item id="0"><text>verbessern</text>
+<comment></comment>
+<answers>
+<answer>to improve</answer>
+</answers>
+</item>
+
+<item id="0"><text>verbessert</text>
+<comment></comment>
+<answers>
+<answer>improved</answer>
+</answers>
+</item>
+
+<item id="0"><text>verbindlich [Vertrag]</text>
+<comment></comment>
+<answers>
+<answer>binding</answer>
+</answers>
+</item>
+
+<item id="0"><text>vereinbaren</text>
+<comment></comment>
+<answers>
+<answer>to agree</answer>
+</answers>
+</item>
+
+<item id="0"><text>vergrößern</text>
+<comment></comment>
+<answers>
+<answer>to enlarge</answer>
+</answers>
+</item>
+
+<item id="0"><text>verhandeln</text>
+<comment></comment>
+<answers>
+<answer>to negotiate</answer>
+</answers>
+</item>
+
+<item id="0"><text>verkaufen</text>
+<comment></comment>
+<answers>
+<answer>to sell</answer>
+</answers>
+</item>
+
+<item id="0"><text>verlängern</text>
+<comment></comment>
+<answers>
+<answer>to extend</answer>
+</answers>
+</item>
+
+<item id="0"><text>Verlust machen</text>
+<comment></comment>
+<answers>
+<answer>to make a loss</answer>
+</answers>
+</item>
+
+<item id="0"><text>vermarkten</text>
+<comment></comment>
+<answers>
+<answer>to market</answer>
+</answers>
+</item>
+
+<item id="0"><text>verringern</text>
+<comment></comment>
+<answers>
+<answer>to lower</answer>
+<answer>to reduce</answer>
+</answers>
+</item>
+
+<item id="0"><text>verschieben</text>
+<comment></comment>
+<answers>
+<answer>to postpone</answer>
+</answers>
+</item>
+
+<item id="0"><text>versichern</text>
+<comment></comment>
+<answers>
+<answer>to insure</answer>
+</answers>
+</item>
+
+<item id="0"><text>verstaatlichen</text>
+<comment></comment>
+<answers>
+<answer>to nationalize</answer>
+</answers>
+</item>
+
+<item id="0"><text>vertreten</text>
+<comment></comment>
+<answers>
+<answer>to represent</answer>
+</answers>
+</item>
+
+<item id="0"><text>verzollen</text>
+<comment></comment>
+<answers>
+<answer>to declare</answer>
+</answers>
+</item>
+
+<item id="0"><text>vorbehalten, vorbehaltlich</text>
+<comment></comment>
+<answers>
+<answer>subject to</answer>
+</answers>
+</item>
+
+<item id="0"><text>vorrätig haben</text>
+<comment></comment>
+<answers>
+<answer>to have in stock</answer>
+</answers>
+</item>
+
+<item id="0"><text>wartungsfrei</text>
+<comment></comment>
+<answers>
+<answer>maintenance-free</answer>
+</answers>
+</item>
+
+<item id="0"><text>weiche Währung</text>
+<comment></comment>
+<answers>
+<answer>soft currency</answer>
+</answers>
+</item>
+
+<item id="0"><text>weltweit</text>
+<comment></comment>
+<answers>
+<answer>worldwide</answer>
+</answers>
+</item>
+
+<item id="0"><text>wirtschaftlich</text>
+<comment></comment>
+<answers>
+<answer>economical</answer>
+</answers>
+</item>
+
+<item id="0"><text>zahlungsfähig</text>
+<comment></comment>
+<answers>
+<answer>solvent</answer>
+</answers>
+</item>
+
+<item id="0"><text>zahlungsunfähig</text>
+<comment></comment>
+<answers>
+<answer>insolvent</answer>
+</answers>
+</item>
+
+<item id="0"><text>zukunftsweisend</text>
+<comment></comment>
+<answers>
+<answer>forward-looking</answer>
+</answers>
+</item>
+
+<item id="0"><text>zusammenbauen</text>
+<comment></comment>
+<answers>
+<answer>to assemble</answer>
+</answers>
+</item>
+
+<item id="0"><text>zuverlässig</text>
+<comment></comment>
+<answers>
+<answer>reliable</answer>
+</answers>
+</item>
+
+</items>
+			</lesson>
+			</lessons>
+		</brain>

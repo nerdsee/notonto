@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ====================================================================== 
+     21.03.2008 00:17:21                                                        
+
+     project    
+     description
+                   
+     Jan                                                                
+     ====================================================================== -->
+<project name="notonto">
+	<description>
+            description
+    </description>
+	<property file="build.properties" />
+	<fileset id="dist_jars" dir="${lib.dir}">
+		<include name="**/*.jar" />
+	</fileset>
+
+	<!-- Build time jars -->
+	<filelist id="misc_jars">
+		<file name="${servlet-api.jar}" />
+	</filelist>
+
+	<path id="classpath">
+		<pathelement location="${build.classes.dir}" />
+		<fileset refid="dist_jars" />
+		<filelist refid="misc_jars" />
+		<fileset id="apache_jars" dir="${apache.dir}">
+			<include name="**/*.jar" />
+		</fileset>
+	</path>
+
+	<target name="ext" description="build and copy firefox extension">
+		<mkdir dir="${webapp.dir}/extensions" />
+		<zip destfile="${webapp.dir}/extensions/notonto.xpi">
+			<fileset dir="extensions/notonto">
+				<include name="**" />
+			</fileset>
+		</zip>
+		<copy todir="${webapp.dir}/extensions" overwrite="true">
+			<fileset dir="extensions/">
+				<include name="update.rdf" />
+			</fileset>
+		</copy>
+	</target>
+
+	<target name="copy" description="copy static content">
+		<mkdir dir="${webapp.dir}/WEB-INF/classes" />
+		<copy todir="${webapp.dir}" overwrite="true">
+			<fileset dir="WebContent">
+				<include name="**" />
+			</fileset>
+		</copy>
+	</target>
+
+	<target name="compile" description="compile sources">
+		<mkdir dir="${webapp.dir}/WEB-INF/classes" />
+		<copy todir="${webapp.dir}/WEB-INF/classes" overwrite="true">
+			<fileset dir="src">
+				<include name="**/*.properties" />
+			</fileset>
+		</copy>
+		<javac srcdir="src" destdir="${webapp.dir}/WEB-INF/classes" debug="on">
+			<classpath refid="classpath" />
+		</javac>
+	</target>
+
+	<target name="statusmail" description="generate statusmail program">
+		<copy todir="${statusmail.dir}" overwrite="true">
+			<fileset dir="statusmail">
+				<include name="**/*.sh" />
+			</fileset>
+		</copy>
+		<chmod file="${statusmail.dir}/*.sh" perm="700"/>
+		<mkdir dir="${statusmail.dir}/build" />
+                <copy todir="${statusmail.dir}/build" overwrite="true">
+                        <fileset dir="src">
+                                <include name="**/*.properties" />
+                        </fileset>
+                </copy>
+		<javac sourcepath="" srcdir="src" destdir="${statusmail.dir}/build" debug="on">
+			<classpath refid="classpath" />
+			<include name="**/org/stoevesand/util/StringUtils.java" />
+			<include name="**/org/stoevesand/util/DBUtil.java" />
+			<include name="**/org/stoevesand/brain/exceptions/*.java" />
+			<include name="**/org/stoevesand/brain/newsletter/*.java" />
+		</javac>
+		<jar destfile="${statusmail.dir}/notontoMailer.jar">
+			<fileset dir="${statusmail.dir}/build" id="id">
+				<include name="**/*.class" />
+				<include name="**/*.properties" />
+			</fileset>
+		</jar>
+	</target>
+
+	<target name="all" depends="copy, compile, ext">
+	</target>
+
+</project>

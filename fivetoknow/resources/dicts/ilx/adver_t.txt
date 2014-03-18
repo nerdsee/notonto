@@ -1,0 +1,82 @@
+por la tarde/por la noche :: abends	
+sólo, solamente :: allein	
+lo que más (me gustaría) :: am liebsten	
+de otra manera, de otro modo, al contrario :: anders	
+también :: auch	
+de repente :: auf einmal	
+además, aparte :: außerdem	
+fuera :: außerhalb	
+pronto, en breve :: bald (eher, am ehesten)	
+especialmente, en particular :: besonders	
+seguro, seguramente :: bestimmt	
+por favor :: bitte	
+sólo, únicamente :: bloß	
+allí :: da	
+por eso, de ahí :: daher	
+en aquel tiempo, entonces :: damals	
+más tarde, a continuación :: danach	
+luego, entonces :: dann	
+esta vez :: diesmal	
+fuera, al aire libre :: draußen	
+simplemente :: einfach	
+por fin, finalmente :: endlich	
+sólo, primero :: erst	
+aproximadamente :: etwa	
+casi :: fast	
+bastante, muy :: ganz	
+exactamente :: genau	
+bastante, suficiente :: genug	
+ahora mismo, precisamente :: gerade	
+recto, seguido :: geradeaus	
+(hacer algo) con (mucho) gusto :: gern (lieber, am liebsten)	
+ayer :: gestern	
+separado :: getrennt	
+a menudo, con frecuencia :: häufig	
+hoy :: heute	
+hoy, hoy (en) día :: heute	
+aquí :: hier	
+como mucho :: höchstens	
+siempre :: immer	
+algún día, en cualquier momento :: irgendwann	
+ahora, en este momento :: jetzt	
+mucho tiempo :: lange (länger, am längsten)	
+por desgracia :: leider	
+último :: letzt-	
+a la izquierda :: links	
+a veces :: manchmal	
+la mayoría de las veces :: meistens	
+al mediodía :: mittags	
+mañana :: morgen	
+por la mañana :: morgens	
+por la tarde :: nachmittags	
+por la noche :: nachts	
+naturalmente :: natürlich	
+no :: nicht	
+nunca, jamás :: nie	
+aún, todavía :: noch	
+otra vez :: noch einmal	
+sólo, solamente :: nur	
+arriba :: oben	
+a menudo :: oft (öfter, am öftesten)	
+de repente :: plötzlich	
+a la derecha :: rechts	
+ya :: schon	
+muy, mucho :: sehr (mehr, am meisten)	
+por supuesto, desde luego :: selbstverständlich	
+enseguida, en el acto, ahora mismo :: sofort	
+incluso :: sogar	
+cada día, todos los días, diariamente :: täglich	
+por todas partes :: überall	
+por cierto, dicho sea de paso :: übrigens	
+abajo :: unten	
+diferente, distinto :: verschieden	
+quizás, tal vez :: vielleicht	
+completamente :: völlig	
+sobre todo :: vor allem	
+antes :: vorher	
+principalmente :: vorwiegend	
+otra vez, de nuevo :: wieder	
+de verdad :: wirklich	
+bastante, casi :: ziemlich	
+primero, al principio :: zuerst	
+juntos :: zusammen	

@@ -1,0 +1,1790 @@
+BAS3-DE-EN
+Basiswortschatz III (deutsch-englisch)
+EN
+abbrechen	::	to break off		
+abends	::	in the evening		
+abfallen	::	to apostatize		
+abgeneigt	::	averse		
+abgrasen	::	to graze		
+abkehren	::	to turn away		
+ablegen	::	to put down		
+abscheulich	::	abhorrent		
+abschneiden	::	to slice		
+absenden	::	to send		
+abstauben	::	to dust		
+abstrakt	::	abstract		
+abtrünnig	::	apostate		
+abwischen	::	to wipe		
+acht	::	eight		
+achtzig	::	eighty		
+aggressiv	::	aggressive		
+aktiv	::	active		
+akut	::	acute		
+allenthalben	::	all about		
+allmählich	::	gradually		
+als ob	::	as though	,	as if
+altersschwach	::	decrepit		
+amerikanisch	::	american		
+analytisch	::	analytic		
+anbieten	::	to offer		
+andernfalls	::	otherwise		
+anerkennen	::	to acknowledge		
+anführen	::	to head		
+angeheitert	::	tipsy		
+angemessen	::	appropriately		
+angewiesen sein auf	::	to be dependent on		
+Angst haben vor	::	to be afraid of		
+anhängen	::	to hook		
+ankündigen	::	to announce		
+annähern	::	to approach		
+annoncieren	::	to advertise		
+anraten	::	to advise		
+ansehnlich	::	good-looking		
+anstatt	::	instead		
+anstößig	::	shocking		
+anverwandt	::	related		
+anwesend	::	present		
+anziehen	::	to attract		
+apostolisch	::	apostolic		
+ärgerlich	::	angry		
+arktisch	::	arctic		
+artikulieren	::	to articulate		
+assistieren	::	to assist		
+atlantisch	::	atlantic		
+auch	::	also	,	too
+aufflackern	::	to flare up		
+aufklären	::	to clear up		
+aufrecht	::	upright		
+aufschieben	::	to put off		
+aufspüren	::	to detect		
+aufwachen	::	to wake up		
+ausatmen	::	to exhale		
+ausdrücken	::	to express		
+ausgenommen	::	apart from		
+ausleihen	::	to loan		
+ausmerzen	::	to weed out		
+ausrüsten	::	to equip		
+außen	::	outside		
+außerhalb	::	outside		
+aussteigen	::	to get off		
+austreiben	::	to drive out		
+auswerten	::	to evaluate		
+automatisieren	::	to automate		
+bald	::	soon		
+barfuß	::	barefoot		
+bauen	::	to build		
+beachtenswert	::	remarkable		
+bebauen	::	to farm		
+bedeuten	::	to mean		
+beeinflussen	::	to affect		
+befehlen	::	to command	,	to order
+beflecken	::	to stain		
+befruchten	::	to fertilize		
+beginnen	::	to begin	,	to commence
+begrüßen	::	to welcome		
+beherbergen	::	to accommodate		
+beide	::	both		
+beinhalten	::	to include		
+beitragen	::	to contribute		
+beklagen	::	to lament		
+belasten [Konto]	::	to debit		
+beleidigen	::	to insult	,	to offend
+bemerken	::	to notice		
+benommen	::	dazed		
+berauben	::	to deprive	,	to mug
+beruhigen	::	to calm		
+beschädigen	::	to damage		
+Bescheid geben	::	to let know		
+beschneiden	::	to circumcise		
+beschuldigen	::	to blame	,	to denounce
+besitzen	::	to possess		
+besser	::	better		
+bestehen aus	::	to consist of		
+bestimmen	::	to destine	,	to ordain
+besuchen	::	to visit		
+betreffen	::	to implicate		
+betrübend	::	afflictive		
+beunruhigen	::	to disquiet		
+bewaffnen	::	to arm		
+beweisbar	::	demonstrable		
+bewirken	::	to effect		
+bewundernswert	::	admirable		
+bezeichnet	::	marked		
+bildlich	::	figurative		
+binden	::	to tie		
+bisher	::	so far		
+blass	::	pale		
+bleibend	::	abiding		
+blinken	::	to blink		
+blond	::	blond		
+bohren	::	to drill		
+boxen	::	to box		
+braun	::	brown		
+brillant	::	brilliant		
+brünett	::	brunette		
+bulgarisch	::	Bulgarian		
+bürsten	::	to brush		
+christlich	::	Christian		
+dabei	::	nearby		
+damenhaft	::	ladylike		
+dänisch	::	Danish		
+darf	::	may		
+das Abkommen	::	agreement	,	deal
+das Actinium	::	actinium		
+das Afrika	::	Africa		
+das Alkali	::	alkali		
+das Alter	::	age		
+das Amerizium	::	americium		
+das Andenken	::	souvenir		
+das Anschlagbrett	::	billboard		
+das Appartement	::	apartment		
+das Archipel	::	archipelago		
+das Aroma	::	aroma		
+das Asien	::	Asia		
+das Atoll	::	atoll		
+das Auge	::	eye		
+das Äußere	::	outside		
+das Autowrack	::	car wreck		
+das Ballett	::	ballet		
+das Bankkonto	::	bank account		
+das Barometer	::	barometer		
+das Bayern	::	Bavaria		
+das Bedauern	::	regret		
+das Begräbnis	::	funeral		
+das Benehmen	::	behavior		
+das Bersten	::	burst		
+das Bett	::	bed		
+das Bild	::	image	,	picture
+das Blatt [Papier]	::	sheet		
+das Blitzlicht	::	flash		
+das Boot	::	boat		
+das Brandzeichen	::	brand		
+das Brötchen	::	roll		
+das Budget	::	budget		
+das Büro	::	bureau	,	office
+das Chamäleon	::	chameleon		
+das Chrom	::	chrome		
+das Dachzimmer	::	loft		
+das Deck	::	deck		
+das Dessert	::	dessert		
+das Diktat	::	dictation		
+das Diskettenlaufwerk	::	disk drive		
+das Dorf	::	village		
+das Dreikönigsfest	::	Epiphany		
+das Düsenflugzeug	::	jet		
+das Echo	::	echo		
+das Einhorn	::	unicorn		
+das Eiter	::	pus		
+das Elend	::	misery		
+das Ende	::	end	,	finish
+das Erdgas	::	natural gas		
+das Ergebnis	::	outcome	,	result
+das Erzbistum	::	archbishopric		
+das Europa	::	Europe		
+das Experiment	::	experiment		
+das Fallobst	::	windfall		
+das Fax	::	fax		
+das Fernglas	::	binoculars		
+das Fest	::	festival		
+das Fieber	::	fever		
+das Floß	::	raft		
+das Forum	::	forum		
+das Fragment	::	fragment		
+das Frühstück	::	breakfast		
+das Fußballspiel	::	soccer		
+das Gebälk	::	wood-work		
+das Gebiß	::	teeth		
+das Gefährt	::	vehicle		
+das Geflügel	::	fowl	,	poultry
+das Gehalt	::	salary		
+das Gehölz	::	wood		
+das Gelee	::	jelly		
+das Gemüse	::	vegetables		
+das Gerichtsverfahren	::	trial		
+das Geschäft	::	business	,	shop
+das Geschlecht	::	gender	,	sex
+das Gesetz	::	law		
+das Gespräch	::	talk		
+das Getreide	::	grain		
+das Gewand	::	garment		
+das Gewicht	::	weight		
+das Gift	::	poison		
+das Glied	::	limb		
+das Gotteshaus	::	tabernacle		
+das Grenzgebiet	::	borderland		
+das Gymnasium	::	high school		
+das Halsband	::	collar		
+das Handtuch	::	towel		
+das Hauptgerät	::	mainframe		
+das Heben	::	lift		
+das Heiligtum	::	sanctuary		
+das Heinzelmännchen	::	brownie		
+das Herz	::	heart		
+das Hindernis	::	impediment	,	obstacle
+das Hirn	::	brain		
+das Holz	::	wood		
+das Hotel	::	hotel		
+das Imperium	::	empire		
+das Insekt	::	insect		
+das Internat	::	boarding school		
+das Jahrhundert	::	century		
+das Judentum	::	Judaism		
+das Kalbfleisch	::	veal		
+das Känguru	::	kangaroo		
+das Karma	::	karma		
+das Kästchen	::	casket		
+das Kilo	::	kilo		
+das Kirchenschiff	::	nave		
+das Kleeblatt	::	shamrock		
+das Klemmbrett	::	clipboard		
+das Klubmitglied	::	club member		
+das Koma	::	coma		
+das Königtum	::	kingship		
+das Konzert	::	concert		
+das Kostüm	::	costume		
+das Kreuz	::	cross		
+das Küken	::	chick		
+das Labor	::	laboratory		
+das Lager	::	stock		
+das Laib	::	loaf		
+das Latein	::	Latin		
+das Leerzeichen	::	blank		
+das Lesen	::	reading		
+das Limit	::	limit		
+das Lob	::	praise		
+das Magnesium	::	magnesium		
+das Manometer	::	manometer		
+das Medium	::	medium		
+das Merkmal	::	feature	,	sign
+das Miezekätzchen	::	pussycat		
+das Milligramm	::	milligram		
+das Mitleid	::	compassion		
+das Mobiltelefon	::	cellphone		
+das Molekül	::	molecule		
+das Monster	::	monster		
+das Morphium	::	morphine		
+das Motorrad	::	motorcycle		
+das Muttermal	::	birthmark		
+das Netz	::	net	,	web
+das Niveau	::	level		
+das Öl	::	oil		
+das Orange	::	orange		
+das Ozeanien	::	Oceania		
+das Paket	::	package	,	parcel
+das Pärchen	::	couple		
+das Pascal	::	Pascal		
+das Personal	::	personnel		
+das Phosphor	::	phosphor		
+das Plasma	::	plasma		
+das Polster	::	pad		
+das Porto	::	postage		
+das Präparat	::	preparation		
+das Problem	::	problem	,	trouble
+das Pronomen	::	pronoun		
+das Prozent	::	percent		
+das Pulver	::	powder		
+das Rad	::	wheel		
+das Radon	::	radon		
+das Rathaus	::	city hall		
+das Regime	::	regimen		
+das Restaurant	::	restaurant		
+das Rhodium	::	rhodium		
+das Rohr	::	drain		
+das Ruder [lenken]	::	rudder		
+das Sakrament	::	sacrament		
+das Saxophon	::	saxophone		
+das Schaffleisch	::	mutton		
+das Schaufenster	::	store-window		
+das Schienbein	::	shin		
+das Schilf	::	reed		
+das Schlüsselloch	::	keyhole		
+das Schreiben	::	writing		
+das Schwarzbrot	::	brown bread		
+das Schwert	::	sword		
+das Segeltuch	::	canvas		
+das Sibirien	::	Siberia		
+das Silizium	::	silicon		
+das Sodbrennen	::	heartburn		
+das Sonderangebot	::	bargain		
+das Sortiment	::	assortment		
+das Spektrum	::	spectrum		
+das Spielzeug	::	toy		
+das Stachelschwein	::	porcupine		
+das Stiefkind	::	stepchild		
+das Stockwerk	::	floor		
+das Strontium	::	strontium		
+das Studium	::	study		
+das Sweatshirt	::	sweatshirt		
+das Tagblatt	::	daily paper		
+das Tamburin	::	tambourine		
+das Taxameter	::	taxi		
+das Telefon	::	phone	,	telephone
+das Tennis	::	tennis		
+das Thema	::	theme	,	topic
+das Tischtuch	::	table-cloth		
+das Tschetschenien	::	Chechenia		
+das Türschloß	::	lock		
+das Umfeld	::	surroundings		
+das Urheberrecht	::	copyright		
+das Vaterland	::	fatherland		
+das Verdeck	::	deck		
+das Verhalten	::	behaviour		
+das Vermögen	::	fortune		
+das Vertrauen	::	faith		
+das Vieleck	::	polygon		
+das Volk	::	nation		
+das Vorhandensein	::	existence		
+das Wachstum	::	growth		
+das Wasser	::	water		
+das Werkzeug	::	instrument	,	tool
+das Wildtier	::	wild animal		
+das Wohlbefinden	::	wellness		
+das Wolfram	::	wolfram		
+das Wrack	::	wreck		
+das Xylophon	::	xylophone		
+das Zebra	::	zebra		
+das Zentimeter	::	centimeter		
+das Ziel	::	target		
+das Zinn	::	tin		
+dass	::	that		
+davonlaufen	::	to bolt		
+definierend	::	defining		
+dein	::	your		
+demontieren	::	to dismantle		
+deportieren	::	to deport		
+der Abc-Schütze	::	abecedarian		
+der Aberglaube	::	superstition		
+der Abgeordnete	::	representative		
+der Abhang	::	slope		
+der Absender	::	sender		
+der Ackerbau	::	agriculture		
+der Adler	::	eagle		
+der After	::	anus		
+der Akademiker	::	academic		
+der Akt	::	act		
+der Alarm	::	alarm	,	alert
+der Alligator	::	alligator		
+der Alptraum	::	nightmare		
+der Amateur	::	amateur		
+der Amerikaner	::	American		
+der Anarchist	::	anarchist		
+der Anfang	::	commencement	,	start
+der Angler	::	angler		
+der Anhang	::	affix		
+der Ankerplatz	::	anchorage		
+der Anspruch	::	claim		
+der Ansturm	::	run on		
+der Antisemitismus	::	anti-Semitism		
+der Apfelsaft	::	apple juice		
+der Appetit	::	appetite		
+der Äquator	::	equator		
+der Arbeitskittel	::	smock		
+der Architekt	::	architect		
+der Artikel	::	article		
+der Aschenbecher	::	ashtray		
+der Asteroid	::	asteroid		
+der Atheist	::	atheist		
+der Aufkleber	::	sticker		
+der Aufschwung	::	headway		
+der August	::	August		
+der Ausdruck	::	expression	,	term
+der Ausländer	::	alien	,	foreigner
+der Ausstoß	::	ejection		
+der Autodidakt	::	autodidact		
+der Azteke	::	Aztec		
+der Badeanzug	::	bathing suit		
+der Balkon	::	balcony		
+der Bankrott	::	bankruptcy		
+der Bart	::	beard		
+der Basketball	::	basketball		
+der Bauer	::	farmer		
+der Beamte	::	officer		
+der Befreier	::	liberator		
+der Begriff	::	idea		
+der Beitragende	::	contributor		
+der Bengel	::	urchin		
+der Berechtigungsnachweis	::	credential		
+der Bergsteiger	::	climber		
+der Besitz	::	ownership	,	possession
+der Beton	::	concrete		
+der Beurteiler	::	judge		
+der Bezirk	::	district		
+der Bienenstock	::	beehive		
+der Bildschirm	::	screen		
+der Biologe	::	biologist		
+der Bissen	::	morsel		
+der Block	::	block		
+der Bogen	::	arch	,	bow
+der Bosnier	::	Bosnian		
+der Brand	::	burn		
+der Briefkasten	::	mailbox		
+der Bruch	::	burst	,	fraction
+der Bub	::	boy		
+der Buchstabe	::	letter		
+der Bummelzug	::	slow train		
+der Bürgermeister	::	mayor		
+der Busen	::	bosom		
+der Champagner	::	champagne		
+der Charakterzug	::	trait		
+der Chemiker	::	chemist		
+der Christus	::	Christ		
+der Container	::	container		
+der Damm	::	dam		
+der Daumen	::	thumb		
+der Dekanter	::	decanter		
+der Detektor	::	detector		
+der Dickhäuter	::	pachyderm		
+der Dienstag	::	Tuesday		
+der Direktor	::	director		
+der Dolch	::	dagger		
+der Donner	::	thunder		
+der Dornenstrauch	::	bramble		
+der Draht	::	wire		
+der Druck [Zeitung]	::	print		
+der Dummkopf	::	fool	,	jackass
+der Durchschnitt	::	average		
+der Egoismus	::	self-interest		
+der Ehrgeiz	::	ambition		
+der Eimer	::	bucket	,	pail
+der Eingang	::	entrance	,	gate
+der Einschlag	::	impact		
+der Einsturz	::	down-fall		
+der Einzelhändler	::	retailer		
+der Ekel	::	disgust		
+der Empfänger	::	receiver	,	recipient
+der Entführer	::	hijacker		
+der Enzian	::	gentian		
+der Erdboden	::	soil		
+der Erwachsene	::	adult		
+der Erzherzog	::	archduke		
+der Export	::	export		
+der Fahrgast	::	passenger		
+der Fall [jur.]	::	case		
+der Farn	::	fern		
+der Federkiel	::	quill		
+der Feldspat	::	feldspar		
+der Fensterladen	::	shutter		
+der Feuermelder	::	fire-alarm		
+der Filz	::	felt		
+der Fisch	::	fish		
+der Flannel	::	flannel		
+der Fleiß	::	industry		
+der Fluch	::	curse		
+der Flugplatz	::	airfield		
+der Forscher	::	explorer		
+der Franzose	::	Frenchman		
+der Freitag	::	Friday		
+der Freundin	::	girlfriend		
+der Frosch	::	frog		
+der Führer	::	guide		
+der Funke	::	spark		
+der Fußboden	::	floor		
+der Futtertrog	::	manger		
+der Gang [Auto]	::	gear		
+der Gasbehälter	::	gas tank		
+der Gebieter	::	lord		
+der Geburtsort	::	birthplace		
+der Gedanke	::	thought		
+der Gegensatz	::	opposite		
+der Gehsteig	::	pavement		
+der Geiz	::	stinginess		
+der Gelehrte	::	scholar		
+der Generalrang	::	generalship		
+der Geograph	::	geographer		
+der Gerichtshof	::	court		
+der Gesang	::	song		
+der Geschmack	::	flavour	,	taste
+der Gewinner	::	winner		
+der Glaube	::	belief		
+der Glimmer	::	mica		
+der Goldschmied	::	goldsmith		
+der Gott	::	God		
+der Granatapfel	::	pomegranate		
+der Grenzwert	::	limit		
+der Großhandel	::	wholesale		
+der Grundbesitzer	::	landowner		
+der Gummi	::	rubber		
+der Hafer	::	oats		
+der Hai	::	shark		
+der Hals	::	neck		
+der Händedruck	::	handshake		
+der Hanf	::	hemp		
+der Haß	::	hate		
+der Hausmeister	::	caretaker		
+der Held	::	hero		
+der Henker	::	hangman		
+der Herrenfriseur	::	barber		
+der Herzog	::	duke		
+der Himmel [im Sinne Paradies]	::	heaven		
+der Hinterhof	::	backyard		
+der Hobel	::	plane		
+der Holzfäller	::	lumberjack		
+der Hörer	::	hearer		
+der Hubschrauber	::	helicopter		
+der Humanist	::	humanist		
+der Hund	::	dog		
+der Imbiss	::	snack		
+der Impuls	::	impulse		
+der Ingenieur	::	engineer		
+der Installateur	::	plumber		
+der Invalide	::	invalid		
+der Italiener	::	Italian		
+der Jahrestag	::	anniversary		
+der Jargon	::	jargon		
+der Jude	::	Jew		
+der Junge	::	youngster		
+der Kader	::	cadre		
+der Kai	::	wharf		
+der Kalender	::	calendar		
+der Kamm	::	comb		
+der Kanarienvogel	::	canary		
+der Kapitän	::	captain		
+der Karpfen	::	carp		
+der Kassierer	::	cashier		
+der Kaviar	::	caviar		
+der Kelch	::	goblet		
+der Kerl	::	fellow		
+der Ketchup	::	ketchup		
+der Killer	::	killer		
+der Klang	::	sound		
+der Klick	::	click		
+der Klumpen	::	clod		
+der Knicks	::	curtsy		
+der Knochen	::	bone		
+der Koch	::	cook		
+der Koffer	::	box		
+der Kokon	::	cocoon		
+der Komet	::	comet		
+der Kompass	::	compass		
+der Kongress	::	congress		
+der Konsument	::	consumer		
+der Kontrollpunkt	::	checkpoint		
+der Koreaner	::	Korean		
+der Körper	::	body		
+der Kragen	::	collar		
+der Krebs	::	cancer		
+der Kreisel	::	gyroscope		
+der Krieger	::	warrior		
+der Krümel	::	crumb		
+der Kühlschrank	::	refrigerator		
+der Kumpel	::	mate		
+der Künstler	::	artist		
+der Lachs	::	salmon		
+der Laie	::	layman		
+der Lärm	::	noise		
+der Lauf	::	run		
+der Leguan	::	iguana		
+der Leibwächter	::	bodyguard		
+der Leopard	::	leopard		
+der Libyer	::	Libyan		
+der Lippenstift	::	lipstick		
+der Löwe	::	lion		
+der Luftweg	::	airway		
+der Luzifer	::	Lucifer		
+der Mai	::	May		
+der Maler	::	painter		
+der Mantel	::	coat		
+der Marokkaner	::	Moroccan		
+der März	::	March		
+der Mast	::	mast		
+der Mehraufwand	::	overhead		
+der Menschenverstand	::	common sense		
+der Meter	::	meter		
+der Millimeter	::	millimeter		
+der Missionar	::	missionary		
+der Moment	::	moment		
+der Monitor	::	monitor		
+der Müll	::	garbage		
+der Musketier	::	musketeer		
+der Nabel	::	navel		
+der Nachmittag	::	afternoon		
+der Nachweis	::	verification		
+der Nebel	::	fog		
+der Neon	::	neon		
+der Nomade	::	nomad		
+der Notizblock	::	notebook		
+der Oberarm	::	upper arm		
+der Ofen	::	oven		
+der Operator	::	operator		
+der Orient	::	orient		
+der Österreicher	::	Austrian		
+der Palast	::	palace		
+der Papierkorb	::	waste-paper basket		
+der Parameter	::	parameter		
+der Pastor	::	pastor		
+der Patriot	::	patriot		
+der Pazifik	::	pacific		
+der Pelz	::	fur		
+der Pensionist	::	pensioner		
+der Pfadfinder	::	pathfinder		
+der Pfeffer	::	pepper		
+der Pflug	::	plough		
+der Phönix	::	phoenix		
+der Pilot	::	pilot		
+der Pionier	::	pioneer		
+der Plattenspieler	::	record player		
+der Polizist	::	policeman		
+der Poststempel	::	postmark		
+der Preis [Wert]	::	price		
+der Prinz	::	prince		
+der Programm	::	program		
+der Prolog	::	prologue		
+der Provinzialismus	::	provincialism		
+der Pudding	::	pudding		
+der Puma	::	puma		
+der Putsch	::	putsch		
+der Quark	::	curd		
+der Radfahrer	::	biker		
+der Radikalismus	::	radicalism		
+der Rang	::	rank		
+der Ratschlag	::	advice	,	counsel
+der Raubüberfall	::	holdup		
+der Raumfahrer	::	spaceman		
+der Rechtsanwalt	::	barrister	,	lawyer
+der Redner	::	orator		
+der Regenmacher	::	rainmaker		
+der Regulierer	::	regulator		
+der Reinfall	::	flop		
+der Reisepass	::	passport		
+der Rektor	::	rector		
+der Rest	::	remainder	,	rest
+der Richter	::	judge		
+der Ritter	::	knight		
+der Rollbalken	::	scrollbar		
+der Römer	::	Roman		
+der Rubin	::	ruby		
+der Ruheständler	::	retiree		
+der Rum	::	rum		
+der Rüssel	::	trunk		
+der Sack	::	sack		
+der Samen	::	seed		
+der Sand	::	sand		
+der Satan	::	Satan		
+der Sauerstoff	::	oxygen		
+der Scanner	::	scanner		
+der Schaden	::	damage		
+der Schafhirt	::	shepherd		
+der Schal	::	scarf		
+der Schatten	::	shadow	,	shade
+der Scheck	::	cheque		
+der Scherz	::	joke		
+der Schilling	::	shilling		
+der Schlaf	::	sleep		
+der Schlauch	::	tube		
+der Schlittschuh	::	skate		
+der Schlund	::	maw		
+der Schmerz	::	pain		
+der Schmuggler	::	smuggler		
+der Schnee	::	snow		
+der Schnörkel	::	flourish		
+der Schornstein	::	smokestack		
+der Schrei	::	cry		
+der Schritt	::	step		
+der Schummler	::	cheat		
+der Schützengraben	::	trench		
+der Schwamm	::	sponge		
+der Schwede	::	Swede		
+der Schwiegersohn	::	son in law		
+der Seehund	::	seal		
+der Sektor	::	sector		
+der Senf	::	mustard		
+der Service	::	service		
+der Sinn	::	sense		
+der Sklave	::	slave		
+der Smog	::	smog		
+der Soldat	::	soldier		
+der Sonnenuntergang	::	sunset		
+der Souverän	::	sovereign		
+der Soziologe	::	sociologist		
+der Spaß	::	fun		
+der Specht	::	woodpecker		
+der Spielkamerad	::	playmate		
+der Spitzname	::	nickname		
+der Sprecher	::	speaker		
+der Spucknapf	::	spittoon		
+der Stachel	::	sting		
+der Stallmeister	::	stableman		
+der Standort	::	location		
+der Starkstrom	::	power current		
+der Staubsauger	::	vacuum cleaner		
+der Steinmetz	::	stonecutter		
+der Steuerknüppel	::	joystick		
+der Stiefel	::	boot		
+der Stimmzettel	::	ballot		
+der Stolz	::	pride		
+der Stoß	::	push		
+der Straßenbahnwagen	::	streetcar		
+der Streifenpolizist	::	patrolman		
+der Strom	::	current		
+der Strumpf	::	stocking		
+der Stumpf	::	stub		
+der Süden	::	south		
+der Tabak	::	tabacco		
+der Tango	::	tango		
+der Tanzsaal	::	ballroom		
+der Täufer	::	baptizer		
+der Techniker	::	technician		
+der Teich	::	pond		
+der Telegraf	::	telegraph		
+der Terror	::	terror		
+der Theologe	::	theologian		
+der Tisch	::	table		
+der Tod	::	death		
+der Topf	::	pot		
+der Torwart	::	goalkeeper		
+der Tramper	::	hitchhiker		
+der Treibstoff	::	fuel		
+der Triumph	::	triumph		
+der Truthahn	::	turkey		
+der Turm	::	tower		
+der Überfall	::	raid		
+der Überschuh	::	overshoe		
+der Überzug	::	cover		
+der Umriß	::	outline		
+der Unfall	::	accident		
+der Unterrock	::	petticoat		
+der Vasall	::	vassal		
+der Veranstaltungsort	::	venue		
+der Verdienst	::	merit	,	profit
+der Vergaser	::	carburetor		
+der Verkehr	::	traffic		
+der Verlust	::	loos		
+der Vers	::	verse		
+der Versorger	::	provider		
+der Vertragsbruch	::	breach		
+der Vielfraß	::	wolverine		
+der Vorarbeiter	::	foreman		
+der Vorhang	::	curtain		
+der Vorsitzende	::	chairman		
+der Vorwurf	::	reproach		
+der Wagon	::	wagon		
+der Wal	::	whale		
+der Wanderer	::	hiker		
+der Wäscher	::	washer		
+der Wechsel	::	exchange		
+der Weg	::	way	,	path
+der Weinstock	::	grapevine		
+der Werbespruch	::	slogan		
+der Wert	::	value		
+der Wettbewerb	::	competition		
+der Wiedehopf	::	hoopoe		
+der Wind	::	wind		
+der Wischer	::	wiper		
+der Wochentag	::	weekday		
+der Wortschatz	::	vocabulary		
+der Würfel	::	cube		
+der Zahnarzt	::	dentist		
+der Zaun	::	fence		
+der Zeitplan	::	schedule		
+der Zerhacker	::	chopper		
+der Ziegel	::	brick		
+der Zirkus	::	circus		
+der Zoll [Maßzahl]	::	inch		
+der Zopf	::	pigtail		
+der Zufluchtsort	::	place of refuge		
+der Zugriffspunkt	::	access point		
+der Zusammenbruch	::	smash		
+der Zusatzstoff	::	additive		
+der Zweifel	::	doubt		
+der Zwischenfall	::	incident		
+der Zypriot	::	Cypriote		
+detonieren	::	to detonate		
+dick	::	thick		
+die Abendzeitung	::	evening paper		
+die Abneigung	::	antipathy	,	aversion
+die Abschrift	::	copy		
+die Abstammung	::	ancestry		
+die Abstufung	::	gradation		
+die Abtreibung	::	abortion		
+die Achillesferse	::	Achilles heel		
+die Adoption	::	adoption		
+die Affinität	::	affinity		
+die Ähnlichkeit	::	resemblance		
+die Akne	::	acne		
+die Aktentasche	::	brief case		
+die Akupunktur	::	acupuncture		
+die Alimente	::	alimony		
+die Allgemeingültigkeit	::	generality		
+die Alpen	::	alps		
+die Amphore	::	amphora		
+die Ananas	::	pineapple		
+die Anekdote	::	anecdote		
+die Angelegenheit	::	affair		
+die Anhäufung	::	accumulation		
+die Ankündigung	::	announcement		
+die Anleitung	::	instruction		
+die Annahme	::	acceptance		
+die Anordnung	::	alignment		
+die Anreicherung	::	enhancement		
+die Ansteckung	::	contagion		
+die Antilope	::	antelope		
+die Anweisung	::	statement		
+die Anzeige [Werbung]	::	advertisement		
+die Apotheke	::	pharmacy		
+die Arbeitslosigkeit	::	unemployment		
+die Arie	::	aria		
+die Armut	::	poverty		
+die Arthritis	::	arthritis		
+die Aster	::	aster		
+die Atmosphäre	::	atmosphere		
+die Attrappe	::	dummy		
+die Auffüllung	::	replenishment		
+die Aufmachung	::	layout		
+die Aufrichtung	::	erection		
+die Augenbraue	::	eyebrow		
+die Auseinandersetzung	::	contention		
+die Ausgabe	::	issue		
+die Auslassung	::	elision		
+die Aussendung	::	emission		
+die Ausstellung	::	exhibition		
+die Auswechslung	::	replacement		
+die Autonomie	::	autonomy		
+die Azalee	::	azalea		
+die Bahn	::	railway		
+die Banane	::	banana		
+die Bank [zum sitzen]	::	bench		
+die Baracke	::	barrack		
+die Basis	::	basis		
+die Baumwolle	::	cotton		
+die Beendigung	::	termination		
+die Befürchtung	::	apprehension		
+die Begleitung	::	accompaniment		
+die Behandlung	::	treatment		
+die Beigabe	::	adjunct		
+die Bekanntschaft	::	acquaintance		
+die Belohnung	::	reward		
+die Beobachtung	::	observation		
+die Bereitstellung	::	provision		
+die Berühmtheit	::	celebrity		
+die Beschämung	::	abashment		
+die Beseitigung	::	elimination		
+die Besteigung	::	ascent		
+die Bestrafung	::	punishment		
+die Beute	::	prey		
+die Bewunderung	::	admiration		
+die Biene	::	bee		
+die Birne	::	pear		
+die Blase	::	bubble		
+die Blindschleiche	::	blindworm		
+die Blüte	::	flower		
+die Boje	::	buoy		
+die Branche	::	branch		
+die Brechung	::	refraction		
+die Briefmarke	::	stamp		
+die Brise	::	breeze		
+die Brücke	::	bridge		
+die Brutalität	::	brutality		
+die Buchhandlung	::	bookshop	,	bookstore
+die Bühnenausstattung	::	decor		
+die Bushaltestelle	::	bus stop		
+die Chemie	::	Chemistry		
+die Couchgarnitur	::	three-piece suite		
+die Dampfwalze	::	steam-roller		
+die Decke	::	cover		
+die Dehnung	::	stretch		
+die Demographie	::	demography		
+die Depression	::	depression		
+die Dimension	::	dimension		
+die Donau	::	Danube		
+die Dringlichkeit	::	urgency		
+die Dunkelheit	::	darkness		
+die Ebbe	::	low tide		
+die Ehe	::	matrimony		
+die Ehrerbietung	::	obeisance		
+die Eifersucht	::	jealousy		
+die Einflugschneise	::	approach path		
+die Eingebung	::	inspiration		
+die Einigkeit	::	agreement		
+die Einschränkung	::	restriction		
+die Eintreibung	::	exaction		
+die Eisenbahn	::	railway	,	train
+die Elle	::	ulna		
+die Empfindung	::	feeling		
+die Enkelin	::	granddaughter		
+die Enthaltung	::	abstention		
+die Entschuldigung	::	apology		
+die Entwicklung	::	development		
+die Epoche	::	epoch		
+die Erdbeere	::	strawberry		
+die Erdnuss	::	peanut		
+die Erfrischung	::	refreshment		
+die Erklärung	::	explanation		
+die Ernennung	::	nomination		
+die Eröffnung	::	outset		
+die Erscheinung	::	appearance		
+die Erwähnung	::	mention		
+die Erzählung	::	story		
+die Eskalation	::	escalation		
+die Existenz	::	existence		
+die Exzellenz	::	excellency		
+die Fackel	::	torch		
+die Fahrkarte	::	ticket		
+die Falle	::	trap		
+die Fanfare	::	fanfare		
+die Fassade	::	facade		
+die Feder [Stift]	::	pen		
+die Feierlichkeit	::	ceremony		
+die Ferien	::	vacation		
+die Festplatte	::	harddisk		
+die Fichte	::	spruce		
+die Fixierung	::	fixation		
+die Flasche	::	bottle		
+die Flocke	::	flake		
+die Flucht	::	escape		
+die Flut	::	flood		
+die Folter	::	torture		
+die Formel	::	formula		
+die Fracht	::	cargo		
+die Freiheit	::	freedom		
+die Frequenz	::	frequency		
+die Freveltat	::	outrage		
+die Funktion	::	function		
+die Fürstin	::	princess		
+die Gabel	::	fork		
+die Gans	::	goose		
+die Garderobe	::	cloakroom		
+die Gebrauchsanweisung	::	direction for use		
+die Gefahr	::	danger		
+die Gegenwart	::	present		
+die Geldanlage	::	investment		
+die Genauigkeit	::	accuracy		
+die Genesung	::	recovery		
+die Geometrie	::	Geometry		
+die Geschichte [historisch]	::	history		
+die Gesellschaft	::	society		
+die Gewandtheit	::	skilfulness		
+die Girlande	::	garland		
+die Gleichgültigkeit	::	indifference		
+die Glocke	::	bell		
+die Götterspeise	::	ambrosia		
+die Grausamkeit	::	barbarism		
+die Grillparty	::	barbecue		
+die Großmutter	::	grandmother		
+die Gruppe	::	group		
+die Haare	::	hairs		
+die Hainbuche	::	hornbeam		
+die Halluzination	::	hallucination		
+die Handbremse	::	handbrake		
+die Hängematte	::	hammock		
+die Harpune	::	harpoon		
+die Haube	::	hood		
+die Hausfrau	::	housewife		
+die Hecke	::	hedge		
+die Heilsarmee	::	salvation army		
+die Heldin	::	heroine		
+die Herbheit	::	acerbity		
+die Herrschaft	::	rule		
+die Hexe	::	witch		
+die Hinterlegung	::	consignment		
+die Hitze	::	heat		
+die Höhe [beim Fliegen]	::	altitude		
+die Homepage	::	homepage		
+die Hüfte	::	hip		
+die Hütte	::	hut		
+die Hypnose	::	hypnosis		
+die Idee	::	idea		
+die Illustration	::	illustration		
+die Infanterie	::	infantry		
+die Innenseite	::	inside		
+die Installierung	::	installation		
+die Integration	::	integration		
+die Interessensgemeinschaft	::	coterie		
+die Invasion	::	invasion		
+die Jade	::	jade		
+die Jungfrau	::	virgin		
+die Kabine	::	cabin		
+die Kammer	::	chamber		
+die Kanzel	::	pulpit		
+die Kappe	::	cap		
+die Karies	::	caries		
+die Kartoffel	::	potato		
+die Kassette	::	cassette		
+die Katze	::	cat		
+die Keramik	::	ceramics		
+die Ketzerei	::	heresy		
+die Kirsche	::	cherry		
+die Klärung	::	clarification		
+die Kleidung	::	clothing		
+die Klinik	::	clinic		
+die Kneipe	::	pub		
+die Kohle	::	coal		
+die Kolonie	::	colony		
+die Komplexität	::	complexity		
+die Konferenz	::	conference		
+die Königin	::	queen		
+die Konstellation	::	constellation		
+die Konversation	::	conversation		
+die Kopie	::	copy		
+die Körperhaltung	::	posture		
+die Krabbe	::	crab		
+die Krankenschwester	::	nurse		
+die Kreatur	::	creature		
+die Kritik	::	criticism		
+die Küchenschabe	::	cockroach		
+die Kunst	::	art		
+die Kuriosität	::	curiosity		
+die Kurzschrift	::	shorthand		
+die Ladung [elektr.]	::	charge		
+die Lähmung	::	paralysis		
+die Landstraße	::	country road		
+die Lanze	::	lance		
+die Latrine	::	latrine		
+die Laune	::	mood		
+die Lebenskraft	::	vigor		
+die Legierung	::	alloy		
+die Leibeigenschaft	::	serfdom		
+die Leinwand	::	canvas		
+die Leitung	::	direction		
+die Lepra	::	leprosy		
+die Lichtstärke	::	candlepower		
+die Lieferung	::	delivery		
+die Linde	::	linden-tree		
+die Lippe	::	lip		
+die Literatur	::	literature		
+die Locke	::	curl		
+die Löschung	::	cancellation		
+die Löwin	::	lioness		
+die Luftpost	::	airmail		
+die Luftverschmutzung	::	air pollution		
+die Machtergreifung	::	takeover		
+die Mahlzeit	::	meal		
+die Makulatur	::	waste-paper		
+die Mandel	::	almond		
+die Männlichkeit	::	manhood		
+die Marmelade	::	jam		
+die Massage	::	massage		
+die Matte	::	mat		
+die Meditation	::	meditation		
+die Meinung	::	opinion		
+die Menge [bestimmt]	::	quantity		
+die Messung	::	measurement		
+die Mikrobe	::	microbe		
+die Million	::	million		
+die Minute	::	minute		
+die Mitgift	::	dowry		
+die Mobilität	::	mobility		
+die Möglichkeit	::	chance	,	possibility
+die Moschee	::	mosque		
+die Mühe	::	effort		
+die Munition	::	ammunition		
+die Musicbox	::	jukebox		
+die Mutter	::	mother		
+die Nachbildung	::	replica		
+die Nacht	::	night		
+die Nadel	::	needle		
+die Narzisse	::	narcissus		
+die Nationalität	::	nationality		
+die Nessel	::	nettle		
+die Neuigkeit	::	news		
+die Nichtübereinstimmung	::	discordance		
+die Nische	::	niche		
+die Notiz	::	notice		
+die Null	::	nought		
+die Oase	::	oasis		
+die Ode	::	ode		
+die Ohnmacht	::	faint		
+die Oper	::	opera		
+die Ordnung	::	order		
+die Ostsee	::	Baltic Sea		
+die Palme	::	palm		
+die Pappel	::	poplar		
+die Party	::	party		
+die Pause	::	break		
+die Periode	::	period		
+die Persönlichkeit	::	personality		
+die Petersilie	::	parsley		
+die Pflanze	::	plant		
+die Phantasie	::	fantasy	,	imagination
+die Phobie	::	phobia		
+die Physiognomie	::	physiognomy		
+die Pizza	::	pizza		
+die Plantage	::	plantation		
+die Plattform	::	platform		
+die Plausibilität	::	plausibility		
+die Politur	::	polish		
+die Position	::	position		
+die Pracht	::	splendor		
+die Predigt	::	sermon		
+die Prinzessin	::	princess		
+die Promotion	::	promotion		
+die Provinz	::	province		
+die Psychologie	::	Psychology		
+die Punktzahl	::	score		
+die Qual	::	agony	,	torment
+die Quarantäne	::	quarantine		
+die Rache	::	vengeance		
+die Ranch	::	ranch		
+die Rast	::	rest		
+die Raupe	::	caterpillar		
+die Rechenmaschine	::	calculator		
+die Rechtssache	::	cause		
+die Reduzierung	::	reduction		
+die Reformation	::	reformation		
+die Regentschaft	::	reign		
+die Registrierung	::	registration		
+die Reihe	::	row		
+die Religion	::	religion		
+die Republik	::	republic		
+die Resonanz	::	resonance		
+die Revolution	::	revolution		
+die Rinde	::	bark		
+die Ritterschaft	::	knighthood		
+die Rohrleitung	::	pipeline		
+die Rose	::	rose		
+die Rückkehr	::	return		
+die Rüge	::	complaint		
+die Saat	::	seed		
+die Sahne	::	cream		
+die Sardelle	::	anchovy		
+die Sauna	::	sauna		
+die Schale [Gefäß]	::	bowl		
+die Schankstube	::	barroom		
+die Schauspielerin	::	actress		
+die Scheidung	::	divorce		
+die Schlacht	::	battle		
+die Schleuse	::	lock	,	sluice
+die Schmerzen	::	ache		
+die Schneeflocke	::	snowflake		
+die Schnur	::	cord	,	string
+die Schraube	::	screw		
+die Schreibtischplatte	::	desktop		
+die Schuld	::	guilt	,	debt
+die Schutzmarke	::	trademark		
+die schwarze Johannisbeere	::	black currant		
+die Schwiegermutter	::	mother-in-law		
+die Seekrankheit	::	seasickness		
+die Sehne [anatom.]	::	sinew	,	tendon
+die Seife	::	soap		
+die Sekte	::	sect		
+die Sendung	::	consignment		
+die Serie	::	series		
+die Sicherheit	::	security	,	safety
+die Sicht	::	sight	,	view
+die Sinfonie	::	symphony		
+die Sitzung	::	meeting		
+die Skulptur	::	sculpture		
+die Sonate	::	sonata		
+die Sorge	::	care		
+die Sowjetunion	::	Soviet Union		
+die Spaltung	::	fission		
+die Spekulation	::	speculation		
+die Spezifikation	::	specification		
+die Spinnwebe	::	cobweb		
+die Sprache	::	language		
+die Spucke	::	spit		
+die Stachelbeere	::	gooseberry		
+die Stange	::	rod		
+die Statistik	::	statistics		
+die Steiermark	::	Styria		
+die Stellung	::	position		
+die Steuer	::	tax		
+die Stimme	::	voice		
+die Störung	::	disturbance		
+die Straße	::	street	,	road
+die Strebe	::	brace		
+die Stricknadel	::	knitting needle		
+die Stufe	::	step		
+die Substanz	::	substance		
+die Summe	::	sum		
+die Süßkartoffel	::	yam		
+die Syphilis	::	syphilis		
+die Tafel	::	table		
+die Taktik	::	tactic		
+die Tapete	::	wallpaper		
+die Tasse	::	cup		
+die Tätigkeit	::	operation		
+die Taufkapelle	::	baptistery		
+die Teekanne	::	teapot		
+die Telekommunikation	::	telecommunication		
+die Textur	::	texture		
+die Theorie	::	theory		
+die Tinte	::	ink		
+die Tollkirsche	::	belladonna		
+die Tonne	::	ton		
+die Tragödie	::	tragedy		
+die Träumerei	::	reverie		
+die Treppe	::	stair		
+die Truppe	::	squad		
+die Tüte	::	paper-bag		
+die Überheblichkeit	::	arrogance		
+die Überschrift	::	caption	,	heading
+die Übertretung	::	trespass		
+die Umarmung	::	embrace		
+die Umordnung	::	rearrangement		
+die Ungerechtigkeit	::	injustice		
+die Unruhe	::	trouble		
+die Unterdrückung	::	suppression		
+die Unternehmung	::	enterprise		
+die Unterstützung	::	support		
+die Unterzeichnung	::	subscription		
+die Ursache	::	cause		
+die Vase	::	vase		
+die Veranda	::	veranda		
+die Veräußerung	::	alienation		
+die Verdauung	::	digestion		
+die Verfassung	::	constitution		
+die Vergebung	::	forgiveness		
+die Vergrößerung [Lupe]	::	magnification		
+die Verkäuferin	::	saleswoman		
+die Verlegenheit	::	embarrassment		
+die Verlobung	::	betrothal		
+die Vermutung	::	assumption		
+die Verringerung	::	decrease		
+die Verschmutzung	::	pollution		
+die Versicherung	::	insurance		
+die Versuchung	::	temptation		
+die Vervielfältigung	::	duplication		
+die Verwendung	::	usage		
+die Verzierung	::	ornament		
+die Vielfalt	::	diversity		
+die Vision	::	vision		
+die Vogelfeder	::	feather		
+die Vorhand	::	curtain		
+die Vorratskammer	::	pantry		
+die Vortäuschung	::	pretence		
+die Wachtel	::	quail		
+die Wahl, Auswahl	::	choice		
+die Wand	::	wall		
+die Waren	::	goods		
+die Wäscherei	::	laundry		
+die Weichheit	::	mellowness		
+die Welt	::	world		
+die Weste	::	waistcoat		
+die Wiederholung	::	repetition		
+die Windschutzscheibe	::	windscreen		
+die Woche	::	week		
+die Wölfin	::	lupine		
+die Wunde	::	wound		
+die Wurzel	::	root		
+die Zahnbürste	::	tooth-brush		
+die Zärtlichkeit	::	tenderness		
+die Zeit	::	time		
+die Zelle	::	cell		
+die Zersetzung	::	decomposition		
+die Ziege	::	goat		
+die Zigarettenschachtel	::	cigarette box		
+die Zitadelle	::	citadel		
+die Zoologie	::	zoology		
+die Zugriffszeit	::	access time		
+die Zündung	::	ignition		
+die Zusammenfassung	::	summary		
+die Zweideutigkeit	::	ambiguity		
+die Zwillinge	::	twins		
+Dienst haben	::	to be on duty		
+digital	::	digital		
+diskutierbar	::	arguable		
+dort	::	there		
+drängen	::	to urge		
+drei	::	three		
+drin	::	inside		
+du	::	you		
+dumm	::	stupid	,	foolish
+durchbrechen	::	to breach		
+durchschnittlich	::	average		
+Durst haben	::	to be thirsty		
+ebnen	::	to level		
+ehemalig	::	former		
+ehrlich	::	honest		
+eigenartig	::	peculiar		
+ein bisschen	::	a little		
+einarmig	::	one-armed		
+eine	::	one		
+einen auf Schau machen	::	to put on airs		
+einfügen	::	to insert		
+eingeschrieben	::	registered		
+einige	::	some		
+einladen	::	to invite		
+einpacken	::	to package		
+einsam	::	solitary		
+einschlafen	::	to go to sleep		
+einschränken	::	to restrict		
+einsteigen	::	to get in		
+einundzwanzig	::	twenty-one		
+einwirken auf	::	to act on		
+ekeln	::	to disgust		
+elektrisch	::	electric		
+elend	::	abject		
+empfangen	::	to receive		
+empfindlich	::	delicate		
+endlos	::	endless		
+engelhaft	::	angelic		
+entführen	::	to abduct		
+entladen	::	to discharge		
+entschlossen	::	resolute		
+entsprechen	::	to correspond		
+entweder	::	either		
+entziffern	::	to decode		
+erachten	::	to deem		
+erdulden	::	to suffer		
+erfolgreich	::	successful		
+ergänzend	::	complementary		
+erhältlich	::	obtainable		
+erklären	::	to explain		
+ermächtigen	::	to authorize		
+ermüdend	::	tiresome		
+erneuern	::	to renew		
+erobern	::	to conquer		
+erregen	::	to agitate		
+erröten	::	to blush		
+erschöpfen	::	to exhaust		
+erst	::	first		
+erstens	::	firstly		
+erstklassig	::	first-class		
+erwägen	::	to regard		
+erzählen	::	to narrate		
+es	::	it		
+euere	::	your		
+existieren	::	to exist		
+exportieren	::	to export		
+fächeln	::	to fan		
+fahren [mit dem Auto]	::	go by automobile		
+fallen lassen	::	to drop		
+falten	::	to fold		
+fantastisch	::	fantastic		
+fatal	::	fatal		
+fehlen, nicht vorhanden sein	::	to be lacking		
+ferner	::	further	,	furthermore
+festgelegt	::	fixed		
+feststellen	::	to assert		
+fiktiv	::	fictitious		
+finden	::	to find	,	come across
+flattern	::	to flutter		
+fliegen	::	to fly		
+flirten	::	to flirt		
+fluten	::	to flood		
+fordern	::	to demand		
+forsch	::	brisk		
+fortlaufend	::	continuous		
+fragen	::	to ask	,	to query
+frei	::	free		
+fremd	::	foreign		
+freundlich	::	friendly		
+froh	::	glad		
+früh	::	early		
+führen	::	to guide	,	to lead
+fünfzig	::	fifty		
+für gültig erklären	::	to validate		
+füttern	::	to feed		
+gänzlich	::	wholly		
+geben	::	to give		
+gebrauchen	::	to use		
+geeignet	::	fitting		
+gegen	::	against		
+geheim	::	secret		
+geizig	::	stingy		
+gelegentlich	::	incidental		
+gemessen	::	measured		
+genealogisch	::	genealogical		
+genießen	::	to enjoy		
+gerade	::	straight		
+geschehen	::	to happen		
+geschlechtslos	::	asexual		
+geschwungene Klammern	::	braces		
+gestern	::	yesterday		
+getrennt	::	separate		
+gewillt sein	::	to be inclined		
+gewöhnen	::	to accustom		
+gewollt	::	on purpose		
+glänzend	::	shiny		
+glaubwürdig	::	credible		
+global	::	global		
+göttlich	::	divine		
+gratis	::	gratis		
+greifen	::	to grip		
+großartig	::	great		
+grundlegend	::	fundamental		
+gutartig	::	good-natured		
+gutschreiben	::	to put to one's credit		
+hacken	::	to hack		
+handeln	::	to act		
+harmlos	::	harmless		
+hässlich	::	ugly		
+heben	::	to lift		
+heilig	::	sacred	,	holy
+heiß	::	hot		
+helfen	::	to help	,	to aid
+herausrufen	::	to call out		
+herrlich	::	gorgeous		
+herumtrampeln auf	::	to trample on		
+hervorheben	::	to emphasize		
+heuchlerisch	::	hypocritical		
+heute Nacht	::	tonight		
+hier	::	here		
+himmelblau	::	sky blue		
+hindern	::	to impede		
+hinterlassen	::	to leave behind		
+hinweisen	::	to indicate		
+hobeln	::	to plane		
+hochziehen	::	to haul		
+höhere Schule	::	College		
+holländisch	::	Dutch		
+hören	::	to hear		
+hundertjährig	::	centennial		
+hypnotisieren	::	to hypnotize		
+idiotisch	::	idiotic		
+im Ausland	::	abroad		
+im Uhrzeigersinn	::	clockwise		
+immun	::	immune		
+importieren	::	to import		
+in der Gewalt haben	::	to have control of		
+in Ordnung	::	okay		
+inaktiv	::	inactive		
+indonesisch	::	Indonesian		
+injizieren	::	to inject		
+innen	::	indoor		
+inspizieren	::	to inspect		
+intelligent	::	intelligent		
+international	::	international		
+intolerant	::	intolerant		
+irgendetwas	::	anything		
+irgendwie	::	somehow	,	anyhow
+irritieren	::	to irritate		
+ja	::	yes		
+japanisch	::	Japanese		
+jeder	::	everybody		
+jemals	::	ever		
+jenseits	::	beyond		
+jüdisch	::	Jewish		
+kaiserlich	::	imperial		
+kämpfen	::	to fight		
+katholisch	::	catholic		
+kaum	::	hardly		
+keuchen	::	to gasp		
+klären	::	to clear		
+kleben	::	to paste		
+kleinstädtisch	::	provincial		
+klingeln	::	to ring		
+knacken	::	to crack		
+knoten	::	to knot		
+kochen [Essen]	::	to cook		
+kokett	::	coquettish		
+kommentieren	::	to comment		
+komplex	::	complex		
+konkave	::	concave		
+konstruieren	::	to construct		
+kontrollieren	::	to control		
+kopieren	::	to copy		
+korrodieren	::	to corrode		
+köstlich	::	delicious		
+krass	::	crass		
+kreuzigen	::	to crucify		
+kritisch	::	critical		
+kugelförmig	::	spherical		
+kundengerecht anfertigen	::	to customize		
+kürzen	::	to curtail		
+lächerlich	::	ridiculous		
+lahm legen	::	to paralyse		
+langsam	::	slow		
+lassen	::	to let		
+laufen	::	to run		
+leben	::	to live		
+lecker	::	yummy		
+legen	::	to lay	,	to put
+leimen	::	to glue		
+lernen	::	to learn		
+letzter	::	last		
+lieben	::	to love		
+liebkosen	::	to caress		
+links	::	left		
+locken	::	to entice		
+lokal	::	local		
+lösen	::	to solve		
+luftdicht	::	airtight		
+lügen	::	to lie	,	to tell a lie
+machtlos	::	powerless		
+magisch	::	magic		
+manchmal	::	sometimes		
+manövrieren	::	to maneuver		
+Maßnahmen ergreifen	::	to take steps		
+mehr	::	more		
+meine	::	my		
+meißeln	::	to sculpture		
+melken	::	to milk		
+metallisch	::	metallic		
+mild	::	mild		
+mischen	::	to mix		
+mitbringen	::	to bring along		
+mitten in	::	in the middle of		
+modifizieren	::	to modify		
+möglich	::	possible		
+müde	::	tired		
+mundvoll	::	mouthful		
+müssen	::	have to	,	must
+nach [hin]	::	towards		
+nachdenken	::	to think about		
+nachsichtig	::	clement		
+nachts	::	at night		
+nahegelegen	::	nearby		
+naß	::	wet		
+neben	::	near to	,	next to
+neidisch	::	envious		
+nervös	::	nervous		
+neun	::	nine		
+nicht	::	not		
+nieder	::	low		
+niesen	::	to sneeze		
+noch nicht	::	not yet		
+notieren	::	to note		
+null	::	zero		
+ob	::	if	,	whether
+obgleich	::	although	,	even though
+offenbar	::	obviously		
+offiziell	::	official		
+optimal	::	optimal		
+organisieren	::	to organize		
+orthodox	::	orthodox		
+packend	::	gripping		
+parken	::	to park		
+peitschen	::	to flog		
+persisch	::	Persian		
+pflegen	::	to nurse		
+philosophisch	::	philosophic		
+planen [Termin]	::	to schedule		
+plötzlich	::	abrupt	,	sudden
+politisch	::	political		
+positiv	::	positive		
+präsentieren	::	to present		
+primitiv	::	primitive		
+produktiv	::	productive		
+projektieren	::	to project		
+protestieren	::	to protest		
+publizieren	::	to publish		
+purpurrot	::	crimson		
+quittieren	::	to receipt		
+rammen	::	to ram		
+rau	::	rough		
+reagieren	::	to react		
+rechterhand	::	righthand		
+rechtschaffend	::	righteous		
+reflektieren	::	to reflect		
+regenerieren	::	to regenerate		
+reiben	::	rub		
+reif	::	ripe		
+reiten	::	to ride		
+respektieren	::	to respect		
+rhythmisch	::	rhythmic		
+riskant	::	risky		
+roh	::	raw		
+rosa	::	pink		
+rotieren	::	to rotate		
+rügen	::	to reprove		
+rührend	::	moving		
+russisch	::	Russian		
+sagen	::	to say		
+sandig	::	sandy		
+sättigen	::	to saturate		
+saugen	::	to suck		
+scannen	::	to scan		
+schaffen	::	to create		
+scharf [Essen]	::	hot		
+schaufeln	::	to shovel		
+scheitern	::	to abort		
+schicken	::	to send		
+schießen	::	to shoot		
+schläfrig	::	drowsy		
+schlecht	::	bad		
+schluchzen	::	to sob		
+schmälern	::	to narrow		
+schmelzen	::	to melt		
+schnarchen	::	to snore		
+schnell	::	fast	,	quick
+schön	::	beautiful		
+schrecklich	::	terrible		
+schulden	::	to owe		
+schütteln	::	to shake		
+schwächen	::	to weaken		
+schwarz	::	black		
+schwefelig	::	sulfuric		
+schwierig	::	difficult		
+schwitzen	::	to sweat		
+sechzehn	::	sixteen		
+sehr	::	very		
+sein [Besitz]	::	his		
+selbstlos	::	selfless		
+senden	::	to send		
+sich abfinden mit	::	to put up with		
+sich befinden	::	to be located		
+sich beschweren	::	to complain		
+sich eignen	::	to be suitable		
+sich freuen	::	to be glad		
+sich gut unterhalten	::	to have a good time	,	to enjoy oneself
+sich niederlassen	::	to settle		
+sich verschlimmern	::	to get worse		
+sichern	::	to backup		
+sieben [Sieb]	::	to sift		
+signalisieren	::	to signal		
+singen	::	to sing		
+Ski fahren	::	to ski		
+sofort	::	immediately		
+solcher	::	such		
+sorgen	::	to embarrass		
+sorglos	::	carefree		
+sozusagen	::	so to speak		
+sparsam	::	economical		
+spezifisch	::	specific		
+spionieren	::	to spy		
+sprechen	::	to speak	,	to converse
+sprühen	::	to spray		
+stagnieren	::	to stagnate		
+staubig	::	dusty		
+steigern	::	to enhance		
+sterben	::	to die		
+Sternzeichen Schütze	::	Sagittarius		
+Sternzeichen Wassermann	::	Aquarius		
+steuern	::	to pilot		
+stolpern	::	to stumble		
+stoßen	::	to push		
+streiten	::	to wrangle		
+struppig	::	bristly		
+stürmisch	::	stormy		
+suchterzeugend	::	addictive		
+sündigen	::	to sin		
+symbolisieren	::	to symbolize		
+täglich	::	daily		
+tapfer	::	valiant		
+tauchen	::	to dive		
+tausend	::	thousand		
+teilnehmen an	::	to take part in		
+territorial	::	territorial		
+tief	::	deep		
+toasten	::	to toast		
+tot	::	dead		
+tragbar	::	portable		
+Tränen vergießen	::	to shed tears		
+traurig	::	sad		
+treten	::	to kick	,	to step
+trinkbar	::	drinkable		
+trocknen	::	to dry		
+trostlos	::	dismal		
+tun	::	to do		
+tyrannisch	::	tyrannic		
+über	::	over		
+Überdruß	::	disgust		
+überfluten	::	to overflow		
+überholen [mit dem Auto]	::	to overtake		
+überlegen	::	to deliberate		
+überqueren	::	to cross		
+Übersee	::	overseas		
+übersteuern	::	to overdrive		
+überwinden	::	overcome		
+ultimativ	::	ultimate		
+umarmen	::	to embrace		
+umgeben	::	to surround		
+umklammern	::	to grasp		
+umstritten	::	argumentative		
+unangenehm	::	unpleasant		
+unbesetzt	::	vacant		
+und	::	and		
+unersättlich	::	insatiable		
+unfair	::	unfair		
+ungerecht	::	unjust		
+unglaublich	::	incredible		
+universal	::	universal		
+unorganisch	::	inorganic		
+unschlagbar	::	unbeatable		
+unsozial	::	unsocial		
+unterdrücken	::	to suppress		
+unterschiedlich	::	different		
+unterstützen	::	to support		
+unverzüglich	::	without delay		
+unwirksam	::	ineffectual		
+urinieren	::	to urinate		
+verabscheuen	::	to abhor		
+verankern	::	to moor		
+verbessern	::	to amend		
+verbinden [techn.]	::	to connect		
+verbrauchen	::	to consume		
+verdammen	::	to condemn		
+verdienen [Gehalt]	::	to earn		
+verdrahten	::	to wire		
+vereinbaren	::	to stipulate		
+verfälschen	::	to adulterate		
+verflucht	::	accurst		
+verfügen über	::	to dispose of		
+vergebens	::	in vain		
+vergiften	::	to poison		
+verhaften	::	to arrest		
+verherrlichen	::	to glorify		
+verkörpern	::	to embody		
+verleumden	::	to backbite		
+vermieten	::	to rent out	,	to let
+vermuten	::	to assume		
+vernünftig	::	reasonable		
+verpflichten	::	to oblige		
+verreisen	::	to go on a journey		
+versammeln	::	to assemble		
+verschließen	::	to lock		
+verschönern	::	to embellish		
+verschwimmen	::	to blur		
+versenden	::	to send		
+versorgen	::	to supply	,	to provide
+verständlich	::	comprehensible		
+verstehen	::	to understand		
+vertieft in	::	absorbed in		
+vervollständigen	::	to complete		
+verwerten	::	to turn to account		
+verzerren	::	to warp		
+verzweifelt	::	desperate		
+vielfach	::	multiple		
+vierzehn Tage	::	fortnight		
+voll	::	full		
+vollständig	::	complete	,	entire
+vor [örtlich]	::	in front of		
+vorausdenken	::	to think ahead		
+vordatieren	::	to antedate		
+vorher	::	before		
+vorschlagen	::	to propose		
+vortragen	::	to recite		
+vorzugsweise	::	preferably		
+wählen	::	to ballot	,	to choose
+wann	::	when		
+warnen	::	to warn		
+Was?	::	what		
+waten	::	to wade		
+wegen	::	because of		
+wegräumen	::	to clear away		
+weichen	::	to give way		
+weise	::	wise		
+weit	::	wide		
+weiterfahren	::	to drive on		
+welcher	::	what		
+wenn	::	if	,	when
+werfen	::	to throw		
+wesentlich	::	essential		
+wetten	::	to bet		
+widersprechen	::	to contradict		
+wie zum Beispiel	::	such as		
+wiederaufnehmen	::	to resume		
+wild	::	truculent	,	wild
+wimmern	::	to whine		
+wirbeln	::	to whirl		
+wissen	::	to know		
+wöchentlich	::	every week		
+wohnen	::	to dwell		
+wörtlich	::	literally		
+würgen	::	to choke		
+zählen	::	to count		
+zart	::	delicate		
+zelten	::	to tent		
+zerbrechlich	::	fragile		
+zerplatzen	::	to burst		
+zersplittern	::	to splinter		
+zerstreut	::	abstracted		
+ziemlich groß	::	sizable		
+zittern	::	to quiver	,	to tremble
+zocken	::	to gamble		
+zu Hause	::	at home		
+züchten	::	to breed		
+zufrieden	::	satisfied		
+zuhören	::	to listen		
+zulassen	::	to admit		
+zur Last legen	::	to hold against		
+zurückgeben	::	to give back	,	to return
+zurückprallen	::	to rebound		
+zusammen setzen	::	to compose		
+zusammenstoßen	::	to crash		
+zustopfen	::	to stop up		
+zwanzigste	::	twentieth		
+zweifelhaft	::	doubtful		
+zwingen	::	to compel		
+zwölf	::	twelve		

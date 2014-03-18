@@ -1,0 +1,6218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<brain>
+	<lessons>
+		<lesson>
+			<title>FEZER-ITAL-DE</title>
+			<description>Basisvokabular (Italienisch - Deutsch)</description>
+			<keyboardLayout>DE</keyboardLayout>
+			<type>0</type>
+			<items>
+				<item id="0" extid="0">
+					<text>la lezione</text>
+					<comment></comment>
+					<answers>
+						<answer>Lektion</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ciao</text>
+					<comment></comment>
+					<answers>
+						<answer>hallo</answer>
+						<answer>servus</answer>
+						<answer>tschüs</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Come stai?</text>
+					<comment></comment>
+					<answers>
+						<answer>Wie geht es dir?</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>come</text>
+					<comment></comment>
+					<answers>
+						<answer>wie</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>andare</text>
+					<comment></comment>
+					<answers>
+						<answer>gehen</answer>
+						<answer>fahren</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lui va</text>
+					<comment></comment>
+					<answers>
+						<answer>er geht</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>a</text>
+					<comment></comment>
+					<answers>
+						<answer>in</answer>
+						<answer>zu</answer>
+						<answer>nach</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la casa</text>
+					<comment></comment>
+					<answers>
+						<answer>Haus</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>di</text>
+					<comment></comment>
+					<answers>
+						<answer>aus</answer>
+						<answer>von</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>che</text>
+					<comment></comment>
+					<answers>
+						<answer>welcher</answer>
+						<answer>welche</answer>
+						<answer>welches</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>abitare</text>
+					<comment></comment>
+					<answers>
+						<answer>wohnen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>con</text>
+					<comment></comment>
+					<answers>
+						<answer>mit</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la madre</text>
+					<comment></comment>
+					<answers>
+						<answer>Mutter</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ascoltare</text>
+					<comment></comment>
+					<answers>
+						<answer>hören</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>sentire</text>
+					<comment></comment>
+					<answers>
+						<answer>hören</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´informazione</text>
+					<comment></comment>
+					<answers>
+						<answer>Information</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>esatto</text>
+					<comment></comment>
+					<answers>
+						<answer>richtig</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>essere</text>
+					<comment></comment>
+					<answers>
+						<answer>sein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lui è</text>
+					<comment></comment>
+					<answers>
+						<answer>er ist</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il salotto</text>
+					<comment></comment>
+					<answers>
+						<answer>Wohnzimmer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la cucina</text>
+					<comment></comment>
+					<answers>
+						<answer>Küche</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il giardino</text>
+					<comment></comment>
+					<answers>
+						<answer>Garten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lo spagnolo</text>
+					<comment></comment>
+					<answers>
+						<answer>Spanier</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>spagnolo</text>
+					<comment></comment>
+					<answers>
+						<answer>spanisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il portoghese</text>
+					<comment></comment>
+					<answers>
+						<answer>Portugieser</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>portoghese</text>
+					<comment></comment>
+					<answers>
+						<answer>portugiesisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il brasiliano</text>
+					<comment></comment>
+					<answers>
+						<answer>Brasilianer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>brasiliano</text>
+					<comment></comment>
+					<answers>
+						<answer>brasilianisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´Italia</text>
+					<comment></comment>
+					<answers>
+						<answer>Italien</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la vacanza</text>
+					<comment></comment>
+					<answers>
+						<answer>Urlaub</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il lavoro</text>
+					<comment></comment>
+					<answers>
+						<answer>Arbeit</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>per</text>
+					<comment></comment>
+					<answers>
+						<answer>für</answer>
+						<answer>um zu</answer>
+						<answer>nach</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>per lavoro</text>
+					<comment></comment>
+					<answers>
+						<answer>beruflich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>studiare</text>
+					<comment></comment>
+					<answers>
+						<answer>studieren</answer>
+						<answer>lernen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´italiano</text>
+					<comment></comment>
+					<answers>
+						<answer>Italiener</answer>
+						<answer>italienisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il giornalista</text>
+					<comment></comment>
+					<answers>
+						<answer>Journalist</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la giornalista</text>
+					<comment></comment>
+					<answers>
+						<answer>Journalistin</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´architetto</text>
+					<comment></comment>
+					<answers>
+						<answer>Architekt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´insegnante</text>
+					<comment></comment>
+					<answers>
+						<answer>Lehrer</answer>
+						<answer>Lehrerin</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>bere</text>
+					<comment></comment>
+					<answers>
+						<answer>trinken</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lui beve</text>
+					<comment></comment>
+					<answers>
+						<answer>er trinkt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>un</text>
+					<comment></comment>
+					<answers>
+						<answer>ein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il prosecco</text>
+					<comment></comment>
+					<answers>
+						<answer>Prosecco</answer>
+						<answer>italienischer Perlwein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>buenasera</text>
+					<comment></comment>
+					<answers>
+						<answer>guten Abend</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la signora</text>
+					<comment></comment>
+					<answers>
+						<answer>Frau</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>bene</text>
+					<comment></comment>
+					<answers>
+						<answer>gut</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>e</text>
+					<comment></comment>
+					<answers>
+						<answer>und</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>stare bene</text>
+					<comment></comment>
+					<answers>
+						<answer>gut gehen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>stare male</text>
+					<comment></comment>
+					<answers>
+						<answer>schlecht gehen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>non c´è male</text>
+					<comment></comment>
+					<answers>
+						<answer>nicht schlecht</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>male</text>
+					<comment></comment>
+					<answers>
+						<answer>schlecht</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>grazie</text>
+					<comment></comment>
+					<answers>
+						<answer>danke</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>buongiorno</text>
+					<comment></comment>
+					<answers>
+						<answer>guten Tag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il signor</text>
+					<comment></comment>
+					<answers>
+						<answer>Herr</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il signore</text>
+					<comment></comment>
+					<answers>
+						<answer>Herr</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>abbastanza</text>
+					<comment></comment>
+					<answers>
+						<answer>ziemlich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>benissimo</text>
+					<comment></comment>
+					<answers>
+						<answer>sehr gut</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>incontrare</text>
+					<comment></comment>
+					<answers>
+						<answer>treffen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>che cosa</text>
+					<comment></comment>
+					<answers>
+						<answer>was</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dire</text>
+					<comment></comment>
+					<answers>
+						<answer>sagen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lui dice</text>
+					<comment></comment>
+					<answers>
+						<answer>er sagt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>tutto bene</text>
+					<comment></comment>
+					<answers>
+						<answer>alles in Ordnung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>tutto</text>
+					<comment></comment>
+					<answers>
+						<answer>alles</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>senti</text>
+					<comment></comment>
+					<answers>
+						<answer>hör zu</answer>
+						<answer>pass auf</answer>
+						<answer>bitte schön</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>presentare</text>
+					<comment></comment>
+					<answers>
+						<answer>vorstellen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la mia amica</text>
+					<comment></comment>
+					<answers>
+						<answer>meine Freundin</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´amica</text>
+					<comment></comment>
+					<answers>
+						<answer>Freundin</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>piacere</text>
+					<comment></comment>
+					<answers>
+						<answer>schmecken</answer>
+						<answer>angenehm</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>completare</text>
+					<comment></comment>
+					<answers>
+						<answer>ergänzen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>formale</text>
+					<comment></comment>
+					<answers>
+						<answer>Sie-Form</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>confidenziale</text>
+					<comment></comment>
+					<answers>
+						<answer>Du-Form</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il mio amico</text>
+					<comment></comment>
+					<answers>
+						<answer>mein Freund</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´amico</text>
+					<comment></comment>
+					<answers>
+						<answer>Freund</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>nolto</text>
+					<comment></comment>
+					<answers>
+						<answer>sehr</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lieto</text>
+					<comment></comment>
+					<answers>
+						<answer>erfreut</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>questo</text>
+					<comment></comment>
+					<answers>
+						<answer>dieser</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il dottore</text>
+					<comment></comment>
+					<answers>
+						<answer>Herr Doktor</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la dottoressa</text>
+					<comment></comment>
+					<answers>
+						<answer>Frau Doktor</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>toccare</text>
+					<comment></comment>
+					<answers>
+						<answer>dran sein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>scusare</text>
+					<comment></comment>
+					<answers>
+						<answer>entschuldigen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Scusa!</text>
+					<comment></comment>
+					<answers>
+						<answer>Entschuldige!</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>chiamarsi</text>
+					<comment></comment>
+					<answers>
+						<answer>heißen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ma</text>
+					<comment></comment>
+					<answers>
+						<answer>aber</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il cognome</text>
+					<comment></comment>
+					<answers>
+						<answer>Nachname</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>non</text>
+					<comment></comment>
+					<answers>
+						<answer>nicht</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>no</text>
+					<comment></comment>
+					<answers>
+						<answer>nein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>di dove</text>
+					<comment></comment>
+					<answers>
+						<answer>woher</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´inglese</text>
+					<comment></comment>
+					<answers>
+						<answer>Engländer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>inglese</text>
+					<comment></comment>
+					<answers>
+						<answer>englisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´americano</text>
+					<comment></comment>
+					<answers>
+						<answer>Amerikaner</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>americano</text>
+					<comment></comment>
+					<answers>
+						<answer>amerikanisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il tedesco</text>
+					<comment></comment>
+					<answers>
+						<answer>Deutscher</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>tedesco</text>
+					<comment></comment>
+					<answers>
+						<answer>deutsch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´austriaco</text>
+					<comment></comment>
+					<answers>
+						<answer>Österreicher</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>austriaco</text>
+					<comment></comment>
+					<answers>
+						<answer>österreichisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il francese</text>
+					<comment></comment>
+					<answers>
+						<answer>Franzose</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>francese</text>
+					<comment></comment>
+					<answers>
+						<answer>französisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il canadese</text>
+					<comment></comment>
+					<answers>
+						<answer>Kanadier</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>canadese</text>
+					<comment></comment>
+					<answers>
+						<answer>kanadisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´argentino</text>
+					<comment></comment>
+					<answers>
+						<answer>Argentinier</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>argentino</text>
+					<comment></comment>
+					<answers>
+						<answer>argentinisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il norvegese</text>
+					<comment></comment>
+					<answers>
+						<answer>Norweger</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>norvegese</text>
+					<comment></comment>
+					<answers>
+						<answer>norwegisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il danese</text>
+					<comment></comment>
+					<answers>
+						<answer>Däne</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>danese</text>
+					<comment></comment>
+					<answers>
+						<answer>dänisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lo svizzero</text>
+					<comment></comment>
+					<answers>
+						<answer>Schweizer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>svizzero</text>
+					<comment></comment>
+					<answers>
+						<answer>Schweizerisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>vivere</text>
+					<comment></comment>
+					<answers>
+						<answer>leben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il Brasile</text>
+					<comment></comment>
+					<answers>
+						<answer>Brasilien</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>o</text>
+					<comment></comment>
+					<answers>
+						<answer>oder</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>parlare</text>
+					<comment></comment>
+					<answers>
+						<answer>sprechen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>perché</text>
+					<comment></comment>
+					<answers>
+						<answer>weil</answer>
+						<answer>warum</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>si</text>
+					<comment></comment>
+					<answers>
+						<answer>ja</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Ah, ecco!</text>
+					<comment></comment>
+					<answers>
+						<answer>Ah, deswegen!</answer>
+						<answer>Ah, deshalb!</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´origine</text>
+					<comment></comment>
+					<answers>
+						<answer>Herkunft</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>fare</text>
+					<comment></comment>
+					<answers>
+						<answer>machen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>adesso</text>
+					<comment></comment>
+					<answers>
+						<answer>jetzt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>qui</text>
+					<comment></comment>
+					<answers>
+						<answer>hier</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la domanda</text>
+					<comment></comment>
+					<answers>
+						<answer>Frage</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>rispondere</text>
+					<comment></comment>
+					<answers>
+						<answer>antworten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la Germania</text>
+					<comment></comment>
+					<answers>
+						<answer>Deutschland</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´Austria</text>
+					<comment></comment>
+					<answers>
+						<answer>Österreich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la Francia</text>
+					<comment></comment>
+					<answers>
+						<answer>Frankreich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il Canada</text>
+					<comment></comment>
+					<answers>
+						<answer>Kanada</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la Spagna</text>
+					<comment></comment>
+					<answers>
+						<answer>Spanien</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´Argentina</text>
+					<comment></comment>
+					<answers>
+						<answer>Argentinien</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la Norvegia</text>
+					<comment></comment>
+					<answers>
+						<answer>Norwegen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la Danimarca</text>
+					<comment></comment>
+					<answers>
+						<answer>Dänemark</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la Svizzera</text>
+					<comment></comment>
+					<answers>
+						<answer>Schweiz</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´ingegnere</text>
+					<comment></comment>
+					<answers>
+						<answer>Ingenieur</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´impiegata</text>
+					<comment></comment>
+					<answers>
+						<answer>Angestellte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il comesso</text>
+					<comment></comment>
+					<answers>
+						<answer>Verkäufer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il medico</text>
+					<comment></comment>
+					<answers>
+						<answer>Arzt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la segretaria</text>
+					<comment></comment>
+					<answers>
+						<answer>Sekretärin</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´operaio</text>
+					<comment></comment>
+					<answers>
+						<answer>Arbeiter</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la casalinga</text>
+					<comment></comment>
+					<answers>
+						<answer>Hausfrau</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la farmacista</text>
+					<comment></comment>
+					<answers>
+						<answer>Apothekerin</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´avvocato</text>
+					<comment></comment>
+					<answers>
+						<answer>Rechtsanwalt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>invece</text>
+					<comment></comment>
+					<answers>
+						<answer>dagegen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>anche</text>
+					<comment></comment>
+					<answers>
+						<answer>auch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lavorare</text>
+					<comment></comment>
+					<answers>
+						<answer>arbeiten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il liceo</text>
+					<comment></comment>
+					<answers>
+						<answer>Gymnasium</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dove</text>
+					<comment></comment>
+					<answers>
+						<answer>wo</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>vicino a</text>
+					<comment></comment>
+					<answers>
+						<answer>in der Nähe von</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la farmacia</text>
+					<comment></comment>
+					<answers>
+						<answer>Apotheke</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´ufficio</text>
+					<comment></comment>
+					<answers>
+						<answer>Büro</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lo studio</text>
+					<comment></comment>
+					<answers>
+						<answer>Büro</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´agenzia</text>
+					<comment></comment>
+					<answers>
+						<answer>Agentur</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>confrontare</text>
+					<comment></comment>
+					<answers>
+						<answer>vergleichen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il compagno</text>
+					<comment></comment>
+					<answers>
+						<answer>Partner</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la scuola</text>
+					<comment></comment>
+					<answers>
+						<answer>Schule</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il supermercato</text>
+					<comment></comment>
+					<answers>
+						<answer>Supermarkt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>intervistare</text>
+					<comment></comment>
+					<answers>
+						<answer>interviewen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>almeno</text>
+					<comment></comment>
+					<answers>
+						<answer>mindestens</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>chiedere</text>
+					<comment></comment>
+					<answers>
+						<answer>fragen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ragazzi</text>
+					<comment></comment>
+					<answers>
+						<answer>junge Leute</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il ragazzo</text>
+					<comment></comment>
+					<answers>
+						<answer>junger Mann</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>prendere</text>
+					<comment></comment>
+					<answers>
+						<answer>nehmen</answer>
+						<answer>trinken</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>qualcosa</text>
+					<comment></comment>
+					<answers>
+						<answer>etwas</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>volentieri</text>
+					<comment></comment>
+					<answers>
+						<answer>gerne</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la signorina</text>
+					<comment></comment>
+					<answers>
+						<answer>Fräulein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>analcolico</text>
+					<comment></comment>
+					<answers>
+						<answer>alkoholfrei</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>preferire</text>
+					<comment></comment>
+					<answers>
+						<answer>vorziehen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Alla salute!</text>
+					<comment></comment>
+					<answers>
+						<answer>Zum Wohl!</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>prego</text>
+					<comment></comment>
+					<answers>
+						<answer>bitte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Cin cin!</text>
+					<comment></comment>
+					<answers>
+						<answer>Prost!</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´acqua minerale</text>
+					<comment></comment>
+					<answers>
+						<answer>Mineralwasser</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´acqua</text>
+					<comment></comment>
+					<answers>
+						<answer>Wasser</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il vino</text>
+					<comment></comment>
+					<answers>
+						<answer>Wein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il vino bianco</text>
+					<comment></comment>
+					<answers>
+						<answer>Weißwein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il vino rosso</text>
+					<comment></comment>
+					<answers>
+						<answer>Rotwein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>bianco</text>
+					<comment></comment>
+					<answers>
+						<answer>weiß</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>rosso</text>
+					<comment></comment>
+					<answers>
+						<answer>rot</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´aranciata</text>
+					<comment></comment>
+					<answers>
+						<answer>Orangenlimonade</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la birra</text>
+					<comment></comment>
+					<answers>
+						<answer>Bier</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lo spumante</text>
+					<comment></comment>
+					<answers>
+						<answer>Sekt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>scrivere</text>
+					<comment></comment>
+					<answers>
+						<answer>schreiben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la e-mail</text>
+					<comment></comment>
+					<answers>
+						<answer>E-Mail</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>caro</text>
+					<comment></comment>
+					<answers>
+						<answer>lieb</answer>
+						<answer>teuer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la vita</text>
+					<comment></comment>
+					<answers>
+						<answer>Leben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il momento</text>
+					<comment></comment>
+					<answers>
+						<answer>Moment</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>piccolo</text>
+					<comment></comment>
+					<answers>
+						<answer>klein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il problema</text>
+					<comment></comment>
+					<answers>
+						<answer>Problem</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il mese</text>
+					<comment></comment>
+					<answers>
+						<answer>Monat</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>prossimo</text>
+					<comment></comment>
+					<answers>
+						<answer>nächster</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>partire</text>
+					<comment></comment>
+					<answers>
+						<answer>abreisen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>quindi</text>
+					<comment></comment>
+					<answers>
+						<answer>also</answer>
+						<answer>deshalb</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>cercare</text>
+					<comment></comment>
+					<answers>
+						<answer>suchen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la baby sitter</text>
+					<comment></comment>
+					<answers>
+						<answer>Babysitter</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il bambino</text>
+					<comment></comment>
+					<answers>
+						<answer>Kind</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>conoscere</text>
+					<comment></comment>
+					<answers>
+						<answer>kennen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la ragazza</text>
+					<comment></comment>
+					<answers>
+						<answer>Mädchen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>serio</text>
+					<comment></comment>
+					<answers>
+						<answer>ernst</answer>
+						<answer>zuverlässig</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>simpatico</text>
+					<comment></comment>
+					<answers>
+						<answer>sympathisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>venire</text>
+					<comment></comment>
+					<answers>
+						<answer>kommen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il giorno</text>
+					<comment></comment>
+					<answers>
+						<answer>Tag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>presto</text>
+					<comment></comment>
+					<answers>
+						<answer>bald</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>cari saluti</text>
+					<comment></comment>
+					<answers>
+						<answer>liebe Grüße</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il saluto</text>
+					<comment></comment>
+					<answers>
+						<answer>Gruß</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>forse</text>
+					<comment></comment>
+					<answers>
+						<answer>vielleicht</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>trovare</text>
+					<comment></comment>
+					<answers>
+						<answer>finden</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>avere</text>
+					<comment></comment>
+					<answers>
+						<answer>haben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>da</text>
+					<comment></comment>
+					<answers>
+						<answer>seit</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´anno</text>
+					<comment></comment>
+					<answers>
+						<answer>Jahr</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la pedagogia</text>
+					<comment></comment>
+					<answers>
+						<answer>Pädagogik</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>capire</text>
+					<comment></comment>
+					<answers>
+						<answer>verstehen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>un po´</text>
+					<comment></comment>
+					<answers>
+						<answer>ein wenig</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il numero di telefono</text>
+					<comment></comment>
+					<answers>
+						<answer>Telefonnummer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il numero</text>
+					<comment></comment>
+					<answers>
+						<answer>Zahl</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il telefono</text>
+					<comment></comment>
+					<answers>
+						<answer>Telefon</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´indirizzo</text>
+					<comment></comment>
+					<answers>
+						<answer>Adresse</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´indirizzo mail</text>
+					<comment></comment>
+					<answers>
+						<answer>E-Mail-Adresse</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>a presto</text>
+					<comment></comment>
+					<answers>
+						<answer>bis bald</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>chi</text>
+					<comment></comment>
+					<answers>
+						<answer>wer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la lingua</text>
+					<comment></comment>
+					<answers>
+						<answer>Sprache</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>maschile</text>
+					<comment></comment>
+					<answers>
+						<answer>männlich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>femminile</text>
+					<comment></comment>
+					<answers>
+						<answer>weiblich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la libreria</text>
+					<comment></comment>
+					<answers>
+						<answer>Buchhandlung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la banca</text>
+					<comment></comment>
+					<answers>
+						<answer>Bank</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la settimana</text>
+					<comment></comment>
+					<answers>
+						<answer>Woche</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Che cosa prendi?</text>
+					<comment></comment>
+					<answers>
+						<answer>Was nimmst du?</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il bar</text>
+					<comment></comment>
+					<answers>
+						<answer>Bar</answer>
+						<answer>Café</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il listino prezzi</text>
+					<comment></comment>
+					<answers>
+						<answer>Preisliste</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il caffé</text>
+					<comment></comment>
+					<answers>
+						<answer>Kaffee</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´espresso</text>
+					<comment></comment>
+					<answers>
+						<answer>Espresso</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il caffé corretto</text>
+					<comment></comment>
+					<answers>
+						<answer>Kaffee mit Schuss</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>decaffeinato</text>
+					<comment></comment>
+					<answers>
+						<answer>entkoffeiniert</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il caffelatte</text>
+					<comment></comment>
+					<answers>
+						<answer>Milchkaffee</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il latte</text>
+					<comment></comment>
+					<answers>
+						<answer>Milch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il cappuccino</text>
+					<comment></comment>
+					<answers>
+						<answer>Cappuccino</answer>
+						<answer>Espresso mit aufgeschäumter Milch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il cioccolato</text>
+					<comment></comment>
+					<answers>
+						<answer>Schokolade</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il the</text>
+					<comment></comment>
+					<answers>
+						<answer>Tee</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la cammomilla</text>
+					<comment></comment>
+					<answers>
+						<answer>Kamillentee</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il punsch</text>
+					<comment></comment>
+					<answers>
+						<answer>Punsch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´aperitivo</text>
+					<comment></comment>
+					<answers>
+						<answer>Aperitiv</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la marca</text>
+					<comment></comment>
+					<answers>
+						<answer>Marke</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´analcolico</text>
+					<comment></comment>
+					<answers>
+						<answer>alkoholfreier Aperitiv</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´amaro</text>
+					<comment></comment>
+					<answers>
+						<answer>Bitter</answer>
+						<answer>Kräuterlikör</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il liquore</text>
+					<comment></comment>
+					<answers>
+						<answer>Likör</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>nazionale</text>
+					<comment></comment>
+					<answers>
+						<answer>einheimisch</answer>
+						<answer>national</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il brandy</text>
+					<comment></comment>
+					<answers>
+						<answer>Brandy</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la grappa</text>
+					<comment></comment>
+					<answers>
+						<answer>Grappa</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>estero</text>
+					<comment></comment>
+					<answers>
+						<answer>ausländisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il cognac</text>
+					<comment></comment>
+					<answers>
+						<answer>Cognac</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il whisky</text>
+					<comment></comment>
+					<answers>
+						<answer>Whisky</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il vermouth</text>
+					<comment></comment>
+					<answers>
+						<answer>Wermut</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il bicchiere</text>
+					<comment></comment>
+					<answers>
+						<answer>Glas</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il vino da dessert</text>
+					<comment></comment>
+					<answers>
+						<answer>Dessertwein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il porto</text>
+					<comment></comment>
+					<answers>
+						<answer>Portwein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la bibita</text>
+					<comment></comment>
+					<answers>
+						<answer>Getränk</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>grande</text>
+					<comment></comment>
+					<answers>
+						<answer>groß</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la lattina</text>
+					<comment></comment>
+					<answers>
+						<answer>Dose</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la bottiglia</text>
+					<comment></comment>
+					<answers>
+						<answer>Flasche</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la spremuta</text>
+					<comment></comment>
+					<answers>
+						<answer>frisch ausgepresster Saft</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il succo die frutta</text>
+					<comment></comment>
+					<answers>
+						<answer>Fruchtsaft</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la gassosa</text>
+					<comment></comment>
+					<answers>
+						<answer>Limonade</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lo snack</text>
+					<comment></comment>
+					<answers>
+						<answer>Imbiss</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la pasta</text>
+					<comment></comment>
+					<answers>
+						<answer>Gebäck</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il panino</text>
+					<comment></comment>
+					<answers>
+						<answer>Brötchen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la pizza</text>
+					<comment></comment>
+					<answers>
+						<answer>Pizza</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la tartina</text>
+					<comment></comment>
+					<answers>
+						<answer>belegte Brotscheibe</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il toast</text>
+					<comment></comment>
+					<answers>
+						<answer>Toast</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la focaccia</text>
+					<comment></comment>
+					<answers>
+						<answer>Fladen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la brioche</text>
+					<comment></comment>
+					<answers>
+						<answer>Brioche</answer>
+						<answer>feines Hefegebäck</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>oggi</text>
+					<comment></comment>
+					<answers>
+						<answer>heute</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>bello</text>
+					<comment></comment>
+					<answers>
+						<answer>schön</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la giornata</text>
+					<comment></comment>
+					<answers>
+						<answer>Tag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>mentre</text>
+					<comment></comment>
+					<answers>
+						<answer>während</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>passegiare</text>
+					<comment></comment>
+					<answers>
+						<answer>spazierengehen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il centro</text>
+					<comment></comment>
+					<answers>
+						<answer>Zentrum</answer>
+						<answer>Mitte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>vedere</text>
+					<comment></comment>
+					<answers>
+						<answer>sehen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>stanco</text>
+					<comment></comment>
+					<answers>
+						<answer>müde</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la sete</text>
+					<comment></comment>
+					<answers>
+						<answer>Durst</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>avere sete</text>
+					<comment></comment>
+					<answers>
+						<answer>Durst haben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>avere fame</text>
+					<comment></comment>
+					<answers>
+						<answer>Hunger haben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la fame</text>
+					<comment></comment>
+					<answers>
+						<answer>Hunger</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ordinare</text>
+					<comment></comment>
+					<answers>
+						<answer>bestellen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il medaglione</text>
+					<comment></comment>
+					<answers>
+						<answer>Sandwich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il tramezzino</text>
+					<comment></comment>
+					<answers>
+						<answer>Sandwich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la pizzetta</text>
+					<comment></comment>
+					<answers>
+						<answer>kleine Pizza</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´appuntamento</text>
+					<comment></comment>
+					<answers>
+						<answer>Verabredung</answer>
+						<answer>Termin</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il collega</text>
+					<comment></comment>
+					<answers>
+						<answer>Kollege</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la collega</text>
+					<comment></comment>
+					<answers>
+						<answer>Kollegin</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il conoscente</text>
+					<comment></comment>
+					<answers>
+						<answer>Bekannter</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la conoscente</text>
+					<comment></comment>
+					<answers>
+						<answer>Bekannte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>a mezzogiorno</text>
+					<comment></comment>
+					<answers>
+						<answer>mittags</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>mezzogiorno</text>
+					<comment></comment>
+					<answers>
+						<answer>Mittag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>desiderare</text>
+					<comment></comment>
+					<answers>
+						<answer>wünschen</answer>
+						<answer>begehren</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dunque</text>
+					<comment></comment>
+					<answers>
+						<answer>also</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il limone</text>
+					<comment></comment>
+					<answers>
+						<answer>Zitrone</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il cornetto</text>
+					<comment></comment>
+					<answers>
+						<answer>Hörnchen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la crema</text>
+					<comment></comment>
+					<answers>
+						<answer>Creme</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la marmellata</text>
+					<comment></comment>
+					<answers>
+						<answer>Marmelade</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>liscio</text>
+					<comment></comment>
+					<answers>
+						<answer>pur</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il ghiaccio</text>
+					<comment></comment>
+					<answers>
+						<answer>Eis</answer>
+						<answer>Eiswürfel</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il prosciutto</text>
+					<comment></comment>
+					<answers>
+						<answer>Schinken</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il salame</text>
+					<comment></comment>
+					<answers>
+						<answer>Salami</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>caldo</text>
+					<comment></comment>
+					<answers>
+						<answer>warm</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>freddo</text>
+					<comment></comment>
+					<answers>
+						<answer>kalt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il gelato</text>
+					<comment></comment>
+					<answers>
+						<answer>Eis</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>senza</text>
+					<comment></comment>
+					<answers>
+						<answer>ohne</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la panna</text>
+					<comment></comment>
+					<answers>
+						<answer>Sahne</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>alcolico</text>
+					<comment></comment>
+					<answers>
+						<answer>alkoholhaltig</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dolce</text>
+					<comment></comment>
+					<answers>
+						<answer>süß</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>amaro</text>
+					<comment></comment>
+					<answers>
+						<answer>bitter</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>mangiare</text>
+					<comment></comment>
+					<answers>
+						<answer>essen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lo spuntino</text>
+					<comment></comment>
+					<answers>
+						<answer>Imbiss</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>guardare</text>
+					<comment></comment>
+					<answers>
+						<answer>schauen</answer>
+						<answer>aufpassen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>poi</text>
+					<comment></comment>
+					<answers>
+						<answer>dann</answer>
+						<answer>danach</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>magari</text>
+					<comment></comment>
+					<answers>
+						<answer>eher</answer>
+						<answer>lieber</answer>
+						<answer>vielleicht</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>solito</text>
+					<comment></comment>
+					<answers>
+						<answer>üblich</answer>
+						<answer>gewöhnlich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il tonno</text>
+					<comment></comment>
+					<answers>
+						<answer>Thunfisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il pomodoro</text>
+					<comment></comment>
+					<answers>
+						<answer>Tomate</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la mozarella</text>
+					<comment></comment>
+					<answers>
+						<answer>Moarella</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>gli spinaci</text>
+					<comment></comment>
+					<answers>
+						<answer>Spinat</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il fungo</text>
+					<comment></comment>
+					<answers>
+						<answer>Pilz</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>c´è</text>
+					<comment></comment>
+					<answers>
+						<answer>da ist</answer>
+						<answer>es gibt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´ordinazione</text>
+					<comment></comment>
+					<answers>
+						<answer>Bestellung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il cameririere</text>
+					<comment></comment>
+					<answers>
+						<answer>Kellner</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il cliente</text>
+					<comment></comment>
+					<answers>
+						<answer>Kunde</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>offrire</text>
+					<comment></comment>
+					<answers>
+						<answer>anbieten</answer>
+						<answer>bieten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´ingrediente</text>
+					<comment></comment>
+					<answers>
+						<answer>Zutat</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´aspergo</text>
+					<comment></comment>
+					<answers>
+						<answer>Spargel</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la melanzana</text>
+					<comment></comment>
+					<answers>
+						<answer>Aubergine</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´uovo</text>
+					<comment></comment>
+					<answers>
+						<answer>Ei</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>le uova</text>
+					<comment></comment>
+					<answers>
+						<answer>Eier</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il gamberetto</text>
+					<comment></comment>
+					<answers>
+						<answer>Garnele</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il frormaggio</text>
+					<comment></comment>
+					<answers>
+						<answer>Käse</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il radicchio</text>
+					<comment></comment>
+					<answers>
+						<answer>Radicchio</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>pagare</text>
+					<comment></comment>
+					<answers>
+						<answer>zahlen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>subito</text>
+					<comment></comment>
+					<answers>
+						<answer>sofort</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>peró</text>
+					<comment></comment>
+					<answers>
+						<answer>aber</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Ma dai!</text>
+					<comment></comment>
+					<answers>
+						<answer>Also hör mal!</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>sempre</text>
+					<comment></comment>
+					<answers>
+						<answer>immer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Lascia!</text>
+					<comment></comment>
+					<answers>
+						<answer>Lass schon!</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lasciare</text>
+					<comment></comment>
+					<answers>
+						<answer>lassen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Quant´è?</text>
+					<comment></comment>
+					<answers>
+						<answer>Was macht es?</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ecco</text>
+					<comment></comment>
+					<answers>
+						<answer>hier</answer>
+						<answer>da</answer>
+						<answer>hier bitte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>pure</text>
+					<comment></comment>
+					<answers>
+						<answer>ruhig</answer>
+						<answer>nur</answer>
+						<answer>auch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>tenere</text>
+					<comment></comment>
+					<answers>
+						<answer>halten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il resto</text>
+					<comment></comment>
+					<answers>
+						<answer>Rest</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>potere</text>
+					<comment></comment>
+					<answers>
+						<answer>können</answer>
+						<answer>dürfen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il portacenere</text>
+					<comment></comment>
+					<answers>
+						<answer>Aschenbecher</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>per cortesia</text>
+					<comment></comment>
+					<answers>
+						<answer>bitte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>certo</text>
+					<comment></comment>
+					<answers>
+						<answer>sicher</answer>
+						<answer>natürlich</answer>
+						<answer>selbstverständlich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il centesimo</text>
+					<comment></comment>
+					<answers>
+						<answer>Cent</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lo zucchero</text>
+					<comment></comment>
+					<answers>
+						<answer>Zucker</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>un altro</text>
+					<comment></comment>
+					<answers>
+						<answer>noch ein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>un´altra</text>
+					<comment></comment>
+					<answers>
+						<answer>noch eine</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il tovagliolo</text>
+					<comment></comment>
+					<answers>
+						<answer>Serviette</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il cucchiaono</text>
+					<comment></comment>
+					<answers>
+						<answer>Teelöffel</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lo scontrino</text>
+					<comment></comment>
+					<answers>
+						<answer>Zettel</answer>
+						<answer>Rechnung</answer>
+						<answer>Quittung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il prezzo</text>
+					<comment></comment>
+					<answers>
+						<answer>Preis</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>leggere</text>
+					<comment></comment>
+					<answers>
+						<answer>lesen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la cartolina</text>
+					<comment></comment>
+					<answers>
+						<answer>Postkarte</answer>
+						<answer>Ansichtskarte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la mamma</text>
+					<comment></comment>
+					<answers>
+						<answer>Mutter</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il papà</text>
+					<comment></comment>
+					<answers>
+						<answer>Vater</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la campagna</text>
+					<comment></comment>
+					<answers>
+						<answer>Land</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il posto</text>
+					<comment></comment>
+					<answers>
+						<answer>Ort</answer>
+						<answer>Platz</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>noioso</text>
+					<comment></comment>
+					<answers>
+						<answer>langweilig</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>per fortuna</text>
+					<comment></comment>
+					<answers>
+						<answer>zum Glück</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la fortuna</text>
+					<comment></comment>
+					<answers>
+						<answer>Glück</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la città</text>
+					<comment></comment>
+					<answers>
+						<answer>Stadt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>esserci</text>
+					<comment></comment>
+					<answers>
+						<answer>da sein</answer>
+						<answer>stattfinden</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>molto</text>
+					<comment></comment>
+					<answers>
+						<answer>viel</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il locale</text>
+					<comment></comment>
+					<answers>
+						<answer>Lokal</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>carino</text>
+					<comment></comment>
+					<answers>
+						<answer>hübsch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>qui vicino</text>
+					<comment></comment>
+					<answers>
+						<answer>hier in der Nähe</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la discoteca</text>
+					<comment></comment>
+					<answers>
+						<answer>Diskothek</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la sera</text>
+					<comment></comment>
+					<answers>
+						<answer>Abend</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>spesso</text>
+					<comment></comment>
+					<answers>
+						<answer>oft</answer>
+						<answer>häufig</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la macchina</text>
+					<comment></comment>
+					<answers>
+						<answer>Auto</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ballare</text>
+					<comment></comment>
+					<answers>
+						<answer>tanzen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>restare</text>
+					<comment></comment>
+					<answers>
+						<answer>bleiben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la televisione</text>
+					<comment></comment>
+					<answers>
+						<answer>Fernsehen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>fino a</text>
+					<comment></comment>
+					<answers>
+						<answer>bis</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la fine</text>
+					<comment></comment>
+					<answers>
+						<answer>Ende</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>tornare</text>
+					<comment></comment>
+					<answers>
+						<answer>zurückfahren</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>fra</text>
+					<comment></comment>
+					<answers>
+						<answer>in</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>quando</text>
+					<comment></comment>
+					<answers>
+						<answer>wenn</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´abbraccio</text>
+					<comment></comment>
+					<answers>
+						<answer>Umarmung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la torre</text>
+					<comment></comment>
+					<answers>
+						<answer>Turm</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la torre pendente</text>
+					<comment></comment>
+					<answers>
+						<answer>der Schiefe Turm</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il museo</text>
+					<comment></comment>
+					<answers>
+						<answer>Museum</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il succo</text>
+					<comment></comment>
+					<answers>
+						<answer>Saft</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la pesca</text>
+					<comment></comment>
+					<answers>
+						<answer>Pfirsich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>essere buono</text>
+					<comment></comment>
+					<answers>
+						<answer>gut sein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>buono</text>
+					<comment></comment>
+					<answers>
+						<answer>gut</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>volere</text>
+					<comment></comment>
+					<answers>
+						<answer>möchten</answer>
+						<answer>wollen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>assaggiare</text>
+					<comment></comment>
+					<answers>
+						<answer>probieren</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´ora</text>
+					<comment></comment>
+					<answers>
+						<answer>Stunde</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Che ore sono?</text>
+					<comment></comment>
+					<answers>
+						<answer>Wie spät ist es?</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>devo andare</text>
+					<comment></comment>
+					<answers>
+						<answer>ich muss gehen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>avere tempo</text>
+					<comment></comment>
+					<answers>
+						<answer>Zeit haben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il tempo</text>
+					<comment></comment>
+					<answers>
+						<answer>Zeit</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Dai!</text>
+					<comment></comment>
+					<answers>
+						<answer>Komm schon!</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la ragione</text>
+					<comment></comment>
+					<answers>
+						<answer>Recht</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>avere ragione</text>
+					<comment></comment>
+					<answers>
+						<answer>Recht haben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la nocciolina</text>
+					<comment></comment>
+					<answers>
+						<answer>Erdnuss</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>scoprire</text>
+					<comment></comment>
+					<answers>
+						<answer>entdecken</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il gusto</text>
+					<comment></comment>
+					<answers>
+						<answer>Vorliebe</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la patatina</text>
+					<comment></comment>
+					<answers>
+						<answer>Kartoffelchip</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il quarto</text>
+					<comment></comment>
+					<answers>
+						<answer>Viertel</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>mezzo</text>
+					<comment></comment>
+					<answers>
+						<answer>halb</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>mezza</text>
+					<comment></comment>
+					<answers>
+						<answer>halb</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>mezzanotte</text>
+					<comment></comment>
+					<answers>
+						<answer>Mitternacht</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>domandare</text>
+					<comment></comment>
+					<answers>
+						<answer>fragen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´ora</text>
+					<comment></comment>
+					<answers>
+						<answer>Uhrzeit</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Attenzione!</text>
+					<comment></comment>
+					<answers>
+						<answer>Vorsicht!</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>mezz´ora</text>
+					<comment></comment>
+					<answers>
+						<answer>eine halbe Stunde</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dopo</text>
+					<comment></comment>
+					<answers>
+						<answer>danach</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la fragola</text>
+					<comment></comment>
+					<answers>
+						<answer>Erdbeere</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la coca cola</text>
+					<comment></comment>
+					<answers>
+						<answer>Coca-Cola</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il rum</text>
+					<comment></comment>
+					<answers>
+						<answer>Rum</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>gasata</text>
+					<comment></comment>
+					<answers>
+						<answer>mit Kohlensäure</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>naturale</text>
+					<comment></comment>
+					<answers>
+						<answer>still</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>alla spina</text>
+					<comment></comment>
+					<answers>
+						<answer>vom Fass</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´insalata</text>
+					<comment></comment>
+					<answers>
+						<answer>Salat</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>normale</text>
+					<comment></comment>
+					<answers>
+						<answer>üblich</answer>
+						<answer>normal</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>al sud</text>
+					<comment></comment>
+					<answers>
+						<answer>im Süden</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>in estate</text>
+					<comment></comment>
+					<answers>
+						<answer>im Sommer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la mattina</text>
+					<comment></comment>
+					<answers>
+						<answer>Vormittag</answer>
+						<answer>Morgen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la tazza</text>
+					<comment></comment>
+					<answers>
+						<answer>Tasse</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la camera</text>
+					<comment></comment>
+					<answers>
+						<answer>Zimmer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>prenotato</text>
+					<comment></comment>
+					<answers>
+						<answer>reserviert</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>quale</text>
+					<comment></comment>
+					<answers>
+						<answer>welcher</answer>
+						<answer>welche</answer>
+						<answer>welches</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la sistemazione</text>
+					<comment></comment>
+					<answers>
+						<answer>Unterkunft</answer>
+						<answer>Unterbringung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il campeggio</text>
+					<comment></comment>
+					<answers>
+						<answer>Campingplatz</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la pineta</text>
+					<comment></comment>
+					<answers>
+						<answer>Pinienwald</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la soluzione</text>
+					<comment></comment>
+					<answers>
+						<answer>Lösung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>economico</text>
+					<comment></comment>
+					<answers>
+						<answer>preiswert</answer>
+						<answer>billig</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>amare</text>
+					<comment></comment>
+					<answers>
+						<answer>lieben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´aria</text>
+					<comment></comment>
+					<answers>
+						<answer>Luft</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>aperto</text>
+					<comment></comment>
+					<answers>
+						<answer>offen</answer>
+						<answer>frei</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´arte</text>
+					<comment></comment>
+					<answers>
+						<answer>Kunst</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>toscano</text>
+					<comment></comment>
+					<answers>
+						<answer>toskanisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la tranquillità</text>
+					<comment></comment>
+					<answers>
+						<answer>Ruhe</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il benessere</text>
+					<comment></comment>
+					<answers>
+						<answer>Wohlbefinden</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la salute</text>
+					<comment></comment>
+					<answers>
+						<answer>Gesundheit</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´ambiente</text>
+					<comment></comment>
+					<answers>
+						<answer>Umgebung</answer>
+						<answer>Ambiente</answer>
+						<answer>Atmosphäre</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´azienda agrituristica</text>
+					<comment></comment>
+					<answers>
+						<answer>Pension auf dem Bauernhof</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la quiete</text>
+					<comment></comment>
+					<answers>
+						<answer>Ruhe</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>genuino</text>
+					<comment></comment>
+					<answers>
+						<answer>echt</answer>
+						<answer>unverfälscht</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la portineria</text>
+					<comment></comment>
+					<answers>
+						<answer>Rezeption</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il televisore</text>
+					<comment></comment>
+					<answers>
+						<answer>Fernseher</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la doccia</text>
+					<comment></comment>
+					<answers>
+						<answer>Dusche</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il bagno</text>
+					<comment></comment>
+					<answers>
+						<answer>Bad</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la sveglia</text>
+					<comment></comment>
+					<answers>
+						<answer>Wecker</answer>
+						<answer>Weckdienst</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la forma di pagamento</text>
+					<comment></comment>
+					<answers>
+						<answer>Zahlungsmodus</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il frigo-bar</text>
+					<comment></comment>
+					<answers>
+						<answer>Minibar</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´aria condizionata</text>
+					<comment></comment>
+					<answers>
+						<answer>Klimaanlage</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il receptionist</text>
+					<comment></comment>
+					<answers>
+						<answer>Empfangschef</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la camera doppia</text>
+					<comment></comment>
+					<answers>
+						<answer>Doppelzimmer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la camera singola</text>
+					<comment></comment>
+					<answers>
+						<answer>Einzelzimmer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la camera matrimoniale</text>
+					<comment></comment>
+					<answers>
+						<answer>Zimmer mit Ehebett</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>luminoso</text>
+					<comment></comment>
+					<answers>
+						<answer>hell</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>silenzioso</text>
+					<comment></comment>
+					<answers>
+						<answer>ruhig</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il passaporto</text>
+					<comment></comment>
+					<answers>
+						<answer>Reisepass</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la carta d´identità</text>
+					<comment></comment>
+					<answers>
+						<answer>Personalausweis</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la patente</text>
+					<comment></comment>
+					<answers>
+						<answer>Führerschein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dovere</text>
+					<comment></comment>
+					<answers>
+						<answer>müssen</answer>
+						<answer>sollen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>prenotare</text>
+					<comment></comment>
+					<answers>
+						<answer>vorbestellen</answer>
+						<answer>reservieren</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la valigia</text>
+					<comment></comment>
+					<answers>
+						<answer>Koffer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il bagaglio</text>
+					<comment></comment>
+					<answers>
+						<answer>Gepäck</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il garage</text>
+					<comment></comment>
+					<answers>
+						<answer>Garage</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>attendere</text>
+					<comment></comment>
+					<answers>
+						<answer>warten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la stanza</text>
+					<comment></comment>
+					<answers>
+						<answer>Zimmer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>esattamente</text>
+					<comment></comment>
+					<answers>
+						<answer>genau</answer>
+						<answer>richtig</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dare</text>
+					<comment></comment>
+					<answers>
+						<answer>geben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la chiave</text>
+					<comment></comment>
+					<answers>
+						<answer>Schlüssel</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Vero?</text>
+					<comment></comment>
+					<answers>
+						<answer>Nicht wahr?</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>interno</text>
+					<comment></comment>
+					<answers>
+						<answer>innen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dare su</text>
+					<comment></comment>
+					<answers>
+						<answer>gehen zu</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>su</text>
+					<comment></comment>
+					<answers>
+						<answer>zu</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il cortile</text>
+					<comment></comment>
+					<answers>
+						<answer>Hof</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ripetere</text>
+					<comment></comment>
+					<answers>
+						<answer>wiederholen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il letto</text>
+					<comment></comment>
+					<answers>
+						<answer>Bett</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la notte</text>
+					<comment></comment>
+					<answers>
+						<answer>Nacht</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>tranquillo</text>
+					<comment></comment>
+					<answers>
+						<answer>ruhig</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>rumoroso</text>
+					<comment></comment>
+					<answers>
+						<answer>laut</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ultimo</text>
+					<comment></comment>
+					<answers>
+						<answer>letzter</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il piano</text>
+					<comment></comment>
+					<answers>
+						<answer>Stockwerk</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la strada</text>
+					<comment></comment>
+					<answers>
+						<answer>Straße</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>primo</text>
+					<comment></comment>
+					<answers>
+						<answer>erster</answer>
+						<answer>erste</answer>
+						<answer>erstes</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il parco</text>
+					<comment></comment>
+					<answers>
+						<answer>Park</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la cena</text>
+					<comment></comment>
+					<answers>
+						<answer>Abendessen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la colazione</text>
+					<comment></comment>
+					<answers>
+						<answer>Frühstück</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>eventualmente</text>
+					<comment></comment>
+					<answers>
+						<answer>eventuell</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>possibile</text>
+					<comment></comment>
+					<answers>
+						<answer>möglich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>fare colazione</text>
+					<comment></comment>
+					<answers>
+						<answer>frühstücken</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>pranzare</text>
+					<comment></comment>
+					<answers>
+						<answer>Mittag essen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>cenare</text>
+					<comment></comment>
+					<answers>
+						<answer>Abend essen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il pranzo</text>
+					<comment></comment>
+					<answers>
+						<answer>Mittagessen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la mezza pensione</text>
+					<comment></comment>
+					<answers>
+						<answer>Halbpension</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la pensione completa</text>
+					<comment></comment>
+					<answers>
+						<answer>Vollpension</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>completo</text>
+					<comment></comment>
+					<answers>
+						<answer>voll</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il gatto</text>
+					<comment></comment>
+					<answers>
+						<answer>Katze</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´asciugamano</text>
+					<comment></comment>
+					<answers>
+						<answer>Handtuch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´assegno</text>
+					<comment></comment>
+					<answers>
+						<answer>Scheck</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la carta di credito</text>
+					<comment></comment>
+					<answers>
+						<answer>Kreditkarte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>parcheggiare</text>
+					<comment></comment>
+					<answers>
+						<answer>parken</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>se</text>
+					<comment></comment>
+					<answers>
+						<answer>ob</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>sapere</text>
+					<comment></comment>
+					<answers>
+						<answer>wissen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dare fastidio</text>
+					<comment></comment>
+					<answers>
+						<answer>stören</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>non c´è problema</text>
+					<comment></comment>
+					<answers>
+						<answer>kein Problem</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>communque</text>
+					<comment></comment>
+					<answers>
+						<answer>aber</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lì</text>
+					<comment></comment>
+					<answers>
+						<answer>dort</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>disturbare</text>
+					<comment></comment>
+					<answers>
+						<answer>stören</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>preoccuparsi</text>
+					<comment></comment>
+					<answers>
+						<answer>sich Sorgen machen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>assolutamente</text>
+					<comment></comment>
+					<answers>
+						<answer>bestimmt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´ascensore</text>
+					<comment></comment>
+					<answers>
+						<answer>Aufzug</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Guardi!</text>
+					<comment></comment>
+					<answers>
+						<answer>Sehen Sie!</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>A più tardi!</text>
+					<comment></comment>
+					<answers>
+						<answer>Bis später!</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>tardi</text>
+					<comment></comment>
+					<answers>
+						<answer>spät</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>arrividerci</text>
+					<comment></comment>
+					<answers>
+						<answer>Auf Wiedersehen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la pensione</text>
+					<comment></comment>
+					<answers>
+						<answer>Pension</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´ostello della gioventù</text>
+					<comment></comment>
+					<answers>
+						<answer>Jugendherberge</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la gioventù</text>
+					<comment></comment>
+					<answers>
+						<answer>Jugend</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il motel</text>
+					<comment></comment>
+					<answers>
+						<answer>Motel</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la locanda</text>
+					<comment></comment>
+					<answers>
+						<answer>Gasthaus</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la sala da pranzo</text>
+					<comment></comment>
+					<answers>
+						<answer>Speisesaal</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la sala</text>
+					<comment></comment>
+					<answers>
+						<answer>Saal</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>a sinistra</text>
+					<comment></comment>
+					<answers>
+						<answer>links</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>là</text>
+					<comment></comment>
+					<answers>
+						<answer>dort</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>in fondo</text>
+					<comment></comment>
+					<answers>
+						<answer>hinten</answer>
+						<answer>unten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>a destra</text>
+					<comment></comment>
+					<answers>
+						<answer>rechts</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la scala</text>
+					<comment></comment>
+					<answers>
+						<answer>Treppe</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dietro</text>
+					<comment></comment>
+					<answers>
+						<answer>hinter</answer>
+						<answer>dahinter</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il fax</text>
+					<comment></comment>
+					<answers>
+						<answer>Fax</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>compreso</text>
+					<comment></comment>
+					<answers>
+						<answer>inklusive</answer>
+						<answer>einschließlich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il corso</text>
+					<comment></comment>
+					<answers>
+						<answer>Kurs</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´aquarello</text>
+					<comment></comment>
+					<answers>
+						<answer>Aquarell</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la tivù</text>
+					<comment></comment>
+					<answers>
+						<answer>TV</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la piscina</text>
+					<comment></comment>
+					<answers>
+						<answer>Schwimmbad</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il tennis</text>
+					<comment></comment>
+					<answers>
+						<answer>Tennis</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il fitness</text>
+					<comment></comment>
+					<answers>
+						<answer>Fitness</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il parcheggio</text>
+					<comment></comment>
+					<answers>
+						<answer>Parkplatz</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la metà</text>
+					<comment></comment>
+					<answers>
+						<answer>Mitte</answer>
+						<answer>Hälfte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il marzo</text>
+					<comment></comment>
+					<answers>
+						<answer>März</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il novembre</text>
+					<comment></comment>
+					<answers>
+						<answer>November</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>verde</text>
+					<comment></comment>
+					<answers>
+						<answer>grün</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>regionale</text>
+					<comment></comment>
+					<answers>
+						<answer>regional</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>chiuso</text>
+					<comment></comment>
+					<answers>
+						<answer>geschlossen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il gennaio</text>
+					<comment></comment>
+					<answers>
+						<answer>Januar</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il fon</text>
+					<comment></comment>
+					<answers>
+						<answer>Haartrockner</answer>
+						<answer>Fön</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la clientela</text>
+					<comment></comment>
+					<answers>
+						<answer>Gäste</answer>
+						<answer>Kunden</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la bicicletta</text>
+					<comment></comment>
+					<answers>
+						<answer>Fahrrad</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>a disposizione</text>
+					<comment></comment>
+					<answers>
+						<answer>zur Verfügung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>solo</text>
+					<comment></comment>
+					<answers>
+						<answer>einzig</answer>
+						<answer>allein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>pernottare</text>
+					<comment></comment>
+					<answers>
+						<answer>übernachten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>fare a meno</text>
+					<comment></comment>
+					<answers>
+						<answer>verzichten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>quanto</text>
+					<comment></comment>
+					<answers>
+						<answer>wieviel</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>va bene</text>
+					<comment></comment>
+					<answers>
+						<answer>in Ordnung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>cento</text>
+					<comment></comment>
+					<answers>
+						<answer>einhundert</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´alfabeto</text>
+					<comment></comment>
+					<answers>
+						<answer>Alphabet</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la lettera</text>
+					<comment></comment>
+					<answers>
+						<answer>Buchstabe</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la parte</text>
+					<comment></comment>
+					<answers>
+						<answer>Teil</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>telefonare</text>
+					<comment></comment>
+					<answers>
+						<answer>anrufen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la prenotazione</text>
+					<comment></comment>
+					<answers>
+						<answer>Vorbestellung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>spettabile</text>
+					<comment></comment>
+					<answers>
+						<answer>adressiert an</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>confermare</text>
+					<comment></comment>
+					<answers>
+						<answer>bestätigen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>telefonico</text>
+					<comment></comment>
+					<answers>
+						<answer>telefonisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´appartamento</text>
+					<comment></comment>
+					<answers>
+						<answer>Appartment</answer>
+						<answer>Wohnung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la persona</text>
+					<comment></comment>
+					<answers>
+						<answer>Person</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il dicembre</text>
+					<comment></comment>
+					<answers>
+						<answer>Dezember</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>pregare</text>
+					<comment></comment>
+					<answers>
+						<answer>bitten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>riservare</text>
+					<comment></comment>
+					<answers>
+						<answer>reservieren</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>valido</text>
+					<comment></comment>
+					<answers>
+						<answer>gültig</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>cordiale</text>
+					<comment></comment>
+					<answers>
+						<answer>herzlich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il lettino</text>
+					<comment></comment>
+					<answers>
+						<answer>Kinderbett</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´ottobre</text>
+					<comment></comment>
+					<answers>
+						<answer>Oktober</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il maggio</text>
+					<comment></comment>
+					<answers>
+						<answer>Mai</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il nome</text>
+					<comment></comment>
+					<answers>
+						<answer>Name</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il codice di avviamento postale</text>
+					<comment></comment>
+					<answers>
+						<answer>Postleitzahl</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il messagio</text>
+					<comment></comment>
+					<answers>
+						<answer>Mitteilung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il febbraio</text>
+					<comment></comment>
+					<answers>
+						<answer>Februar</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>in attesa di</text>
+					<comment></comment>
+					<answers>
+						<answer>in Erwartung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la vconferma</text>
+					<comment></comment>
+					<answers>
+						<answer>Zusage</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>inviare</text>
+					<comment></comment>
+					<answers>
+						<answer>senden</answer>
+						<answer>schicken</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>invio distinti saluti</text>
+					<comment></comment>
+					<answers>
+						<answer>verbleibe ich mit freundlichen Grüßen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>da solo</text>
+					<comment></comment>
+					<answers>
+						<answer>allein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ammesso</text>
+					<comment></comment>
+					<answers>
+						<answer>erlaubt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´animale</text>
+					<comment></comment>
+					<answers>
+						<answer>Tier</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>rispettare</text>
+					<comment></comment>
+					<answers>
+						<answer>respektieren</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´abitudine</text>
+					<comment></comment>
+					<answers>
+						<answer>Gewohnheit</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>semplice</text>
+					<comment></comment>
+					<answers>
+						<answer>einfach</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>a volte</text>
+					<comment></comment>
+					<answers>
+						<answer>manchmal</answer>
+						<answer>hin und wieder</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´orario</text>
+					<comment></comment>
+					<answers>
+						<answer>Zeit</answer>
+						<answer>Zeitpunkt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il rientro</text>
+					<comment></comment>
+					<answers>
+						<answer>Rückkehr</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>osservare</text>
+					<comment></comment>
+					<answers>
+						<answer>einhalten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>basso</text>
+					<comment></comment>
+					<answers>
+						<answer>niedrig</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la zona</text>
+					<comment></comment>
+					<answers>
+						<answer>Zone</answer>
+						<answer>Gegend</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>per esempio</text>
+					<comment></comment>
+					<answers>
+						<answer>zum Beispiel</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>diverso</text>
+					<comment></comment>
+					<answers>
+						<answer>verschieden</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la vista</text>
+					<comment></comment>
+					<answers>
+						<answer>Blick</answer>
+						<answer>Ausblick</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la chiesa</text>
+					<comment></comment>
+					<answers>
+						<answer>Kirche</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´olivo</text>
+					<comment></comment>
+					<answers>
+						<answer>Olivenbaum</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>libero</text>
+					<comment></comment>
+					<answers>
+						<answer>frei</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ospitale</text>
+					<comment></comment>
+					<answers>
+						<answer>gastfreundlich</answer>
+						<answer>gastlich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´arrivo</text>
+					<comment></comment>
+					<answers>
+						<answer>Ankunft</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la tradizione</text>
+					<comment></comment>
+					<answers>
+						<answer>Tradition</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>famoso</text>
+					<comment></comment>
+					<answers>
+						<answer>berühmt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il rosatello</text>
+					<comment></comment>
+					<answers>
+						<answer>Roséwein</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>direttamente</text>
+					<comment></comment>
+					<answers>
+						<answer>direkt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>visitare</text>
+					<comment></comment>
+					<answers>
+						<answer>besichtigen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>vostro</text>
+					<comment></comment>
+					<answers>
+						<answer>euer</answer>
+						<answer>Ihr</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>tra</text>
+					<comment></comment>
+					<answers>
+						<answer>zwischen</answer>
+						<answer>innerhalb</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´esempio</text>
+					<comment></comment>
+					<answers>
+						<answer>Beispiel</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>tipico</text>
+					<comment></comment>
+					<answers>
+						<answer>typisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la famiglia</text>
+					<comment></comment>
+					<answers>
+						<answer>Familie</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´inizio</text>
+					<comment></comment>
+					<answers>
+						<answer>Anfang</answer>
+						<answer>Beginn</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il secolo</text>
+					<comment></comment>
+					<answers>
+						<answer>Jahrhundert</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ospitare</text>
+					<comment></comment>
+					<answers>
+						<answer>beherbergen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´opera</text>
+					<comment></comment>
+					<answers>
+						<answer>Werk</answer>
+						<answer>Opernhaus</answer>
+						<answer>Oper</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>chiudere</text>
+					<comment></comment>
+					<answers>
+						<answer>schließen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il biglietto</text>
+					<comment></comment>
+					<answers>
+						<answer>Eintrittskarte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ridotto</text>
+					<comment></comment>
+					<answers>
+						<answer>ermäßigt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il servicio</text>
+					<comment></comment>
+					<answers>
+						<answer>Serviceleistung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la toilette</text>
+					<comment></comment>
+					<answers>
+						<answer>Toilette</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il taxi</text>
+					<comment></comment>
+					<answers>
+						<answer>Taxi</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>moderno</text>
+					<comment></comment>
+					<answers>
+						<answer>modern</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>contemporaneo</text>
+					<comment></comment>
+					<answers>
+						<answer>zeitgenössisch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>costruire</text>
+					<comment></comment>
+					<answers>
+						<answer>bauen</answer>
+						<answer>erbauen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´esposizione</text>
+					<comment></comment>
+					<answers>
+						<answer>Ausstellung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´ingresso</text>
+					<comment></comment>
+					<answers>
+						<answer>Einlass</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il minuto</text>
+					<comment></comment>
+					<answers>
+						<answer>Minute</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>prima di</text>
+					<comment></comment>
+					<answers>
+						<answer>vor</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la chiusura</text>
+					<comment></comment>
+					<answers>
+						<answer>Schließung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>metà prezzo</text>
+					<comment></comment>
+					<answers>
+						<answer>halber Preis</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il visitatore</text>
+					<comment></comment>
+					<answers>
+						<answer>Besucher</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lo studente</text>
+					<comment></comment>
+					<answers>
+						<answer>Student</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la biblioteca</text>
+					<comment></comment>
+					<answers>
+						<answer>Bibliothek</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la caffetteria</text>
+					<comment></comment>
+					<answers>
+						<answer>Cafeteria</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la storia</text>
+					<comment></comment>
+					<answers>
+						<answer>Geschichte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il castello</text>
+					<comment></comment>
+					<answers>
+						<answer>Burg</answer>
+						<answer>Schloss</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il turista</text>
+					<comment></comment>
+					<answers>
+						<answer>Tourist</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la turista</text>
+					<comment></comment>
+					<answers>
+						<answer>Touristin</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>arrivare</text>
+					<comment></comment>
+					<answers>
+						<answer>ankommen</answer>
+						<answer>gelangen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´autobus</text>
+					<comment></comment>
+					<answers>
+						<answer>Bus</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il tram</text>
+					<comment></comment>
+					<answers>
+						<answer>Straßenbahn</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la metropolitana</text>
+					<comment></comment>
+					<answers>
+						<answer>U-Bahn</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>normalmente</text>
+					<comment></comment>
+					<answers>
+						<answer>normalerweise</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il lunedì</text>
+					<comment></comment>
+					<answers>
+						<answer>Montag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il martedì</text>
+					<comment></comment>
+					<answers>
+						<answer>Dienstag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il mercoledì</text>
+					<comment></comment>
+					<answers>
+						<answer>Mittwoch</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il giovedì</text>
+					<comment></comment>
+					<answers>
+						<answer>Donnerstag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il venerdì</text>
+					<comment></comment>
+					<answers>
+						<answer>Freitag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il sabato</text>
+					<comment></comment>
+					<answers>
+						<answer>Samstag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il domenica</text>
+					<comment></comment>
+					<answers>
+						<answer>Sonntag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>le ferie</text>
+					<comment></comment>
+					<answers>
+						<answer>Ferien</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>permettere</text>
+					<comment></comment>
+					<answers>
+						<answer>erlauben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Dica!</text>
+					<comment></comment>
+					<answers>
+						<answer>Ja, bitte!</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dispiacere</text>
+					<comment></comment>
+					<answers>
+						<answer>Leid tun</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Non lo so.</text>
+					<comment></comment>
+					<answers>
+						<answer>Ich weiß es nicht.</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Non sono di qui.</text>
+					<comment></comment>
+					<answers>
+						<answer>Ich bin nicht von hier.</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il vigile</text>
+					<comment></comment>
+					<answers>
+						<answer>Verkehrspolizist</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>senz´altro</text>
+					<comment></comment>
+					<answers>
+						<answer>sicherlich</answer>
+						<answer>bestimmt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ringraziare</text>
+					<comment></comment>
+					<answers>
+						<answer>bedanken</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Non c´è di che.</text>
+					<comment></comment>
+					<answers>
+						<answer>Keine Ursache.</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il palazzo</text>
+					<comment></comment>
+					<answers>
+						<answer>Palast</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il theatro</text>
+					<comment></comment>
+					<answers>
+						<answer>Theater</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lo zoo</text>
+					<comment></comment>
+					<answers>
+						<answer>Zoo</answer>
+						<answer>Tierpark</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la via</text>
+					<comment></comment>
+					<answers>
+						<answer>Straße</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la piazza</text>
+					<comment></comment>
+					<answers>
+						<answer>Platz</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la galleria</text>
+					<comment></comment>
+					<answers>
+						<answer>Gemäldegallerie</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il testo</text>
+					<comment></comment>
+					<answers>
+						<answer>Text</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>controllare</text>
+					<comment></comment>
+					<answers>
+						<answer>kontrollieren</answer>
+						<answer>überprüfen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>a piedi</text>
+					<comment></comment>
+					<answers>
+						<answer>zu Fuß</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>lontano</text>
+					<comment></comment>
+					<answers>
+						<answer>weit</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ci</text>
+					<comment></comment>
+					<answers>
+						<answer>dort</answer>
+						<answer>dorthin</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>passare</text>
+					<comment></comment>
+					<answers>
+						<answer>vorbeifahren</answer>
+						<answer>verbringen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>vicino</text>
+					<comment></comment>
+					<answers>
+						<answer>nah</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>accanto a</text>
+					<comment></comment>
+					<answers>
+						<answer>neben</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´edicola</text>
+					<comment></comment>
+					<answers>
+						<answer>Zeitungskiosk</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>scendere</text>
+					<comment></comment>
+					<answers>
+						<answer>aussteigen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la fermata</text>
+					<comment></comment>
+					<answers>
+						<answer>Haltestelle</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>davanti a</text>
+					<comment></comment>
+					<answers>
+						<answer>vor</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>di fronte a</text>
+					<comment></comment>
+					<answers>
+						<answer>gegenüber</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il cinema</text>
+					<comment></comment>
+					<answers>
+						<answer>Kino</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la trattoria</text>
+					<comment></comment>
+					<answers>
+						<answer>Gastwirtschaft</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la stazione</text>
+					<comment></comment>
+					<answers>
+						<answer>Bahnhof</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il giardini pubblici</text>
+					<comment></comment>
+					<answers>
+						<answer>Stadtpark</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il ponte</text>
+					<comment></comment>
+					<answers>
+						<answer>Brücke</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la posta</text>
+					<comment></comment>
+					<answers>
+						<answer>Post</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la polizia</text>
+					<comment></comment>
+					<answers>
+						<answer>Polizei</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il distributore</text>
+					<comment></comment>
+					<answers>
+						<answer>Tankstelle</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>avanti</text>
+					<comment></comment>
+					<answers>
+						<answer>weiter</answer>
+						<answer>vorwärts</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>seguire</text>
+					<comment></comment>
+					<answers>
+						<answer>folgen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>riconoscere</text>
+					<comment></comment>
+					<answers>
+						<answer>erkennen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il mercato</text>
+					<comment></comment>
+					<answers>
+						<answer>Markt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>attraversare</text>
+					<comment></comment>
+					<answers>
+						<answer>überqueren</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la fontana</text>
+					<comment></comment>
+					<answers>
+						<answer>Brunnen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dritto</text>
+					<comment></comment>
+					<answers>
+						<answer>geradeaus</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´incrocio</text>
+					<comment></comment>
+					<answers>
+						<answer>Kreuzung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la traversa</text>
+					<comment></comment>
+					<answers>
+						<answer>Querstraße</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´angolo</text>
+					<comment></comment>
+					<answers>
+						<answer>Ecke</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>girare</text>
+					<comment></comment>
+					<answers>
+						<answer>abbiegen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il semaforo</text>
+					<comment></comment>
+					<answers>
+						<answer>Ampel</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il messagio</text>
+					<comment></comment>
+					<answers>
+						<answer>Nachricht</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la segretaria telefonica</text>
+					<comment></comment>
+					<answers>
+						<answer>Anrufbeantworter</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il quartiere</text>
+					<comment></comment>
+					<answers>
+						<answer>Stadtviertel</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>segnare</text>
+					<comment></comment>
+					<answers>
+						<answer>eintragen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la piantina</text>
+					<comment></comment>
+					<answers>
+						<answer>Stadtplan</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>accompagnara</text>
+					<comment></comment>
+					<answers>
+						<answer>begleiten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>purtroppo</text>
+					<comment></comment>
+					<answers>
+						<answer>leider</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>dopodomani</text>
+					<comment></comment>
+					<answers>
+						<answer>übermorgen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la novità</text>
+					<comment></comment>
+					<answers>
+						<answer>Neuigkeit</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la riunione</text>
+					<comment></comment>
+					<answers>
+						<answer>Versammlung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>difficile</text>
+					<comment></comment>
+					<answers>
+						<answer>schwierig</answer>
+						<answer>schwer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il capolinea</text>
+					<comment></comment>
+					<answers>
+						<answer>Endstation</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>continuare</text>
+					<comment></comment>
+					<answers>
+						<answer>weitergehen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il metro</text>
+					<comment></comment>
+					<answers>
+						<answer>Meter</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il tabaccaio</text>
+					<comment></comment>
+					<answers>
+						<answer>Tabakladen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>domani</text>
+					<comment></comment>
+					<answers>
+						<answer>morgen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>uscire</text>
+					<comment></comment>
+					<answers>
+						<answer>ausgehen</answer>
+						<answer>hinausgehen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>verso</text>
+					<comment></comment>
+					<answers>
+						<answer>gegen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>pensare</text>
+					<comment></comment>
+					<answers>
+						<answer>denken</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>Buon viaggio!</text>
+					<comment></comment>
+					<answers>
+						<answer>Gute Reise!</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il viaggio</text>
+					<comment></comment>
+					<answers>
+						<answer>Reise</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>immaginare</text>
+					<comment></comment>
+					<answers>
+						<answer>sich etwas vorstellen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>spiegare</text>
+					<comment></comment>
+					<answers>
+						<answer>erklären</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>pubblico</text>
+					<comment></comment>
+					<answers>
+						<answer>öffentlich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>consigliare</text>
+					<comment></comment>
+					<answers>
+						<answer>empfehlen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la foto</text>
+					<comment></comment>
+					<answers>
+						<answer>Foti</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>così</text>
+					<comment></comment>
+					<answers>
+						<answer>so</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il negozio</text>
+					<comment></comment>
+					<answers>
+						<answer>Geschäft</answer>
+						<answer>Laden</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>uguale</text>
+					<comment></comment>
+					<answers>
+						<answer>gleich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>ogni</text>
+					<comment></comment>
+					<answers>
+						<answer>jeder</answer>
+						<answer>jede</answer>
+						<answer>jedes</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il comune</text>
+					<comment></comment>
+					<answers>
+						<answer>Kommune</answer>
+						<answer>Gemeinde</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>infatti</text>
+					<comment></comment>
+					<answers>
+						<answer>tatsächlich</answer>
+						<answer>in der Tat</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il sindaco</text>
+					<comment></comment>
+					<answers>
+						<answer>Bürgermeister</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>decidere</text>
+					<comment></comment>
+					<answers>
+						<answer>entscheiden</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>stesso</text>
+					<comment></comment>
+					<answers>
+						<answer>derselbe</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la regione</text>
+					<comment></comment>
+					<answers>
+						<answer>Region</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>di solito</text>
+					<comment></comment>
+					<answers>
+						<answer>gewöhnlich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il giorno feriale</text>
+					<comment></comment>
+					<answers>
+						<answer>Wochentag</answer>
+						<answer>Werktag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>circa</text>
+					<comment></comment>
+					<answers>
+						<answer>ungefähr</answer>
+						<answer>circa</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il pomeriggio</text>
+					<comment></comment>
+					<answers>
+						<answer>Nachmittag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il grande magazzino</text>
+					<comment></comment>
+					<answers>
+						<answer>Kaufhaus</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´ipermercato</text>
+					<comment></comment>
+					<answers>
+						<answer>Supermarkt</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>durante</text>
+					<comment></comment>
+					<answers>
+						<answer>während</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>in genere</text>
+					<comment></comment>
+					<answers>
+						<answer>gewöhnlich</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>gli alimentari</text>
+					<comment></comment>
+					<answers>
+						<answer>Lebensmittelgeschäfte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il mare</text>
+					<comment></comment>
+					<answers>
+						<answer>Meer</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la montagna</text>
+					<comment></comment>
+					<answers>
+						<answer>Gebirge</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la stagione</text>
+					<comment></comment>
+					<answers>
+						<answer>Saison</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il giorno festivo</text>
+					<comment></comment>
+					<answers>
+						<answer>Feiertag</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la farmacia di turno</text>
+					<comment></comment>
+					<answers>
+						<answer>diensthabende Apotheke</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>di turno</text>
+					<comment></comment>
+					<answers>
+						<answer>diensthabend</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>inoltre</text>
+					<comment></comment>
+					<answers>
+						<answer>außerdem</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>apire</text>
+					<comment></comment>
+					<answers>
+						<answer>öffnen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>di notte</text>
+					<comment></comment>
+					<answers>
+						<answer>nachts</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>quasi</text>
+					<comment></comment>
+					<answers>
+						<answer>fast</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>il giornale</text>
+					<comment></comment>
+					<answers>
+						<answer>Tageszeitung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>succedere</text>
+					<comment></comment>
+					<answers>
+						<answer>passieren</answer>
+						<answer>gelten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´autostrada</text>
+					<comment></comment>
+					<answers>
+						<answer>Autobahn</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la stazione di servizio</text>
+					<comment></comment>
+					<answers>
+						<answer>Raststätte</answer>
+						<answer>Autobahnraststätte</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>salutare</text>
+					<comment></comment>
+					<answers>
+						<answer>grüßen</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>entrare</text>
+					<comment></comment>
+					<answers>
+						<answer>hereinkommen</answer>
+						<answer>eintreten</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´esame</text>
+					<comment></comment>
+					<answers>
+						<answer>Prüfung</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>la cabina telefonica</text>
+					<comment></comment>
+					<answers>
+						<answer>Telefonzelle</answer>
+					</answers>
+				</item>
+
+				<item id="0" extid="0">
+					<text>l´orologio</text>
+					<comment></comment>
+					<answers>
+						<answer>Uhr</answer>
+					</answers>
+				</item>
+
+			</items>
+		</lesson>
+	</lessons>
+</brain>

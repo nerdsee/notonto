@@ -1,0 +1,967 @@
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: #EBE2DD;
+}
+
+img {
+	border: 0px;
+}
+
+input {
+	background-color: #ffffff;
+	text-align: left;
+}
+
+.it {
+	border: 1px solid #888888;
+	width: 220px;
+}
+
+/*   #####            SCHRIFTVARIANTEN                ######          */
+h1 {
+	font: bold 16px Arial;
+	text-decoration: none;
+	color: #222222;
+	margin: 0px;
+	padding: 0px;
+}
+
+h2 {
+	font: bold 14px Arial;
+	text-decoration: none;
+	color: #666666;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+}
+
+.h2 {
+	font: bold 14px Arial;
+	text-decoration: none;
+	color: #666666;
+	margin: 0px 0px 0px 0px;
+	padding: 2px 5px;
+}
+
+h3 {
+	font: normal 14px Arial;
+	text-decoration: none;
+	color: #222222;
+	margin: 10px 0px 5px 0px;
+	padding: 0px;
+}
+
+.pad {
+	margin: 5px 0px 10px 0px;
+}
+
+.distlr {
+	margin: 0px 5px 0px 5px;
+}
+
+.font1 {
+	font: normal 12px Verdana;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.font1b {
+	font: bold 12px Verdana;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+a.font1,a.font1:visited {
+	font: normal 12px Verdana;
+	text-decoration: none;
+	color: #FB5F00;
+	margin: 0px;
+	padding: 0px;
+}
+
+.font1 a, .font1 a:visited {
+	font: normal 12px Verdana;
+	text-decoration: none;
+	color: #FB5F00;
+	margin: 0px;
+	padding: 0px;
+}
+
+a.font1b,a.font1b:visited {
+	font: bold 12px Verdana;
+	text-decoration: none;
+	color: #FB5F00;
+	margin: 0px;
+	padding: 0px;
+}
+
+.quicklink,.quicklink:hover,.quicklink:visited {
+	font: normal 14px Arial;
+	text-decoration: none;
+	color: #7F7A77;
+}
+
+a.link {
+	text-decoration: none;
+}
+
+a.link:hover {
+	text-decoration: underline;
+	color: #FB5F00;
+}
+
+a.nlink {
+	text-decoration: none;
+}
+
+a.nlink:hover {
+	text-decoration: none;
+}
+
+.font2 {
+	font: bold 14px Verdana;
+	text-decoration: none;
+	color: #222222;
+	margin: 0px;
+	padding: 0px;
+}
+
+.font3 {
+	font: normal 9px Verdana;
+	text-decoration: none;
+	color: #222222;
+	margin: 0px;
+	padding: 0px;
+}
+
+.font4 {
+	font: normal 24px Verdana;
+	text-decoration: none;
+	color: #222222;
+	margin: 0px;
+	padding: 0px;
+}
+
+.font5 {
+	font: normal 18px Verdana;
+	text-decoration: none;
+	color: #222222;
+	margin: 0px;
+	padding: 0px;
+}
+
+.font5i {
+	font: italic 18px Verdana;
+	text-decoration: none;
+	color: #222222;
+	margin: 0px;
+	padding: 0px;
+}
+
+.font6 {
+	font: normal 36px Verdana;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.font9 {
+	font: bold 11px Verdana;
+	text-decoration: none;
+	color: #222222;
+	margin: 0px;
+	padding: 0px;
+}
+
+.font9r {
+	font: bold 11px Verdana;
+	text-decoration: none;
+	color: #FB5F00;
+	margin: 0px;
+	padding: 0px;
+}
+
+.font9g {
+	font: bold 11px Verdana;
+	text-decoration: none;
+	color: #129300;
+	margin: 0px;
+	padding: 0px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+/*
+++++++++++++ FARBEN
+*/ /* hell orange */
+.c1 {
+	color: #FC9E00;
+}
+
+/* dunkel orange */
+.c2 {
+	color: #FB5F00;
+}
+
+/* petrol */
+.c3 {
+	color: #1A5E93;
+}
+
+/* green */
+.c4 {
+	color: #009900;
+}
+
+/* grey */
+.cg {
+	color: #444444;
+}
+
+.cr {
+	color: #aa0000;
+}
+
+.c0 {
+	color: #000000;
+}
+
+.lessonicon {
+	width: 180px;
+	text-align: center;
+	float: left;
+	padding: 5px 0px 5px 0px;
+	border: 1px solid #dddddd;
+	margin: 3px;
+}
+
+.lessonicon:hover {
+	background-color: #f2f2f2;
+}
+
+.tbmargin {
+	margin: 3px 0px 3px 0px;
+}
+
+.ldesc {
+	height: 40px;
+}
+
+.thecloud a:hover {
+	color: #FB5F00;
+}
+
+.sel {
+	color: #FB5F00;
+}
+
+.cloud0 {
+	font: normal 14px Verdana;
+	text-decoration: none;
+}
+
+.cloudc0 {
+	color: #888888;
+}
+
+.cloud1 {
+	font: normal 18px Verdana;
+	text-decoration: none;
+}
+
+.cloudc1 {
+	color: #666666;
+}
+
+.cloud2 {
+	font: normal 22px Verdana;
+	text-decoration: none;
+}
+
+.cloudc2 {
+	color: #000000;
+}
+
+.fontsym {
+	font: normal 80px Verdana;
+	text-decoration: none;
+	color: #222222;
+	margin: 0px;
+	padding: 0px;
+}
+
+.hinttext1 {
+	font-size: 11px;
+	font-weight: bold;
+	color: #444444;
+}
+
+.errortext {
+	font: bold 12px Verdana;
+	color: #aa0000;
+}
+
+.msgtext {
+	font: bold 12px Verdana;
+}
+.OraInlineErrorText {
+	font: bold 12px Verdana;
+	color: #aa0000;
+}
+
+.hinttext {
+	font: bold 12px Verdana;
+	color: #aa0000;
+	margin: 0px 0px 10px 0px;
+}
+
+.oktext {
+	font: bold 12px Verdana;
+	color: #008000;
+}
+
+.headtext {
+	display: inline;
+	margin-left: 0px;
+	margin-right: 7px;
+	line-height: 21px;
+	font: normal 10px Verdana;
+	color: #FC9E00;
+}
+
+.headtext_link {
+	display: inline;
+	margin-left: 0px;
+	margin-right: 7px;
+	line-height: 21px;
+	font: normal 10px Verdana;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.headtext_bold {
+	display: inline;
+	margin-left: 0px;
+	margin-right: 7px;
+	line-height: 21px;
+	font: bold 10px Verdana;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.headtext_link:hover {
+	text-decoration: underline;
+}
+
+.res_f {
+	color: #990000;
+	text-decoration: underline;
+}
+
+.res_r {
+	color: #000000;
+}
+
+.green {
+	color: #009900;
+	font-weight: bold;
+}
+
+.red {
+	color: #990000;
+	font-weight: normal;
+}
+
+.white {
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 10px;
+	font-style: normal;
+}
+
+/*   #####      FORMULARE      #####  */
+.button {
+	border: 1px solid #FB5F00;
+	background-color: #FC9E00;
+	font-size: 10px;
+	color: white;
+	padding: 2px 10px 2px 10px;
+	margin-right: 7px;
+	margin-left: 7px;
+	background-image: url(/images/menu_shade.gif);
+}
+
+.button:hover,.button:focus {
+	border: 1px solid #FB5F00;
+	background-color: #FB5F00;
+}
+
+/*   ###    WEITEN / HÃÂ¶hen    ###   */
+.w100p {
+	width: 100%;
+}
+
+.w50p {
+	width: 50%;
+}
+
+.h100p {
+	height: 100%;
+}
+
+.w25 {
+	width: 25px;
+}
+
+.w50 {
+	width: 25px;
+}
+
+.w100 {
+	width: 100px;
+}
+
+.w150 {
+	width: 150px;
+}
+
+.w200 {
+	width: 200px;
+}
+
+.w300 {
+	width: 300px;
+}
+
+.w400 {
+	width: 400px;
+}
+
+.w600 {
+	width: 600px;
+}
+
+.w500 {
+	width: 500px;
+}
+
+.atop {
+	vertical-align: top;
+}
+
+.w150 {
+	width: 140px;
+}
+
+.hidden {
+	visibility: visible;
+	display: block;
+	height: 0px;
+	overflow: hidden;
+}
+
+.shown {
+	visibility: visible;
+	display: block;
+	overflow: hidden;
+}
+
+/* #####     TABELLEN       #####  */
+.table1 td {
+	padding: 4px 0px;
+}
+
+.highlight {
+	background-color: #dddddd;
+}
+
+.myborder {
+	border-left: 1px solid #FC9E00;
+	border-right: 1px solid #FC9E00;
+	text-align: center;
+}
+
+.innerbox {
+	padding: 7px;
+	background-color: #F8EEE9;
+	border: 2px solid #6D84B4;
+	margin: 10px 0px 0px 0px;
+	-moz-border-radius: 5px;
+}
+
+.myheader {
+	border-bottom: 1px solid #FC9E00;
+}
+
+.t_fixed {
+	border-collapse: collapse;
+}
+
+.plainlist {
+	list-style: inside decimal;
+}
+
+/*      ####         LAYER           ####   */
+#content-wrapper {
+	background-color: #dddddd;
+	background-repeat: repeat-x;
+	padding-top: 18px;
+	min-height: 500px;
+}
+
+div.content_pad {
+	margin: 0px 10px 0px 10px;
+}
+
+div.content_col {
+	float: left;
+	width: 606px;
+}
+
+div.sidebar_col {
+	float: left;
+	width: 250px;
+}
+
+div.outer {
+	text-align: center;
+	float: none;
+}
+
+.shade_top {
+	background-image: url(/images/shade_top.gif);
+	background-repeat: repeat-x;
+	background-color: #222222;
+	background-position: bottom;
+}
+
+.logo {
+	background-image: url(/images/notonto_logo.gif);
+	background-repeat: no-repeat;
+	background-position: left bottom;
+	height: 60px;
+}
+
+.headsplit {
+	width: 860px;
+	position: absolute;
+}
+
+.hs1 {
+	width: 30px;
+	vertical-align: top;
+}
+
+.hs2 {
+	width: 100%;
+}
+
+.loginhead {
+	width: 400px;
+	text-align: right;
+}
+
+.beta {
+	margin: 8px 0px 0px 150px;
+	font: italic bold 12px Verdana;
+	color: white;
+}
+
+div.block div.content_footer {
+	overflow: hidden;
+	float: left;
+	padding: 0px 0px 0px 0px;
+	width: 866px;
+	background-color: #F8EEE9;
+	border: 1px solid #C4BCB8;
+	margin: 10px 0px 0px 0px;
+}
+
+div.block div.content_w {
+	overflow: hidden;
+	float: left;
+	padding: 5px 0px 5px 0px;
+	width: 866px;
+	background-color: white;
+	border: 1px solid #cccccc;
+	margin: 10px 0px 0px 0px;
+}
+
+div.block div.content {
+	overflow: hidden;
+	position: relative;
+	float: left;
+	padding: 5px 0px 5px 0px;
+	width: 606px;
+	background-color: white;
+	border: 1px solid #cccccc;
+	margin: 10px 0px 0px 0px;
+	-moz-border-radius: 5px;
+}
+
+div.block div.content_err {
+	overflow: hidden;
+	position: relative;
+	float: left;
+	padding: 5px 0px 5px 0px;
+	width: 606px;
+	background-color: #ffeeee;
+	border: 1px solid #cc0000;
+	margin: 10px 0px 0px 0px;
+}
+
+div.block div.sidebar {
+	background-position: bottom right;
+	background-repeat: repeat-y;
+	overflow: hidden;
+	width: 250px;
+	padding: 5px 0px;
+	position: relative;
+	float: left;
+	background-color: white;
+	border: 1px solid #cccccc;
+	margin: 10px 0px 0px 10px;
+	-moz-border-radius: 5px;
+}
+
+.liblesson {
+	display: block;
+	width: 560px;
+	overflow: hidden;
+	background-color: #FEF0D7;
+	border: 1px solid #FC9E00;
+}
+
+/**/
+.inflate {
+	display: block;
+	height: 34px;
+	width: 560px;
+	overflow: hidden;
+}
+
+.blowup {
+	display: block;
+	height: 140px;
+	width: 560px;
+	overflow: hidden;
+	background-color: #FEF0D7;
+	border: 1px solid #FC9E00;
+}
+
+img.icon {
+	border: none;
+	margin: 0px 0px 0px 0px;
+}
+
+.libcontent {
+	vertical-align: top;
+	width: 100%;
+}
+
+.libdesc {
+	visibility: visible;
+	display: block;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+
+.libcount {
+	visibility: visible;
+	width: 100%;
+}
+
+.libicon {
+	vertical-align: top;
+	width: 70px;
+}
+
+/**/
+.orange_ruler {
+	height: 1px;
+	border: 0px;
+	border-bottom: 1px solid #FC9E00;
+	margin: 3px 0px;
+}
+
+.black {
+	background-color: #222222;
+	border-bottom: 1px solid #FC9E00;
+}
+
+.bgwhite {
+	background-color: #ffffff;
+}
+
+.grey {
+	background-color: #EBE2DD;
+}
+
+.ta_right {
+	text-align: right;
+}
+
+.ta_left {
+	text-align: left;
+}
+
+.ta_center {
+	text-align: center;
+}
+
+.block {
+	position: relative;
+	width: 870px;
+	margin: 0 auto 0 auto;
+	/* Layouts are typically centered horizontially, but this can be overriden for flush-left. */
+	text-align: left;
+	padding: 0px 0px 0px 0px;
+}
+
+.right {
+	position: relative;
+	width: 850px;
+	/* Override this value for narrorwer layouts. Use ( x * 60 ) -10, where x is the number of column you want. */
+	margin: 0 auto 0 auto;
+	/* Layouts are typically centered horizontially, but this can be overriden for flush-left. */
+	text-align: right;
+}
+
+/* ###         NAVIGATION - MENU           ###*/
+.nav1 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	text-align: left;
+	list-style-type: none;
+}
+
+.nav1 li.mypage {
+	display: inline;
+	margin: 0px;
+	line-height: 23px;
+	padding: 2px 12px 2px 12px;
+}
+
+.nav1 li.selected {
+	display: inline;
+	margin: 0px;
+	background-image: url(/images/menu_shade.gif);
+	background-repeat: repeat-x;
+	line-height: 23px;
+	padding: 2px 12px 2px 12px;
+}
+
+.nav1 li a {
+	font: normal 12px Verdana;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.nav1 li.mypage a:hover {
+	font: normal 12px Verdana;
+	text-decoration: none;
+	color: #FB5F00;
+}
+
+.nav1 li.selected a:hover {
+	font: normal 12px Verdana;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+/* ###         SIDE - MENU           ###*/
+.nav2 {
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	text-align: left;
+	list-style-type: none;
+	background-color: white;
+}
+
+.nav2 li.mypage {
+	padding: 0px;
+	margin: 0px 2px 0px 2px;
+}
+
+.nav2 li.selected {
+	padding: 0px;
+	margin: 0px 2px 0px 2px;
+}
+
+.nav2 li.selected a {
+	font: bold 12px Verdana;
+	text-decoration: none;
+	color: #FB5F00;
+}
+
+.nav2 li.mypage a {
+	font: normal 12px Verdana;
+	text-decoration: none;
+	color: #000000;
+}
+
+.nav2 li.mypage a:hover {
+	font: normal 12px Verdana;
+	text-decoration: none;
+	color: #FB5F00;
+}
+
+.nav2 li.selected a:hover {
+	font: bold 12px Verdana;
+	text-decoration: none;
+	color: #FB5F00;
+}
+
+.answerlist {
+	margin: 0px 0px 0px 0px;
+	padding: 1px 0px 0px 0px;
+	list-style-type: none;
+}
+
+.answerlist li {
+	
+}
+
+.minimenu {
+	margin: 0px 10px 3px 0px;
+	padding: 1px 0px 0px 0px;
+	text-align: right;
+	list-style-type: none;
+}
+
+.minimenu li {
+	display: inline;
+	margin-left: 20px;
+	line-height: 21px;
+	font: normal 10px Verdana;
+	color: #FB5F00;
+}
+
+.minimenu li a {
+	font: normal 10px Verdana;
+	text-decoration: none;
+	color: #FB5F00;
+}
+
+.minimenu li a:hover {
+	font: normal 10px Verdana;
+	text-decoration: underline;
+	color: #FB5F00;
+}
+
+.naked {
+	border: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.bordered {
+	border: 1px solid #888888;
+}
+
+.box {
+	border: 1px solid black;
+	text-align: center;
+	vertical-align: center;
+	background-color: #eeeeee;
+}
+
+/*
+	++++   OVERLAY
+*/
+#overlay {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	text-align: left;
+	z-index: 1000;
+	background-image: url(/images/hgraster.gif);
+}
+
+#overlay div {
+	margin: 100px auto;
+	background-color: #fff;
+	border: 1px solid #000;
+	padding: 15px;
+	text-align: left;
+}
+
+/*
+	Tabbed INFO
+*/
+.tabbedInfo {
+	border: 0px none;
+}
+
+.inactiveTab {
+	border: 0px none;
+	background-color: #ffffff;
+	width: 100px;
+}
+
+.inactiveTab input {
+	border: 0px none;
+	font: normal 12px Verdana;
+	color: #666666;
+	background-color: #ffffff;
+}
+
+.activeTab {
+	border: 0px none;
+	width: 100px;
+}
+
+.activeTab input {
+	border: 0px none;
+	font: bold 12px Verdana;
+	color: #FB5F00;
+}
+
+.inactiveSub {
+	background-color: #ffffff;
+}
+
+.activeSub {
+	background-color: #ffffff;
+}
+
+.contentTab {
+	border: 0px none;
+}
+
+.popup {
+	background-color: rgb(255, 255, 255);
+	color: #000000;
+	border: 1px solid #CCCCCC;
+	font-size: smaller;
+	padding: 5px;
+}
+
+.popup table {
+	font-size: smaller;
+}
+
+.paginator td {
+	font: 12px Verdana;
+	text-decoration: none;
+}
+
+.paginator td a {
+	text-decoration: none;
+	color: black;
+}
+
+/*
+######  F A C E B O O K
+*/
+
+.fb_bg {
+	background-color: #3B5998;
+}

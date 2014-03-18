@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<trinidad-config xmlns="http://myfaces.apache.org/trinidad/config">
+	<!-- Enable debug output -->
+	<debug-output>false</debug-output>
+
+	<!-- Pick accessibility options based on a per-user managed bean -->
+	<accessibility-mode>inaccessible</accessibility-mode>
+	<skin-family>minimal</skin-family>
+</trinidad-config>

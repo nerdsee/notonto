@@ -1,0 +1,10 @@
+<!ENTITY options "Optionen">
+<!ENTITY refresh "Aktualisieren">
+<!ENTITY question "Frage">
+<!ENTITY answer "Antwort">
+<!ENTITY level "Stufe">
+<!ENTITY yes "Ja">
+<!ENTITY no "Nein">
+<!ENTITY knowanswer "Haben Sie die Antwort gewusst?">
+<!ENTITY noconn1 "Es konnte keine Verbindung zum Notonto Server hergestellt werden.">
+<!ENTITY noconn2 "Bitte überprüfen Sie Ihre Benutzereinstellungen. Klicken Sie dazu mit der rechten Maustaste auf das Notonto-Plugin unten rechts und wählen sie 'Optionen'">

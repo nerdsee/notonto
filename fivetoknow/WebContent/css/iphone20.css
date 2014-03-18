@@ -1,0 +1,267 @@
+
+.q1 {
+	margin: 20px 14px 20px 14px;
+	font-size: 24px;
+	font-weight: bold;
+	color: #4d4d70;
+	text-shadow: rgba(255, 255, 255, 0.75) 2px 2px 0;
+}
+
+.q2 {
+	margin: 20px 14px 20px 14px;
+	font-size: 92px;
+	font-weight: bold;
+	font-family: serif;
+	color: #4d4d70;
+	text-shadow: rgba(255, 255, 255, 0.75) 2px 2px 0;
+}
+
+.center {
+	text-align: center;
+}
+
+.a1 {
+	margin: 20px 14px 20px 14px;
+	font-size: 24px;
+	font-weight: bold;
+	color: #4d4d70;
+	text-shadow: rgba(255, 255, 255, 0.75) 2px 2px 0;
+}
+
+.font1 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #4d4d70;
+	text-shadow: rgba(255, 255, 255, 0.75) 2px 2px 0;
+}
+
+.msg {
+	border-top: 1px solid #E0E0E0;
+	padding-top: 10px;
+	margin: 20px 10px 0px 10px;
+}
+
+/*********************************************************/
+
+.card 
+{
+	position: absolute;
+	height: 360px;
+	width: 300px;
+	left: 8px;
+	top: 50px;
+	-webkit-transform-style: preserve-3d;
+	-webkit-transition: -webkit-transform 0.5s, left 3.0s, opacity 3.5s;
+}
+
+.card.flipped
+{
+	-webkit-transform: rotateY(180deg);
+}
+
+.card.leftout
+{
+	left: -100%;
+	opacity: 100%;
+}
+
+.face 
+{
+	position: absolute;
+	height: 360px;
+	width: 300px;
+	-webkit-border-radius: 10px;
+    -webkit-box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.5);
+	-webkit-backface-visibility: hidden;
+}
+
+.front 
+{
+	background-color: #ffffff;
+}
+
+.back 
+{
+	background-color: #ffffff;
+	-webkit-transform: rotateY(-180deg);
+}
+
+/************************************************************************************************/
+
+/* iui.css (c) 2007 by iUI Project Members, see LICENSE.txt for license */
+body {
+    margin: 0;
+    font-family: Helvetica;
+    background: #ffffff;
+    color: #000000;
+    overflow-x: hidden;
+    -webkit-user-select: none;
+    -webkit-text-size-adjust: none;
+}
+
+body[orient="landscape"] > *:not(.toolbar) {
+    min-height: 268px;
+}
+
+body > *[selected="true"] {
+    display: block;
+}
+
+a[selected], a:active {
+    background-color: #194fdb !important;
+    background-image: url(/images/iphone/listArrowSel.png), url(/images/iphone/selection.png) !important;
+    background-repeat: no-repeat, repeat-x;
+    background-position: right center, left top;
+    color: #FFFFFF !important;
+}
+
+a[selected="progress"] {
+    background-image: url(/images/iphone/loading.gif), url(/images/iphone/selection.png) !important;
+}
+body > .toolbar {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-bottom: 2px solid #FC9E00;
+    /*border-top: 1px solid #6d84a2;*/
+    border-top: 1px solid #686868;
+    padding: 10px;
+    height: 45px;
+    background: url(/images/iphone/toolbarBlack.png) #6d84a2 repeat-x;
+}
+
+.toolbar > h1 {
+    position: absolute;
+    overflow: hidden;
+    left: 50%;
+    margin: 1px 0 0 -75px;
+    height: 45px;
+    font-size: 20px;
+    width: 150px;
+    font-weight: bold;
+    text-shadow: rgba(0, 0, 0, 0.4) 0px -1px 0;
+    text-align: center;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color: #FFFFFF;
+}
+
+body[orient="landscape"] > .toolbar > h1 {
+    margin-left: -125px;
+    width: 250px;
+}
+
+.button {
+    position: absolute;
+    overflow: hidden;
+    top: 8px;
+    right: 6px;
+    margin: 0;
+    border-width: 0 5px;
+    padding: 0 3px;
+    width: auto;
+    height: 30px;
+    line-height: 30px;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-shadow: rgba(0, 0, 0, 0.6) 0px -1px 0;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    white-space: nowrap;
+    background: none;
+    -webkit-border-image: url(/images/iphone/toolButtonBlack.png) 0 5 0 5;
+}
+
+.buttonBlue {
+    position: absolute;
+    overflow: hidden;
+    top: 8px;
+    right: 6px;
+    margin: 0;
+    border-width: 0 5px;
+    padding: 0 3px;
+    width: auto;
+    height: 30px;
+    line-height: 30px;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-shadow: rgba(0, 0, 0, 0.6) 0px -1px 0;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    white-space: nowrap;
+    background: none;
+    -webkit-border-image: url(/images/iphone/toolButtonOrange.png) 0 5 0 5;
+}
+
+.buttonRight {
+	border-width: 0px 12px 0px 5px;
+    position: absolute;
+    overflow: hidden;
+    top: 8px;
+    right: 6px;
+    margin: 0;
+    padding: 0 3px;
+    width: auto;
+    height: 30px;
+    line-height: 30px;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-shadow: rgba(0, 0, 0, 0.6) 0px -1px 0;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    white-space: nowrap;
+    background: none;
+	-webkit-border-image: url(/images/iphone/rightButton.png) 0 12 0 5;
+}
+
+	
+.blueButton {
+    -webkit-border-image: url(/images/iphone/blueButton.png) 0 5 0 5;
+    border-width: 0 5px;
+}
+
+.leftButton {
+    left: 6px;
+    right: auto;
+}
+
+#backButton {
+    display: none;
+    left: 6px;
+    right: auto;
+    padding: 0;
+    max-width: 55px;
+    border-width: 0 8px 0 14px;
+    /*-webkit-border-image: url(backButton.png) 0 8 0 14;*/
+	-webkit-border-image: url(/images/iphone/leftButton.png) 0 5 0 12;		
+}
+
+.whiteButton,
+.grayButton {
+    display: block;
+    border-width: 0 12px;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: inherit;
+    color: inherit;
+}
+
+.whiteButton {
+    -webkit-border-image: url(/images/iphone/whiteButton.png) 0 12 0 12;
+    text-shadow: rgba(255, 255, 255, 0.7) 0 1px 0;
+}
+
+.grayButton {
+    -webkit-border-image: url(/images/iphone/grayButton.png) 0 12 0 12;
+    color: #FFFFFF;
+}
+
+/************************************************************************************************/

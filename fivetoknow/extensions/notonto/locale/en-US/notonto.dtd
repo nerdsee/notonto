@@ -1,0 +1,10 @@
+<!ENTITY options "Options">
+<!ENTITY refresh "Refresh">
+<!ENTITY question "Question">
+<!ENTITY answer "Answer">
+<!ENTITY level "Level">
+<!ENTITY yes "yes">
+<!ENTITY no "No">
+<!ENTITY knowanswer "Did you know the answer?">
+<!ENTITY noconn1 "Unable to connect to the Notonto Server.">
+<!ENTITY noconn2 "Please enter your correct Account Settings. Click on the Notonto Extension with the right mouse button and choose 'Options'">

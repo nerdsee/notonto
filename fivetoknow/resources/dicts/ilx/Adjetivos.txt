@@ -1,0 +1,109 @@
+ähnlich	adj.		parecido, semejante
+alt (älter, am ältesten)	adj.		viejo, anciano
+arbeitslos	adj.		parado, desempleado
+arm (ärmer, am ärmsten)	adj.		pobre
+bequem	adj.		cómodo
+berufstätig	adj.		empleado (que se tiene un empleo)
+berühmt	adj.		famoso
+billig	adj.		barato
+bitter	adj.		amargo
+blau	adj.		azul, borracho
+breit	adj.		ancho, amplio
+bunt	adj.		de varios colores
+deutsch	adj.		alemán
+dick	adj.		gordo, grueso
+direkt	adj.		directo, sin rodeos, inmediato
+dunkel	adj.		oscuro
+dünn	adj.		fino, delgado
+ehrlich	adj.		honesto, sincero
+endgültig	adj.		definitivo
+eng	adj.		estrecho
+falsch	adj.		equivocado, falso, erróneo
+fantastisch	adj.		fantástico, increíble
+fertig	adj.		terminado, listo, acabado
+fest	adj.		fijo
+fett	adj.		graso
+frei	adj.		libre, vacante
+frisch	adj.		fresco
+gebrochen	adj.		roto, fracturado
+gefährlich	adj.		peligroso, arriesgado
+geöffnet	adj.		abierto
+geschieden	adj.		divorciado, separado
+geschlossen	adj.		cerrado
+gesund	adj.		sano, saludable
+gleich	adj.		igual, idéntico, parecido
+glücklich	adj.		afortunado, feliz
+grau	adj.		gris
+groß	adj.		grande, alto
+grün	adj.		verde
+günstig	adj.		favorable, oportuno
+gut (besser, am besten)	adj.		bueno
+hart	adj.		duro
+hässlich	adj.		feo, malo, desagradable
+heiß	adj.		caliente
+hell	adj.		claro
+herrlich	adj.		maravilloso, excelente
+hoch	adj.		alto, agudo
+interessant	adj.		interesante
+international	adj.		internacional
+kalt (kälter, am kältesten)	adj.		frío, helado
+kaputt	adj.		roto, estropeado, hecho polvo
+klein	adj.		pequeño
+krank	adj.		enfermo
+kühl	adj.		fresco
+kurz (kürzer, am kürzesten)	adj.		corto, breve
+lang (länger, am längsten)	adj.		largo, alto
+langsam	adj.		lento
+lebendig	adj.		vivo, lleno de vida
+ledig	adj.		soltero
+leer	adj.		vacío, no amueblado
+leise	adj.		silencioso
+lustig	adj.		alegre, divertido
+mild	adj.		suave, templado
+modern	adj.		moderno
+müde	adj.		cansado
+nächst-	adj.		siguiente, próximo
+nah (näher, am nächsten)	adj.		cercano, próximo
+nervös	adj.		nervioso
+nett	adj.		amable, agradable, bonito
+neu	adj.		nuevo
+niedrig	adj.		bajo, humilde
+normal	adj.		normal, corriente
+obligatorisch	adj.		obligatorio
+offiziell	adj.		oficial
+originell	adj.		original, insólito
+praktisch	adj.		práctico
+privat	adj.		privado, particular
+reich	adj.		rico
+richtig	adj.		correcto, exacto, justo
+rot (röter, am röteste)	adj.		rojo
+ruhig	adj.		quieto, tranquilo, callado
+salzig	adj.		salado
+sauber	adj.		limpio, aseado
+sauer	adj.		ácido, agrio
+scharf (schärfer, am schärfsten)	adj.		afilado, picante
+schlank	adj.		delgado
+schlecht	adj.		malo
+schlimm	adj.		malo, grave
+schmal	adj.		delgado, estrecho
+schnell	adj.		rápido
+schön	adj.		bonito
+schrecklich	adj.		horrible, tremendo
+schwer	adj.		pesado
+sozial	adj.		social
+spät	adj.		tardío, tarde
+stark (stärker, am stärksten)	adj.		fuerte, robusto
+still	adj.		silencioso, tranquilo, quieto
+süß	adj.		dulce, azucarado
+teuer	adj.		caro
+tief	adj.		profundo, hondo
+trocken	adj.		seco
+typisch	adj.		típico
+verboten	adj.		prohibido
+verheiratet	adj.		casado
+voll	adj.		lleno, ocupado
+vorsichtig	adj.		prudente
+warm (wärmer, am wärmsten)	adj.		cálido, caluroso
+wichtig	adj.		importante
+wunderbar	adj.		maravilloso, milagroso
+zufrieden	adj.		contento, satisfecho

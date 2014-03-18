@@ -1,0 +1,1727 @@
+<?xml version="1.0" encoding="utf-8"?>
+<brain>
+	<lessons>
+		<lesson>
+			<title>CH-EN</title>
+			<description>
+				214 Radikale (Deutsch - Pinyin)
+			</description>
+			<keyboardLayout>PY</keyboardLayout>
+			<type>1</type>
+<items>
+<item>
+<text>eins</text>
+<comment></comment>
+<answers>
+<answer>yī</answer>
+</answers>
+</item>
+
+<item>
+<text>der Stock</text>
+<comment></comment>
+<answers>
+<answer>gǔn</answer>
+</answers>
+</item>
+
+<item>
+<text>der Punkt</text>
+<comment></comment>
+<answers>
+<answer>zhǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Teil</text>
+<comment></comment>
+<answers>
+<answer>piě</answer>
+</answers>
+</item>
+
+<item>
+<text>die Sichel</text>
+<comment></comment>
+<answers>
+<answer>yǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Haken</text>
+<comment></comment>
+<answers>
+<answer>jué</answer>
+</answers>
+</item>
+
+<item>
+<text>zwei</text>
+<comment></comment>
+<answers>
+<answer>èr</answer>
+</answers>
+</item>
+
+<item>
+<text>der Deckel</text>
+<comment></comment>
+<answers>
+<answer>tōu</answer>
+</answers>
+</item>
+
+<item>
+<text>der Mensch</text>
+<comment></comment>
+<answers>
+<answer>rén</answer>
+</answers>
+</item>
+
+<item>
+<text>die Beine</text>
+<comment></comment>
+<answers>
+<answer>ér</answer>
+</answers>
+</item>
+
+<item>
+<text>eintreten, betreten</text>
+<comment></comment>
+<answers>
+<answer>rù</answer>
+</answers>
+</item>
+
+<item>
+<text>acht</text>
+<comment></comment>
+<answers>
+<answer>bā</answer>
+</answers>
+</item>
+
+<item>
+<text>umfassen</text>
+<comment></comment>
+<answers>
+<answer>jiōng</answer>
+</answers>
+</item>
+
+<item>
+<text>bedecken</text>
+<comment></comment>
+<answers>
+<answer>mī</answer>
+</answers>
+</item>
+
+<item>
+<text>das Eis</text>
+<comment></comment>
+<answers>
+<answer>bīng</answer>
+</answers>
+</item>
+
+<item>
+<text>der Tisch</text>
+<comment></comment>
+<answers>
+<answer>jī</answer>
+</answers>
+</item>
+
+<item>
+<text>der Behälter</text>
+<comment></comment>
+<answers>
+<answer>qǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>das Messer</text>
+<comment></comment>
+<answers>
+<answer>dāo</answer>
+</answers>
+</item>
+
+<item>
+<text>die Kraft, die Fähigkeit</text>
+<comment></comment>
+<answers>
+<answer>lì</answer>
+</answers>
+</item>
+
+<item>
+<text>einwickeln, umarmen</text>
+<comment></comment>
+<answers>
+<answer>bāo</answer>
+</answers>
+</item>
+
+<item>
+<text>der Löffel</text>
+<comment></comment>
+<answers>
+<answer>bǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Kasten</text>
+<comment></comment>
+<answers>
+<answer>fāng</answer>
+</answers>
+</item>
+
+<item>
+<text>verstecken</text>
+<comment></comment>
+<answers>
+<answer>xǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>zehn</text>
+<comment></comment>
+<answers>
+<answer>shí</answer>
+</answers>
+</item>
+
+<item>
+<text>das Orakel</text>
+<comment></comment>
+<answers>
+<answer>bǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>das Siegel</text>
+<comment></comment>
+<answers>
+<answer>jié</answer>
+</answers>
+</item>
+
+<item>
+<text>der Abhang</text>
+<comment></comment>
+<answers>
+<answer>hàn</answer>
+</answers>
+</item>
+
+<item>
+<text>privat</text>
+<comment></comment>
+<answers>
+<answer>sī</answer>
+</answers>
+</item>
+
+<item>
+<text>wieder</text>
+<comment></comment>
+<answers>
+<answer>yòu</answer>
+</answers>
+</item>
+
+<item>
+<text>der Mund</text>
+<comment></comment>
+<answers>
+<answer>kǒu</answer>
+</answers>
+</item>
+
+<item>
+<text>die Begrenzung</text>
+<comment></comment>
+<answers>
+<answer>wéi</answer>
+</answers>
+</item>
+
+<item>
+<text>die Erde, der Boden</text>
+<comment></comment>
+<answers>
+<answer>tǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Gelehrte</text>
+<comment></comment>
+<answers>
+<answer>shì</answer>
+</answers>
+</item>
+
+<item>
+<text>schlendern</text>
+<comment></comment>
+<answers>
+<answer>zhǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>überholen</text>
+<comment></comment>
+<answers>
+<answer>suī</answer>
+</answers>
+</item>
+
+<item>
+<text>der Abend, der Sonnenuntergang</text>
+<comment></comment>
+<answers>
+<answer>xī</answer>
+</answers>
+</item>
+
+<item>
+<text>groß</text>
+<comment></comment>
+<answers>
+<answer>dà</answer>
+</answers>
+</item>
+
+<item>
+<text>die Frau</text>
+<comment></comment>
+<answers>
+<answer>nǚ</answer>
+</answers>
+</item>
+
+<item>
+<text>das Kind</text>
+<comment></comment>
+<answers>
+<answer>zǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>das Dach</text>
+<comment></comment>
+<answers>
+<answer>mián</answer>
+</answers>
+</item>
+
+<item>
+<text>der Daumen, das Zoll</text>
+<comment></comment>
+<answers>
+<answer>cùn</answer>
+</answers>
+</item>
+
+<item>
+<text>klein, geringfügig, unbedeutend</text>
+<comment></comment>
+<answers>
+<answer>xiǎo</answer>
+</answers>
+</item>
+
+<item>
+<text>lahm</text>
+<comment></comment>
+<answers>
+<answer>wāng</answer>
+</answers>
+</item>
+
+<item>
+<text>die Leiche</text>
+<comment></comment>
+<answers>
+<answer>shī</answer>
+</answers>
+</item>
+
+<item>
+<text>der Spross, der Keim</text>
+<comment></comment>
+<answers>
+<answer>chè</answer>
+</answers>
+</item>
+
+<item>
+<text>der Berg, das Gebirge</text>
+<comment></comment>
+<answers>
+<answer>shān</answer>
+</answers>
+</item>
+
+<item>
+<text>der Fluss</text>
+<comment></comment>
+<answers>
+<answer>chuān</answer>
+</answers>
+</item>
+
+<item>
+<text>die Arbeit</text>
+<comment></comment>
+<answers>
+<answer>gōng</answer>
+</answers>
+</item>
+
+<item>
+<text>selbst, persönlich</text>
+<comment></comment>
+<answers>
+<answer>jǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>das Tuch, der Schal</text>
+<comment></comment>
+<answers>
+<answer>jīn</answer>
+</answers>
+</item>
+
+<item>
+<text>trocken</text>
+<comment></comment>
+<answers>
+<answer>gān</answer>
+</answers>
+</item>
+
+<item>
+<text>jung, klein</text>
+<comment></comment>
+<answers>
+<answer>yāo</answer>
+</answers>
+</item>
+
+<item>
+<text>das Schrägdach</text>
+<comment></comment>
+<answers>
+<answer>guǎng</answer>
+</answers>
+</item>
+
+<item>
+<text>bewegen, marschieren</text>
+<comment></comment>
+<answers>
+<answer>yín</answer>
+</answers>
+</item>
+
+<item>
+<text>zwei Hände</text>
+<comment></comment>
+<answers>
+<answer>gǒng</answer>
+</answers>
+</item>
+
+<item>
+<text>der Pfeil</text>
+<comment></comment>
+<answers>
+<answer>yì</answer>
+</answers>
+</item>
+
+<item>
+<text>der Bogen</text>
+<comment></comment>
+<answers>
+<answer>gōng</answer>
+</answers>
+</item>
+
+<item>
+<text>die Schweineschnauze</text>
+<comment></comment>
+<answers>
+<answer>jì</answer>
+</answers>
+</item>
+
+<item>
+<text>der Bart, die Haare</text>
+<comment></comment>
+<answers>
+<answer>xū</answer>
+</answers>
+</item>
+
+<item>
+<text>der Schritt</text>
+<comment></comment>
+<answers>
+<answer>chì</answer>
+</answers>
+</item>
+
+<item>
+<text>das Herz, das Gefühl</text>
+<comment></comment>
+<answers>
+<answer>xīn</answer>
+</answers>
+</item>
+
+<item>
+<text>die Hellebarde</text>
+<comment></comment>
+<answers>
+<answer>gē</answer>
+</answers>
+</item>
+
+<item>
+<text>die Tür</text>
+<comment></comment>
+<answers>
+<answer>hù</answer>
+</answers>
+</item>
+
+<item>
+<text>die Hand, in der Hand halten</text>
+<comment></comment>
+<answers>
+<answer>shǒu</answer>
+</answers>
+</item>
+
+<item>
+<text>der Zweig, die Abzweigung</text>
+<comment></comment>
+<answers>
+<answer>zhī</answer>
+</answers>
+</item>
+
+<item>
+<text>schlagen</text>
+<comment></comment>
+<answers>
+<answer>pū</answer>
+</answers>
+</item>
+
+<item>
+<text>die Schrift, die Sprache</text>
+<comment></comment>
+<answers>
+<answer>wén</answer>
+</answers>
+</item>
+
+<item>
+<text>die Kelle</text>
+<comment></comment>
+<answers>
+<answer>dǒu</answer>
+</answers>
+</item>
+
+<item>
+<text>die Axt</text>
+<comment></comment>
+<answers>
+<answer>jīn</answer>
+</answers>
+</item>
+
+<item>
+<text>das Viereck</text>
+<comment></comment>
+<answers>
+<answer>fāng</answer>
+</answers>
+</item>
+
+<item>
+<text>nicht, keiner, ohne</text>
+<comment></comment>
+<answers>
+<answer>wú</answer>
+</answers>
+</item>
+
+<item>
+<text>die Sonne, der Tag</text>
+<comment></comment>
+<answers>
+<answer>rì</answer>
+</answers>
+</item>
+
+<item>
+<text>sagen, sprechen</text>
+<comment></comment>
+<answers>
+<answer>yuē</answer>
+</answers>
+</item>
+
+<item>
+<text>der Mond, der Monat</text>
+<comment></comment>
+<answers>
+<answer>yuè</answer>
+</answers>
+</item>
+
+<item>
+<text>der Baum, das Holz</text>
+<comment></comment>
+<answers>
+<answer>mù</answer>
+</answers>
+</item>
+
+<item>
+<text>mangeln, gähnen</text>
+<comment></comment>
+<answers>
+<answer>qiàn</answer>
+</answers>
+</item>
+
+<item>
+<text>anhalten, aufhören, stoppen</text>
+<comment></comment>
+<answers>
+<answer>zhǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Tod</text>
+<comment></comment>
+<answers>
+<answer>dǎi</answer>
+</answers>
+</item>
+
+<item>
+<text>die Waffe</text>
+<comment></comment>
+<answers>
+<answer>shū</answer>
+</answers>
+</item>
+
+<item>
+<text>nicht</text>
+<comment></comment>
+<answers>
+<answer>wú</answer>
+</answers>
+</item>
+
+<item>
+<text>vergleichen, sich messen mit</text>
+<comment></comment>
+<answers>
+<answer>bǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>das Haar, die Borste</text>
+<comment></comment>
+<answers>
+<answer>máo</answer>
+</answers>
+</item>
+
+<item>
+<text>die Familie, die Sippe</text>
+<comment></comment>
+<answers>
+<answer>shì</answer>
+</answers>
+</item>
+
+<item>
+<text>der Dampf</text>
+<comment></comment>
+<answers>
+<answer>qì</answer>
+</answers>
+</item>
+
+<item>
+<text>das Wasser, das Gewässer</text>
+<comment></comment>
+<answers>
+<answer>shuǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>das Feuer</text>
+<comment></comment>
+<answers>
+<answer>huǒ</answer>
+</answers>
+</item>
+
+<item>
+<text>die Klaue, die Kralle</text>
+<comment></comment>
+<answers>
+<answer>zhǎo</answer>
+</answers>
+</item>
+
+<item>
+<text>der Vater</text>
+<comment></comment>
+<answers>
+<answer>fù</answer>
+</answers>
+</item>
+
+<item>
+<text>mischen, durchkreuzen</text>
+<comment></comment>
+<answers>
+<answer>yáo</answer>
+</answers>
+</item>
+
+<item>
+<text>gespaltenes Holz</text>
+<comment></comment>
+<answers>
+<answer>qiáng</answer>
+</answers>
+</item>
+
+<item>
+<text>die Scheibe</text>
+<comment></comment>
+<answers>
+<answer>piàn</answer>
+</answers>
+</item>
+
+<item>
+<text>der Eckzahn</text>
+<comment></comment>
+<answers>
+<answer>yá</answer>
+</answers>
+</item>
+
+<item>
+<text>das Rind</text>
+<comment></comment>
+<answers>
+<answer>niú</answer>
+</answers>
+</item>
+
+<item>
+<text>der Hund</text>
+<comment></comment>
+<answers>
+<answer>quǎn</answer>
+</answers>
+</item>
+
+<item>
+<text>dunkel</text>
+<comment></comment>
+<answers>
+<answer>xuán</answer>
+</answers>
+</item>
+
+<item>
+<text>die Jade</text>
+<comment></comment>
+<answers>
+<answer>yù (wáng)</answer>
+</answers>
+</item>
+
+<item>
+<text>die Melone, der Kürbis, die Gurke</text>
+<comment></comment>
+<answers>
+<answer>guā</answer>
+</answers>
+</item>
+
+<item>
+<text>der Ziegel</text>
+<comment></comment>
+<answers>
+<answer>wǎ</answer>
+</answers>
+</item>
+
+<item>
+<text>süß, wohlschmeckend</text>
+<comment></comment>
+<answers>
+<answer>gān</answer>
+</answers>
+</item>
+
+<item>
+<text>leben, geboren werden</text>
+<comment></comment>
+<answers>
+<answer>shēng</answer>
+</answers>
+</item>
+
+<item>
+<text>gebrauchen, benutzen, nötig haben</text>
+<comment></comment>
+<answers>
+<answer>yòng</answer>
+</answers>
+</item>
+
+<item>
+<text>das Feld, das Reisfeld</text>
+<comment></comment>
+<answers>
+<answer>tián</answer>
+</answers>
+</item>
+
+<item>
+<text>der Stoffballen</text>
+<comment></comment>
+<answers>
+<answer>pǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>die Krankheit</text>
+<comment></comment>
+<answers>
+<answer>chuáng</answer>
+</answers>
+</item>
+
+<item>
+<text>aufsteigen</text>
+<comment></comment>
+<answers>
+<answer>bō</answer>
+</answers>
+</item>
+
+<item>
+<text>weiß</text>
+<comment></comment>
+<answers>
+<answer>bái</answer>
+</answers>
+</item>
+
+<item>
+<text>die Haut</text>
+<comment></comment>
+<answers>
+<answer>pí</answer>
+</answers>
+</item>
+
+<item>
+<text>die Schüssel, der Teller</text>
+<comment></comment>
+<answers>
+<answer>mǐn</answer>
+</answers>
+</item>
+
+<item>
+<text>das Auge</text>
+<comment></comment>
+<answers>
+<answer>mù</answer>
+</answers>
+</item>
+
+<item>
+<text>der Speer</text>
+<comment></comment>
+<answers>
+<answer>máo</answer>
+</answers>
+</item>
+
+<item>
+<text>der Pfeil</text>
+<comment></comment>
+<answers>
+<answer>shǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Stein</text>
+<comment></comment>
+<answers>
+<answer>shí</answer>
+</answers>
+</item>
+
+<item>
+<text>zeigen, Vorfahren, verehren</text>
+<comment></comment>
+<answers>
+<answer>shì</answer>
+</answers>
+</item>
+
+<item>
+<text>der Fußstapfen, die Spur</text>
+<comment></comment>
+<answers>
+<answer>róu</answer>
+</answers>
+</item>
+
+<item>
+<text>das Getreide</text>
+<comment></comment>
+<answers>
+<answer>hé</answer>
+</answers>
+</item>
+
+<item>
+<text>die Höhle</text>
+<comment></comment>
+<answers>
+<answer>xué</answer>
+</answers>
+</item>
+
+<item>
+<text>stehen, aufrichten</text>
+<comment></comment>
+<answers>
+<answer>lì</answer>
+</answers>
+</item>
+
+<item>
+<text>der Bambus</text>
+<comment></comment>
+<answers>
+<answer>zhú</answer>
+</answers>
+</item>
+
+<item>
+<text>der Reis</text>
+<comment></comment>
+<answers>
+<answer>mǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>die Seide</text>
+<comment></comment>
+<answers>
+<answer>si</answer>
+</answers>
+</item>
+
+<item>
+<text>der Krug, die Amphore</text>
+<comment></comment>
+<answers>
+<answer>fǒu</answer>
+</answers>
+</item>
+
+<item>
+<text>das Netz</text>
+<comment></comment>
+<answers>
+<answer>wǎng</answer>
+</answers>
+</item>
+
+<item>
+<text>das Schaf, die Ziege</text>
+<comment></comment>
+<answers>
+<answer>yáng</answer>
+</answers>
+</item>
+
+<item>
+<text>die Vogelfeder</text>
+<comment></comment>
+<answers>
+<answer>yǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>alt</text>
+<comment></comment>
+<answers>
+<answer>lǎo</answer>
+</answers>
+</item>
+
+<item>
+<text>und, aber</text>
+<comment></comment>
+<answers>
+<answer>ér</answer>
+</answers>
+</item>
+
+<item>
+<text>der Pflug, die Egge</text>
+<comment></comment>
+<answers>
+<answer>lěi</answer>
+</answers>
+</item>
+
+<item>
+<text>das Ohr</text>
+<comment></comment>
+<answers>
+<answer>ěr</answer>
+</answers>
+</item>
+
+<item>
+<text>der Schreibpinsel</text>
+<comment></comment>
+<answers>
+<answer>yù</answer>
+</answers>
+</item>
+
+<item>
+<text>das Fleisch</text>
+<comment></comment>
+<answers>
+<answer>ròu</answer>
+</answers>
+</item>
+
+<item>
+<text>der Diener, der Minister</text>
+<comment></comment>
+<answers>
+<answer>chén</answer>
+</answers>
+</item>
+
+<item>
+<text>selbst</text>
+<comment></comment>
+<answers>
+<answer>zì</answer>
+</answers>
+</item>
+
+<item>
+<text>ankommen, erreichen</text>
+<comment></comment>
+<answers>
+<answer>zhì</answer>
+</answers>
+</item>
+
+<item>
+<text>der Mörser</text>
+<comment></comment>
+<answers>
+<answer>jiù</answer>
+</answers>
+</item>
+
+<item>
+<text>die Zunge</text>
+<comment></comment>
+<answers>
+<answer>shé</answer>
+</answers>
+</item>
+
+<item>
+<text>gegensätzlich, irren</text>
+<comment></comment>
+<answers>
+<answer>chuǎn</answer>
+</answers>
+</item>
+
+<item>
+<text>das Schiff, das Boot</text>
+<comment></comment>
+<answers>
+<answer>zhōu</answer>
+</answers>
+</item>
+
+<item>
+<text>die Grenze</text>
+<comment></comment>
+<answers>
+<answer>gēn</answer>
+</answers>
+</item>
+
+<item>
+<text>die Farbe</text>
+<comment></comment>
+<answers>
+<answer>sè</answer>
+</answers>
+</item>
+
+<item>
+<text>das Gras</text>
+<comment></comment>
+<answers>
+<answer>cǎo</answer>
+</answers>
+</item>
+
+<item>
+<text>der Tiger</text>
+<comment></comment>
+<answers>
+<answer>hǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>das Insekt</text>
+<comment></comment>
+<answers>
+<answer>chóng</answer>
+</answers>
+</item>
+
+<item>
+<text>das Blut</text>
+<comment></comment>
+<answers>
+<answer>xuè</answer>
+</answers>
+</item>
+
+<item>
+<text>gehen, machen, tun</text>
+<comment></comment>
+<answers>
+<answer>xíng</answer>
+</answers>
+</item>
+
+<item>
+<text>die Kleidung</text>
+<comment></comment>
+<answers>
+<answer>yī</answer>
+</answers>
+</item>
+
+<item>
+<text>Westen</text>
+<comment></comment>
+<answers>
+<answer>xī</answer>
+</answers>
+</item>
+
+<item>
+<text>sehen</text>
+<comment></comment>
+<answers>
+<answer>jiàn</answer>
+</answers>
+</item>
+
+<item>
+<text>das Horn</text>
+<comment></comment>
+<answers>
+<answer>jiǎo</answer>
+</answers>
+</item>
+
+<item>
+<text>sprechen, das Wort</text>
+<comment></comment>
+<answers>
+<answer>yán</answer>
+</answers>
+</item>
+
+<item>
+<text>das Tal, die Schlucht</text>
+<comment></comment>
+<answers>
+<answer>gǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>die Bohne</text>
+<comment></comment>
+<answers>
+<answer>dòu</answer>
+</answers>
+</item>
+
+<item>
+<text>das Schwein</text>
+<comment></comment>
+<answers>
+<answer>shǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Dachs, die Katze</text>
+<comment></comment>
+<answers>
+<answer>zhì</answer>
+</answers>
+</item>
+
+<item>
+<text>das Muschelgeld, die Muschel</text>
+<comment></comment>
+<answers>
+<answer>bèi</answer>
+</answers>
+</item>
+
+<item>
+<text>rot</text>
+<comment></comment>
+<answers>
+<answer>chì</answer>
+</answers>
+</item>
+
+<item>
+<text>laufen, fortgehen</text>
+<comment></comment>
+<answers>
+<answer>zǒu</answer>
+</answers>
+</item>
+
+<item>
+<text>der Fuß</text>
+<comment></comment>
+<answers>
+<answer>zú</answer>
+</answers>
+</item>
+
+<item>
+<text>der Körper, der Rumpf</text>
+<comment></comment>
+<answers>
+<answer>shēn</answer>
+</answers>
+</item>
+
+<item>
+<text>der Wagen, das Rad, das Fahrzeug</text>
+<comment></comment>
+<answers>
+<answer>chē</answer>
+</answers>
+</item>
+
+<item>
+<text>bitter, scharf</text>
+<comment></comment>
+<answers>
+<answer>xīn</answer>
+</answers>
+</item>
+
+<item>
+<text>der Morgen</text>
+<comment></comment>
+<answers>
+<answer>chén</answer>
+</answers>
+</item>
+
+<item>
+<text>vorwärts gehen</text>
+<comment></comment>
+<answers>
+<answer>chuò</answer>
+</answers>
+</item>
+
+<item>
+<text>die Stadt</text>
+<comment></comment>
+<answers>
+<answer>yì</answer>
+</answers>
+</item>
+
+<item>
+<text>der Wein, der Alkohol</text>
+<comment></comment>
+<answers>
+<answer>yǒu</answer>
+</answers>
+</item>
+
+<item>
+<text>trennen, unterscheiden, auswählen</text>
+<comment></comment>
+<answers>
+<answer>biàn</answer>
+</answers>
+</item>
+
+<item>
+<text>das Dorf</text>
+<comment></comment>
+<answers>
+<answer>lǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>das Metall, das Gold</text>
+<comment></comment>
+<answers>
+<answer>jīn</answer>
+</answers>
+</item>
+
+<item>
+<text>lang, älter</text>
+<comment></comment>
+<answers>
+<answer>cháng</answer>
+</answers>
+</item>
+
+<item>
+<text>das Tor, die Tür</text>
+<comment></comment>
+<answers>
+<answer>mén</answer>
+</answers>
+</item>
+
+<item>
+<text>der Hügel, der Damm</text>
+<comment></comment>
+<answers>
+<answer>fù</answer>
+</answers>
+</item>
+
+<item>
+<text>fangen, untergeordnet sein</text>
+<comment></comment>
+<answers>
+<answer>lì</answer>
+</answers>
+</item>
+
+<item>
+<text>der kleine Vogel</text>
+<comment></comment>
+<answers>
+<answer>zhuī</answer>
+</answers>
+</item>
+
+<item>
+<text>der Regen</text>
+<comment></comment>
+<answers>
+<answer>yǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>blau, jung</text>
+<comment></comment>
+<answers>
+<answer>qīng</answer>
+</answers>
+</item>
+
+<item>
+<text>falsch, der Fehler</text>
+<comment></comment>
+<answers>
+<answer>fēi</answer>
+</answers>
+</item>
+
+<item>
+<text>das Gesicht</text>
+<comment></comment>
+<answers>
+<answer>miàn</answer>
+</answers>
+</item>
+
+<item>
+<text>ungegerbtes Leder</text>
+<comment></comment>
+<answers>
+<answer>gé</answer>
+</answers>
+</item>
+
+<item>
+<text>gegerbtes Leder</text>
+<comment></comment>
+<answers>
+<answer>wéi</answer>
+</answers>
+</item>
+
+<item>
+<text>der Lauch</text>
+<comment></comment>
+<answers>
+<answer>jiǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Laut, der Ton</text>
+<comment></comment>
+<answers>
+<answer>yīn</answer>
+</answers>
+</item>
+
+<item>
+<text>der Kopf</text>
+<comment></comment>
+<answers>
+<answer>yè</answer>
+</answers>
+</item>
+
+<item>
+<text>der Wind</text>
+<comment></comment>
+<answers>
+<answer>fēng</answer>
+</answers>
+</item>
+
+<item>
+<text>fliegen</text>
+<comment></comment>
+<answers>
+<answer>fēi</answer>
+</answers>
+</item>
+
+<item>
+<text>das Essen, das Futter</text>
+<comment></comment>
+<answers>
+<answer>shí</answer>
+</answers>
+</item>
+
+<item>
+<text>der Kopf, das Haupt</text>
+<comment></comment>
+<answers>
+<answer>shǒu</answer>
+</answers>
+</item>
+
+<item>
+<text>der Duft</text>
+<comment></comment>
+<answers>
+<answer>xiāng</answer>
+</answers>
+</item>
+
+<item>
+<text>das Pferd</text>
+<comment></comment>
+<answers>
+<answer>mǎ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Knochen</text>
+<comment></comment>
+<answers>
+<answer>gǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>hoch</text>
+<comment></comment>
+<answers>
+<answer>gāo</answer>
+</answers>
+</item>
+
+<item>
+<text>die langen Haare</text>
+<comment></comment>
+<answers>
+<answer>biāo</answer>
+</answers>
+</item>
+
+<item>
+<text>kämpfen</text>
+<comment></comment>
+<answers>
+<answer>dòu</answer>
+</answers>
+</item>
+
+<item>
+<text>die duftenden Kräuter</text>
+<comment></comment>
+<answers>
+<answer>chàng</answer>
+</answers>
+</item>
+
+<item>
+<text>der Kessel</text>
+<comment></comment>
+<answers>
+<answer>lì</answer>
+</answers>
+</item>
+
+<item>
+<text>das Gespenst, der Dämon</text>
+<comment></comment>
+<answers>
+<answer>guǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Fisch</text>
+<comment></comment>
+<answers>
+<answer>yú</answer>
+</answers>
+</item>
+
+<item>
+<text>der Vogel</text>
+<comment></comment>
+<answers>
+<answer>niǎo</answer>
+</answers>
+</item>
+
+<item>
+<text>das Salz, die Lauge</text>
+<comment></comment>
+<answers>
+<answer>lǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Hirsch, das Reh</text>
+<comment></comment>
+<answers>
+<answer>lù</answer>
+</answers>
+</item>
+
+<item>
+<text>der Weizen, die Gerste</text>
+<comment></comment>
+<answers>
+<answer>mài</answer>
+</answers>
+</item>
+
+<item>
+<text>der Hanf, der Flachs, die Jute</text>
+<comment></comment>
+<answers>
+<answer>má</answer>
+</answers>
+</item>
+
+<item>
+<text>gelb</text>
+<comment></comment>
+<answers>
+<answer>huáng</answer>
+</answers>
+</item>
+
+<item>
+<text>die Hirse</text>
+<comment></comment>
+<answers>
+<answer>shǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>schwarz</text>
+<comment></comment>
+<answers>
+<answer>hēi</answer>
+</answers>
+</item>
+
+<item>
+<text>sticken, die Näharbeit</text>
+<comment></comment>
+<answers>
+<answer>zhǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Frosch, die Amphibie</text>
+<comment></comment>
+<answers>
+<answer>mǐn</answer>
+</answers>
+</item>
+
+<item>
+<text>der Dreifuß</text>
+<comment></comment>
+<answers>
+<answer>dǐng</answer>
+</answers>
+</item>
+
+<item>
+<text>die Trommel</text>
+<comment></comment>
+<answers>
+<answer>gǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>die Ratte, die Maus</text>
+<comment></comment>
+<answers>
+<answer>shǔ</answer>
+</answers>
+</item>
+
+<item>
+<text>die Nase</text>
+<comment></comment>
+<answers>
+<answer>bí</answer>
+</answers>
+</item>
+
+<item>
+<text>gleich, ordnen, gleichmäßig</text>
+<comment></comment>
+<answers>
+<answer>qí</answer>
+</answers>
+</item>
+
+<item>
+<text>der Backenzahn, der Zahn</text>
+<comment></comment>
+<answers>
+<answer>chǐ</answer>
+</answers>
+</item>
+
+<item>
+<text>der Drache</text>
+<comment></comment>
+<answers>
+<answer>lóng</answer>
+</answers>
+</item>
+
+<item>
+<text>die Schildkröte</text>
+<comment></comment>
+<answers>
+<answer>guī</answer>
+</answers>
+</item>
+
+<item>
+<text>die Flöte</text>
+<comment></comment>
+<answers>
+<answer>yuè</answer>
+</answers>
+</item>
+
+</items>
+			</lesson>
+			</lessons>
+		</brain>

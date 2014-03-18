@@ -1,0 +1,109 @@
+ähnlich :: parecido, semejante
+alt  ::  viejo, anciano
+arbeitslos :: parado, desempleado
+arm  ::  pobre
+bequem :: cómodo
+berufstätig :: empleado
+berühmt :: famoso
+billig :: barato
+bitter :: amargo
+blau :: azul, borracho
+breit :: ancho, amplio
+bunt :: de varios colores
+deutsch :: alemán
+dick :: gordo, grueso
+direkt :: directo, sin rodeos, inmediato
+dunkel :: oscuro
+dünn :: fino, delgado
+ehrlich :: honesto, sincero
+endgültig :: definitivo
+eng :: estrecho
+falsch :: equivocado, falso, erróneo
+fantastisch :: fantástico, increíble
+fertig :: terminado, listo, acabado
+fest :: fijo
+fett :: graso
+frei :: libre, vacante
+frisch :: fresco
+gebrochen :: roto, fracturado
+gefährlich :: peligroso, arriesgado
+geöffnet :: abierto
+geschieden :: divorciado, separado
+geschlossen :: cerrado
+gesund :: sano, saludable
+gleich :: igual, idéntico, parecido
+glücklich :: afortunado, feliz
+grau :: gris
+groß :: grande, alto
+grün :: verde
+günstig :: favorable, oportuno
+gut  ::  bueno
+hart :: duro
+hässlich :: feo, malo, desagradable
+heiß :: caliente
+hell :: claro
+herrlich :: maravilloso, excelente
+hoch :: alto, agudo
+interessant :: interesante
+international :: internacional
+kalt  ::  frío, helado
+kaputt :: roto, estropeado, hecho polvo
+klein :: pequeño
+krank :: enfermo
+kühl :: fresco
+kurz  ::  corto, breve
+lang  ::  largo, alto
+langsam :: lento
+lebendig :: vivo, lleno de vida
+ledig :: soltero
+leer :: vacío, no amueblado
+leise :: silencioso
+lustig :: alegre, divertido
+mild :: suave, templado
+modern :: moderno
+müde :: cansado
+nächster, nächste :: siguiente, próximo
+nah  ::  cercano, próximo
+nervös :: nervioso
+nett :: amable, agradable, bonito
+neu :: nuevo
+niedrig :: bajo, humilde
+normal :: normal, corriente
+obligatorisch :: obligatorio
+offiziell :: oficial
+originell :: original, insólito
+praktisch :: práctico
+privat :: privado, particular
+reich :: rico
+richtig :: correcto, exacto, justo
+rot  ::  rojo
+ruhig :: quieto, tranquilo, callado
+salzig :: salado
+sauber :: limpio, aseado
+sauer :: ácido, agrio
+scharf  ::  afilado, picante
+schlank :: delgado
+schlecht :: malo
+schlimm :: malo, grave
+schmal :: delgado, estrecho
+schnell :: rápido
+schön :: bonito
+schrecklich :: horrible, tremendo
+schwer :: pesado
+sozial :: social
+spät :: tardío, tarde
+stark  ::  fuerte, robusto
+still :: silencioso, tranquilo, quieto
+süß :: dulce, azucarado
+teuer :: caro
+tief :: profundo, hondo
+trocken :: seco
+typisch :: típico
+verboten :: prohibido
+verheiratet :: casado
+voll :: lleno, ocupado
+vorsichtig :: prudente
+warm  ::  cálido, caluroso
+wichtig :: importante
+wunderbar :: maravilloso, milagroso
+zufrieden :: contento, satisfecho

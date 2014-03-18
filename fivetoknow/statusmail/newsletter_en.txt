@@ -1,0 +1,16 @@
+========================
+= Your no|tonto status =
+========================
+
+Hi @NICKUSER@,
+this is your personal notonto status. It gives you an overview of your subscribed lessons 
+and the distribution of your flashcards between the levels. (Status: @DATE@)
+
+Your lessons
+============
+@LESSONS@
+
+You can adjust the frequency of this status mail in your user preferences. Currently this mail is sent @FREQ@.
+Of course you may deactivate the status mail.
+
+Please login at notonto or follow this link: http://@SERVER@/options.jsf

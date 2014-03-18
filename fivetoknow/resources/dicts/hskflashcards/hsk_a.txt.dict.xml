@@ -1,0 +1,8466 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<brain>
+			<lessons>
+			<lesson>
+			<title>HSK Level A</title>
+			<description>HSK</description>
+			<keyboardLayout>en</keyboardLayout>
+			<type>1</type>
+<items>
+<item id="0" extid="540"><text>呢</text>
+<comment>ne</comment>
+<answers>
+<answer>(modal particle ending a question)</answer>
+</answers>
+</item>
+
+<item id="0" extid="360"><text>健康</text>
+<comment>jiànkāng</comment>
+<answers>
+<answer>health</answer>
+<answer>healthy</answer>
+<answer>sound</answer>
+<answer>wholesome</answer>
+</answers>
+</item>
+
+<item id="0" extid="1006"><text>主要</text>
+<comment>zhǔyào</comment>
+<answers>
+<answer>main</answer>
+<answer>major</answer>
+<answer>chief</answer>
+<answer>principal</answer>
+</answers>
+</item>
+
+<item id="0" extid="257"><text>公共汽车</text>
+<comment>gōnggòng qìchē</comment>
+<answers>
+<answer>bus (for public transit)</answer>
+</answers>
+</item>
+
+<item id="0" extid="462"><text>历史</text>
+<comment>lìshǐ</comment>
+<answers>
+<answer>history</answer>
+<answer>past records</answer>
+</answers>
+</item>
+
+<item id="0" extid="165"><text>东西</text>
+<comment>dōngxi</comment>
+<answers>
+<answer>thing</answer>
+<answer>creature</answer>
+</answers>
+</item>
+
+<item id="0" extid="515"><text>面包</text>
+<comment>miànbāo</comment>
+<answers>
+<answer>bread</answer>
+</answers>
+</item>
+
+<item id="0" extid="747"><text>头</text>
+<comment>tóu</comment>
+<answers>
+<answer>first</answer>
+<answer>leading</answer>
+</answers>
+</item>
+
+<item id="0" extid="629"><text>日子</text>
+<comment>rìzi</comment>
+<answers>
+<answer>days</answer>
+<answer>date</answer>
+<answer>time</answer>
+<answer>life</answer>
+<answer>livelihood</answer>
+</answers>
+</item>
+
+<item id="0" extid="226"><text>附近</text>
+<comment>fùjìn</comment>
+<answers>
+<answer>nearby</answer>
+<answer>neighboring area</answer>
+<answer>vicinity</answer>
+</answers>
+</item>
+
+<item id="0" extid="1027"><text>昨天</text>
+<comment>zuótiān</comment>
+<answers>
+<answer>yesterday</answer>
+</answers>
+</item>
+
+<item id="0" extid="224"><text>父亲</text>
+<comment>fùqin</comment>
+<answers>
+<answer>father</answer>
+</answers>
+</item>
+
+<item id="0" extid="4"><text>爱</text>
+<comment>ài</comment>
+<answers>
+<answer>love</answer>
+</answers>
+</item>
+
+<item id="0" extid="273"><text>国</text>
+<comment>guó</comment>
+<answers>
+<answer>country</answer>
+<answer>state</answer>
+<answer>nation</answer>
+</answers>
+</item>
+
+<item id="0" extid="917"><text>有的</text>
+<comment>yǒude</comment>
+<answers>
+<answer>some</answer>
+<answer>some of</answer>
+</answers>
+</item>
+
+<item id="0" extid="874"><text>一</text>
+<comment>yī</comment>
+<answers>
+<answer>one</answer>
+<answer>once</answer>
+<answer>as soon as</answer>
+</answers>
+</item>
+
+<item id="0" extid="855"><text>学院</text>
+<comment>xuéyuàn</comment>
+<answers>
+<answer>college</answer>
+<answer>institute</answer>
+<answer>academy</answer>
+</answers>
+</item>
+
+<item id="0" extid="984"><text>只</text>
+<comment>zhī</comment>
+<answers>
+<answer>(measure word for one of a pair)</answer>
+<answer>only</answer>
+<answer>merely</answer>
+</answers>
+</item>
+
+<item id="0" extid="98"><text>船</text>
+<comment>chuán</comment>
+<answers>
+<answer>boat</answer>
+<answer>ship</answer>
+</answers>
+</item>
+
+<item id="0" extid="769"><text>万</text>
+<comment>wàn</comment>
+<answers>
+<answer>ten thousand</answer>
+<answer>a very great number</answer>
+</answers>
+</item>
+
+<item id="0" extid="389"><text>紧</text>
+<comment>jǐn</comment>
+<answers>
+<answer>tight</answer>
+<answer>urgent</answer>
+<answer>hard up</answer>
+<answer>tighten</answer>
+</answers>
+</item>
+
+<item id="0" extid="461"><text>礼物</text>
+<comment>lǐwù</comment>
+<answers>
+<answer>gift</answer>
+<answer>present</answer>
+</answers>
+</item>
+
+<item id="0" extid="248"><text>各种</text>
+<comment>gèzhǒng</comment>
+<answers>
+<answer>all kinds of</answer>
+</answers>
+</item>
+
+<item id="0" extid="658"><text>胜利</text>
+<comment>shènglì</comment>
+<answers>
+<answer>victory</answer>
+<answer>triumph</answer>
+</answers>
+</item>
+
+<item id="0" extid="737"><text>停</text>
+<comment>tíng</comment>
+<answers>
+<answer>stop</answer>
+<answer>cease</answer>
+<answer>be parked</answer>
+</answers>
+</item>
+
+<item id="0" extid="43"><text>变化</text>
+<comment>biànhuà</comment>
+<answers>
+<answer>change</answer>
+<answer>vary</answer>
+</answers>
+</item>
+
+<item id="0" extid="215"><text>丰富</text>
+<comment>fēngfù</comment>
+<answers>
+<answer>rich</answer>
+<answer>abundant</answer>
+<answer>plentiful</answer>
+<answer>enrich</answer>
+</answers>
+</item>
+
+<item id="0" extid="720"><text>讨论</text>
+<comment>tǎolùn</comment>
+<answers>
+<answer>discuss</answer>
+<answer>discussion</answer>
+</answers>
+</item>
+
+<item id="0" extid="804"><text>细</text>
+<comment>xì</comment>
+<answers>
+<answer>thin</answer>
+<answer>fine</answer>
+<answer>thin and soft</answer>
+<answer>meticulous</answer>
+</answers>
+</item>
+
+<item id="0" extid="456"><text>离</text>
+<comment>lí</comment>
+<answers>
+<answer>leave</answer>
+<answer>without</answer>
+<answer>off</answer>
+<answer>away</answer>
+<answer>from</answer>
+</answers>
+</item>
+
+<item id="0" extid="606"><text>秋</text>
+<comment>qiū</comment>
+<answers>
+<answer>autumn</answer>
+<answer>fall</answer>
+</answers>
+</item>
+
+<item id="0" extid="414"><text>卡车</text>
+<comment>kǎchē</comment>
+<answers>
+<answer>lorry</answer>
+<answer>truck</answer>
+</answers>
+</item>
+
+<item id="0" extid="328"><text>活</text>
+<comment>huó</comment>
+<answers>
+<answer>live</answer>
+</answers>
+</item>
+
+<item id="0" extid="46"><text>表示</text>
+<comment>biǎoshì</comment>
+<answers>
+<answer>show</answer>
+<answer>express</answer>
+<answer>indicate</answer>
+</answers>
+</item>
+
+<item id="0" extid="860"><text>颜色</text>
+<comment>yánsè</comment>
+<answers>
+<answer>color</answer>
+</answers>
+</item>
+
+<item id="0" extid="394"><text>进行</text>
+<comment>jìnxíng</comment>
+<answers>
+<answer>be in progress</answer>
+<answer>go on</answer>
+<answer>carry on</answer>
+</answers>
+</item>
+
+<item id="0" extid="705"><text>所有</text>
+<comment>suǒyǒu</comment>
+<answers>
+<answer>all</answer>
+</answers>
+</item>
+
+<item id="0" extid="392"><text>进来</text>
+<comment>jìnlái</comment>
+<answers>
+<answer>come in</answer>
+<answer>get in</answer>
+</answers>
+</item>
+
+<item id="0" extid="358"><text>见面</text>
+<comment>jiàn miàn</comment>
+<answers>
+<answer>meet</answer>
+<answer>see</answer>
+</answers>
+</item>
+
+<item id="0" extid="108"><text>次</text>
+<comment>cì</comment>
+<answers>
+<answer>time</answer>
+</answers>
+</item>
+
+<item id="0" extid="142"><text>灯</text>
+<comment>dēng</comment>
+<answers>
+<answer>lamp</answer>
+<answer>light</answer>
+<answer>lantern</answer>
+</answers>
+</item>
+
+<item id="0" extid="468"><text>连…都（也）…</text>
+<comment>lián … dōu (yě) …</comment>
+<answers>
+<answer>even</answer>
+</answers>
+</item>
+
+<item id="0" extid="110"><text>从…到…</text>
+<comment>cóng … dào …</comment>
+<answers>
+<answer>from … to …</answer>
+</answers>
+</item>
+
+<item id="0" extid="788"><text>问题</text>
+<comment>wèntí</comment>
+<answers>
+<answer>question</answer>
+<answer>problem</answer>
+<answer>issue</answer>
+<answer>trouble</answer>
+</answers>
+</item>
+
+<item id="0" extid="311"><text>画</text>
+<comment>huà</comment>
+<answers>
+<answer>draw</answer>
+<answer>paint</answer>
+</answers>
+</item>
+
+<item id="0" extid="252"><text>更</text>
+<comment>gèng</comment>
+<answers>
+<answer>more</answer>
+<answer>still more, even more</answer>
+</answers>
+</item>
+
+<item id="0" extid="106"><text>词</text>
+<comment>cí</comment>
+<answers>
+<answer>word</answer>
+<answer>expression</answer>
+<answer>poetry</answer>
+</answers>
+</item>
+
+<item id="0" extid="325"><text>会</text>
+<comment>huì</comment>
+<answers>
+<answer>can</answer>
+<answer>be good at</answer>
+<answer>be likely to</answer>
+<answer>meet</answer>
+<answer>meeting</answer>
+<answer>gathering</answer>
+<answer>conference</answer>
+</answers>
+</item>
+
+<item id="0" extid="508"><text>每</text>
+<comment>měi</comment>
+<answers>
+<answer>every</answer>
+<answer>each</answer>
+<answer>per</answer>
+<answer>every time</answer>
+</answers>
+</item>
+
+<item id="0" extid="927"><text>愉快</text>
+<comment>yúkuài</comment>
+<answers>
+<answer>happy</answer>
+<answer>cheerful</answer>
+<answer>joyful</answer>
+<answer>delightful</answer>
+</answers>
+</item>
+
+<item id="0" extid="37"><text>比赛</text>
+<comment>bǐsài</comment>
+<answers>
+<answer>match</answer>
+<answer>competition</answer>
+<answer>game</answer>
+</answers>
+</item>
+
+<item id="0" extid="803"><text>系</text>
+<comment>xì</comment>
+<answers>
+<answer>department (in a university)</answer>
+</answers>
+</item>
+
+<item id="0" extid="82"><text>车站</text>
+<comment>chēzhàn</comment>
+<answers>
+<answer>station</answer>
+<answer>stop</answer>
+</answers>
+</item>
+
+<item id="0" extid="740"><text>通过</text>
+<comment>tōngguò</comment>
+<answers>
+<answer>by way of</answer>
+<answer>through</answer>
+<answer>pass through</answer>
+</answers>
+</item>
+
+<item id="0" extid="986"><text>知道</text>
+<comment>zhīdào</comment>
+<answers>
+<answer>know</answer>
+<answer>be aware of</answer>
+<answer>realize</answer>
+</answers>
+</item>
+
+<item id="0" extid="522"><text>目前</text>
+<comment>mùqián</comment>
+<answers>
+<answer>current time</answer>
+<answer>at present</answer>
+</answers>
+</item>
+
+<item id="0" extid="782"><text>文学</text>
+<comment>wénxué</comment>
+<answers>
+<answer>literature</answer>
+</answers>
+</item>
+
+<item id="0" extid="113"><text>错</text>
+<comment>cuò</comment>
+<answers>
+<answer>wrong</answer>
+<answer>faulty</answer>
+<answer>mistake</answer>
+<answer>error</answer>
+</answers>
+</item>
+
+<item id="0" extid="454"><text>累</text>
+<comment>lèi</comment>
+<answers>
+<answer>tired</answer>
+<answer>tire</answer>
+<answer>strain</answer>
+</answers>
+</item>
+
+<item id="0" extid="607"><text>秋天</text>
+<comment>qiūtiān</comment>
+<answers>
+<answer>autumn</answer>
+<answer>fall</answer>
+</answers>
+</item>
+
+<item id="0" extid="266"><text>关</text>
+<comment>guān</comment>
+<answers>
+<answer>shut</answer>
+<answer>lock up</answer>
+<answer>turn off</answer>
+<answer>close down</answer>
+</answers>
+</item>
+
+<item id="0" extid="544"><text>能够</text>
+<comment>nénggòu</comment>
+<answers>
+<answer>can</answer>
+<answer>be able to</answer>
+<answer>be capable of</answer>
+</answers>
+</item>
+
+<item id="0" extid="183"><text>多么</text>
+<comment>duōme</comment>
+<answers>
+<answer>how</answer>
+<answer>what</answer>
+</answers>
+</item>
+
+<item id="0" extid="251"><text>跟</text>
+<comment>gēn</comment>
+<answers>
+<answer>with</answer>
+<answer>and</answer>
+<answer>follow</answer>
+</answers>
+</item>
+
+<item id="0" extid="913"><text>邮局</text>
+<comment>yóujú</comment>
+<answers>
+<answer>post office</answer>
+</answers>
+</item>
+
+<item id="0" extid="254"><text>工人</text>
+<comment>gōngrén</comment>
+<answers>
+<answer>worker</answer>
+<answer>workman</answer>
+</answers>
+</item>
+
+<item id="0" extid="492"><text>马</text>
+<comment>mǎ</comment>
+<answers>
+<answer>horse</answer>
+</answers>
+</item>
+
+<item id="0" extid="484"><text>楼</text>
+<comment>lóu</comment>
+<answers>
+<answer>storied building</answer>
+</answers>
+</item>
+
+<item id="0" extid="617"><text>让</text>
+<comment>ràng</comment>
+<answers>
+<answer>give way</answer>
+<answer>give ground</answer>
+<answer>invite</answer>
+<answer>let</answer>
+</answers>
+</item>
+
+<item id="0" extid="556"><text>农村</text>
+<comment>nóngcūn</comment>
+<answers>
+<answer>rural area</answer>
+<answer>countryside</answer>
+</answers>
+</item>
+
+<item id="0" extid="297"><text>和</text>
+<comment>hé</comment>
+<answers>
+<answer>and</answer>
+<answer>with</answer>
+<answer>to</answer>
+</answers>
+</item>
+
+<item id="0" extid="1022"><text>嘴</text>
+<comment>zuǐ</comment>
+<answers>
+<answer>mouth</answer>
+</answers>
+</item>
+
+<item id="0" extid="560"><text>女</text>
+<comment>nǚ</comment>
+<answers>
+<answer>female</answer>
+</answers>
+</item>
+
+<item id="0" extid="738"><text>挺</text>
+<comment>tǐng</comment>
+<answers>
+<answer>straighten up</answer>
+<answer>stick out</answer>
+<answer>very</answer>
+<answer>rather</answer>
+</answers>
+</item>
+
+<item id="0" extid="200"><text>方便</text>
+<comment>fāngbiàn</comment>
+<answers>
+<answer>convenient</answer>
+<answer>make convenient</answer>
+</answers>
+</item>
+
+<item id="0" extid="90"><text>出</text>
+<comment>chū</comment>
+<answers>
+<answer>go out</answer>
+<answer>exceed</answer>
+<answer>issue</answer>
+<answer>vent</answer>
+</answers>
+</item>
+
+<item id="0" extid="549"><text>年级</text>
+<comment>niánjí</comment>
+<answers>
+<answer>grade</answer>
+<answer>year</answer>
+</answers>
+</item>
+
+<item id="0" extid="283"><text>孩子</text>
+<comment>háizi</comment>
+<answers>
+<answer>child</answer>
+<answer>children</answer>
+<answer>son or daughter</answer>
+</answers>
+</item>
+
+<item id="0" extid="656"><text>省</text>
+<comment>shěng</comment>
+<answers>
+<answer>province</answer>
+</answers>
+</item>
+
+<item id="0" extid="697"><text>四</text>
+<comment>sì</comment>
+<answers>
+<answer>four</answer>
+</answers>
+</item>
+
+<item id="0" extid="44"><text>遍</text>
+<comment>biàn</comment>
+<answers>
+<answer>time</answer>
+</answers>
+</item>
+
+<item id="0" extid="1023"><text>最</text>
+<comment>zuì</comment>
+<answers>
+<answer>most</answer>
+</answers>
+</item>
+
+<item id="0" extid="404"><text>酒</text>
+<comment>jiǔ</comment>
+<answers>
+<answer>alcoholic drink</answer>
+<answer>wine</answer>
+<answer>liquor</answer>
+</answers>
+</item>
+
+<item id="0" extid="455"><text>冷</text>
+<comment>lěng</comment>
+<answers>
+<answer>cold</answer>
+</answers>
+</item>
+
+<item id="0" extid="336"><text>机会</text>
+<comment>jīhuì</comment>
+<answers>
+<answer>chance</answer>
+<answer>opportunity</answer>
+</answers>
+</item>
+
+<item id="0" extid="764"><text>碗</text>
+<comment>wǎn</comment>
+<answers>
+<answer>bowl</answer>
+</answers>
+</item>
+
+<item id="0" extid="815"><text>先</text>
+<comment>xiān</comment>
+<answers>
+<answer>earlier</answer>
+<answer>before</answer>
+<answer>first</answer>
+<answer>temporarily</answer>
+</answers>
+</item>
+
+<item id="0" extid="295"><text>号</text>
+<comment>hào</comment>
+<answers>
+<answer>number</answer>
+<answer>date</answer>
+</answers>
+</item>
+
+<item id="0" extid="218"><text>夫人</text>
+<comment>fūrén</comment>
+<answers>
+<answer>Lady</answer>
+<answer>Madame</answer>
+<answer>Mrs</answer>
+</answers>
+</item>
+
+<item id="0" extid="730"><text>条件</text>
+<comment>tiáojiàn</comment>
+<answers>
+<answer>condition</answer>
+<answer>qualification</answer>
+<answer>requirement</answer>
+</answers>
+</item>
+
+<item id="0" extid="57"><text>不久</text>
+<comment>bùjiǔ</comment>
+<answers>
+<answer>soon</answer>
+<answer>not long after</answer>
+</answers>
+</item>
+
+<item id="0" extid="450"><text>劳驾</text>
+<comment>láo jià</comment>
+<answers>
+<answer>excuse me</answer>
+<answer>may I trouble you</answer>
+</answers>
+</item>
+
+<item id="0" extid="552"><text>念</text>
+<comment>niàn</comment>
+<answers>
+<answer>read aloud, study, attend school</answer>
+</answers>
+</item>
+
+<item id="0" extid="895"><text>以前</text>
+<comment>yǐqián</comment>
+<answers>
+<answer>before</answer>
+<answer>formerly</answer>
+</answers>
+</item>
+
+<item id="0" extid="421"><text>看见</text>
+<comment>kànjiàn</comment>
+<answers>
+<answer>see</answer>
+<answer>catch sight of</answer>
+</answers>
+</item>
+
+<item id="0" extid="56"><text>不但</text>
+<comment>bùdàn</comment>
+<answers>
+<answer>not only</answer>
+</answers>
+</item>
+
+<item id="0" extid="575"><text>篇</text>
+<comment>piān</comment>
+<answers>
+<answer>(measure word for articles)</answer>
+</answers>
+</item>
+
+<item id="0" extid="719"><text>躺</text>
+<comment>tǎng</comment>
+<answers>
+<answer>lie</answer>
+<answer>recline</answer>
+</answers>
+</item>
+
+<item id="0" extid="652"><text>生产</text>
+<comment>shēngchǎn</comment>
+<answers>
+<answer>produce</answer>
+<answer>manufacture</answer>
+<answer>production</answer>
+</answers>
+</item>
+
+<item id="0" extid="403"><text>九</text>
+<comment>jiǔ</comment>
+<answers>
+<answer>nine</answer>
+</answers>
+</item>
+
+<item id="0" extid="253"><text>工厂</text>
+<comment>gōngchǎng</comment>
+<answers>
+<answer>factory</answer>
+<answer>mill</answer>
+<answer>plant</answer>
+<answer>works</answer>
+</answers>
+</item>
+
+<item id="0" extid="240"><text>高</text>
+<comment>gāo</comment>
+<answers>
+<answer>tall</answer>
+<answer>high</answer>
+<answer>of a high degree</answer>
+</answers>
+</item>
+
+<item id="0" extid="1021"><text>组织</text>
+<comment>zǔzhī</comment>
+<answers>
+<answer>organize</answer>
+<answer>form</answer>
+<answer>organization</answer>
+</answers>
+</item>
+
+<item id="0" extid="140"><text>…得很</text>
+<comment>… dehěn</comment>
+<answers>
+<answer>very much</answer>
+<answer>quite</answer>
+</answers>
+</item>
+
+<item id="0" extid="1032"><text>坐</text>
+<comment>zuò</comment>
+<answers>
+<answer>sit</answer>
+<answer>take a seat</answer>
+<answer>ride</answer>
+<answer>put on a fire</answer>
+</answers>
+</item>
+
+<item id="0" extid="538"><text>男</text>
+<comment>nán</comment>
+<answers>
+<answer>male</answer>
+</answers>
+</item>
+
+<item id="0" extid="628"><text>日语（日文）</text>
+<comment>rìyǔ(rìwén)</comment>
+<answers>
+<answer>Japanese (language)</answer>
+</answers>
+</item>
+
+<item id="0" extid="926"><text>鱼</text>
+<comment>yú</comment>
+<answers>
+<answer>fish</answer>
+</answers>
+</item>
+
+<item id="0" extid="506"><text>没意思</text>
+<comment>méi yìsi</comment>
+<answers>
+<answer>uninteresting</answer>
+<answer>dull</answer>
+</answers>
+</item>
+
+<item id="0" extid="877"><text>一点儿</text>
+<comment>yīdiǎnr</comment>
+<answers>
+<answer>a bit</answer>
+<answer>a few</answer>
+<answer>a little</answer>
+</answers>
+</item>
+
+<item id="0" extid="867"><text>药</text>
+<comment>yào</comment>
+<answers>
+<answer>medicine</answer>
+<answer>drug</answer>
+<answer>remedy</answer>
+</answers>
+</item>
+
+<item id="0" extid="948"><text>咱</text>
+<comment>zán</comment>
+<answers>
+<answer>we</answer>
+<answer>us</answer>
+<answer>our</answer>
+<answer>I</answer>
+<answer>me</answer>
+<answer>my</answer>
+</answers>
+</item>
+
+<item id="0" extid="390"><text>紧张</text>
+<comment>jǐnzhāng</comment>
+<answers>
+<answer>nervous</answer>
+<answer>tense</answer>
+<answer>in short supply</answer>
+</answers>
+</item>
+
+<item id="0" extid="905"><text>银行</text>
+<comment>yínháng</comment>
+<answers>
+<answer>bank</answer>
+</answers>
+</item>
+
+<item id="0" extid="582"><text>破</text>
+<comment>pò</comment>
+<answers>
+<answer>broken</answer>
+<answer>damaged</answer>
+<answer>break</answer>
+<answer>destroy</answer>
+</answers>
+</item>
+
+<item id="0" extid="472"><text>两</text>
+<comment>liǎng</comment>
+<answers>
+<answer>two</answer>
+<answer>a few</answer>
+<answer>some</answer>
+</answers>
+</item>
+
+<item id="0" extid="915"><text>游泳</text>
+<comment>yóu yǒng</comment>
+<answers>
+<answer>swim</answer>
+</answers>
+</item>
+
+<item id="0" extid="1026"><text>最近</text>
+<comment>zuìjìn</comment>
+<answers>
+<answer>recently</answer>
+<answer>lately</answer>
+<answer>in the near future</answer>
+</answers>
+</item>
+
+<item id="0" extid="14"><text>百</text>
+<comment>bǎi</comment>
+<answers>
+<answer>hundred</answer>
+</answers>
+</item>
+
+<item id="0" extid="187"><text>儿子</text>
+<comment>érzi</comment>
+<answers>
+<answer>son</answer>
+</answers>
+</item>
+
+<item id="0" extid="595"><text>浅</text>
+<comment>qiǎn</comment>
+<answers>
+<answer>shallow</answer>
+<answer>simple</answer>
+<answer>superficial</answer>
+<answer>light</answer>
+</answers>
+</item>
+
+<item id="0" extid="748"><text>突然</text>
+<comment>tūrán</comment>
+<answers>
+<answer>sudden</answer>
+<answer>abrupt</answer>
+</answers>
+</item>
+
+<item id="0" extid="502"><text>毛</text>
+<comment>máo</comment>
+<answers>
+<answer>one tenth of one RMB Yuan</answer>
+</answers>
+</item>
+
+<item id="0" extid="943"><text>运动</text>
+<comment>yùndòng</comment>
+<answers>
+<answer>be in motion</answer>
+<answer>move about</answer>
+<answer>sport</answer>
+</answers>
+</item>
+
+<item id="0" extid="6"><text>安静</text>
+<comment>ānjìng</comment>
+<answers>
+<answer>quiet</answer>
+<answer>peaceful</answer>
+</answers>
+</item>
+
+<item id="0" extid="63"><text>部分</text>
+<comment>bùfen</comment>
+<answers>
+<answer>part</answer>
+<answer>section</answer>
+<answer>component</answer>
+</answers>
+</item>
+
+<item id="0" extid="464"><text>例如</text>
+<comment>lìrú</comment>
+<answers>
+<answer>for example</answer>
+<answer>for instance</answer>
+</answers>
+</item>
+
+<item id="0" extid="532"><text>那些</text>
+<comment>nàxiē</comment>
+<answers>
+<answer>those</answer>
+</answers>
+</item>
+
+<item id="0" extid="678"><text>首都</text>
+<comment>shǒudū</comment>
+<answers>
+<answer>capital</answer>
+</answers>
+</item>
+
+<item id="0" extid="280"><text>哈哈</text>
+<comment>hāhā</comment>
+<answers>
+<answer>ha-ha (the sound of laughing)</answer>
+</answers>
+</item>
+
+<item id="0" extid="958"><text>展览</text>
+<comment>zhǎnlǎn</comment>
+<answers>
+<answer>put on display</answer>
+<answer>exhibit</answer>
+<answer>show</answer>
+</answers>
+</item>
+
+<item id="0" extid="618"><text>热</text>
+<comment>rè</comment>
+<answers>
+<answer>hot</answer>
+<answer>popular</answer>
+<answer>heat up</answer>
+<answer>warm</answer>
+</answers>
+</item>
+
+<item id="0" extid="305"><text>后边</text>
+<comment>hòubian</comment>
+<answers>
+<answer>back</answer>
+<answer>rear</answer>
+<answer>behind</answer>
+<answer>latter</answer>
+</answers>
+</item>
+
+<item id="0" extid="451"><text>老（老二）</text>
+<comment>lǎo(lǎo'èr)</comment>
+<answers>
+<answer>old</answer>
+<answer>aged</answer>
+<answer>tough</answer>
+<answer>of long standing</answer>
+</answers>
+</item>
+
+<item id="0" extid="75"><text>常</text>
+<comment>cháng</comment>
+<answers>
+<answer>often</answer>
+<answer>frequently</answer>
+</answers>
+</item>
+
+<item id="0" extid="122"><text>大夫</text>
+<comment>dàifu</comment>
+<answers>
+<answer>doctor</answer>
+<answer>physician</answer>
+</answers>
+</item>
+
+<item id="0" extid="578"><text>漂亮</text>
+<comment>piàoliang</comment>
+<answers>
+<answer>pretty</answer>
+<answer>beautiful</answer>
+<answer>remarkable</answer>
+</answers>
+</item>
+
+<item id="0" extid="96"><text>除了…以外</text>
+<comment>chúle … yǐwài</comment>
+<answers>
+<answer>except</answer>
+<answer>besides</answer>
+</answers>
+</item>
+
+<item id="0" extid="156"><text>电车</text>
+<comment>diànchē</comment>
+<answers>
+<answer>tram</answer>
+<answer>trolleybus</answer>
+</answers>
+</item>
+
+<item id="0" extid="904"><text>阴</text>
+<comment>yīn</comment>
+<answers>
+<answer>cloudy</answer>
+<answer>overcast</answer>
+<answer>sinister</answer>
+</answers>
+</item>
+
+<item id="0" extid="352"><text>加</text>
+<comment>jiā</comment>
+<answers>
+<answer>add</answer>
+<answer>plus</answer>
+<answer>increase</answer>
+<answer>put in</answer>
+</answers>
+</item>
+
+<item id="0" extid="673"><text>试</text>
+<comment>shì</comment>
+<answers>
+<answer>try</answer>
+<answer>test</answer>
+<answer>attempt</answer>
+</answers>
+</item>
+
+<item id="0" extid="821"><text>香蕉</text>
+<comment>xiāngjiāo</comment>
+<answers>
+<answer>banana</answer>
+</answers>
+</item>
+
+<item id="0" extid="173"><text>短</text>
+<comment>duǎn</comment>
+<answers>
+<answer>short</answer>
+<answer>brief</answer>
+</answers>
+</item>
+
+<item id="0" extid="759"><text>外语（外文）</text>
+<comment>wàiyǔ(wàiwén)</comment>
+<answers>
+<answer>foreign language</answer>
+</answers>
+</item>
+
+<item id="0" extid="370"><text>教室</text>
+<comment>jiàoshì</comment>
+<answers>
+<answer>classroom</answer>
+<answer>schoolroom</answer>
+</answers>
+</item>
+
+<item id="0" extid="650"><text>声调</text>
+<comment>shēngdiào</comment>
+<answers>
+<answer>tone</answer>
+<answer>the tone of Chinese character</answer>
+</answers>
+</item>
+
+<item id="0" extid="539"><text>难</text>
+<comment>nán</comment>
+<answers>
+<answer>difficult</answer>
+</answers>
+</item>
+
+<item id="0" extid="916"><text>有</text>
+<comment>yǒu</comment>
+<answers>
+<answer>have</answer>
+<answer>possess</answer>
+<answer>exist</answer>
+<answer>there be</answer>
+</answers>
+</item>
+
+<item id="0" extid="76"><text>常常</text>
+<comment>chángcháng</comment>
+<answers>
+<answer>often</answer>
+<answer>frequently</answer>
+</answers>
+</item>
+
+<item id="0" extid="366"><text>教</text>
+<comment>jiāo</comment>
+<answers>
+<answer>teach</answer>
+<answer>instruct</answer>
+</answers>
+</item>
+
+<item id="0" extid="256"><text>工作</text>
+<comment>gōngzuò</comment>
+<answers>
+<answer>work</answer>
+<answer>job</answer>
+</answers>
+</item>
+
+<item id="0" extid="866"><text>要求</text>
+<comment>yāoqiú</comment>
+<answers>
+<answer>demand</answer>
+<answer>require</answer>
+<answer>claim</answer>
+<answer>ask</answer>
+</answers>
+</item>
+
+<item id="0" extid="382"><text>解决</text>
+<comment>jiějué</comment>
+<answers>
+<answer>resolve</answer>
+<answer>settle</answer>
+<answer>solve</answer>
+</answers>
+</item>
+
+<item id="0" extid="620"><text>人</text>
+<comment>rén</comment>
+<answers>
+<answer>person</answer>
+<answer>man</answer>
+<answer>people</answer>
+</answers>
+</item>
+
+<item id="0" extid="779"><text>为了</text>
+<comment>wèile</comment>
+<answers>
+<answer>for</answer>
+<answer>for the sake of</answer>
+<answer>in order to</answer>
+</answers>
+</item>
+
+<item id="0" extid="329"><text>活儿</text>
+<comment>huó</comment>
+<answers>
+<answer>work</answer>
+</answers>
+</item>
+
+<item id="0" extid="793"><text>五</text>
+<comment>wǔ</comment>
+<answers>
+<answer>five</answer>
+</answers>
+</item>
+
+<item id="0" extid="312"><text>画儿</text>
+<comment>huàr</comment>
+<answers>
+<answer>drawing</answer>
+<answer>picture</answer>
+<answer>painting</answer>
+</answers>
+</item>
+
+<item id="0" extid="547"><text>你们</text>
+<comment>nǐmen</comment>
+<answers>
+<answer>you (the plural form)</answer>
+</answers>
+</item>
+
+<item id="0" extid="843"><text>星期</text>
+<comment>xīngqī</comment>
+<answers>
+<answer>week</answer>
+</answers>
+</item>
+
+<item id="0" extid="609"><text>取得</text>
+<comment>qǔdé</comment>
+<answers>
+<answer>gain</answer>
+<answer>acquire</answer>
+<answer>obtain</answer>
+</answers>
+</item>
+
+<item id="0" extid="395"><text>近</text>
+<comment>jìn</comment>
+<answers>
+<answer>nearby</answer>
+<answer>near</answer>
+<answer>close</answer>
+</answers>
+</item>
+
+<item id="0" extid="239"><text>钢笔</text>
+<comment>gāngbǐ</comment>
+<answers>
+<answer>pen</answer>
+</answers>
+</item>
+
+<item id="0" extid="148"><text>第（第一）</text>
+<comment>dì (dìyī)</comment>
+<answers>
+<answer>used to form ordinal numbers</answer>
+</answers>
+</item>
+
+<item id="0" extid="932"><text>预习</text>
+<comment>yùxí</comment>
+<answers>
+<answer>preview</answer>
+<answer>prepare lessons</answer>
+</answers>
+</item>
+
+<item id="0" extid="385"><text>介绍</text>
+<comment>jièshào</comment>
+<answers>
+<answer>introduce</answer>
+<answer>recommend</answer>
+<answer>let know</answer>
+</answers>
+</item>
+
+<item id="0" extid="1010"><text>祝</text>
+<comment>zhù</comment>
+<answers>
+<answer>express good wishes</answer>
+<answer>wish</answer>
+</answers>
+</item>
+
+<item id="0" extid="83"><text>城</text>
+<comment>chéng</comment>
+<answers>
+<answer>town</answer>
+<answer>city</answer>
+</answers>
+</item>
+
+<item id="0" extid="511"><text>门口</text>
+<comment>ménkǒu</comment>
+<answers>
+<answer>entrance</answer>
+<answer>doorway</answer>
+</answers>
+</item>
+
+<item id="0" extid="265"><text>挂</text>
+<comment>guà</comment>
+<answers>
+<answer>hang</answer>
+<answer>call up</answer>
+<answer>ring off</answer>
+</answers>
+</item>
+
+<item id="0" extid="739"><text>通</text>
+<comment>tōng</comment>
+<answers>
+<answer>open up</answer>
+<answer>lead to</answer>
+<answer>understand</answer>
+</answers>
+</item>
+
+<item id="0" extid="402"><text>久</text>
+<comment>jiǔ</comment>
+<answers>
+<answer>for a long time</answer>
+<answer>long</answer>
+</answers>
+</item>
+
+<item id="0" extid="327"><text>会话</text>
+<comment>huìhuà</comment>
+<answers>
+<answer>conversation</answer>
+<answer>converse with</answer>
+</answers>
+</item>
+
+<item id="0" extid="579"><text>票</text>
+<comment>piào</comment>
+<answers>
+<answer>ticket</answer>
+<answer>ballot</answer>
+</answers>
+</item>
+
+<item id="0" extid="879"><text>一共</text>
+<comment>yīgòng</comment>
+<answers>
+<answer>in all</answer>
+<answer>altogether</answer>
+<answer>in total</answer>
+</answers>
+</item>
+
+<item id="0" extid="945"><text>再见</text>
+<comment>zàijiàn</comment>
+<answers>
+<answer>good-bye</answer>
+<answer>see you again</answer>
+</answers>
+</item>
+
+<item id="0" extid="274"><text>国家</text>
+<comment>guójiā</comment>
+<answers>
+<answer>country</answer>
+<answer>state</answer>
+<answer>nation</answer>
+</answers>
+</item>
+
+<item id="0" extid="143"><text>等</text>
+<comment>děng</comment>
+<answers>
+<answer>wait</answer>
+<answer>when</answer>
+<answer>till</answer>
+<answer>and so on</answer>
+<answer>etc.</answer>
+</answers>
+</item>
+
+<item id="0" extid="237"><text>刚</text>
+<comment>gāng</comment>
+<answers>
+<answer>just</answer>
+<answer>barely</answer>
+<answer>only just</answer>
+</answers>
+</item>
+
+<item id="0" extid="440"><text>苦</text>
+<comment>kǔ</comment>
+<answers>
+<answer>bitter</answer>
+<answer>miserable</answer>
+</answers>
+</item>
+
+<item id="0" extid="383"><text>姐姐</text>
+<comment>jiějie</comment>
+<answers>
+<answer>elder sister</answer>
+</answers>
+</item>
+
+<item id="0" extid="105"><text>磁带</text>
+<comment>cídài</comment>
+<answers>
+<answer>magnetic tape</answer>
+</answers>
+</item>
+
+<item id="0" extid="423"><text>棵</text>
+<comment>kē</comment>
+<answers>
+<answer>(measure word for plants)</answer>
+</answers>
+</item>
+
+<item id="0" extid="81"><text>车</text>
+<comment>chē</comment>
+<answers>
+<answer>vehicle</answer>
+</answers>
+</item>
+
+<item id="0" extid="896"><text>以为</text>
+<comment>yǐwéi</comment>
+<answers>
+<answer>think</answer>
+<answer>consider</answer>
+<answer>believe</answer>
+</answers>
+</item>
+
+<item id="0" extid="919"><text>有时侯</text>
+<comment>yǒu shíhou</comment>
+<answers>
+<answer>sometimes</answer>
+</answers>
+</item>
+
+<item id="0" extid="824"><text>像</text>
+<comment>xiàng</comment>
+<answers>
+<answer>be like</answer>
+<answer>resemble</answer>
+<answer>picture</answer>
+<answer>such as</answer>
+</answers>
+</item>
+
+<item id="0" extid="33"><text>本</text>
+<comment>běn</comment>
+<answers>
+<answer>book</answer>
+<answer>root</answer>
+<answer>capital</answer>
+</answers>
+</item>
+
+<item id="0" extid="645"><text>社会</text>
+<comment>shèhuì</comment>
+<answers>
+<answer>society</answer>
+</answers>
+</item>
+
+<item id="0" extid="27"><text>杯</text>
+<comment>bēi</comment>
+<answers>
+<answer>cup</answer>
+<answer>glass</answer>
+</answers>
+</item>
+
+<item id="0" extid="708"><text>它</text>
+<comment>tā</comment>
+<answers>
+<answer>it</answer>
+</answers>
+</item>
+
+<item id="0" extid="471"><text>凉快</text>
+<comment>liángkuai</comment>
+<answers>
+<answer>nice and cool</answer>
+<answer>pleasantly cool</answer>
+</answers>
+</item>
+
+<item id="0" extid="41"><text>变</text>
+<comment>biàn</comment>
+<answers>
+<answer>change</answer>
+<answer>become</answer>
+</answers>
+</item>
+
+<item id="0" extid="135"><text>得</text>
+<comment>dé</comment>
+<answers>
+<answer>get</answer>
+<answer>obtain</answer>
+<answer>result in</answer>
+<answer>particle to introduce a complement</answer>
+<answer>have to</answer>
+<answer>be sure to</answer>
+</answers>
+</item>
+
+<item id="0" extid="808"><text>下边</text>
+<comment>xiàbian</comment>
+<answers>
+<answer>below</answer>
+<answer>under</answer>
+<answer>lower level</answer>
+<answer>next</answer>
+</answers>
+</item>
+
+<item id="0" extid="417"><text>开玩笑</text>
+<comment>kāi wánxiào</comment>
+<answers>
+<answer>joke</answer>
+<answer>crack a joke</answer>
+<answer>make fun of</answer>
+</answers>
+</item>
+
+<item id="0" extid="542"><text>内容</text>
+<comment>nèiróng</comment>
+<answers>
+<answer>content</answer>
+<answer>substance</answer>
+</answers>
+</item>
+
+<item id="0" extid="767"><text>晚会</text>
+<comment>wǎnhuì</comment>
+<answers>
+<answer>evening party</answer>
+<answer>social evening</answer>
+</answers>
+</item>
+
+<item id="0" extid="241"><text>高兴</text>
+<comment>gāoxìng</comment>
+<answers>
+<answer>glad</answer>
+<answer>cheerful</answer>
+<answer>be happy to</answer>
+</answers>
+</item>
+
+<item id="0" extid="422"><text>考试</text>
+<comment>kǎoshì</comment>
+<answers>
+<answer>examine</answer>
+<answer>test</answer>
+<answer>examination</answer>
+</answers>
+</item>
+
+<item id="0" extid="518"><text>明年</text>
+<comment>míngnián</comment>
+<answers>
+<answer>next year</answer>
+</answers>
+</item>
+
+<item id="0" extid="975"><text>着</text>
+<comment>zhe</comment>
+<answers>
+<answer>(indicating an action in progress)</answer>
+</answers>
+</item>
+
+<item id="0" extid="967"><text>照顾</text>
+<comment>zhàogù</comment>
+<answers>
+<answer>look after</answer>
+<answer>give consideration to</answer>
+</answers>
+</item>
+
+<item id="0" extid="169"><text>动</text>
+<comment>dòng</comment>
+<answers>
+<answer>move</answer>
+<answer>stir</answer>
+<answer>use</answer>
+</answers>
+</item>
+
+<item id="0" extid="754"><text>脱</text>
+<comment>tuō</comment>
+<answers>
+<answer>take off</answer>
+<answer>cast off</answer>
+<answer>strip</answer>
+</answers>
+</item>
+
+<item id="0" extid="875"><text>一般</text>
+<comment>yībān</comment>
+<answers>
+<answer>general</answer>
+<answer>ordinary</answer>
+<answer>common</answer>
+</answers>
+</item>
+
+<item id="0" extid="178"><text>对不起</text>
+<comment>duìbuqǐ</comment>
+<answers>
+<answer>sorry</answer>
+<answer>excuse me</answer>
+<answer>let down</answer>
+</answers>
+</item>
+
+<item id="0" extid="62"><text>布</text>
+<comment>bù</comment>
+<answers>
+<answer>cloth</answer>
+</answers>
+</item>
+
+<item id="0" extid="805"><text>下</text>
+<comment>xià</comment>
+<answers>
+<answer>descend</answer>
+<answer>fall</answer>
+<answer>issue</answer>
+<answer>go to</answer>
+<answer>put in</answer>
+<answer>below</answer>
+<answer>down</answer>
+<answer>under</answer>
+<answer>next</answer>
+<answer>second</answer>
+<answer>(measure word for times of an action)</answer>
+</answers>
+</item>
+
+<item id="0" extid="432"><text>客气</text>
+<comment>kèqi</comment>
+<answers>
+<answer>polite</answer>
+<answer>act or remark politely</answer>
+</answers>
+</item>
+
+<item id="0" extid="526"><text>那</text>
+<comment>nà</comment>
+<answers>
+<answer>that</answer>
+<answer>then</answer>
+<answer>in that case</answer>
+</answers>
+</item>
+
+<item id="0" extid="985"><text>支</text>
+<comment>zhī</comment>
+<answers>
+<answer>(measure word for stick-like things)</answer>
+</answers>
+</item>
+
+<item id="0" extid="111"><text>从…起</text>
+<comment>cóng … qǐ …</comment>
+<answers>
+<answer>from … on …</answer>
+</answers>
+</item>
+
+<item id="0" extid="1017"><text>总（是）</text>
+<comment>zǒng(shì)</comment>
+<answers>
+<answer>put together</answer>
+<answer>general</answer>
+<answer>chief</answer>
+<answer>always</answer>
+</answers>
+</item>
+
+<item id="0" extid="119"><text>大家</text>
+<comment>dàjiā</comment>
+<answers>
+<answer>everybody</answer>
+<answer>all</answer>
+</answers>
+</item>
+
+<item id="0" extid="651"><text>声音</text>
+<comment>shēngyīn</comment>
+<answers>
+<answer>sound</answer>
+<answer>voice</answer>
+</answers>
+</item>
+
+<item id="0" extid="797"><text>西边</text>
+<comment>xībian</comment>
+<answers>
+<answer>west (often used in oral Chinese)</answer>
+</answers>
+</item>
+
+<item id="0" extid="691"><text>睡</text>
+<comment>shuì</comment>
+<answers>
+<answer>sleep</answer>
+<answer>go to bed</answer>
+</answers>
+</item>
+
+<item id="0" extid="633"><text>散步</text>
+<comment>sàn bù</comment>
+<answers>
+<answer>take a walk</answer>
+</answers>
+</item>
+
+<item id="0" extid="234"><text>敢</text>
+<comment>gǎn</comment>
+<answers>
+<answer>dare</answer>
+</answers>
+</item>
+
+<item id="0" extid="109"><text>从</text>
+<comment>cóng</comment>
+<answers>
+<answer>from</answer>
+<answer>since</answer>
+<answer>through</answer>
+<answer>ever</answer>
+</answers>
+</item>
+
+<item id="0" extid="193"><text>发展</text>
+<comment>fāzhǎn</comment>
+<answers>
+<answer>develop</answer>
+<answer>recruit</answer>
+<answer>development</answer>
+</answers>
+</item>
+
+<item id="0" extid="349"><text>继续</text>
+<comment>jìxù</comment>
+<answers>
+<answer>continue</answer>
+<answer>go on</answer>
+<answer>continuation</answer>
+</answers>
+</item>
+
+<item id="0" extid="159"><text>电视</text>
+<comment>diànshì</comment>
+<answers>
+<answer>television</answer>
+<answer>TV</answer>
+</answers>
+</item>
+
+<item id="0" extid="669"><text>事</text>
+<comment>shì</comment>
+<answers>
+<answer>matter</answer>
+<answer>affair</answer>
+<answer>thing</answer>
+<answer>business</answer>
+</answers>
+</item>
+
+<item id="0" extid="972"><text>这么</text>
+<comment>zhème</comment>
+<answers>
+<answer>so</answer>
+<answer>such</answer>
+<answer>this way</answer>
+<answer>like this</answer>
+</answers>
+</item>
+
+<item id="0" extid="909"><text>影响</text>
+<comment>yǐngxiǎng</comment>
+<answers>
+<answer>influence</answer>
+<answer>affect</answer>
+<answer>effect</answer>
+</answers>
+</item>
+
+<item id="0" extid="210"><text>飞机</text>
+<comment>fēijī</comment>
+<answers>
+<answer>aircraft</answer>
+<answer>airplane</answer>
+<answer>plane</answer>
+</answers>
+</item>
+
+<item id="0" extid="998"><text>钟</text>
+<comment>zhōng</comment>
+<answers>
+<answer>bell</answer>
+<answer>clock</answer>
+</answers>
+</item>
+
+<item id="0" extid="743"><text>同学</text>
+<comment>tóngxué</comment>
+<answers>
+<answer>fellow student</answer>
+<answer>schoolmate</answer>
+</answers>
+</item>
+
+<item id="0" extid="58"><text>不如</text>
+<comment>bùrú</comment>
+<answers>
+<answer>not as good as</answer>
+<answer>better to</answer>
+</answers>
+</item>
+
+<item id="0" extid="772"><text>忘</text>
+<comment>wàng</comment>
+<answers>
+<answer>forget</answer>
+<answer>neglect</answer>
+</answers>
+</item>
+
+<item id="0" extid="715"><text>态度</text>
+<comment>tàidu</comment>
+<answers>
+<answer>manner</answer>
+<answer>bearing</answer>
+<answer>attitude</answer>
+</answers>
+</item>
+
+<item id="0" extid="583"><text>七</text>
+<comment>qī</comment>
+<answers>
+<answer>seven</answer>
+</answers>
+</item>
+
+<item id="0" extid="42"><text>变成</text>
+<comment>biàn chéng</comment>
+<answers>
+<answer>change into</answer>
+<answer>turn into</answer>
+</answers>
+</item>
+
+<item id="0" extid="604"><text>请假</text>
+<comment>qǐng jià</comment>
+<answers>
+<answer>ask for leave</answer>
+</answers>
+</item>
+
+<item id="0" extid="413"><text>咖啡</text>
+<comment>kāfēi</comment>
+<answers>
+<answer>coffee</answer>
+</answers>
+</item>
+
+<item id="0" extid="661"><text>十分</text>
+<comment>shífēn</comment>
+<answers>
+<answer>very</answer>
+<answer>fully</answer>
+<answer>utterly</answer>
+<answer>extremely</answer>
+</answers>
+</item>
+
+<item id="0" extid="979"><text>正</text>
+<comment>zhèng</comment>
+<answers>
+<answer>straight</answer>
+<answer>upright</answer>
+<answer>honest</answer>
+<answer>pure</answer>
+<answer>just</answer>
+</answers>
+</item>
+
+<item id="0" extid="405"><text>旧</text>
+<comment>jiù</comment>
+<answers>
+<answer>old</answer>
+<answer>past</answer>
+<answer>bygone</answer>
+<answer>used</answer>
+<answer>worn</answer>
+</answers>
+</item>
+
+<item id="0" extid="458"><text>里</text>
+<comment>lǐ</comment>
+<answers>
+<answer>in</answer>
+<answer>inside</answer>
+<answer>half a kilometer</answer>
+</answers>
+</item>
+
+<item id="0" extid="61"><text>不用</text>
+<comment>bùyòng</comment>
+<answers>
+<answer>need not</answer>
+</answers>
+</item>
+
+<item id="0" extid="847"><text>姓</text>
+<comment>xìng</comment>
+<answers>
+<answer>be surnamed</answer>
+<answer>family name</answer>
+</answers>
+</item>
+
+<item id="0" extid="514"><text>米饭</text>
+<comment>mǐfàn</comment>
+<answers>
+<answer>(cooked) rice</answer>
+</answers>
+</item>
+
+<item id="0" extid="839"><text>新闻</text>
+<comment>xīnwén</comment>
+<answers>
+<answer>information</answer>
+<answer>news</answer>
+</answers>
+</item>
+
+<item id="0" extid="667"><text>使用</text>
+<comment>shǐyòng</comment>
+<answers>
+<answer>make use of</answer>
+<answer>use</answer>
+<answer>employ</answer>
+<answer>apply</answer>
+</answers>
+</item>
+
+<item id="0" extid="282"><text>还是</text>
+<comment>háishì</comment>
+<answers>
+<answer>still</answer>
+<answer>nevertheless</answer>
+<answer>had better</answer>
+<answer>or</answer>
+</answers>
+</item>
+
+<item id="0" extid="245"><text>歌</text>
+<comment>gē</comment>
+<answers>
+<answer>song</answer>
+</answers>
+</item>
+
+<item id="0" extid="244"><text>哥哥</text>
+<comment>gēge</comment>
+<answers>
+<answer>elder brother</answer>
+</answers>
+</item>
+
+<item id="0" extid="222"><text>复习</text>
+<comment>fùxí</comment>
+<answers>
+<answer>revise</answer>
+<answer>review</answer>
+</answers>
+</item>
+
+<item id="0" extid="997"><text>中学</text>
+<comment>zhōngxué</comment>
+<answers>
+<answer>middle school</answer>
+<answer>high school</answer>
+</answers>
+</item>
+
+<item id="0" extid="529"><text>那里（那儿）</text>
+<comment>nàli(nàr)</comment>
+<answers>
+<answer>there</answer>
+</answers>
+</item>
+
+<item id="0" extid="446"><text>来</text>
+<comment>lái</comment>
+<answers>
+<answer>come</answer>
+<answer>arrive</answer>
+<answer>crop up</answer>
+<answer>take place</answer>
+</answers>
+</item>
+
+<item id="0" extid="1025"><text>最后</text>
+<comment>zuìhòu</comment>
+<answers>
+<answer>last</answer>
+<answer>final</answer>
+<answer>ultimate</answer>
+</answers>
+</item>
+
+<item id="0" extid="819"><text>相信</text>
+<comment>xiāngxìn</comment>
+<answers>
+<answer>believe in</answer>
+<answer>have faith in</answer>
+</answers>
+</item>
+
+<item id="0" extid="372"><text>叫</text>
+<comment>jiào</comment>
+<answers>
+<answer>call</answer>
+<answer>greet</answer>
+<answer>order</answer>
+<answer>name</answer>
+<answer>shout</answer>
+<answer>cry</answer>
+<answer>(used to make a passive sentence)</answer>
+</answers>
+</item>
+
+<item id="0" extid="802"><text>洗澡</text>
+<comment>xǐ zǎo</comment>
+<answers>
+<answer>have a bath</answer>
+<answer>bathe</answer>
+</answers>
+</item>
+
+<item id="0" extid="442"><text>快</text>
+<comment>kuài</comment>
+<answers>
+<answer>fast</answer>
+<answer>rapid</answer>
+<answer>sharp</answer>
+<answer>hurry up</answer>
+<answer>soon</answer>
+</answers>
+</item>
+
+<item id="0" extid="978"><text>整齐</text>
+<comment>zhěngqí</comment>
+<answers>
+<answer>in good order</answer>
+<answer>neat</answer>
+<answer>tidy</answer>
+</answers>
+</item>
+
+<item id="0" extid="270"><text>广播</text>
+<comment>guǎngbō</comment>
+<answers>
+<answer>broadcast</answer>
+<answer>be on the air</answer>
+</answers>
+</item>
+
+<item id="0" extid="465"><text>立刻</text>
+<comment>lìkè</comment>
+<answers>
+<answer>immediately</answer>
+<answer>at once</answer>
+<answer>right away</answer>
+</answers>
+</item>
+
+<item id="0" extid="1015"><text>自行车</text>
+<comment>zìxíngchē</comment>
+<answers>
+<answer>bike</answer>
+<answer>bicycle</answer>
+</answers>
+</item>
+
+<item id="0" extid="989"><text>指</text>
+<comment>zhǐ</comment>
+<answers>
+<answer>point at</answer>
+<answer>point to</answer>
+<answer>point out</answer>
+<answer>refer to</answer>
+</answers>
+</item>
+
+<item id="0" extid="816"><text>先生</text>
+<comment>xiānsheng</comment>
+<answers>
+<answer>teacher</answer>
+<answer>mister</answer>
+<answer>Mr.</answer>
+<answer>sir</answer>
+<answer>gentleman</answer>
+</answers>
+</item>
+
+<item id="0" extid="52"><text>别人</text>
+<comment>biéren</comment>
+<answers>
+<answer>other people</answer>
+<answer>others</answer>
+</answers>
+</item>
+
+<item id="0" extid="762"><text>完全</text>
+<comment>wánquán</comment>
+<answers>
+<answer>complete</answer>
+<answer>whole</answer>
+<answer>full</answer>
+<answer>at all</answer>
+</answers>
+</item>
+
+<item id="0" extid="780"><text>为什么</text>
+<comment>wèi shénme</comment>
+<answers>
+<answer>why</answer>
+<answer>why (or how) is it that …</answer>
+</answers>
+</item>
+
+<item id="0" extid="555"><text>牛奶</text>
+<comment>niúnǎi</comment>
+<answers>
+<answer>cow milk</answer>
+</answers>
+</item>
+
+<item id="0" extid="342"><text>急</text>
+<comment>jí</comment>
+<answers>
+<answer>rapid</answer>
+<answer>impatient</answer>
+<answer>irascible</answer>
+<answer>urgent</answer>
+</answers>
+</item>
+
+<item id="0" extid="316"><text>欢迎</text>
+<comment>huānyíng</comment>
+<answers>
+<answer>welcome</answer>
+<answer>greet</answer>
+<answer>favorably receive</answer>
+</answers>
+</item>
+
+<item id="0" extid="371"><text>教育</text>
+<comment>jiàoyù</comment>
+<answers>
+<answer>education</answer>
+<answer>educate</answer>
+<answer>teach</answer>
+</answers>
+</item>
+
+<item id="0" extid="631"><text>肉</text>
+<comment>ròu</comment>
+<answers>
+<answer>flesh</answer>
+<answer>meat</answer>
+</answers>
+</item>
+
+<item id="0" extid="608"><text>球</text>
+<comment>qiú</comment>
+<answers>
+<answer>ball</answer>
+<answer>anything shaped like a ball</answer>
+</answers>
+</item>
+
+<item id="0" extid="832"><text>些</text>
+<comment>xiē</comment>
+<answers>
+<answer>(measure word for unspecified amount)</answer>
+</answers>
+</item>
+
+<item id="0" extid="878"><text>一定</text>
+<comment>yīdìng</comment>
+<answers>
+<answer>fixed</answer>
+<answer>definite</answer>
+<answer>given</answer>
+<answer>necessarily</answer>
+</answers>
+</item>
+
+<item id="0" extid="150"><text>点</text>
+<comment>diǎn</comment>
+<answers>
+<answer>dot, point</answer>
+<answer>dot stroke</answer>
+<answer>a little</answer>
+<answer>point</answer>
+<answer>put a dot</answer>
+<answer>count</answer>
+<answer>select</answer>
+<answer>light</answer>
+</answers>
+</item>
+
+<item id="0" extid="301"><text>黑板</text>
+<comment>hēibǎn</comment>
+<answers>
+<answer>blackboard</answer>
+</answers>
+</item>
+
+<item id="0" extid="911"><text>用</text>
+<comment>yòng</comment>
+<answers>
+<answer>use</answer>
+<answer>employ</answer>
+<answer>apply</answer>
+<answer>by means of</answer>
+</answers>
+</item>
+
+<item id="0" extid="733"><text>听</text>
+<comment>tīng</comment>
+<answers>
+<answer>listen</answer>
+<answer>hear</answer>
+<answer>heed</answer>
+<answer>obey</answer>
+</answers>
+</item>
+
+<item id="0" extid="714"><text>太阳</text>
+<comment>tàiyáng</comment>
+<answers>
+<answer>the sun</answer>
+</answers>
+</item>
+
+<item id="0" extid="434"><text>课本</text>
+<comment>kèběn</comment>
+<answers>
+<answer>textbook</answer>
+</answers>
+</item>
+
+<item id="0" extid="40"><text>边</text>
+<comment>biān</comment>
+<answers>
+<answer>side</answer>
+</answers>
+</item>
+
+<item id="0" extid="415"><text>开</text>
+<comment>kāi</comment>
+<answers>
+<answer>open</answer>
+<answer>operate</answer>
+<answer>turn on</answer>
+<answer>hold</answer>
+<answer>boil</answer>
+</answers>
+</item>
+
+<item id="0" extid="950"><text>脏</text>
+<comment>zāng</comment>
+<answers>
+<answer>dirty</answer>
+<answer>filthy</answer>
+</answers>
+</item>
+
+<item id="0" extid="356"><text>简单</text>
+<comment>jiǎndān</comment>
+<answers>
+<answer>simple</answer>
+<answer>commonplace</answer>
+<answer>casual</answer>
+</answers>
+</item>
+
+<item id="0" extid="487"><text>旅行</text>
+<comment>lǚxíng</comment>
+<answers>
+<answer>travel</answer>
+<answer>journey</answer>
+<answer>tour</answer>
+<answer>trip</answer>
+</answers>
+</item>
+
+<item id="0" extid="957"><text>增加</text>
+<comment>zēngjiā</comment>
+<answers>
+<answer>increase</answer>
+<answer>raise</answer>
+<answer>add</answer>
+</answers>
+</item>
+
+<item id="0" extid="949"><text>咱们</text>
+<comment>zánmen</comment>
+<answers>
+<answer>we</answer>
+<answer>us</answer>
+<answer>our</answer>
+</answers>
+</item>
+
+<item id="0" extid="923"><text>友谊</text>
+<comment>yǒuyì</comment>
+<answers>
+<answer>friendship</answer>
+</answers>
+</item>
+
+<item id="0" extid="757"><text>外边</text>
+<comment>wàibian</comment>
+<answers>
+<answer>out</answer>
+<answer>outside</answer>
+<answer>exterior</answer>
+</answers>
+</item>
+
+<item id="0" extid="213"><text>…分之…</text>
+<comment>… fēnzhī …</comment>
+<answers>
+<answer>for expression of a fraction number</answer>
+</answers>
+</item>
+
+<item id="0" extid="48"><text>表演</text>
+<comment>biǎoyǎn</comment>
+<answers>
+<answer>perform</answer>
+<answer>act</answer>
+<answer>play</answer>
+<answer>demonstrate</answer>
+</answers>
+</item>
+
+<item id="0" extid="835"><text>谢谢</text>
+<comment>xièxie</comment>
+<answers>
+<answer>thank</answer>
+</answers>
+</item>
+
+<item id="0" extid="278"><text>过去</text>
+<comment>guòqù</comment>
+<answers>
+<answer>the past</answer>
+<answer>former times</answer>
+<answer>go over</answer>
+<answer>pass by</answer>
+</answers>
+</item>
+
+<item id="0" extid="616"><text>然后</text>
+<comment>ránhòu</comment>
+<answers>
+<answer>then</answer>
+<answer>afterwards</answer>
+<answer>after that</answer>
+</answers>
+</item>
+
+<item id="0" extid="163"><text>东</text>
+<comment>dōng</comment>
+<answers>
+<answer>east</answer>
+</answers>
+</item>
+
+<item id="0" extid="721"><text>特别</text>
+<comment>tèbié</comment>
+<answers>
+<answer>special</answer>
+<answer>particular</answer>
+<answer>especially</answer>
+</answers>
+</item>
+
+<item id="0" extid="840"><text>心</text>
+<comment>xīn</comment>
+<answers>
+<answer>the heart</answer>
+<answer>heart</answer>
+<answer>mind</answer>
+<answer>feeling</answer>
+</answers>
+</item>
+
+<item id="0" extid="988"><text>…之间</text>
+<comment>… zhījiān</comment>
+<answers>
+<answer>between</answer>
+</answers>
+</item>
+
+<item id="0" extid="565"><text>拍</text>
+<comment>pāi</comment>
+<answers>
+<answer>clap</answer>
+<answer>pat</answer>
+<answer>beat</answer>
+<answer>shoot</answer>
+<answer>send</answer>
+</answers>
+</item>
+
+<item id="0" extid="735"><text>听说</text>
+<comment>tīng shuō</comment>
+<answers>
+<answer>be told</answer>
+<answer>hear of</answer>
+<answer>hear about</answer>
+</answers>
+</item>
+
+<item id="0" extid="29"><text>北</text>
+<comment>běi</comment>
+<answers>
+<answer>north</answer>
+</answers>
+</item>
+
+<item id="0" extid="443"><text>困难</text>
+<comment>kùnnán</comment>
+<answers>
+<answer>difficult</answer>
+<answer>difficulty</answer>
+<answer>trouble</answer>
+</answers>
+</item>
+
+<item id="0" extid="898"><text>亿</text>
+<comment>yì</comment>
+<answers>
+<answer>a hundred million</answer>
+</answers>
+</item>
+
+<item id="0" extid="67"><text>参观</text>
+<comment>cānguān</comment>
+<answers>
+<answer>visit</answer>
+<answer>look around</answer>
+</answers>
+</item>
+
+<item id="0" extid="134"><text>道理</text>
+<comment>dàolǐ</comment>
+<answers>
+<answer>principle</answer>
+<answer>truth</answer>
+<answer>reason</answer>
+<answer>argument</answer>
+</answers>
+</item>
+
+<item id="0" extid="872"><text>页</text>
+<comment>yè</comment>
+<answers>
+<answer>page</answer>
+</answers>
+</item>
+
+<item id="0" extid="611"><text>去年</text>
+<comment>qùnián</comment>
+<answers>
+<answer>last year</answer>
+</answers>
+</item>
+
+<item id="0" extid="427"><text>可是</text>
+<comment>kěshì</comment>
+<answers>
+<answer>but</answer>
+<answer>nevertheless</answer>
+<answer>yet</answer>
+<answer>indeed</answer>
+</answers>
+</item>
+
+<item id="0" extid="562"><text>暖和</text>
+<comment>nuǎnhuo</comment>
+<answers>
+<answer>warm</answer>
+<answer>nice and warm</answer>
+<answer>warm up</answer>
+</answers>
+</item>
+
+<item id="0" extid="657"><text>剩</text>
+<comment>shèng</comment>
+<answers>
+<answer>surplus</answer>
+<answer>remnant</answer>
+<answer>leave (over)</answer>
+</answers>
+</item>
+
+<item id="0" extid="504"><text>没</text>
+<comment>méi</comment>
+<answers>
+<answer>not have</answer>
+<answer>there is not</answer>
+<answer>not</answer>
+</answers>
+</item>
+
+<item id="0" extid="307"><text>湖</text>
+<comment>hú</comment>
+<answers>
+<answer>lake</answer>
+</answers>
+</item>
+
+<item id="0" extid="298"><text>和适</text>
+<comment>héshì</comment>
+<answers>
+<answer>appropriate</answer>
+<answer>right</answer>
+<answer>suitable</answer>
+</answers>
+</item>
+
+<item id="0" extid="13"><text>白</text>
+<comment>bái</comment>
+<answers>
+<answer>white</answer>
+<answer>blank</answer>
+</answers>
+</item>
+
+<item id="0" extid="664"><text>食堂</text>
+<comment>shítáng</comment>
+<answers>
+<answer>dining room</answer>
+<answer>canteen</answer>
+<answer>cafeteria</answer>
+</answers>
+</item>
+
+<item id="0" extid="161"><text>掉</text>
+<comment>diào</comment>
+<answers>
+<answer>fall</answer>
+<answer>drop</answer>
+<answer>lose</answer>
+<answer>reduce</answer>
+<answer>turn</answer>
+</answers>
+</item>
+
+<item id="0" extid="893"><text>已经</text>
+<comment>yǐjing</comment>
+<answers>
+<answer>already</answer>
+</answers>
+</item>
+
+<item id="0" extid="590"><text>铅笔</text>
+<comment>qiānbǐ</comment>
+<answers>
+<answer>pencil</answer>
+</answers>
+</item>
+
+<item id="0" extid="198"><text>饭</text>
+<comment>fàn</comment>
+<answers>
+<answer>meal</answer>
+<answer>cooked rice or other cereals</answer>
+</answers>
+</item>
+
+<item id="0" extid="693"><text>说</text>
+<comment>shuō</comment>
+<answers>
+<answer>speak</answer>
+<answer>talk</answer>
+<answer>say</answer>
+<answer>scold</answer>
+</answers>
+</item>
+
+<item id="0" extid="380"><text>结果</text>
+<comment>jiéguǒ</comment>
+<answers>
+<answer>finally</answer>
+<answer>at last</answer>
+<answer>result</answer>
+<answer>outcome</answer>
+</answers>
+</item>
+
+<item id="0" extid="361"><text>建设</text>
+<comment>jiànshè</comment>
+<answers>
+<answer>build</answer>
+<answer>construct</answer>
+<answer>construction</answer>
+</answers>
+</item>
+
+<item id="0" extid="401"><text>经验</text>
+<comment>jīngyàn</comment>
+<answers>
+<answer>experience</answer>
+</answers>
+</item>
+
+<item id="0" extid="348"><text>记</text>
+<comment>jì</comment>
+<answers>
+<answer>mark</answer>
+<answer>remember</answer>
+<answer>jot down</answer>
+<answer>record</answer>
+</answers>
+</item>
+
+<item id="0" extid="410"><text>句子</text>
+<comment>jùzi</comment>
+<answers>
+<answer>sentence</answer>
+</answers>
+</item>
+
+<item id="0" extid="94"><text>出现</text>
+<comment>chūxiàn</comment>
+<answers>
+<answer>appear</answer>
+<answer>arise</answer>
+</answers>
+</item>
+
+<item id="0" extid="45"><text>表</text>
+<comment>biǎo</comment>
+<answers>
+<answer>(錶) watch</answer>
+<answer>(表) table</answer>
+<answer>meter</answer>
+<answer>chart</answer>
+</answers>
+</item>
+
+<item id="0" extid="418"><text>开学</text>
+<comment>kāi xué</comment>
+<answers>
+<answer>school begins</answer>
+<answer>term starts</answer>
+</answers>
+</item>
+
+<item id="0" extid="765"><text>晚</text>
+<comment>wǎn</comment>
+<answers>
+<answer>late</answer>
+</answers>
+</item>
+
+<item id="0" extid="103"><text>春</text>
+<comment>chūn</comment>
+<answers>
+<answer>spring</answer>
+</answers>
+</item>
+
+<item id="0" extid="653"><text>生词</text>
+<comment>shēngcí</comment>
+<answers>
+<answer>new word</answer>
+</answers>
+</item>
+
+<item id="0" extid="977"><text>真正</text>
+<comment>zhēnzhèng</comment>
+<answers>
+<answer>genuine</answer>
+<answer>real</answer>
+<answer>true</answer>
+</answers>
+</item>
+
+<item id="0" extid="233"><text>感谢</text>
+<comment>gǎnxiè</comment>
+<answers>
+<answer>thank</answer>
+<answer>be grateful</answer>
+</answers>
+</item>
+
+<item id="0" extid="523"><text>拿</text>
+<comment>ná</comment>
+<answers>
+<answer>take</answer>
+<answer>hold</answer>
+<answer>seize</answer>
+<answer>capture</answer>
+<answer>with</answer>
+<answer>at</answer>
+</answers>
+</item>
+
+<item id="0" extid="987"><text>知识</text>
+<comment>zhīshi</comment>
+<answers>
+<answer>knowledge</answer>
+</answers>
+</item>
+
+<item id="0" extid="625"><text>认为</text>
+<comment>rènwéi</comment>
+<answers>
+<answer>think</answer>
+<answer>consider</answer>
+</answers>
+</item>
+
+<item id="0" extid="429"><text>渴</text>
+<comment>kě</comment>
+<answers>
+<answer>thirsty</answer>
+</answers>
+</item>
+
+<item id="0" extid="208"><text>非常</text>
+<comment>fēicháng</comment>
+<answers>
+<answer>very</answer>
+<answer>highly</answer>
+<answer>extraordinary</answer>
+<answer>unusual</answer>
+</answers>
+</item>
+
+<item id="0" extid="591"><text>千</text>
+<comment>qiān</comment>
+<answers>
+<answer>thousand</answer>
+</answers>
+</item>
+
+<item id="0" extid="946"><text>在</text>
+<comment>zài</comment>
+<answers>
+<answer>exist</answer>
+<answer>be living</answer>
+<answer>at</answer>
+<answer>on</answer>
+<answer>in</answer>
+<answer>(indicating an action in progress)</answer>
+</answers>
+</item>
+
+<item id="0" extid="890"><text>医院</text>
+<comment>yīyuàn</comment>
+<answers>
+<answer>hospital</answer>
+</answers>
+</item>
+
+<item id="0" extid="509"><text>妹妹</text>
+<comment>mèimei</comment>
+<answers>
+<answer>younger sister</answer>
+</answers>
+</item>
+
+<item id="0" extid="974"><text>这样</text>
+<comment>zhèyàng</comment>
+<answers>
+<answer>so</answer>
+<answer>such</answer>
+<answer>like this</answer>
+<answer>this way</answer>
+</answers>
+</item>
+
+<item id="0" extid="258"><text>公斤</text>
+<comment>gōngjīn</comment>
+<answers>
+<answer>kilogram</answer>
+</answers>
+</item>
+
+<item id="0" extid="550"><text>年纪</text>
+<comment>niánjì</comment>
+<answers>
+<answer>age</answer>
+</answers>
+</item>
+
+<item id="0" extid="746"><text>痛快</text>
+<comment>tòngkuai</comment>
+<answers>
+<answer>very happy</answer>
+<answer>delighted</answer>
+<answer>forthright</answer>
+</answers>
+</item>
+
+<item id="0" extid="685"><text>数学</text>
+<comment>shùxué</comment>
+<answers>
+<answer>mathematics</answer>
+</answers>
+</item>
+
+<item id="0" extid="731"><text>跳</text>
+<comment>tiào</comment>
+<answers>
+<answer>jump</answer>
+<answer>leap</answer>
+<answer>spring</answer>
+<answer>beat</answer>
+</answers>
+</item>
+
+<item id="0" extid="610"><text>去</text>
+<comment>qù</comment>
+<answers>
+<answer>go</answer>
+<answer>leave</answer>
+<answer>send</answer>
+<answer>remove</answer>
+<answer>get rid of</answer>
+</answers>
+</item>
+
+<item id="0" extid="476"><text>了解</text>
+<comment>liǎojiě</comment>
+<answers>
+<answer>understand</answer>
+<answer>know</answer>
+<answer>find out</answer>
+</answers>
+</item>
+
+<item id="0" extid="734"><text>听见</text>
+<comment>tīngjiàn</comment>
+<answers>
+<answer>hear</answer>
+</answers>
+</item>
+
+<item id="0" extid="314"><text>话</text>
+<comment>huà</comment>
+<answers>
+<answer>word</answer>
+<answer>talk</answer>
+<answer>speech</answer>
+<answer>remark</answer>
+</answers>
+</item>
+
+<item id="0" extid="478"><text>领导</text>
+<comment>lǐngdǎo</comment>
+<answers>
+<answer>lead</answer>
+<answer>leader</answer>
+<answer>leadership</answer>
+</answers>
+</item>
+
+<item id="0" extid="507"><text>没有</text>
+<comment>méiyǒu</comment>
+<answers>
+<answer>not have</answer>
+<answer>there is not</answer>
+<answer>not</answer>
+</answers>
+</item>
+
+<item id="0" extid="876"><text>一边…一边…</text>
+<comment>yībiān … yībiān</comment>
+<answers>
+<answer>at the same time</answer>
+<answer>simultaneously</answer>
+</answers>
+</item>
+
+<item id="0" extid="635"><text>商店</text>
+<comment>shāngdiàn</comment>
+<answers>
+<answer>shop</answer>
+<answer>store</answer>
+</answers>
+</item>
+
+<item id="0" extid="869"><text>要是</text>
+<comment>yàoshi</comment>
+<answers>
+<answer>in case</answer>
+<answer>if</answer>
+<answer>suppose</answer>
+</answers>
+</item>
+
+<item id="0" extid="229"><text>改变</text>
+<comment>gǎibiàn</comment>
+<answers>
+<answer>change</answer>
+<answer>alter</answer>
+<answer>transform</answer>
+</answers>
+</item>
+
+<item id="0" extid="474"><text>亮</text>
+<comment>liàng</comment>
+<answers>
+<answer>bright</answer>
+<answer>shiny</answer>
+<answer>light</answer>
+<answer>shine</answer>
+<answer>show</answer>
+</answers>
+</item>
+
+<item id="0" extid="235"><text>干</text>
+<comment>gàn</comment>
+<answers>
+<answer>do</answer>
+<answer>work</answer>
+</answers>
+</item>
+
+<item id="0" extid="956"><text>怎样</text>
+<comment>zěnyàng</comment>
+<answers>
+<answer>how</answer>
+</answers>
+</item>
+
+<item id="0" extid="634"><text>山</text>
+<comment>shān</comment>
+<answers>
+<answer>mountain</answer>
+<answer>hill</answer>
+</answers>
+</item>
+
+<item id="0" extid="132"><text>到</text>
+<comment>dào</comment>
+<answers>
+<answer>arrive</answer>
+<answer>reach</answer>
+<answer>go to</answer>
+<answer>leave for</answer>
+</answers>
+</item>
+
+<item id="0" extid="885"><text>一下儿</text>
+<comment>yīxià</comment>
+<answers>
+<answer>one time</answer>
+<answer>once</answer>
+<answer>a little while</answer>
+</answers>
+</item>
+
+<item id="0" extid="520"><text>名字</text>
+<comment>míngzi</comment>
+<answers>
+<answer>name</answer>
+</answers>
+</item>
+
+<item id="0" extid="659"><text>师傅</text>
+<comment>shīfu</comment>
+<answers>
+<answer>master worker</answer>
+<answer>master</answer>
+<answer>teacher</answer>
+</answers>
+</item>
+
+<item id="0" extid="692"><text>睡觉</text>
+<comment>shuì jiào</comment>
+<answers>
+<answer>sleep</answer>
+<answer>go to bed</answer>
+</answers>
+</item>
+
+<item id="0" extid="741"><text>通知</text>
+<comment>tōngzhī</comment>
+<answers>
+<answer>notify</answer>
+<answer>give notice</answer>
+<answer>notice</answer>
+<answer>circular</answer>
+</answers>
+</item>
+
+<item id="0" extid="107"><text>词典</text>
+<comment>cídiǎn</comment>
+<answers>
+<answer>dictionary</answer>
+</answers>
+</item>
+
+<item id="0" extid="362"><text>将来</text>
+<comment>jiānglái</comment>
+<answers>
+<answer>future</answer>
+</answers>
+</item>
+
+<item id="0" extid="763"><text>玩儿</text>
+<comment>wánr</comment>
+<answers>
+<answer>play</answer>
+<answer>have fun</answer>
+<answer>employ</answer>
+<answer>resort to</answer>
+</answers>
+</item>
+
+<item id="0" extid="888"><text>一直</text>
+<comment>yīzhí</comment>
+<answers>
+<answer>always</answer>
+<answer>all along</answer>
+<answer>straight</answer>
+</answers>
+</item>
+
+<item id="0" extid="638"><text>上边</text>
+<comment>shàngbian</comment>
+<answers>
+<answer>above</answer>
+<answer>over</answer>
+<answer>the higher authorities</answer>
+</answers>
+</item>
+
+<item id="0" extid="924"><text>右</text>
+<comment>yòu</comment>
+<answers>
+<answer>the right</answer>
+</answers>
+</item>
+
+<item id="0" extid="781"><text>文化</text>
+<comment>wénhuà</comment>
+<answers>
+<answer>civilization</answer>
+<answer>culture</answer>
+<answer>education</answer>
+</answers>
+</item>
+
+<item id="0" extid="859"><text>研究</text>
+<comment>yánjiū</comment>
+<answers>
+<answer>study</answer>
+<answer>research</answer>
+<answer>consider</answer>
+<answer>discuss</answer>
+</answers>
+</item>
+
+<item id="0" extid="663"><text>时间</text>
+<comment>shíjiān</comment>
+<answers>
+<answer>when</answer>
+</answers>
+</item>
+
+<item id="0" extid="577"><text>片</text>
+<comment>piàn</comment>
+<answers>
+<answer>(measure word for pieces of things)</answer>
+</answers>
+</item>
+
+<item id="0" extid="777"><text>位</text>
+<comment>wèi</comment>
+<answers>
+<answer>(measure word for people of status)</answer>
+</answers>
+</item>
+
+<item id="0" extid="597"><text>桥</text>
+<comment>qiáo</comment>
+<answers>
+<answer>bridge</answer>
+</answers>
+</item>
+
+<item id="0" extid="827"><text>小（小李）</text>
+<comment>xiǎo</comment>
+<answers>
+<answer>small</answer>
+<answer>little</answer>
+<answer>petty</answer>
+<answer>minor</answer>
+<answer>young</answer>
+</answers>
+</item>
+
+<item id="0" extid="425"><text>咳嗽</text>
+<comment>késou</comment>
+<answers>
+<answer>cough</answer>
+</answers>
+</item>
+
+<item id="0" extid="792"><text>屋子</text>
+<comment>wūzi</comment>
+<answers>
+<answer>room</answer>
+</answers>
+</item>
+
+<item id="0" extid="95"><text>出租汽车</text>
+<comment>chūzū qìchē</comment>
+<answers>
+<answer>taxi</answer>
+</answers>
+</item>
+
+<item id="0" extid="101"><text>床</text>
+<comment>chuáng</comment>
+<answers>
+<answer>bed</answer>
+</answers>
+</item>
+
+<item id="0" extid="281"><text>还</text>
+<comment>hái</comment>
+<answers>
+<answer>still</answer>
+<answer>yet</answer>
+<answer>even more</answer>
+<answer>also</answer>
+<answer>fairly</answer>
+<answer>give back</answer>
+<answer>return</answer>
+<answer>give sth. in return</answer>
+</answers>
+</item>
+
+<item id="0" extid="449"><text>劳动</text>
+<comment>láodòng</comment>
+<answers>
+<answer>work</answer>
+<answer>labor</answer>
+</answers>
+</item>
+
+<item id="0" extid="536"><text>南</text>
+<comment>nán</comment>
+<answers>
+<answer>south</answer>
+</answers>
+</item>
+
+<item id="0" extid="203"><text>方向</text>
+<comment>fāngxiàng</comment>
+<answers>
+<answer>direction</answer>
+<answer>orientation</answer>
+</answers>
+</item>
+
+<item id="0" extid="368"><text>角</text>
+<comment>jiǎo</comment>
+<answers>
+<answer>one tenth of one RMB Yuan</answer>
+</answers>
+</item>
+
+<item id="0" extid="1014"><text>自己</text>
+<comment>zìjǐ</comment>
+<answers>
+<answer>oneself</answer>
+<answer>closely related</answer>
+<answer>own</answer>
+</answers>
+</item>
+
+<item id="0" extid="934"><text>原来</text>
+<comment>yuánlái</comment>
+<answers>
+<answer>original</answer>
+<answer>former</answer>
+</answers>
+</item>
+
+<item id="0" extid="853"><text>学习</text>
+<comment>xuéxí</comment>
+<answers>
+<answer>study</answer>
+<answer>learn</answer>
+<answer>emulate</answer>
+</answers>
+</item>
+
+<item id="0" extid="197"><text>反对</text>
+<comment>fǎnduì</comment>
+<answers>
+<answer>oppose</answer>
+<answer>fight</answer>
+<answer>be against</answer>
+</answers>
+</item>
+
+<item id="0" extid="918"><text>有名</text>
+<comment>yǒumíng</comment>
+<answers>
+<answer>famous</answer>
+<answer>well-known</answer>
+</answers>
+</item>
+
+<item id="0" extid="133"><text>道</text>
+<comment>dào</comment>
+<answers>
+<answer>road</answer>
+<answer>doctrine</answer>
+<answer>speak</answer>
+<answer>say</answer>
+</answers>
+</item>
+
+<item id="0" extid="873"><text>夜</text>
+<comment>yè</comment>
+<answers>
+<answer>night</answer>
+<answer>evening</answer>
+</answers>
+</item>
+
+<item id="0" extid="495"><text>吗</text>
+<comment>ma</comment>
+<answers>
+<answer>(modal particle making a question)</answer>
+</answers>
+</item>
+
+<item id="0" extid="694"><text>说明</text>
+<comment>shuōmíng</comment>
+<answers>
+<answer>explain</answer>
+<answer>illustrate</answer>
+<answer>show</answer>
+</answers>
+</item>
+
+<item id="0" extid="581"><text>瓶</text>
+<comment>píng</comment>
+<answers>
+<answer>(measure word for bottles)</answer>
+</answers>
+</item>
+
+<item id="0" extid="330"><text>活动</text>
+<comment>huódòng</comment>
+<answers>
+<answer>move about</answer>
+<answer>relax</answer>
+<answer>activity</answer>
+<answer>shaky</answer>
+</answers>
+</item>
+
+<item id="0" extid="80"><text>朝</text>
+<comment>cháo</comment>
+<answers>
+<answer>toward</answer>
+<answer>face</answer>
+</answers>
+</item>
+
+<item id="0" extid="612"><text>全</text>
+<comment>quán</comment>
+<answers>
+<answer>complete</answer>
+<answer>whole</answer>
+<answer>entire</answer>
+<answer>full</answer>
+<answer>total</answer>
+</answers>
+</item>
+
+<item id="0" extid="826"><text>消息</text>
+<comment>xiāoxi</comment>
+<answers>
+<answer>news</answer>
+<answer>information</answer>
+<answer>message</answer>
+</answers>
+</item>
+
+<item id="0" extid="699"><text>宿舍</text>
+<comment>sùshè</comment>
+<answers>
+<answer>hostel</answer>
+<answer>living quarters</answer>
+<answer>dormitory</answer>
+</answers>
+</item>
+
+<item id="0" extid="117"><text>大</text>
+<comment>dà</comment>
+<answers>
+<answer>big</answer>
+<answer>great</answer>
+<answer>loud</answer>
+</answers>
+</item>
+
+<item id="0" extid="444"><text>拉</text>
+<comment>lā</comment>
+<answers>
+<answer>pull</answer>
+<answer>drag</answer>
+<answer>haul</answer>
+<answer>play</answer>
+<answer>draw in</answer>
+<answer>shit</answer>
+</answers>
+</item>
+
+<item id="0" extid="662"><text>时候</text>
+<comment>shíhou</comment>
+<answers>
+<answer>time</answer>
+<answer>when</answer>
+</answers>
+</item>
+
+<item id="0" extid="1016"><text>字</text>
+<comment>zì</comment>
+<answers>
+<answer>word</answer>
+<answer>character</answer>
+</answers>
+</item>
+
+<item id="0" extid="930"><text>语言</text>
+<comment>yǔyán</comment>
+<answers>
+<answer>language</answer>
+</answers>
+</item>
+
+<item id="0" extid="937"><text>远</text>
+<comment>yuǎn</comment>
+<answers>
+<answer>far</answer>
+<answer>remote</answer>
+</answers>
+</item>
+
+<item id="0" extid="453"><text>了</text>
+<comment>le</comment>
+<answers>
+<answer>(modal particle ending a sentence)</answer>
+<answer>finish</answer>
+<answer>end</answer>
+<answer>settle</answer>
+<answer>be able</answer>
+</answers>
+</item>
+
+<item id="0" extid="482"><text>流</text>
+<comment>liú</comment>
+<answers>
+<answer>flow</answer>
+<answer>stream</answer>
+<answer>drip</answer>
+<answer>shed</answer>
+<answer>trickle</answer>
+</answers>
+</item>
+
+<item id="0" extid="363"><text>江</text>
+<comment>jiāng</comment>
+<answers>
+<answer>river</answer>
+</answers>
+</item>
+
+<item id="0" extid="755"><text>袜子</text>
+<comment>wàzi</comment>
+<answers>
+<answer>socks</answer>
+<answer>stockings</answer>
+<answer>hose</answer>
+</answers>
+</item>
+
+<item id="0" extid="269"><text>馆</text>
+<comment>guǎn</comment>
+<answers>
+<answer>an indoor place for activities</answer>
+</answers>
+</item>
+
+<item id="0" extid="59"><text>不同</text>
+<comment>bùtóng</comment>
+<answers>
+<answer>different</answer>
+<answer>not the same</answer>
+</answers>
+</item>
+
+<item id="0" extid="272"><text>贵姓</text>
+<comment>guì xìng</comment>
+<answers>
+<answer>your honorable family name</answer>
+</answers>
+</item>
+
+<item id="0" extid="337"><text>机器</text>
+<comment>jīqì</comment>
+<answers>
+<answer>machine</answer>
+<answer>machinery</answer>
+<answer>apparatus</answer>
+</answers>
+</item>
+
+<item id="0" extid="400"><text>经济</text>
+<comment>jīngjì</comment>
+<answers>
+<answer>economy</answer>
+<answer>income</answer>
+<answer>economical</answer>
+</answers>
+</item>
+
+<item id="0" extid="884"><text>一切</text>
+<comment>yīqiè</comment>
+<answers>
+<answer>all</answer>
+<answer>every</answer>
+<answer>everything</answer>
+</answers>
+</item>
+
+<item id="0" extid="809"><text>下课</text>
+<comment>xià kè</comment>
+<answers>
+<answer>finish class</answer>
+<answer>get out of class</answer>
+</answers>
+</item>
+
+<item id="0" extid="355"><text>检查</text>
+<comment>jiǎnchá</comment>
+<answers>
+<answer>check up</answer>
+<answer>inspect</answer>
+<answer>self-criticism</answer>
+</answers>
+</item>
+
+<item id="0" extid="912"><text>尤其</text>
+<comment>yóuqí</comment>
+<answers>
+<answer>especially</answer>
+<answer>particularly</answer>
+</answers>
+</item>
+
+<item id="0" extid="519"><text>明天</text>
+<comment>míngtiān</comment>
+<answers>
+<answer>tomorrow</answer>
+</answers>
+</item>
+
+<item id="0" extid="571"><text>朋友</text>
+<comment>péngyou</comment>
+<answers>
+<answer>friend</answer>
+</answers>
+</item>
+
+<item id="0" extid="494"><text>嘛</text>
+<comment>ma</comment>
+<answers>
+<answer>(modal particle expressing urging)</answer>
+</answers>
+</item>
+
+<item id="0" extid="681"><text>书</text>
+<comment>shū</comment>
+<answers>
+<answer>book</answer>
+</answers>
+</item>
+
+<item id="0" extid="72"><text>茶</text>
+<comment>chá</comment>
+<answers>
+<answer>tea</answer>
+</answers>
+</item>
+
+<item id="0" extid="230"><text>干净</text>
+<comment>gānjìng</comment>
+<answers>
+<answer>clean</answer>
+<answer>neat</answer>
+<answer>tidy</answer>
+</answers>
+</item>
+
+<item id="0" extid="682"><text>熟</text>
+<comment>shú</comment>
+<answers>
+<answer>ripe</answer>
+<answer>cooked</answer>
+<answer>done</answer>
+<answer>familiar</answer>
+</answers>
+</item>
+
+<item id="0" extid="1018"><text>走</text>
+<comment>zǒu</comment>
+<answers>
+<answer>walk</answer>
+<answer>visit</answer>
+<answer>pass</answer>
+<answer>leave</answer>
+<answer>go away</answer>
+</answers>
+</item>
+
+<item id="0" extid="786"><text>问</text>
+<comment>wèn</comment>
+<answers>
+<answer>ask</answer>
+<answer>inquire</answer>
+</answers>
+</item>
+
+<item id="0" extid="818"><text>现在</text>
+<comment>xiànzài</comment>
+<answers>
+<answer>now</answer>
+<answer>at present</answer>
+<answer>today</answer>
+</answers>
+</item>
+
+<item id="0" extid="505"><text>没关系</text>
+<comment>méi guānxi</comment>
+<answers>
+<answer>never mind</answer>
+<answer>it doesn't matter</answer>
+</answers>
+</item>
+
+<item id="0" extid="31"><text>倍</text>
+<comment>bèi</comment>
+<answers>
+<answer>times</answer>
+<answer>-fold</answer>
+</answers>
+</item>
+
+<item id="0" extid="211"><text>分</text>
+<comment>fēn</comment>
+<answers>
+<answer>divide</answer>
+<answer>distribute</answer>
+<answer>distinguish</answer>
+<answer>minute</answer>
+<answer>point</answer>
+<answer>mark</answer>
+<answer>a money unit</answer>
+</answers>
+</item>
+
+<item id="0" extid="554"><text>牛</text>
+<comment>niú</comment>
+<answers>
+<answer>ox</answer>
+<answer>cow</answer>
+<answer>bull</answer>
+</answers>
+</item>
+
+<item id="0" extid="24"><text>饱</text>
+<comment>bǎo</comment>
+<answers>
+<answer>be full</answer>
+</answers>
+</item>
+
+<item id="0" extid="971"><text>这里（这儿）</text>
+<comment>zhèlǐ(zhèr)</comment>
+<answers>
+<answer>here</answer>
+</answers>
+</item>
+
+<item id="0" extid="1031"><text>作业</text>
+<comment>zuòyè</comment>
+<answers>
+<answer>homework</answer>
+<answer>operation</answer>
+<answer>task</answer>
+<answer>work</answer>
+</answers>
+</item>
+
+<item id="0" extid="448"><text>篮球</text>
+<comment>lánqiú</comment>
+<answers>
+<answer>basketball</answer>
+</answers>
+</item>
+
+<item id="0" extid="626"><text>认真</text>
+<comment>rènzhēn</comment>
+<answers>
+<answer>conscientious</answer>
+<answer>earnest</answer>
+<answer>serious</answer>
+</answers>
+</item>
+
+<item id="0" extid="718"><text>糖</text>
+<comment>táng</comment>
+<answers>
+<answer>sugar</answer>
+<answer>candy</answer>
+<answer>sweets</answer>
+</answers>
+</item>
+
+<item id="0" extid="1009"><text>注意</text>
+<comment>zhùyì</comment>
+<answers>
+<answer>pay attention to</answer>
+<answer>take notice of</answer>
+</answers>
+</item>
+
+<item id="0" extid="564"><text>怕</text>
+<comment>pà</comment>
+<answers>
+<answer>fear</answer>
+<answer>be afraid of</answer>
+<answer>perhaps</answer>
+</answers>
+</item>
+
+<item id="0" extid="836"><text>辛苦</text>
+<comment>xīnkǔ</comment>
+<answers>
+<answer>hard</answer>
+<answer>toilsome</answer>
+<answer>laborious</answer>
+<answer>tire</answer>
+</answers>
+</item>
+
+<item id="0" extid="862"><text>演出</text>
+<comment>yǎnchū</comment>
+<answers>
+<answer>perform</answer>
+<answer>put on a show</answer>
+<answer>performance</answer>
+</answers>
+</item>
+
+<item id="0" extid="138"><text>地</text>
+<comment>de</comment>
+<answers>
+<answer>particle to form an adverbial</answer>
+<answer>the earth</answer>
+<answer>land</answer>
+<answer>field</answer>
+<answer>ground</answer>
+</answers>
+</item>
+
+<item id="0" extid="1024"><text>最初</text>
+<comment>zuìchū</comment>
+<answers>
+<answer>first</answer>
+<answer>initial</answer>
+</answers>
+</item>
+
+<item id="0" extid="1013"><text>桌子</text>
+<comment>zhuōzi</comment>
+<answers>
+<answer>table</answer>
+<answer>desk</answer>
+</answers>
+</item>
+
+<item id="0" extid="676"><text>手</text>
+<comment>shǒu</comment>
+<answers>
+<answer>hand</answer>
+</answers>
+</item>
+
+<item id="0" extid="196"><text>翻译</text>
+<comment>fānyì</comment>
+<answers>
+<answer>translate</answer>
+<answer>translation</answer>
+<answer>translator</answer>
+</answers>
+</item>
+
+<item id="0" extid="684"><text>树</text>
+<comment>shù</comment>
+<answers>
+<answer>tree</answer>
+</answers>
+</item>
+
+<item id="0" extid="690"><text>水平</text>
+<comment>shuǐpíng</comment>
+<answers>
+<answer>standard</answer>
+<answer>level</answer>
+<answer>horizontal</answer>
+</answers>
+</item>
+
+<item id="0" extid="136"><text>得到</text>
+<comment>dé dào</comment>
+<answers>
+<answer>get</answer>
+<answer>obtain</answer>
+<answer>gain</answer>
+<answer>receive</answer>
+</answers>
+</item>
+
+<item id="0" extid="477"><text>零</text>
+<comment>líng</comment>
+<answers>
+<answer>zero, 0</answer>
+</answers>
+</item>
+
+<item id="0" extid="846"><text>幸福</text>
+<comment>xìngfú</comment>
+<answers>
+<answer>happy</answer>
+<answer>happiness</answer>
+</answers>
+</item>
+
+<item id="0" extid="799"><text>习惯</text>
+<comment>xíguàn</comment>
+<answers>
+<answer>be used to</answer>
+<answer>usual practice</answer>
+<answer>habit</answer>
+</answers>
+</item>
+
+<item id="0" extid="288"><text>汉字</text>
+<comment>hànzì</comment>
+<answers>
+<answer>Chinese character</answer>
+</answers>
+</item>
+
+<item id="0" extid="980"><text>正确</text>
+<comment>zhèngquè</comment>
+<answers>
+<answer>correct</answer>
+<answer>right</answer>
+<answer>proper</answer>
+</answers>
+</item>
+
+<item id="0" extid="87"><text>吃</text>
+<comment>chī</comment>
+<answers>
+<answer>eat</answer>
+<answer>live on</answer>
+<answer>annihilate</answer>
+</answers>
+</item>
+
+<item id="0" extid="308"><text>互相</text>
+<comment>hùxiāng</comment>
+<answers>
+<answer>each other</answer>
+<answer>mutual</answer>
+</answers>
+</item>
+
+<item id="0" extid="760"><text>完</text>
+<comment>wán</comment>
+<answers>
+<answer>use up</answer>
+<answer>be over</answer>
+<answer>finish</answer>
+<answer>complete</answer>
+</answers>
+</item>
+
+<item id="0" extid="167"><text>冬天</text>
+<comment>dōngtiān</comment>
+<answers>
+<answer>winter</answer>
+</answers>
+</item>
+
+<item id="0" extid="170"><text>动物</text>
+<comment>dòngwù</comment>
+<answers>
+<answer>animal</answer>
+</answers>
+</item>
+
+<item id="0" extid="32"><text>被</text>
+<comment>bèi</comment>
+<answers>
+<answer>by</answer>
+</answers>
+</item>
+
+<item id="0" extid="437"><text>口</text>
+<comment>kǒu</comment>
+<answers>
+<answer>mouth</answer>
+<answer>(measure word for people)</answer>
+</answers>
+</item>
+
+<item id="0" extid="551"><text>年轻</text>
+<comment>niánqīng</comment>
+<answers>
+<answer>young</answer>
+</answers>
+</item>
+
+<item id="0" extid="377"><text>节</text>
+<comment>jié</comment>
+<answers>
+<answer>festival</answer>
+<answer>section</answer>
+<answer>length</answer>
+</answers>
+</item>
+
+<item id="0" extid="243"><text>告诉</text>
+<comment>gàosù</comment>
+<answers>
+<answer>tell</answer>
+<answer>let know</answer>
+</answers>
+</item>
+
+<item id="0" extid="535"><text>呐</text>
+<comment>na</comment>
+<answers>
+<answer>(modal particle ending a sentence)</answer>
+</answers>
+</item>
+
+<item id="0" extid="789"><text>我</text>
+<comment>wǒ</comment>
+<answers>
+<answer>I</answer>
+<answer>me</answer>
+<answer>our</answer>
+<answer>ourselves</answer>
+</answers>
+</item>
+
+<item id="0" extid="801"><text>洗</text>
+<comment>xǐ</comment>
+<answers>
+<answer>wash</answer>
+<answer>bathe</answer>
+<answer>develop</answer>
+</answers>
+</item>
+
+<item id="0" extid="153"><text>点心</text>
+<comment>diǎnxin</comment>
+<answers>
+<answer>pastry</answer>
+<answer>light refreshments</answer>
+</answers>
+</item>
+
+<item id="0" extid="982"><text>政府</text>
+<comment>zhèngfǔ</comment>
+<answers>
+<answer>government</answer>
+</answers>
+</item>
+
+<item id="0" extid="335"><text>机场</text>
+<comment>jīchǎng</comment>
+<answers>
+<answer>airport</answer>
+<answer>airfield</answer>
+<answer>aerodrome</answer>
+</answers>
+</item>
+
+<item id="0" extid="357"><text>见</text>
+<comment>jiàn</comment>
+<answers>
+<answer>meet</answer>
+<answer>see</answer>
+<answer>be exposed to</answer>
+</answers>
+</item>
+
+<item id="0" extid="23"><text>帮助</text>
+<comment>bāngzhù</comment>
+<answers>
+<answer>help</answer>
+<answer>assist</answer>
+<answer>aid</answer>
+</answers>
+</item>
+
+<item id="0" extid="723"><text>踢</text>
+<comment>tī</comment>
+<answers>
+<answer>kick</answer>
+</answers>
+</item>
+
+<item id="0" extid="158"><text>电话</text>
+<comment>diànhuà</comment>
+<answers>
+<answer>telephone</answer>
+<answer>phone</answer>
+<answer>phone call</answer>
+</answers>
+</item>
+
+<item id="0" extid="854"><text>学校</text>
+<comment>xuéxiào</comment>
+<answers>
+<answer>school</answer>
+<answer>educational institute</answer>
+</answers>
+</item>
+
+<item id="0" extid="993"><text>中</text>
+<comment>zhōng</comment>
+<answers>
+<answer>center</answer>
+<answer>middle</answer>
+<answer>in</answer>
+<answer>among</answer>
+<answer>China</answer>
+</answers>
+</item>
+
+<item id="0" extid="587"><text>起来</text>
+<comment>qǐ lái</comment>
+<answers>
+<answer>stand up</answer>
+<answer>sit up</answer>
+<answer>rise to one's feet</answer>
+</answers>
+</item>
+
+<item id="0" extid="130"><text>刀</text>
+<comment>dāo</comment>
+<answers>
+<answer>knife</answer>
+<answer>sword</answer>
+<answer>blade</answer>
+</answers>
+</item>
+
+<item id="0" extid="38"><text>笔</text>
+<comment>bǐ</comment>
+<answers>
+<answer>pen</answer>
+<answer>pencil</answer>
+</answers>
+</item>
+
+<item id="0" extid="624"><text>认识</text>
+<comment>rènshi</comment>
+<answers>
+<answer>recognize</answer>
+<answer>understand</answer>
+<answer>cognition</answer>
+</answers>
+</item>
+
+<item id="0" extid="632"><text>三</text>
+<comment>sān</comment>
+<answers>
+<answer>three</answer>
+</answers>
+</item>
+
+<item id="0" extid="525"><text>哪里（哪儿）</text>
+<comment>nǎli(nǎr)</comment>
+<answers>
+<answer>where</answer>
+<answer>wherever</answer>
+</answers>
+</item>
+
+<item id="0" extid="798"><text>希望</text>
+<comment>xīwàng</comment>
+<answers>
+<answer>hope</answer>
+<answer>wish</answer>
+<answer>expect</answer>
+</answers>
+</item>
+
+<item id="0" extid="376"><text>街</text>
+<comment>jiē</comment>
+<answers>
+<answer>street</answer>
+</answers>
+</item>
+
+<item id="0" extid="613"><text>全部</text>
+<comment>quánbù</comment>
+<answers>
+<answer>all</answer>
+<answer>without exception</answer>
+<answer>complete</answer>
+</answers>
+</item>
+
+<item id="0" extid="1028"><text>左</text>
+<comment>zuǒ</comment>
+<answers>
+<answer>the left</answer>
+<answer>the left side</answer>
+</answers>
+</item>
+
+<item id="0" extid="603"><text>请</text>
+<comment>qǐng</comment>
+<answers>
+<answer>please</answer>
+<answer>request</answer>
+<answer>ask</answer>
+<answer>invite</answer>
+<answer>engage</answer>
+</answers>
+</item>
+
+<item id="0" extid="580"><text>苹果</text>
+<comment>píngguǒ</comment>
+<answers>
+<answer>apple</answer>
+</answers>
+</item>
+
+<item id="0" extid="787"><text>问好</text>
+<comment>wèn hǎo</comment>
+<answers>
+<answer>send one's regards to</answer>
+</answers>
+</item>
+
+<item id="0" extid="238"><text>刚才</text>
+<comment>gāngcái</comment>
+<answers>
+<answer>a moment ago</answer>
+<answer>just now</answer>
+</answers>
+</item>
+
+<item id="0" extid="817"><text>现代</text>
+<comment>xiàndài</comment>
+<answers>
+<answer>modern times</answer>
+<answer>the contemporary age</answer>
+</answers>
+</item>
+
+<item id="0" extid="231"><text>感到</text>
+<comment>gǎndào</comment>
+<answers>
+<answer>feel</answer>
+<answer>sense</answer>
+<answer>think</answer>
+</answers>
+</item>
+
+<item id="0" extid="480"><text>留念</text>
+<comment>liúniàn</comment>
+<answers>
+<answer>accept or keep as souvenir</answer>
+</answers>
+</item>
+
+<item id="0" extid="189"><text>发</text>
+<comment>fā</comment>
+<answers>
+<answer>send out</answer>
+<answer>discharge</answer>
+<answer>issue</answer>
+<answer>rise</answer>
+</answers>
+</item>
+
+<item id="0" extid="794"><text>午饭</text>
+<comment>wǔfàn</comment>
+<answers>
+<answer>midday meal</answer>
+<answer>lunch</answer>
+</answers>
+</item>
+
+<item id="0" extid="287"><text>汉语</text>
+<comment>hànyǔ</comment>
+<answers>
+<answer>Chinese</answer>
+<answer>the Chinese language</answer>
+</answers>
+</item>
+
+<item id="0" extid="318"><text>换</text>
+<comment>huàn</comment>
+<answers>
+<answer>exchange</answer>
+<answer>barter</answer>
+<answer>trade</answer>
+<answer>change</answer>
+</answers>
+</item>
+
+<item id="0" extid="457"><text>离开</text>
+<comment>líkāi</comment>
+<answers>
+<answer>leave</answer>
+<answer>depart from</answer>
+</answers>
+</item>
+
+<item id="0" extid="195"><text>翻</text>
+<comment>fān</comment>
+<answers>
+<answer>turn over</answer>
+<answer>rummage</answer>
+<answer>capsize</answer>
+</answers>
+</item>
+
+<item id="0" extid="232"><text>感冒</text>
+<comment>gǎnmào</comment>
+<answers>
+<answer>common cold</answer>
+</answers>
+</item>
+
+<item id="0" extid="416"><text>开始</text>
+<comment>kāishǐ</comment>
+<answers>
+<answer>begin</answer>
+<answer>start</answer>
+</answers>
+</item>
+
+<item id="0" extid="1003"><text>周</text>
+<comment>zhōu</comment>
+<answers>
+<answer>week</answer>
+<answer>round</answer>
+</answers>
+</item>
+
+<item id="0" extid="17"><text>搬</text>
+<comment>bān</comment>
+<answers>
+<answer>move</answer>
+<answer>carry</answer>
+</answers>
+</item>
+
+<item id="0" extid="333"><text>基本</text>
+<comment>jīběn</comment>
+<answers>
+<answer>basic</answer>
+<answer>fundamental</answer>
+<answer>on the whole</answer>
+</answers>
+</item>
+
+<item id="0" extid="822"><text>想</text>
+<comment>xiǎng</comment>
+<answers>
+<answer>think</answer>
+<answer>suppose</answer>
+<answer>recall</answer>
+<answer>want to</answer>
+<answer>miss</answer>
+</answers>
+</item>
+
+<item id="0" extid="164"><text>东边</text>
+<comment>dōngbiān</comment>
+<answers>
+<answer>east</answer>
+</answers>
+</item>
+
+<item id="0" extid="774"><text>为</text>
+<comment>wéi</comment>
+<answers>
+<answer>do</answer>
+<answer>act</answer>
+<answer>be</answer>
+<answer>become</answer>
+<answer>(indicating the cause or purpose)</answer>
+</answers>
+</item>
+
+<item id="0" extid="1033"><text>座</text>
+<comment>zuò</comment>
+<answers>
+<answer>(measure word for cities and so on)</answer>
+</answers>
+</item>
+
+<item id="0" extid="1000"><text>种</text>
+<comment>zhǒng</comment>
+<answers>
+<answer>kind</answer>
+<answer>type</answer>
+<answer>sort</answer>
+<answer>breed</answer>
+<answer>race</answer>
+<answer>strain</answer>
+</answers>
+</item>
+
+<item id="0" extid="524"><text>哪</text>
+<comment>nǎ</comment>
+<answers>
+<answer>which</answer>
+<answer>(used for rhetorical questions)</answer>
+<answer>(modal particle ending a sentence)</answer>
+</answers>
+</item>
+
+<item id="0" extid="939"><text>月</text>
+<comment>yuè</comment>
+<answers>
+<answer>month</answer>
+</answers>
+</item>
+
+<item id="0" extid="271"><text>贵</text>
+<comment>guì</comment>
+<answers>
+<answer>expensive</answer>
+<answer>costly</answer>
+<answer>dear</answer>
+</answers>
+</item>
+
+<item id="0" extid="34"><text>本子</text>
+<comment>běnzi</comment>
+<answers>
+<answer>book</answer>
+<answer>notebook</answer>
+</answers>
+</item>
+
+<item id="0" extid="707"><text>他们</text>
+<comment>tāmen</comment>
+<answers>
+<answer>they</answer>
+<answer>them (for males and females)</answer>
+</answers>
+</item>
+
+<item id="0" extid="419"><text>看</text>
+<comment>kàn</comment>
+<answers>
+<answer>see</answer>
+<answer>look at</answer>
+<answer>watch</answer>
+<answer>read</answer>
+<answer>think</answer>
+</answers>
+</item>
+
+<item id="0" extid="559"><text>努力</text>
+<comment>nǔlì</comment>
+<answers>
+<answer>try hard</answer>
+<answer>be hard at work or study</answer>
+</answers>
+</item>
+
+<item id="0" extid="121"><text>大学</text>
+<comment>dàxué</comment>
+<answers>
+<answer>university</answer>
+<answer>college</answer>
+</answers>
+</item>
+
+<item id="0" extid="584"><text>骑</text>
+<comment>qí</comment>
+<answers>
+<answer>ride (an animal or bicycle)</answer>
+</answers>
+</item>
+
+<item id="0" extid="15"><text>摆</text>
+<comment>bǎi</comment>
+<answers>
+<answer>put</answer>
+<answer>put on</answer>
+<answer>sway</answer>
+</answers>
+</item>
+
+<item id="0" extid="452"><text>老师</text>
+<comment>lǎoshī</comment>
+<answers>
+<answer>teacher</answer>
+</answers>
+</item>
+
+<item id="0" extid="489"><text>乱</text>
+<comment>luàn</comment>
+<answers>
+<answer>in a mess</answer>
+<answer>indiscriminate</answer>
+<answer>random</answer>
+</answers>
+</item>
+
+<item id="0" extid="594"><text>前边</text>
+<comment>qiánbian</comment>
+<answers>
+<answer>in front</answer>
+<answer>ahead</answer>
+</answers>
+</item>
+
+<item id="0" extid="291"><text>好吃</text>
+<comment>hǎochī</comment>
+<answers>
+<answer>delicious</answer>
+<answer>tasty</answer>
+<answer>good to eat</answer>
+</answers>
+</item>
+
+<item id="0" extid="92"><text>出来</text>
+<comment>chū lái</comment>
+<answers>
+<answer>come out</answer>
+<answer>emerge</answer>
+</answers>
+</item>
+
+<item id="0" extid="563"><text>爬</text>
+<comment>pá</comment>
+<answers>
+<answer>crawl</answer>
+<answer>creep</answer>
+<answer>climb</answer>
+</answers>
+</item>
+
+<item id="0" extid="261"><text>够</text>
+<comment>gòu</comment>
+<answers>
+<answer>be enough</answer>
+<answer>be up to</answer>
+<answer>reach</answer>
+<answer>quite</answer>
+</answers>
+</item>
+
+<item id="0" extid="999"><text>钟头</text>
+<comment>zhōngtóu</comment>
+<answers>
+<answer>hour (mainly used in oral Chinese)</answer>
+</answers>
+</item>
+
+<item id="0" extid="902"><text>因为</text>
+<comment>yīnwèi</comment>
+<answers>
+<answer>because</answer>
+<answer>on account of</answer>
+<answer>because of</answer>
+</answers>
+</item>
+
+<item id="0" extid="50"><text>别</text>
+<comment>bié</comment>
+<answers>
+<answer>don't</answer>
+</answers>
+</item>
+
+<item id="0" extid="340"><text>…极了</text>
+<comment>… jí le</comment>
+<answers>
+<answer>extremely</answer>
+</answers>
+</item>
+
+<item id="0" extid="886"><text>一些</text>
+<comment>yīxiē</comment>
+<answers>
+<answer>a number of</answer>
+<answer>certain</answer>
+<answer>a few</answer>
+<answer>a little</answer>
+</answers>
+</item>
+
+<item id="0" extid="852"><text>学生</text>
+<comment>xuésheng</comment>
+<answers>
+<answer>student</answer>
+<answer>schoolboy</answer>
+<answer>schoolgirl</answer>
+</answers>
+</item>
+
+<item id="0" extid="929"><text>语法</text>
+<comment>yǔfǎ</comment>
+<answers>
+<answer>grammar</answer>
+</answers>
+</item>
+
+<item id="0" extid="962"><text>张</text>
+<comment>zhāng</comment>
+<answers>
+<answer>piece</answer>
+</answers>
+</item>
+
+<item id="0" extid="354"><text>间</text>
+<comment>jiān</comment>
+<answers>
+<answer>(measure word for rooms)</answer>
+</answers>
+</item>
+
+<item id="0" extid="1"><text>啊</text>
+<comment>ā</comment>
+<answers>
+<answer>ah</answer>
+<answer>ah</answer>
+</answers>
+</item>
+
+<item id="0" extid="955"><text>怎么样</text>
+<comment>zěnmeyàng</comment>
+<answers>
+<answer>how</answer>
+<answer>(a polite formula)</answer>
+</answers>
+</item>
+
+<item id="0" extid="914"><text>邮票</text>
+<comment>yóupiào</comment>
+<answers>
+<answer>stamp</answer>
+</answers>
+</item>
+
+<item id="0" extid="399"><text>经过</text>
+<comment>jīngguò</comment>
+<answers>
+<answer>pass</answer>
+<answer>go through</answer>
+<answer>as a result of</answer>
+</answers>
+</item>
+
+<item id="0" extid="155"><text>电</text>
+<comment>diàn</comment>
+<answers>
+<answer>electricity</answer>
+</answers>
+</item>
+
+<item id="0" extid="426"><text>可能</text>
+<comment>kěnéng</comment>
+<answers>
+<answer>possible</answer>
+<answer>maybe</answer>
+<answer>possibility</answer>
+<answer>may</answer>
+</answers>
+</item>
+
+<item id="0" extid="345"><text>技术</text>
+<comment>jìshù</comment>
+<answers>
+<answer>technology</answer>
+<answer>skill</answer>
+<answer>technique</answer>
+</answers>
+</item>
+
+<item id="0" extid="115"><text>打</text>
+<comment>dǎ</comment>
+<answers>
+<answer>beat</answer>
+<answer>hit</answer>
+<answer>smash</answer>
+<answer>play</answer>
+<answer>stir</answer>
+</answers>
+</item>
+
+<item id="0" extid="346"><text>寄</text>
+<comment>jì</comment>
+<answers>
+<answer>send</answer>
+<answer>post</answer>
+<answer>mail</answer>
+</answers>
+</item>
+
+<item id="0" extid="447"><text>蓝</text>
+<comment>lán</comment>
+<answers>
+<answer>blue</answer>
+</answers>
+</item>
+
+<item id="0" extid="687"><text>谁</text>
+<comment>shuí</comment>
+<answers>
+<answer>who</answer>
+</answers>
+</item>
+
+<item id="0" extid="78"><text>场</text>
+<comment>chǎng</comment>
+<answers>
+<answer>field</answer>
+<answer>scene</answer>
+</answers>
+</item>
+
+<item id="0" extid="588"><text>汽车</text>
+<comment>qìchē</comment>
+<answers>
+<answer>automobile</answer>
+<answer>motor vehicle</answer>
+<answer>car</answer>
+</answers>
+</item>
+
+<item id="0" extid="186"><text>而且</text>
+<comment>érqiě</comment>
+<answers>
+<answer>moreover</answer>
+<answer>in addition</answer>
+<answer>but also</answer>
+</answers>
+</item>
+
+<item id="0" extid="654"><text>生活</text>
+<comment>shēnghuó</comment>
+<answers>
+<answer>life</answer>
+<answer>livelihood</answer>
+<answer>live</answer>
+<answer>exist</answer>
+</answers>
+</item>
+
+<item id="0" extid="1001"><text>重</text>
+<comment>zhòng</comment>
+<answers>
+<answer>heavy</answer>
+<answer>important</answer>
+<answer>serious</answer>
+</answers>
+</item>
+
+<item id="0" extid="51"><text>别的</text>
+<comment>biéde</comment>
+<answers>
+<answer>other</answer>
+<answer>another</answer>
+</answers>
+</item>
+
+<item id="0" extid="435"><text>课文</text>
+<comment>kèwén</comment>
+<answers>
+<answer>text</answer>
+</answers>
+</item>
+
+<item id="0" extid="795"><text>物理</text>
+<comment>wùlǐ</comment>
+<answers>
+<answer>physics</answer>
+</answers>
+</item>
+
+<item id="0" extid="89"><text>抽</text>
+<comment>chōu</comment>
+<answers>
+<answer>take out</answer>
+<answer>take from</answer>
+<answer>grow</answer>
+<answer>inhale</answer>
+</answers>
+</item>
+
+<item id="0" extid="176"><text>对</text>
+<comment>duì</comment>
+<answers>
+<answer>towards</answer>
+<answer>treat</answer>
+<answer>compare</answer>
+<answer>aim at</answer>
+<answer>right</answer>
+<answer>correct</answer>
+</answers>
+</item>
+
+<item id="0" extid="991"><text>只好</text>
+<comment>zhǐhǎo</comment>
+<answers>
+<answer>have to</answer>
+<answer>be forced to</answer>
+</answers>
+</item>
+
+<item id="0" extid="566"><text>排球</text>
+<comment>páiqiú</comment>
+<answers>
+<answer>volleyball</answer>
+</answers>
+</item>
+
+<item id="0" extid="172"><text>读</text>
+<comment>dú</comment>
+<answers>
+<answer>read</answer>
+<answer>read aloud</answer>
+</answers>
+</item>
+
+<item id="0" extid="600"><text>清楚</text>
+<comment>qīngchu</comment>
+<answers>
+<answer>clear</answer>
+<answer>distinct</answer>
+<answer>be clear about</answer>
+</answers>
+</item>
+
+<item id="0" extid="864"><text>羊</text>
+<comment>yáng</comment>
+<answers>
+<answer>sheep</answer>
+<answer>goat</answer>
+</answers>
+</item>
+
+<item id="0" extid="147"><text>地方</text>
+<comment>dìfang</comment>
+<answers>
+<answer>place</answer>
+<answer>space</answer>
+<answer>part</answer>
+<answer>respect</answer>
+</answers>
+</item>
+
+<item id="0" extid="952"><text>早晨（早上）</text>
+<comment>zǎochen(zǎoshang)</comment>
+<answers>
+<answer>(early) morning</answer>
+</answers>
+</item>
+
+<item id="0" extid="364"><text>讲</text>
+<comment>jiǎng</comment>
+<answers>
+<answer>tell</answer>
+<answer>speak</answer>
+<answer>explain</answer>
+<answer>discuss</answer>
+<answer>stress</answer>
+</answers>
+</item>
+
+<item id="0" extid="60"><text>不要</text>
+<comment>bùyào</comment>
+<answers>
+<answer>don't</answer>
+<answer>don't want to</answer>
+</answers>
+</item>
+
+<item id="0" extid="596"><text>墙</text>
+<comment>qiáng</comment>
+<answers>
+<answer>wall</answer>
+</answers>
+</item>
+
+<item id="0" extid="510"><text>门</text>
+<comment>mén</comment>
+<answers>
+<answer>entrance</answer>
+<answer>door</answer>
+<answer>gate</answer>
+</answers>
+</item>
+
+<item id="0" extid="810"><text>下来</text>
+<comment>xià lái</comment>
+<answers>
+<answer>come down</answer>
+</answers>
+</item>
+
+<item id="0" extid="300"><text>黒</text>
+<comment>hēi</comment>
+<answers>
+<answer>black</answer>
+<answer>dark</answer>
+</answers>
+</item>
+
+<item id="0" extid="124"><text>带</text>
+<comment>dài</comment>
+<answers>
+<answer>take</answer>
+<answer>do</answer>
+<answer>lead</answer>
+<answer>have</answer>
+</answers>
+</item>
+
+<item id="0" extid="74"><text>差</text>
+<comment>chà</comment>
+<answers>
+<answer>short of</answer>
+<answer>differ from</answer>
+<answer>poor</answer>
+</answers>
+</item>
+
+<item id="0" extid="665"><text>实践</text>
+<comment>shíjiàn</comment>
+<answers>
+<answer>live up to</answer>
+<answer>carry out</answer>
+<answer>practice</answer>
+</answers>
+</item>
+
+<item id="0" extid="255"><text>工业</text>
+<comment>gōngyè</comment>
+<answers>
+<answer>industry</answer>
+</answers>
+</item>
+
+<item id="0" extid="954"><text>怎么</text>
+<comment>zěnme</comment>
+<answers>
+<answer>how</answer>
+<answer>why</answer>
+<answer>however</answer>
+</answers>
+</item>
+
+<item id="0" extid="70"><text>草</text>
+<comment>cǎo</comment>
+<answers>
+<answer>grass</answer>
+<answer>straw</answer>
+</answers>
+</item>
+
+<item id="0" extid="646"><text>身体</text>
+<comment>shēntǐ</comment>
+<answers>
+<answer>body</answer>
+<answer>health</answer>
+</answers>
+</item>
+
+<item id="0" extid="925"><text>又</text>
+<comment>yòu</comment>
+<answers>
+<answer>again</answer>
+</answers>
+</item>
+
+<item id="0" extid="499"><text>满意</text>
+<comment>mǎnyì</comment>
+<answers>
+<answer>satisfied</answer>
+<answer>pleased</answer>
+</answers>
+</item>
+
+<item id="0" extid="901"><text>意义</text>
+<comment>yìyì</comment>
+<answers>
+<answer>meaning</answer>
+<answer>sense</answer>
+<answer>significance</answer>
+</answers>
+</item>
+
+<item id="0" extid="726"><text>体育</text>
+<comment>tǐyù</comment>
+<answers>
+<answer>physical training</answer>
+<answer>physical culture</answer>
+</answers>
+</item>
+
+<item id="0" extid="891"><text>衣服</text>
+<comment>yīfu</comment>
+<answers>
+<answer>clothes</answer>
+<answer>clothing</answer>
+<answer>garment</answer>
+<answer>coat</answer>
+</answers>
+</item>
+
+<item id="0" extid="323"><text>回来</text>
+<comment>huí lái</comment>
+<answers>
+<answer>return</answer>
+<answer>come back</answer>
+<answer>be back</answer>
+</answers>
+</item>
+
+<item id="0" extid="53"><text>病</text>
+<comment>bìng</comment>
+<answers>
+<answer>disease</answer>
+<answer>illness</answer>
+<answer>sickness</answer>
+</answers>
+</item>
+
+<item id="0" extid="688"><text>水</text>
+<comment>shuǐ</comment>
+<answers>
+<answer>water</answer>
+</answers>
+</item>
+
+<item id="0" extid="1004"><text>周围</text>
+<comment>zhōuwéi</comment>
+<answers>
+<answer>around</answer>
+<answer>round</answer>
+<answer>about</answer>
+</answers>
+</item>
+
+<item id="0" extid="126"><text>但是</text>
+<comment>dànshì</comment>
+<answers>
+<answer>but</answer>
+<answer>however</answer>
+<answer>yet, nevertheless</answer>
+</answers>
+</item>
+
+<item id="0" extid="994"><text>中间</text>
+<comment>zhōngjiān</comment>
+<answers>
+<answer>center</answer>
+<answer>middle</answer>
+<answer>among</answer>
+<answer>between</answer>
+</answers>
+</item>
+
+<item id="0" extid="162"><text>丢</text>
+<comment>diū</comment>
+<answers>
+<answer>lose</answer>
+<answer>throw</answer>
+<answer>put aside</answer>
+</answers>
+</item>
+
+<item id="0" extid="813"><text>夏</text>
+<comment>xià</comment>
+<answers>
+<answer>summer</answer>
+</answers>
+</item>
+
+<item id="0" extid="228"><text>改</text>
+<comment>gǎi</comment>
+<answers>
+<answer>change</answer>
+<answer>transform</answer>
+<answer>rectify</answer>
+<answer>correct</answer>
+</answers>
+</item>
+
+<item id="0" extid="485"><text>路</text>
+<comment>lù</comment>
+<answers>
+<answer>road</answer>
+<answer>path</answer>
+<answer>way</answer>
+<answer>journey</answer>
+<answer>route</answer>
+</answers>
+</item>
+
+<item id="0" extid="695"><text>思想</text>
+<comment>sīxiǎng</comment>
+<answers>
+<answer>thought</answer>
+<answer>thinking</answer>
+<answer>idea</answer>
+<answer>ideology</answer>
+</answers>
+</item>
+
+<item id="0" extid="711"><text>她们</text>
+<comment>tāmen</comment>
+<answers>
+<answer>they</answer>
+<answer>them (for females)</answer>
+</answers>
+</item>
+
+<item id="0" extid="830"><text>小时</text>
+<comment>xiǎoshí</comment>
+<answers>
+<answer>hour</answer>
+</answers>
+</item>
+
+<item id="0" extid="698"><text>送</text>
+<comment>sòng</comment>
+<answers>
+<answer>send</answer>
+<answer>give</answer>
+<answer>deliver</answer>
+<answer>carry</answer>
+<answer>escort</answer>
+</answers>
+</item>
+
+<item id="0" extid="742"><text>同时</text>
+<comment>tóngshí</comment>
+<answers>
+<answer>at the same time</answer>
+<answer>simultaneously</answer>
+</answers>
+</item>
+
+<item id="0" extid="897"><text>艺术</text>
+<comment>yìshù</comment>
+<answers>
+<answer>art</answer>
+<answer>skill</answer>
+<answer>craft</answer>
+</answers>
+</item>
+
+<item id="0" extid="374"><text>接</text>
+<comment>jiē</comment>
+<answers>
+<answer>meet</answer>
+<answer>connect</answer>
+<answer>catch</answer>
+<answer>take over</answer>
+</answers>
+</item>
+
+<item id="0" extid="249"><text>给</text>
+<comment>gěi</comment>
+<answers>
+<answer>give</answer>
+<answer>grant</answer>
+</answers>
+</item>
+
+<item id="0" extid="1029"><text>做</text>
+<comment>zuò</comment>
+<answers>
+<answer>make</answer>
+<answer>do</answer>
+<answer>cook</answer>
+<answer>be</answer>
+<answer>be used as</answer>
+</answers>
+</item>
+
+<item id="0" extid="572"><text>碰</text>
+<comment>pèng</comment>
+<answers>
+<answer>touch</answer>
+<answer>bump</answer>
+<answer>meet</answer>
+<answer>run into</answer>
+</answers>
+</item>
+
+<item id="0" extid="332"><text>或者</text>
+<comment>huòzhě</comment>
+<answers>
+<answer>or</answer>
+<answer>perhaps</answer>
+<answer>maybe</answer>
+</answers>
+</item>
+
+<item id="0" extid="696"><text>死</text>
+<comment>sǐ</comment>
+<answers>
+<answer>die</answer>
+<answer>pass away</answer>
+<answer>dead</answer>
+<answer>inflexible</answer>
+</answers>
+</item>
+
+<item id="0" extid="716"><text>谈</text>
+<comment>tán</comment>
+<answers>
+<answer>talk</answer>
+<answer>chat</answer>
+<answer>discuss</answer>
+</answers>
+</item>
+
+<item id="0" extid="268"><text>关心</text>
+<comment>guānxīn</comment>
+<answers>
+<answer>be concerned with</answer>
+<answer>care for</answer>
+</answers>
+</item>
+
+<item id="0" extid="960"><text>站</text>
+<comment>zhàn</comment>
+<answers>
+<answer>stand</answer>
+<answer>be on one's feet</answer>
+<answer>stop</answer>
+<answer>halt</answer>
+<answer>station</answer>
+<answer>stop</answer>
+<answer>service center</answer>
+</answers>
+</item>
+
+<item id="0" extid="870"><text>也</text>
+<comment>yě</comment>
+<answers>
+<answer>also</answer>
+<answer>too</answer>
+<answer>either</answer>
+</answers>
+</item>
+
+<item id="0" extid="670"><text>事情</text>
+<comment>shìqing</comment>
+<answers>
+<answer>matter</answer>
+<answer>affair</answer>
+<answer>thing</answer>
+<answer>business</answer>
+</answers>
+</item>
+
+<item id="0" extid="406"><text>就</text>
+<comment>jiù</comment>
+<answers>
+<answer>with regard to</answer>
+<answer>even if</answer>
+<answer>at once</answer>
+</answers>
+</item>
+
+<item id="0" extid="966"><text>找</text>
+<comment>zhǎo</comment>
+<answers>
+<answer>look for</answer>
+<answer>return the balance of money</answer>
+</answers>
+</item>
+
+<item id="0" extid="207"><text>放假</text>
+<comment>fàng jià</comment>
+<answers>
+<answer>have a holiday or vacation</answer>
+</answers>
+</item>
+
+<item id="0" extid="21"><text>办法</text>
+<comment>bànfǎ</comment>
+<answers>
+<answer>way</answer>
+<answer>means</answer>
+<answer>measure</answer>
+</answers>
+</item>
+
+<item id="0" extid="922"><text>友好</text>
+<comment>yǒuhǎo</comment>
+<answers>
+<answer>friendly</answer>
+<answer>amicable</answer>
+<answer>close friend</answer>
+</answers>
+</item>
+
+<item id="0" extid="856"><text>雪</text>
+<comment>xuě</comment>
+<answers>
+<answer>snow</answer>
+</answers>
+</item>
+
+<item id="0" extid="263"><text>故事</text>
+<comment>gùshi</comment>
+<answers>
+<answer>story</answer>
+<answer>tale</answer>
+</answers>
+</item>
+
+<item id="0" extid="728"><text>天气</text>
+<comment>tiānqì</comment>
+<answers>
+<answer>weather</answer>
+</answers>
+</item>
+
+<item id="0" extid="689"><text>水果</text>
+<comment>shuǐguǒ</comment>
+<answers>
+<answer>fruit</answer>
+</answers>
+</item>
+
+<item id="0" extid="344"><text>几</text>
+<comment>jǐ</comment>
+<answers>
+<answer>how many</answer>
+<answer>a few</answer>
+<answer>some</answer>
+</answers>
+</item>
+
+<item id="0" extid="88"><text>迟到</text>
+<comment>chídào</comment>
+<answers>
+<answer>be late</answer>
+</answers>
+</item>
+
+<item id="0" extid="700"><text>酸</text>
+<comment>suān</comment>
+<answers>
+<answer>sour</answer>
+<answer>sick at heart</answer>
+<answer>tingle</answer>
+<answer>acid</answer>
+</answers>
+</item>
+
+<item id="0" extid="1030"><text>作</text>
+<comment>zuò</comment>
+<answers>
+<answer>do</answer>
+<answer>make</answer>
+<answer>compose</answer>
+<answer>write</answer>
+<answer>act as</answer>
+</answers>
+</item>
+
+<item id="0" extid="20"><text>办</text>
+<comment>bàn</comment>
+<answers>
+<answer>do</answer>
+<answer>deal with</answer>
+</answers>
+</item>
+
+<item id="0" extid="120"><text>大声</text>
+<comment>dà shēng</comment>
+<answers>
+<answer>loudly</answer>
+</answers>
+</item>
+
+<item id="0" extid="834"><text>写</text>
+<comment>xiě</comment>
+<answers>
+<answer>write</answer>
+<answer>compose</answer>
+<answer>describe</answer>
+</answers>
+</item>
+
+<item id="0" extid="753"><text>退</text>
+<comment>tuì</comment>
+<answers>
+<answer>return</answer>
+<answer>give back</answer>
+<answer>withdraw</answer>
+<answer>fade</answer>
+</answers>
+</item>
+
+<item id="0" extid="433"><text>课</text>
+<comment>kè</comment>
+<answers>
+<answer>lesson</answer>
+<answer>class</answer>
+<answer>subject</answer>
+<answer>course</answer>
+</answers>
+</item>
+
+<item id="0" extid="910"><text>永远</text>
+<comment>yǒngyuǎn</comment>
+<answers>
+<answer>for good</answer>
+<answer>forever</answer>
+<answer>ever</answer>
+<answer>always</answer>
+</answers>
+</item>
+
+<item id="0" extid="154"><text>点钟</text>
+<comment>diǎnzhōng</comment>
+<answers>
+<answer>o'clock</answer>
+</answers>
+</item>
+
+<item id="0" extid="686"><text>双</text>
+<comment>shuāng</comment>
+<answers>
+<answer>pair</answer>
+<answer>twin</answer>
+<answer>dual</answer>
+<answer>double</answer>
+<answer>di-</answer>
+<answer>bi-</answer>
+</answers>
+</item>
+
+<item id="0" extid="19"><text>半天</text>
+<comment>bàntiān</comment>
+<answers>
+<answer>half a day</answer>
+<answer>a long time</answer>
+</answers>
+</item>
+
+<item id="0" extid="857"><text>呀</text>
+<comment>yā</comment>
+<answers>
+<answer>ah</answer>
+<answer>oh</answer>
+<answer>creak</answer>
+<answer>ah</answer>
+</answers>
+</item>
+
+<item id="0" extid="350"><text>家（文学家）</text>
+<comment>jiā (wénxuéjiā)</comment>
+<answers>
+<answer>(suffix) -ist</answer>
+<answer>family</answer>
+<answer>home</answer>
+<answer>household</answer>
+</answers>
+</item>
+
+<item id="0" extid="683"><text>数</text>
+<comment>shǔ</comment>
+<answers>
+<answer>count</answer>
+<answer>be reckoned as</answer>
+</answers>
+</item>
+
+<item id="0" extid="396"><text>精彩</text>
+<comment>jīngcǎi</comment>
+<answers>
+<answer>brilliant</answer>
+<answer>splendid</answer>
+<answer>wonderful</answer>
+</answers>
+</item>
+
+<item id="0" extid="537"><text>南边</text>
+<comment>nánbian</comment>
+<answers>
+<answer>south</answer>
+</answers>
+</item>
+
+<item id="0" extid="761"><text>完成</text>
+<comment>wánchéng</comment>
+<answers>
+<answer>accomplish</answer>
+<answer>complete</answer>
+<answer>fulfill</answer>
+</answers>
+</item>
+
+<item id="0" extid="338"><text>鸡</text>
+<comment>jī</comment>
+<answers>
+<answer>chicken</answer>
+</answers>
+</item>
+
+<item id="0" extid="334"><text>基础</text>
+<comment>jīchǔ</comment>
+<answers>
+<answer>foundation</answer>
+<answer>base</answer>
+<answer>basis</answer>
+</answers>
+</item>
+
+<item id="0" extid="275"><text>过</text>
+<comment>guò</comment>
+<answers>
+<answer>pass</answer>
+<answer>spend time</answer>
+<answer>go through</answer>
+<answer>(indicate an action in the past)</answer>
+</answers>
+</item>
+
+<item id="0" extid="64"><text>擦</text>
+<comment>cā</comment>
+<answers>
+<answer>wipe</answer>
+<answer>rub</answer>
+<answer>spread on</answer>
+<answer>scrape</answer>
+</answers>
+</item>
+
+<item id="0" extid="398"><text>经常</text>
+<comment>jīngcháng</comment>
+<answers>
+<answer>often</answer>
+<answer>frequently</answer>
+<answer>constantly</answer>
+<answer>usually</answer>
+</answers>
+</item>
+
+<item id="0" extid="887"><text>一样</text>
+<comment>yīyàng</comment>
+<answers>
+<answer>the same</answer>
+<answer>equally</answer>
+<answer>alike</answer>
+<answer>as … as …</answer>
+</answers>
+</item>
+
+<item id="0" extid="391"><text>进</text>
+<comment>jìn</comment>
+<answers>
+<answer>enter</answer>
+<answer>come or go into</answer>
+<answer>recruit</answer>
+</answers>
+</item>
+
+<item id="0" extid="871"><text>也许</text>
+<comment>yěxǔ</comment>
+<answers>
+<answer>perhaps</answer>
+<answer>probably</answer>
+<answer>maybe</answer>
+</answers>
+</item>
+
+<item id="0" extid="717"><text>汤</text>
+<comment>tāng</comment>
+<answers>
+<answer>soup</answer>
+<answer>broth</answer>
+</answers>
+</item>
+
+<item id="0" extid="145"><text>低</text>
+<comment>dī</comment>
+<answers>
+<answer>low</answer>
+<answer>droop</answer>
+<answer>hang down</answer>
+</answers>
+</item>
+
+<item id="0" extid="262"><text>姑娘</text>
+<comment>gūniang</comment>
+<answers>
+<answer>girl</answer>
+<answer>daughter</answer>
+</answers>
+</item>
+
+<item id="0" extid="766"><text>晚饭</text>
+<comment>wǎnfàn</comment>
+<answers>
+<answer>dinner</answer>
+<answer>supper</answer>
+</answers>
+</item>
+
+<item id="0" extid="397"><text>精神</text>
+<comment>jīngshén</comment>
+<answers>
+<answer>spirit</answer>
+<answer>mind</answer>
+<answer>gist</answer>
+<answer>essence</answer>
+</answers>
+</item>
+
+<item id="0" extid="367"><text>脚</text>
+<comment>jiǎo</comment>
+<answers>
+<answer>foot</answer>
+</answers>
+</item>
+
+<item id="0" extid="703"><text>岁</text>
+<comment>suì</comment>
+<answers>
+<answer>years old (for a person's age)</answer>
+</answers>
+</item>
+
+<item id="0" extid="964"><text>掌握</text>
+<comment>zhǎngwò</comment>
+<answers>
+<answer>grasp</answer>
+<answer>master</answer>
+<answer>control</answer>
+<answer>have in hand</answer>
+</answers>
+</item>
+
+<item id="0" extid="545"><text>嗯</text>
+<comment>ńg</comment>
+<answers>
+<answer>(interjection expressing what or huh)</answer>
+</answers>
+</item>
+
+<item id="0" extid="71"><text>层</text>
+<comment>céng</comment>
+<answers>
+<answer>layer</answer>
+<answer>story</answer>
+</answers>
+</item>
+
+<item id="0" extid="498"><text>满</text>
+<comment>mǎn</comment>
+<answers>
+<answer>full</answer>
+<answer>filled</answer>
+<answer>complete</answer>
+<answer>fill</answer>
+<answer>expire</answer>
+</answers>
+</item>
+
+<item id="0" extid="497"><text>卖</text>
+<comment>mài</comment>
+<answers>
+<answer>sell</answer>
+</answers>
+</item>
+
+<item id="0" extid="894"><text>以后</text>
+<comment>yǐhòu</comment>
+<answers>
+<answer>after</answer>
+<answer>afterwards</answer>
+<answer>later</answer>
+</answers>
+</item>
+
+<item id="0" extid="131"><text>倒</text>
+<comment>dǎo</comment>
+<answers>
+<answer>fall</answer>
+<answer>collapse</answer>
+<answer>resell</answer>
+<answer>exchange</answer>
+<answer>rearrange</answer>
+</answers>
+</item>
+
+<item id="0" extid="811"><text>下去</text>
+<comment>xià qu</comment>
+<answers>
+<answer>go down</answer>
+<answer>descend</answer>
+</answers>
+</item>
+
+<item id="0" extid="655"><text>生日</text>
+<comment>shēngrì</comment>
+<answers>
+<answer>birthday</answer>
+</answers>
+</item>
+
+<item id="0" extid="823"><text>响</text>
+<comment>xiǎng</comment>
+<answers>
+<answer>make a sound</answer>
+<answer>ring</answer>
+<answer>noisy</answer>
+<answer>loud</answer>
+</answers>
+</item>
+
+<item id="0" extid="18"><text>半</text>
+<comment>bàn</comment>
+<answers>
+<answer>half</answer>
+<answer>halfway</answer>
+</answers>
+</item>
+
+<item id="0" extid="242"><text>搞</text>
+<comment>gǎo</comment>
+<answers>
+<answer>do</answer>
+<answer>cause</answer>
+<answer>make</answer>
+<answer>get hold of</answer>
+</answers>
+</item>
+
+<item id="0" extid="123"><text>戴</text>
+<comment>dài</comment>
+<answers>
+<answer>put on</answer>
+<answer>wear</answer>
+<answer>support</answer>
+<answer>respect</answer>
+</answers>
+</item>
+
+<item id="0" extid="713"><text>太</text>
+<comment>tài</comment>
+<answers>
+<answer>too</answer>
+</answers>
+</item>
+
+<item id="0" extid="814"><text>夏天</text>
+<comment>xiàtiān</comment>
+<answers>
+<answer>summer</answer>
+</answers>
+</item>
+
+<item id="0" extid="558"><text>农业</text>
+<comment>nóngyè</comment>
+<answers>
+<answer>agriculture</answer>
+<answer>farming</answer>
+</answers>
+</item>
+
+<item id="0" extid="605"><text>请问</text>
+<comment>qǐng wèn</comment>
+<answers>
+<answer>Excuse me</answer>
+<answer>May I ask</answer>
+</answers>
+</item>
+
+<item id="0" extid="530"><text>那么</text>
+<comment>nàme</comment>
+<answers>
+<answer>like that</answer>
+<answer>in that way</answer>
+<answer>then</answer>
+<answer>in that case</answer>
+</answers>
+</item>
+
+<item id="0" extid="569"><text>跑</text>
+<comment>pǎo</comment>
+<answers>
+<answer>run</answer>
+<answer>run away</answer>
+<answer>run about doing sth.</answer>
+</answers>
+</item>
+
+<item id="0" extid="436"><text>空气</text>
+<comment>kōngqì</comment>
+<answers>
+<answer>air</answer>
+</answers>
+</item>
+
+<item id="0" extid="623"><text>任何</text>
+<comment>rènhé</comment>
+<answers>
+<answer>any</answer>
+<answer>whichever</answer>
+<answer>whatever</answer>
+</answers>
+</item>
+
+<item id="0" extid="992"><text>纸</text>
+<comment>zhǐ</comment>
+<answers>
+<answer>paper</answer>
+</answers>
+</item>
+
+<item id="0" extid="488"><text>绿</text>
+<comment>lǜ</comment>
+<answers>
+<answer>green</answer>
+</answers>
+</item>
+
+<item id="0" extid="483"><text>六</text>
+<comment>liù</comment>
+<answers>
+<answer>six</answer>
+</answers>
+</item>
+
+<item id="0" extid="343"><text>挤</text>
+<comment>jǐ</comment>
+<answers>
+<answer>crowded</answer>
+<answer>cram</answer>
+<answer>jostle</answer>
+<answer>squeeze</answer>
+</answers>
+</item>
+
+<item id="0" extid="744"><text>同意</text>
+<comment>tóngyì</comment>
+<answers>
+<answer>agree</answer>
+<answer>consent</answer>
+<answer>approve</answer>
+</answers>
+</item>
+
+<item id="0" extid="995"><text>中文</text>
+<comment>zhōngwén</comment>
+<answers>
+<answer>Chinese (language)</answer>
+</answers>
+</item>
+
+<item id="0" extid="199"><text>饭店</text>
+<comment>fàndiàn</comment>
+<answers>
+<answer>restaurant</answer>
+<answer>hotel</answer>
+</answers>
+</item>
+
+<item id="0" extid="883"><text>一起</text>
+<comment>yīqǐ</comment>
+<answers>
+<answer>the same place</answer>
+<answer>together</answer>
+</answers>
+</item>
+
+<item id="0" extid="906"><text>英语（英文）</text>
+<comment>yīngyǔ(yīngwén)</comment>
+<answers>
+<answer>English (language)</answer>
+</answers>
+</item>
+
+<item id="0" extid="467"><text>联系</text>
+<comment>liánxì</comment>
+<answers>
+<answer>integrate</answer>
+<answer>link</answer>
+<answer>contact</answer>
+<answer>connection</answer>
+</answers>
+</item>
+
+<item id="0" extid="513"><text>米（公尺）</text>
+<comment>mǐ(gōngchǐ)</comment>
+<answers>
+<answer>meter (measure word for lengths)</answer>
+</answers>
+</item>
+
+<item id="0" extid="838"><text>新年</text>
+<comment>xīnnián</comment>
+<answers>
+<answer>New Year</answer>
+</answers>
+</item>
+
+<item id="0" extid="649"><text>声</text>
+<comment>shēng</comment>
+<answers>
+<answer>(measure word for sound)</answer>
+<answer>sound</answer>
+</answers>
+</item>
+
+<item id="0" extid="473"><text>辆</text>
+<comment>liàng</comment>
+<answers>
+<answer>(measure word for vehicles)</answer>
+</answers>
+</item>
+
+<item id="0" extid="903"><text>音乐</text>
+<comment>yīnyuè</comment>
+<answers>
+<answer>music</answer>
+</answers>
+</item>
+
+<item id="0" extid="639"><text>上课</text>
+<comment>shàng kè</comment>
+<answers>
+<answer>attend class</answer>
+<answer>give a lesson</answer>
+</answers>
+</item>
+
+<item id="0" extid="776"><text>喂</text>
+<comment>wèi</comment>
+<answers>
+<answer>hello</answer>
+</answers>
+</item>
+
+<item id="0" extid="981"><text>正在</text>
+<comment>zhèngzài</comment>
+<answers>
+<answer>in process of</answer>
+<answer>in course of</answer>
+</answers>
+</item>
+
+<item id="0" extid="54"><text>不</text>
+<comment>bù</comment>
+<answers>
+<answer>not</answer>
+<answer>no</answer>
+</answers>
+</item>
+
+<item id="0" extid="842"><text>信封</text>
+<comment>xìnfēng</comment>
+<answers>
+<answer>envelope</answer>
+</answers>
+</item>
+
+<item id="0" extid="286"><text>喊</text>
+<comment>hǎn</comment>
+<answers>
+<answer>shout</answer>
+<answer>cry out</answer>
+<answer>yell</answer>
+<answer>call sb.</answer>
+</answers>
+</item>
+
+<item id="0" extid="304"><text>后</text>
+<comment>hòu</comment>
+<answers>
+<answer>back</answer>
+<answer>rear</answer>
+<answer>behind</answer>
+</answers>
+</item>
+
+<item id="0" extid="647"><text>深</text>
+<comment>shēn</comment>
+<answers>
+<answer>deep</answer>
+<answer>difficult</answer>
+<answer>thoroughgoing</answer>
+<answer>dark</answer>
+</answers>
+</item>
+
+<item id="0" extid="1011"><text>装</text>
+<comment>zhuāng</comment>
+<answers>
+<answer>act</answer>
+<answer>pretend</answer>
+<answer>load</answer>
+<answer>assemble</answer>
+<answer>fit</answer>
+</answers>
+</item>
+
+<item id="0" extid="849"><text>需要</text>
+<comment>xūyào</comment>
+<answers>
+<answer>need</answer>
+<answer>want</answer>
+<answer>require</answer>
+<answer>demand</answer>
+</answers>
+</item>
+
+<item id="0" extid="365"><text>交</text>
+<comment>jiāo</comment>
+<answers>
+<answer>hand over</answer>
+<answer>deliver</answer>
+<answer>associate with</answer>
+</answers>
+</item>
+
+<item id="0" extid="247"><text>各</text>
+<comment>gè</comment>
+<answers>
+<answer>each</answer>
+<answer>every</answer>
+<answer>various</answer>
+<answer>different</answer>
+</answers>
+</item>
+
+<item id="0" extid="303"><text>红</text>
+<comment>hóng</comment>
+<answers>
+<answer>red</answer>
+<answer>symbol of success</answer>
+</answers>
+</item>
+
+<item id="0" extid="341"><text>集合</text>
+<comment>jíhé</comment>
+<answers>
+<answer>gather</answer>
+<answer>assemble</answer>
+<answer>muster</answer>
+</answers>
+</item>
+
+<item id="0" extid="570"><text>跑步</text>
+<comment>pǎo bù</comment>
+<answers>
+<answer>run</answer>
+</answers>
+</item>
+
+<item id="0" extid="463"><text>利用</text>
+<comment>lìyòng</comment>
+<answers>
+<answer>use</answer>
+<answer>utilize</answer>
+<answer>exploit</answer>
+<answer>make use of</answer>
+</answers>
+</item>
+
+<item id="0" extid="938"><text>愿意</text>
+<comment>yuànyì</comment>
+<answers>
+<answer>be willing</answer>
+<answer>be ready</answer>
+<answer>wish</answer>
+<answer>like</answer>
+<answer>want</answer>
+</answers>
+</item>
+
+<item id="0" extid="848"><text>休息</text>
+<comment>xiūxi</comment>
+<answers>
+<answer>have a rest</answer>
+<answer>rest</answer>
+</answers>
+</item>
+
+<item id="0" extid="246"><text>个</text>
+<comment>gè</comment>
+<answers>
+<answer>(a general measure word)</answer>
+</answers>
+</item>
+
+<item id="0" extid="379"><text>节日</text>
+<comment>jiérì</comment>
+<answers>
+<answer>festival</answer>
+<answer>holiday</answer>
+</answers>
+</item>
+
+<item id="0" extid="724"><text>提</text>
+<comment>tí</comment>
+<answers>
+<answer>carry</answer>
+<answer>put forward</answer>
+<answer>draw out</answer>
+<answer>raise</answer>
+</answers>
+</item>
+
+<item id="0" extid="378"><text>节目</text>
+<comment>jiémù</comment>
+<answers>
+<answer>program</answer>
+<answer>item (on a program)</answer>
+</answers>
+</item>
+
+<item id="0" extid="277"><text>过来</text>
+<comment>guò lai</comment>
+<answers>
+<answer>come over</answer>
+<answer>come up</answer>
+</answers>
+</item>
+
+<item id="0" extid="296"><text>喝</text>
+<comment>hē</comment>
+<answers>
+<answer>drink</answer>
+</answers>
+</item>
+
+<item id="0" extid="868"><text>要</text>
+<comment>yào</comment>
+<answers>
+<answer>want to</answer>
+<answer>wish to</answer>
+<answer>must</answer>
+<answer>shall</answer>
+<answer>ask for</answer>
+</answers>
+</item>
+
+<item id="0" extid="36"><text>比较</text>
+<comment>bǐjiào</comment>
+<answers>
+<answer>compare</answer>
+<answer>contrast</answer>
+<answer>relatively</answer>
+</answers>
+</item>
+
+<item id="0" extid="500"><text>慢</text>
+<comment>màn</comment>
+<answers>
+<answer>slow</answer>
+</answers>
+</item>
+
+<item id="0" extid="408"><text>举</text>
+<comment>jǔ</comment>
+<answers>
+<answer>lift</answer>
+<answer>heave</answer>
+<answer>raise</answer>
+<answer>hold up</answer>
+<answer>cite</answer>
+</answers>
+</item>
+
+<item id="0" extid="968"><text>照相</text>
+<comment>zhào xiàng</comment>
+<answers>
+<answer>take a picture (or photograph)</answer>
+</answers>
+</item>
+
+<item id="0" extid="851"><text>学</text>
+<comment>xué</comment>
+<answers>
+<answer>study</answer>
+<answer>learn</answer>
+<answer>imitate</answer>
+<answer>mimic</answer>
+</answers>
+</item>
+
+<item id="0" extid="411"><text>觉得</text>
+<comment>juéde</comment>
+<answers>
+<answer>feel</answer>
+<answer>think</answer>
+</answers>
+</item>
+
+<item id="0" extid="953"><text>早饭</text>
+<comment>zǎofàn</comment>
+<answers>
+<answer>breakfast</answer>
+</answers>
+</item>
+
+<item id="0" extid="680"><text>舒服</text>
+<comment>shūfu</comment>
+<answers>
+<answer>comfortable</answer>
+</answers>
+</item>
+
+<item id="0" extid="1012"><text>准备</text>
+<comment>zhǔnbèi</comment>
+<answers>
+<answer>prepare</answer>
+<answer>get ready (for)</answer>
+<answer>intend</answer>
+</answers>
+</item>
+
+<item id="0" extid="69"><text>操场</text>
+<comment>cāochǎng</comment>
+<answers>
+<answer>playground</answer>
+<answer>sports ground</answer>
+</answers>
+</item>
+
+<item id="0" extid="732"><text>跳舞</text>
+<comment>tiào wǔ</comment>
+<answers>
+<answer>dance</answer>
+</answers>
+</item>
+
+<item id="0" extid="93"><text>出去</text>
+<comment>chū qù</comment>
+<answers>
+<answer>go out</answer>
+<answer>get out</answer>
+</answers>
+</item>
+
+<item id="0" extid="191"><text>发生</text>
+<comment>fāshēng</comment>
+<answers>
+<answer>happen</answer>
+<answer>occur</answer>
+<answer>take place</answer>
+</answers>
+</item>
+
+<item id="0" extid="828"><text>小孩儿</text>
+<comment>xiǎoháir</comment>
+<answers>
+<answer>child</answer>
+</answers>
+</item>
+
+<item id="0" extid="517"><text>民族</text>
+<comment>mínzú</comment>
+<answers>
+<answer>nation</answer>
+<answer>nationality</answer>
+</answers>
+</item>
+
+<item id="0" extid="16"><text>班</text>
+<comment>bān</comment>
+<answers>
+<answer>class</answer>
+<answer>team</answer>
+</answers>
+</item>
+
+<item id="0" extid="546"><text>你</text>
+<comment>nǐ</comment>
+<answers>
+<answer>you (the singular form)</answer>
+</answers>
+</item>
+
+<item id="0" extid="983"><text>政治</text>
+<comment>zhèngzhì</comment>
+<answers>
+<answer>politics</answer>
+<answer>political affairs</answer>
+<answer>political</answer>
+</answers>
+</item>
+
+<item id="0" extid="729"><text>条</text>
+<comment>tiáo</comment>
+<answers>
+<answer>strip (measure word for long things)</answer>
+</answers>
+</item>
+
+<item id="0" extid="783"><text>文学家</text>
+<comment>wénxuéjiā</comment>
+<answers>
+<answer>literatus</answer>
+<answer>writer</answer>
+</answers>
+</item>
+
+<item id="0" extid="306"><text>忽然</text>
+<comment>hūrán</comment>
+<answers>
+<answer>suddenly</answer>
+<answer>all of a sudden</answer>
+</answers>
+</item>
+
+<item id="0" extid="114"><text>错误</text>
+<comment>cuòwù</comment>
+<answers>
+<answer>mistake</answer>
+<answer>error</answer>
+<answer>fault</answer>
+</answers>
+</item>
+
+<item id="0" extid="568"><text>旁边</text>
+<comment>pángbiān</comment>
+<answers>
+<answer>side</answer>
+</answers>
+</item>
+
+<item id="0" extid="567"><text>派</text>
+<comment>pài</comment>
+<answers>
+<answer>send</answer>
+<answer>appoint</answer>
+</answers>
+</item>
+
+<item id="0" extid="393"><text>进去</text>
+<comment>jìnqu</comment>
+<answers>
+<answer>go in</answer>
+<answer>get in</answer>
+<answer>enter</answer>
+</answers>
+</item>
+
+<item id="0" extid="157"><text>电灯</text>
+<comment>diàndēng</comment>
+<answers>
+<answer>electric light</answer>
+<answer>electric lamp</answer>
+</answers>
+</item>
+
+<item id="0" extid="293"><text>好看</text>
+<comment>hǎokàn</comment>
+<answers>
+<answer>good-looking</answer>
+<answer>nice</answer>
+<answer>pretty</answer>
+</answers>
+</item>
+
+<item id="0" extid="785"><text>文章</text>
+<comment>wénzhāng</comment>
+<answers>
+<answer>essay</answer>
+<answer>article</answer>
+<answer>hidden meaning</answer>
+</answers>
+</item>
+
+<item id="0" extid="933"><text>元</text>
+<comment>yuán</comment>
+<answers>
+<answer>Yuan (used for money)</answer>
+</answers>
+</item>
+
+<item id="0" extid="77"><text>长</text>
+<comment>cháng</comment>
+<answers>
+<answer>long</answer>
+<answer>grow</answer>
+<answer>develop</answer>
+<answer>acquire</answer>
+<answer>increase</answer>
+</answers>
+</item>
+
+<item id="0" extid="900"><text>意思</text>
+<comment>yìsi</comment>
+<answers>
+<answer>meaning</answer>
+<answer>idea</answer>
+<answer>wish</answer>
+<answer>appreciation</answer>
+</answers>
+</item>
+
+<item id="0" extid="758"><text>外国</text>
+<comment>wàiguó</comment>
+<answers>
+<answer>foreign country</answer>
+</answers>
+</item>
+
+<item id="0" extid="387"><text>今年</text>
+<comment>jīnnián</comment>
+<answers>
+<answer>this year</answer>
+</answers>
+</item>
+
+<item id="0" extid="627"><text>日</text>
+<comment>rì</comment>
+<answers>
+<answer>sun</answer>
+<answer>day time</answer>
+<answer>a day of the month</answer>
+</answers>
+</item>
+
+<item id="0" extid="643"><text>上学</text>
+<comment>shàng xué</comment>
+<answers>
+<answer>go to school</answer>
+<answer>attend school</answer>
+</answers>
+</item>
+
+<item id="0" extid="179"><text>顿</text>
+<comment>dùn</comment>
+<answers>
+<answer>used for meals or scolding</answer>
+</answers>
+</item>
+
+<item id="0" extid="250"><text>根</text>
+<comment>gēn</comment>
+<answers>
+<answer>root</answer>
+<answer>foot</answer>
+<answer>base</answer>
+<answer>origin</answer>
+</answers>
+</item>
+
+<item id="0" extid="73"><text>查</text>
+<comment>chá</comment>
+<answers>
+<answer>examine</answer>
+<answer>investigate</answer>
+<answer>look up</answer>
+</answers>
+</item>
+
+<item id="0" extid="386"><text>斤</text>
+<comment>jīn</comment>
+<answers>
+<answer>half a kilogram</answer>
+</answers>
+</item>
+
+<item id="0" extid="359"><text>件</text>
+<comment>jiàn</comment>
+<answers>
+<answer>(measure word for clothes, affairs)</answer>
+</answers>
+</item>
+
+<item id="0" extid="39"><text>必须</text>
+<comment>bìxū</comment>
+<answers>
+<answer>must</answer>
+<answer>have to</answer>
+</answers>
+</item>
+
+<item id="0" extid="302"><text>很</text>
+<comment>hěn</comment>
+<answers>
+<answer>very</answer>
+<answer>quite</answer>
+<answer>awfully</answer>
+</answers>
+</item>
+
+<item id="0" extid="935"><text>原谅</text>
+<comment>yuánliàng</comment>
+<answers>
+<answer>excuse</answer>
+<answer>forgive</answer>
+<answer>pardon</answer>
+</answers>
+</item>
+
+<item id="0" extid="185"><text>饿</text>
+<comment>è</comment>
+<answers>
+<answer>hungry</answer>
+<answer>starve</answer>
+</answers>
+</item>
+
+<item id="0" extid="622"><text>人民</text>
+<comment>rénmín</comment>
+<answers>
+<answer>the people</answer>
+</answers>
+</item>
+
+<item id="0" extid="585"><text>起</text>
+<comment>qǐ</comment>
+<answers>
+<answer>remove</answer>
+<answer>pull</answer>
+<answer>appear</answer>
+<answer>rise</answer>
+<answer>raise</answer>
+</answers>
+</item>
+
+<item id="0" extid="768"><text>晚上</text>
+<comment>wǎnshang</comment>
+<answers>
+<answer>evening</answer>
+<answer>night</answer>
+</answers>
+</item>
+
+<item id="0" extid="384"><text>借</text>
+<comment>jiè</comment>
+<answers>
+<answer>borrow</answer>
+<answer>lend</answer>
+<answer>make use of</answer>
+</answers>
+</item>
+
+<item id="0" extid="137"><text>的</text>
+<comment>de</comment>
+<answers>
+<answer>particle to form an attribute</answer>
+<answer>of</answer>
+</answers>
+</item>
+
+<item id="0" extid="35"><text>比</text>
+<comment>bǐ</comment>
+<answers>
+<answer>emulate</answer>
+<answer>compare</answer>
+<answer>than</answer>
+</answers>
+</item>
+
+<item id="0" extid="491"><text>麻烦</text>
+<comment>máfan</comment>
+<answers>
+<answer>troublesome</answer>
+<answer>put sb. to trouble</answer>
+</answers>
+</item>
+
+<item id="0" extid="8"><text>八</text>
+<comment>bā</comment>
+<answers>
+<answer>eight</answer>
+</answers>
+</item>
+
+<item id="0" extid="965"><text>着急</text>
+<comment>zháojí</comment>
+<answers>
+<answer>worry</answer>
+<answer>anxious</answer>
+</answers>
+</item>
+
+<item id="0" extid="381"><text>结束</text>
+<comment>jiéshù</comment>
+<answers>
+<answer>end</answer>
+<answer>finish</answer>
+<answer>conclude</answer>
+<answer>wind up</answer>
+</answers>
+</item>
+
+<item id="0" extid="516"><text>面条儿</text>
+<comment>miàntiáor</comment>
+<answers>
+<answer>noodles</answer>
+</answers>
+</item>
+
+<item id="0" extid="557"><text>农民</text>
+<comment>nóngmín</comment>
+<answers>
+<answer>peasant</answer>
+</answers>
+</item>
+
+<item id="0" extid="750"><text>团结</text>
+<comment>tuánjié</comment>
+<answers>
+<answer>unite</answer>
+<answer>rally</answer>
+</answers>
+</item>
+
+<item id="0" extid="209"><text>飞</text>
+<comment>fēi</comment>
+<answers>
+<answer>fly</answer>
+<answer>flit</answer>
+<answer>hover</answer>
+<answer>flutter</answer>
+</answers>
+</item>
+
+<item id="0" extid="660"><text>十</text>
+<comment>shí</comment>
+<answers>
+<answer>ten</answer>
+</answers>
+</item>
+
+<item id="0" extid="942"><text>云</text>
+<comment>yún</comment>
+<answers>
+<answer>cloud</answer>
+</answers>
+</item>
+
+<item id="0" extid="284"><text>海</text>
+<comment>hǎi</comment>
+<answers>
+<answer>sea</answer>
+</answers>
+</item>
+
+<item id="0" extid="642"><text>上午</text>
+<comment>shàngwǔ</comment>
+<answers>
+<answer>forenoon</answer>
+<answer>morning</answer>
+</answers>
+</item>
+
+<item id="0" extid="97"><text>穿</text>
+<comment>chuān</comment>
+<answers>
+<answer>penetrate</answer>
+<answer>go through</answer>
+<answer>put on</answer>
+</answers>
+</item>
+
+<item id="0" extid="722"><text>疼</text>
+<comment>téng</comment>
+<answers>
+<answer>ache</answer>
+<answer>pain</answer>
+</answers>
+</item>
+
+<item id="0" extid="959"><text>占</text>
+<comment>zhàn</comment>
+<answers>
+<answer>occupy</answer>
+<answer>seize</answer>
+<answer>take</answer>
+<answer>constitute</answer>
+</answers>
+</item>
+
+<item id="0" extid="116"><text>打算</text>
+<comment>dǎsuàn</comment>
+<answers>
+<answer>plan</answer>
+<answer>intend</answer>
+</answers>
+</item>
+
+<item id="0" extid="602"><text>情况</text>
+<comment>qíngkuàng</comment>
+<answers>
+<answer>circumstance</answer>
+<answer>situation, condition</answer>
+</answers>
+</item>
+
+<item id="0" extid="674"><text>收</text>
+<comment>shōu</comment>
+<answers>
+<answer>put away</answer>
+<answer>collect</answer>
+<answer>harvest</answer>
+<answer>receive</answer>
+</answers>
+</item>
+
+<item id="0" extid="648"><text>什么</text>
+<comment>shénme</comment>
+<answers>
+<answer>what</answer>
+<answer>whatever</answer>
+<answer>why</answer>
+<answer>something</answer>
+</answers>
+</item>
+
+<item id="0" extid="996"><text>中午</text>
+<comment>zhōngwǔ</comment>
+<answers>
+<answer>noon</answer>
+<answer>midday</answer>
+</answers>
+</item>
+
+<item id="0" extid="236"><text>干部</text>
+<comment>gànbù</comment>
+<answers>
+<answer>cadre</answer>
+</answers>
+</item>
+
+<item id="0" extid="701"><text>算</text>
+<comment>suàn</comment>
+<answers>
+<answer>calculate</answer>
+<answer>compute</answer>
+<answer>include</answer>
+<answer>count</answer>
+</answers>
+</item>
+
+<item id="0" extid="223"><text>复杂</text>
+<comment>fùzá</comment>
+<answers>
+<answer>complex</answer>
+<answer>complicated</answer>
+</answers>
+</item>
+
+<item id="0" extid="166"><text>冬</text>
+<comment>dōng</comment>
+<answers>
+<answer>winter</answer>
+</answers>
+</item>
+
+<item id="0" extid="49"><text>表扬</text>
+<comment>biǎoyáng</comment>
+<answers>
+<answer>praise</answer>
+<answer>commend</answer>
+</answers>
+</item>
+
+<item id="0" extid="668"><text>世界</text>
+<comment>shìjiè</comment>
+<answers>
+<answer>world</answer>
+</answers>
+</item>
+
+<item id="0" extid="1007"><text>主意</text>
+<comment>zhǔyi</comment>
+<answers>
+<answer>idea</answer>
+<answer>plan</answer>
+<answer>decision</answer>
+</answers>
+</item>
+
+<item id="0" extid="347"><text>计划</text>
+<comment>jìhuà</comment>
+<answers>
+<answer>plan</answer>
+<answer>project</answer>
+<answer>program</answer>
+<answer>map out</answer>
+</answers>
+</item>
+
+<item id="0" extid="190"><text>发烧</text>
+<comment>fā shāo</comment>
+<answers>
+<answer>have a fever</answer>
+<answer>have a temperature</answer>
+</answers>
+</item>
+
+<item id="0" extid="479"><text>留</text>
+<comment>liú</comment>
+<answers>
+<answer>remain</answer>
+<answer>stay</answer>
+<answer>keep</answer>
+<answer>grow</answer>
+<answer>leave</answer>
+</answers>
+</item>
+
+<item id="0" extid="91"><text>出发</text>
+<comment>chūfā</comment>
+<answers>
+<answer>set out</answer>
+<answer>start from</answer>
+</answers>
+</item>
+
+<item id="0" extid="129"><text>当然</text>
+<comment>dāngrán</comment>
+<answers>
+<answer>of course</answer>
+<answer>certainly</answer>
+</answers>
+</item>
+
+<item id="0" extid="775"><text>伟大</text>
+<comment>wěidà</comment>
+<answers>
+<answer>great</answer>
+<answer>mighty</answer>
+</answers>
+</item>
+
+<item id="0" extid="679"><text>输</text>
+<comment>shū</comment>
+<answers>
+<answer>transport</answer>
+<answer>convey</answer>
+<answer>lose</answer>
+<answer>be beaten</answer>
+</answers>
+</item>
+
+<item id="0" extid="79"><text>唱</text>
+<comment>chàng</comment>
+<answers>
+<answer>sing</answer>
+</answers>
+</item>
+
+<item id="0" extid="969"><text>这</text>
+<comment>zhè</comment>
+<answers>
+<answer>this</answer>
+<answer>this moment</answer>
+<answer>now</answer>
+</answers>
+</item>
+
+<item id="0" extid="125"><text>代表</text>
+<comment>dàibiǎo</comment>
+<answers>
+<answer>represent</answer>
+<answer>representative</answer>
+<answer>deputy</answer>
+</answers>
+</item>
+
+<item id="0" extid="820"><text>香</text>
+<comment>xiāng</comment>
+<answers>
+<answer>fragrant</answer>
+<answer>savory</answer>
+<answer>be with relish</answer>
+</answers>
+</item>
+
+<item id="0" extid="206"><text>放</text>
+<comment>fàng</comment>
+<answers>
+<answer>let go</answer>
+<answer>put</answer>
+<answer>lay</answer>
+<answer>have a vacation</answer>
+</answers>
+</item>
+
+<item id="0" extid="430"><text>克</text>
+<comment>kè</comment>
+<answers>
+<answer>gram</answer>
+</answers>
+</item>
+
+<item id="0" extid="1005"><text>猪</text>
+<comment>zhū</comment>
+<answers>
+<answer>pig</answer>
+<answer>hog</answer>
+<answer>swine</answer>
+</answers>
+</item>
+
+<item id="0" extid="267"><text>关系</text>
+<comment>guānxì</comment>
+<answers>
+<answer>relation</answer>
+<answer>relationship</answer>
+</answers>
+</item>
+
+<item id="0" extid="30"><text>北边</text>
+<comment>běibiān</comment>
+<answers>
+<answer>north</answer>
+<answer>north side</answer>
+</answers>
+</item>
+
+<item id="0" extid="319"><text>黄</text>
+<comment>huáng</comment>
+<answers>
+<answer>yellow</answer>
+<answer>sallow</answer>
+<answer>fall through</answer>
+</answers>
+</item>
+
+<item id="0" extid="264"><text>刮</text>
+<comment>guā</comment>
+<answers>
+<answer>(刮) scrape</answer>
+<answer>shave</answer>
+<answer>smear with</answer>
+<answer>(颳) blow</answer>
+</answers>
+</item>
+
+<item id="0" extid="12"><text>吧</text>
+<comment>ba</comment>
+<answers>
+<answer>(modal particle ending a sentence)</answer>
+</answers>
+</item>
+
+<item id="0" extid="889"><text>医生</text>
+<comment>yīshēng</comment>
+<answers>
+<answer>doctor</answer>
+</answers>
+</item>
+
+<item id="0" extid="388"><text>今天</text>
+<comment>jīntiān</comment>
+<answers>
+<answer>today</answer>
+<answer>present</answer>
+<answer>now</answer>
+</answers>
+</item>
+
+<item id="0" extid="573"><text>批评</text>
+<comment>pīpíng</comment>
+<answers>
+<answer>criticize</answer>
+<answer>criticism</answer>
+</answers>
+</item>
+
+<item id="0" extid="951"><text>早</text>
+<comment>zǎo</comment>
+<answers>
+<answer>early</answer>
+<answer>for a long time</answer>
+<answer>as early as</answer>
+</answers>
+</item>
+
+<item id="0" extid="725"><text>提高</text>
+<comment>tígāo</comment>
+<answers>
+<answer>raise</answer>
+<answer>heighten</answer>
+<answer>enhance</answer>
+<answer>increase</answer>
+</answers>
+</item>
+
+<item id="0" extid="791"><text>握手</text>
+<comment>wò shǒu</comment>
+<answers>
+<answer>shake hands</answer>
+<answer>clasp hands</answer>
+</answers>
+</item>
+
+<item id="0" extid="204"><text>房间</text>
+<comment>fángjiān</comment>
+<answers>
+<answer>room</answer>
+</answers>
+</item>
+
+<item id="0" extid="677"><text>手表</text>
+<comment>shǒubiǎo</comment>
+<answers>
+<answer>wrist watch</answer>
+</answers>
+</item>
+
+<item id="0" extid="973"><text>这些</text>
+<comment>zhèxiē</comment>
+<answers>
+<answer>these</answer>
+</answers>
+</item>
+
+<item id="0" extid="704"><text>所以</text>
+<comment>suǒyǐ</comment>
+<answers>
+<answer>so</answer>
+<answer>therefore</answer>
+<answer>as a result</answer>
+</answers>
+</item>
+
+<item id="0" extid="749"><text>图书馆</text>
+<comment>túshūguǎn</comment>
+<answers>
+<answer>library</answer>
+</answers>
+</item>
+
+<item id="0" extid="976"><text>真</text>
+<comment>zhēn</comment>
+<answers>
+<answer>true</answer>
+<answer>real</answer>
+<answer>genuine</answer>
+<answer>clearly</answer>
+<answer>really</answer>
+</answers>
+</item>
+
+<item id="0" extid="322"><text>回答</text>
+<comment>huídá</comment>
+<answers>
+<answer>answer</answer>
+<answer>reply</answer>
+<answer>response</answer>
+</answers>
+</item>
+
+<item id="0" extid="460"><text>里边</text>
+<comment>lǐbian</comment>
+<answers>
+<answer>inside</answer>
+<answer>in</answer>
+<answer>within</answer>
+<answer>interior</answer>
+</answers>
+</item>
+
+<item id="0" extid="561"><text>女儿</text>
+<comment>nǚ'ér</comment>
+<answers>
+<answer>daughter</answer>
+</answers>
+</item>
+
+<item id="0" extid="928"><text>雨</text>
+<comment>yǔ</comment>
+<answers>
+<answer>rain</answer>
+</answers>
+</item>
+
+<item id="0" extid="315"><text>坏</text>
+<comment>huài</comment>
+<answers>
+<answer>bad</answer>
+<answer>go bad</answer>
+<answer>spoil</answer>
+<answer>ruin</answer>
+</answers>
+</item>
+
+<item id="0" extid="920"><text>有些</text>
+<comment>yǒuxiē</comment>
+<answers>
+<answer>some</answer>
+<answer>some of</answer>
+</answers>
+</item>
+
+<item id="0" extid="770"><text>往</text>
+<comment>wǎng</comment>
+<answers>
+<answer>go</answer>
+<answer>to</answer>
+<answer>toward</answer>
+<answer>in the direction of</answer>
+</answers>
+</item>
+
+<item id="0" extid="220"><text>服务员</text>
+<comment>fúwùyuán</comment>
+<answers>
+<answer>waiter</answer>
+<answer>waitress</answer>
+<answer>attendant</answer>
+</answers>
+</item>
+
+<item id="0" extid="285"><text>寒假</text>
+<comment>hánjià</comment>
+<answers>
+<answer>winter vacation</answer>
+</answers>
+</item>
+
+<item id="0" extid="1020"><text>祖国</text>
+<comment>zǔguó</comment>
+<answers>
+<answer>motherland</answer>
+<answer>fatherland</answer>
+<answer>homeland</answer>
+</answers>
+</item>
+
+<item id="0" extid="921"><text>有意思</text>
+<comment>yǒu yìsi</comment>
+<answers>
+<answer>interesting</answer>
+<answer>enjoyable</answer>
+</answers>
+</item>
+
+<item id="0" extid="194"><text>法语（法文）</text>
+<comment>fǎyǔ(fǎwén)</comment>
+<answers>
+<answer>French</answer>
+<answer>French language</answer>
+</answers>
+</item>
+
+<item id="0" extid="202"><text>方面</text>
+<comment>fāngmiàn</comment>
+<answers>
+<answer>respect</answer>
+<answer>aspect</answer>
+<answer>field</answer>
+<answer>side</answer>
+</answers>
+</item>
+
+<item id="0" extid="863"><text>宴会</text>
+<comment>yànhuì</comment>
+<answers>
+<answer>banquet</answer>
+<answer>feast</answer>
+<answer>dinner party</answer>
+</answers>
+</item>
+
+<item id="0" extid="528"><text>那个</text>
+<comment>nàge</comment>
+<answers>
+<answer>that</answer>
+</answers>
+</item>
+
+<item id="0" extid="710"><text>她</text>
+<comment>tā</comment>
+<answers>
+<answer>she</answer>
+</answers>
+</item>
+
+<item id="0" extid="671"><text>是</text>
+<comment>shì</comment>
+<answers>
+<answer>be</answer>
+</answers>
+</item>
+
+<item id="0" extid="892"><text>椅子</text>
+<comment>yǐzi</comment>
+<answers>
+<answer>chair</answer>
+</answers>
+</item>
+
+<item id="0" extid="548"><text>年</text>
+<comment>nián</comment>
+<answers>
+<answer>year</answer>
+<answer>New Year</answer>
+</answers>
+</item>
+
+<item id="0" extid="702"><text>虽然</text>
+<comment>suīrán</comment>
+<answers>
+<answer>though</answer>
+<answer>although</answer>
+</answers>
+</item>
+
+<item id="0" extid="736"><text>听写</text>
+<comment>tīngxiě</comment>
+<answers>
+<answer>dictate</answer>
+<answer>dictation</answer>
+</answers>
+</item>
+
+<item id="0" extid="751"><text>推</text>
+<comment>tuī</comment>
+<answers>
+<answer>push</answer>
+<answer>shove</answer>
+<answer>turn a mill</answer>
+<answer>grind</answer>
+</answers>
+</item>
+
+<item id="0" extid="844"><text>星期日（星期天）</text>
+<comment>xīngqīrì(xīngqītiān)</comment>
+<answers>
+<answer>Sunday</answer>
+</answers>
+</item>
+
+<item id="0" extid="833"><text>鞋</text>
+<comment>xié</comment>
+<answers>
+<answer>shoe</answer>
+</answers>
+</item>
+
+<item id="0" extid="26"><text>报</text>
+<comment>bào</comment>
+<answers>
+<answer>newspaper</answer>
+<answer>gazette</answer>
+</answers>
+</item>
+
+<item id="0" extid="227"><text>该</text>
+<comment>gāi</comment>
+<answers>
+<answer>should</answer>
+<answer>ought to</answer>
+<answer>owe</answer>
+<answer>sb.'s turn</answer>
+</answers>
+</item>
+
+<item id="0" extid="320"><text>回</text>
+<comment>huí</comment>
+<answers>
+<answer>return</answer>
+<answer>turn around</answer>
+<answer>answer</answer>
+<answer>reply</answer>
+<answer>(for times of an event or action)</answer>
+</answers>
+</item>
+
+<item id="0" extid="598"><text>青年</text>
+<comment>qīngnián</comment>
+<answers>
+<answer>young person</answer>
+<answer>youth</answer>
+</answers>
+</item>
+
+<item id="0" extid="221"><text>辅导</text>
+<comment>fǔdǎo</comment>
+<answers>
+<answer>coach</answer>
+<answer>teach</answer>
+<answer>tutor</answer>
+</answers>
+</item>
+
+<item id="0" extid="28"><text>杯子</text>
+<comment>bēizi</comment>
+<answers>
+<answer>cup</answer>
+<answer>glass</answer>
+</answers>
+</item>
+
+<item id="0" extid="324"><text>回去</text>
+<comment>huí qù</comment>
+<answers>
+<answer>return</answer>
+<answer>go back</answer>
+<answer>be back</answer>
+</answers>
+</item>
+
+<item id="0" extid="171"><text>都</text>
+<comment>dōu</comment>
+<answers>
+<answer>all</answer>
+<answer>both</answer>
+<answer>even</answer>
+<answer>already</answer>
+</answers>
+</item>
+
+<item id="0" extid="260"><text>公园</text>
+<comment>gōngyuán</comment>
+<answers>
+<answer>park</answer>
+</answers>
+</item>
+
+<item id="0" extid="592"><text>钱</text>
+<comment>qián</comment>
+<answers>
+<answer>money</answer>
+<answer>fund</answer>
+<answer>sum</answer>
+</answers>
+</item>
+
+<item id="0" extid="441"><text>块</text>
+<comment>kuài</comment>
+<answers>
+<answer>piece</answer>
+<answer>Yuan (the basic RMB unit)</answer>
+</answers>
+</item>
+
+<item id="0" extid="490"><text>妈妈</text>
+<comment>māma</comment>
+<answers>
+<answer>mummy</answer>
+<answer>mom</answer>
+<answer>ma</answer>
+<answer>mother</answer>
+</answers>
+</item>
+
+<item id="0" extid="259"><text>公里</text>
+<comment>gōnglǐ</comment>
+<answers>
+<answer>kilometer</answer>
+</answers>
+</item>
+
+<item id="0" extid="861"><text>眼睛</text>
+<comment>yǎnjing</comment>
+<answers>
+<answer>eye</answer>
+</answers>
+</item>
+
+<item id="0" extid="192"><text>发现</text>
+<comment>fāxiàn</comment>
+<answers>
+<answer>discover</answer>
+<answer>find</answer>
+<answer>discovery</answer>
+</answers>
+</item>
+
+<item id="0" extid="219"><text>服务</text>
+<comment>fúwù</comment>
+<answers>
+<answer>serve</answer>
+<answer>service</answer>
+</answers>
+</item>
+
+<item id="0" extid="289"><text>好</text>
+<comment>hǎo</comment>
+<answers>
+<answer>good</answer>
+<answer>nice</answer>
+<answer>be in good health</answer>
+<answer>so as to</answer>
+<answer>very</answer>
+<answer>quite</answer>
+<answer>so</answer>
+</answers>
+</item>
+
+<item id="0" extid="3"><text>矮</text>
+<comment>ǎi</comment>
+<answers>
+<answer>short</answer>
+<answer>low</answer>
+</answers>
+</item>
+
+<item id="0" extid="180"><text>多</text>
+<comment>duō</comment>
+<answers>
+<answer>much</answer>
+<answer>many</answer>
+<answer>more</answer>
+<answer>how</answer>
+<answer>what</answer>
+<answer>a little or few more than</answer>
+</answers>
+</item>
+
+<item id="0" extid="553"><text>您</text>
+<comment>nín</comment>
+<answers>
+<answer>you (in respectful form)</answer>
+</answers>
+</item>
+
+<item id="0" extid="470"><text>练习</text>
+<comment>liànxí</comment>
+<answers>
+<answer>practice</answer>
+<answer>exercise</answer>
+<answer>drill</answer>
+</answers>
+</item>
+
+<item id="0" extid="512"><text>们（朋友们）</text>
+<comment>men (péngyoumen)</comment>
+<answers>
+<answer>(particle forming a plural pronoun)</answer>
+</answers>
+</item>
+
+<item id="0" extid="533"><text>那样</text>
+<comment>nàyàng</comment>
+<answers>
+<answer>of that kind</answer>
+<answer>like that</answer>
+<answer>so</answer>
+<answer>such</answer>
+</answers>
+</item>
+
+<item id="0" extid="621"><text>人们</text>
+<comment>rénmen</comment>
+<answers>
+<answer>persons</answer>
+<answer>people</answer>
+<answer>the public</answer>
+</answers>
+</item>
+
+<item id="0" extid="84"><text>城市</text>
+<comment>chéngshì</comment>
+<answers>
+<answer>town</answer>
+<answer>city</answer>
+</answers>
+</item>
+
+<item id="0" extid="331"><text>火车</text>
+<comment>huǒchē</comment>
+<answers>
+<answer>train</answer>
+</answers>
+</item>
+
+<item id="0" extid="666"><text>实现</text>
+<comment>shíxiàn</comment>
+<answers>
+<answer>realize</answer>
+<answer>achieve</answer>
+<answer>bring about</answer>
+</answers>
+</item>
+
+<item id="0" extid="829"><text>小姐</text>
+<comment>xiǎojie</comment>
+<answers>
+<answer>young lady</answer>
+<answer>Miss</answer>
+<answer>miss</answer>
+</answers>
+</item>
+
+<item id="0" extid="880"><text>一会儿</text>
+<comment>yīhuìr</comment>
+<answers>
+<answer>a little while</answer>
+<answer>a moment</answer>
+</answers>
+</item>
+
+<item id="0" extid="100"><text>窗户</text>
+<comment>chuānghu</comment>
+<answers>
+<answer>window</answer>
+<answer>casement</answer>
+</answers>
+</item>
+
+<item id="0" extid="214"><text>分钟</text>
+<comment>fēnzhōng</comment>
+<answers>
+<answer>minute</answer>
+</answers>
+</item>
+
+<item id="0" extid="784"><text>文艺</text>
+<comment>wényì</comment>
+<answers>
+<answer>literature and art</answer>
+</answers>
+</item>
+
+<item id="0" extid="745"><text>同志</text>
+<comment>tóngzhì</comment>
+<answers>
+<answer>comrade</answer>
+</answers>
+</item>
+
+<item id="0" extid="160"><text>电影</text>
+<comment>diànyǐng</comment>
+<answers>
+<answer>film</answer>
+<answer>movie</answer>
+</answers>
+</item>
+
+<item id="0" extid="11"><text>爸爸</text>
+<comment>bàba</comment>
+<answers>
+<answer>pa</answer>
+<answer>dad</answer>
+<answer>father</answer>
+</answers>
+</item>
+
+<item id="0" extid="709"><text>它们</text>
+<comment>tāmen</comment>
+<answers>
+<answer>they</answer>
+<answer>them (for things, animals, etc.)</answer>
+</answers>
+</item>
+
+<item id="0" extid="112"><text>从前</text>
+<comment>cóngqián</comment>
+<answers>
+<answer>before</answer>
+<answer>formerly</answer>
+<answer>in the past</answer>
+</answers>
+</item>
+
+<item id="0" extid="309"><text>花</text>
+<comment>huā</comment>
+<answers>
+<answer>flower</answer>
+<answer>blossom</answer>
+<answer>blurred</answer>
+<answer>dim</answer>
+<answer>spend</answer>
+<answer>expend</answer>
+<answer>cost</answer>
+</answers>
+</item>
+
+<item id="0" extid="216"><text>封</text>
+<comment>fēng</comment>
+<answers>
+<answer>for letters</answer>
+</answers>
+</item>
+
+<item id="0" extid="486"><text>录音</text>
+<comment>lùyīn</comment>
+<answers>
+<answer>record sound</answer>
+<answer>sound recording</answer>
+</answers>
+</item>
+
+<item id="0" extid="601"><text>晴</text>
+<comment>qíng</comment>
+<answers>
+<answer>clear</answer>
+<answer>sunny</answer>
+</answers>
+</item>
+
+<item id="0" extid="1019"><text>足球</text>
+<comment>zúqiú</comment>
+<answers>
+<answer>football game</answer>
+<answer>soccer ball</answer>
+</answers>
+</item>
+
+<item id="0" extid="944"><text>再</text>
+<comment>zài</comment>
+<answers>
+<answer>again</answer>
+<answer>not … until</answer>
+<answer>then and only then</answer>
+</answers>
+</item>
+
+<item id="0" extid="850"><text>许多</text>
+<comment>xǔduō</comment>
+<answers>
+<answer>many</answer>
+<answer>much</answer>
+<answer>a lot of</answer>
+</answers>
+</item>
+
+<item id="0" extid="175"><text>段</text>
+<comment>duàn</comment>
+<answers>
+<answer>segment</answer>
+<answer>period</answer>
+<answer>paragraph</answer>
+</answers>
+</item>
+
+<item id="0" extid="7"><text>安排</text>
+<comment>ānpái</comment>
+<answers>
+<answer>plan</answer>
+<answer>arrange</answer>
+</answers>
+</item>
+
+<item id="0" extid="104"><text>春天</text>
+<comment>chūntiān</comment>
+<answers>
+<answer>spring</answer>
+<answer>springtime</answer>
+</answers>
+</item>
+
+<item id="0" extid="712"><text>抬</text>
+<comment>tái</comment>
+<answers>
+<answer>lift up</answer>
+<answer>raise</answer>
+<answer>carry</answer>
+</answers>
+</item>
+
+<item id="0" extid="493"><text>马上</text>
+<comment>mǎshàng</comment>
+<answers>
+<answer>at once</answer>
+<answer>immediately</answer>
+<answer>right away</answer>
+</answers>
+</item>
+
+<item id="0" extid="351"><text>家庭</text>
+<comment>jiātíng</comment>
+<answers>
+<answer>family</answer>
+<answer>household</answer>
+</answers>
+</item>
+
+<item id="0" extid="55"><text>不错</text>
+<comment>bùcuò</comment>
+<answers>
+<answer>not bad</answer>
+<answer>pretty good</answer>
+<answer>correct</answer>
+</answers>
+</item>
+
+<item id="0" extid="174"><text>锻炼</text>
+<comment>duànliàn</comment>
+<answers>
+<answer>take exercise</answer>
+<answer>physical training</answer>
+</answers>
+</item>
+
+<item id="0" extid="541"><text>内</text>
+<comment>nèi</comment>
+<answers>
+<answer>inside</answer>
+<answer>inner</answer>
+<answer>within</answer>
+</answers>
+</item>
+
+<item id="0" extid="469"><text>脸</text>
+<comment>liǎn</comment>
+<answers>
+<answer>face</answer>
+</answers>
+</item>
+
+<item id="0" extid="706"><text>他</text>
+<comment>tā</comment>
+<answers>
+<answer>he</answer>
+</answers>
+</item>
+
+<item id="0" extid="412"><text>决定</text>
+<comment>juédìng</comment>
+<answers>
+<answer>decide</answer>
+<answer>resolve</answer>
+<answer>decision</answer>
+<answer>resolution</answer>
+</answers>
+</item>
+
+<item id="0" extid="599"><text>轻</text>
+<comment>qīng</comment>
+<answers>
+<answer>light</answer>
+<answer>small in number, degree, etc.</answer>
+</answers>
+</item>
+
+<item id="0" extid="672"><text>市</text>
+<comment>shì</comment>
+<answers>
+<answer>city</answer>
+<answer>municipality</answer>
+<answer>market</answer>
+</answers>
+</item>
+
+<item id="0" extid="589"><text>汽水</text>
+<comment>qìshuǐ</comment>
+<answers>
+<answer>aerated water</answer>
+<answer>soda</answer>
+<answer>soft drink</answer>
+</answers>
+</item>
+
+<item id="0" extid="369"><text>饺子</text>
+<comment>jiǎozi</comment>
+<answers>
+<answer>dumpling</answer>
+</answers>
+</item>
+
+<item id="0" extid="837"><text>新</text>
+<comment>xīn</comment>
+<answers>
+<answer>new</answer>
+<answer>fresh</answer>
+<answer>up-to-date</answer>
+<answer>newly</answer>
+</answers>
+</item>
+
+<item id="0" extid="1008"><text>住</text>
+<comment>zhù</comment>
+<answers>
+<answer>live</answer>
+<answer>reside</answer>
+<answer>stay</answer>
+<answer>stop</answer>
+<answer>cease</answer>
+</answers>
+</item>
+
+<item id="0" extid="420"><text>看病</text>
+<comment>kàn bìng</comment>
+<answers>
+<answer>see a doctor</answer>
+<answer>see a patient</answer>
+</answers>
+</item>
+
+<item id="0" extid="812"><text>下午</text>
+<comment>xiàwǔ</comment>
+<answers>
+<answer>afternoon</answer>
+</answers>
+</item>
+
+<item id="0" extid="752"><text>腿</text>
+<comment>tuǐ</comment>
+<answers>
+<answer>leg</answer>
+</answers>
+</item>
+
+<item id="0" extid="586"><text>起床</text>
+<comment>qǐ chuáng</comment>
+<answers>
+<answer>get up</answer>
+</answers>
+</item>
+
+<item id="0" extid="439"><text>哭</text>
+<comment>kū</comment>
+<answers>
+<answer>cry</answer>
+</answers>
+</item>
+
+<item id="0" extid="99"><text>窗</text>
+<comment>chuāng</comment>
+<answers>
+<answer>window</answer>
+</answers>
+</item>
+
+<item id="0" extid="68"><text>参加</text>
+<comment>cānjiā</comment>
+<answers>
+<answer>join</answer>
+<answer>take part in</answer>
+<answer>attend</answer>
+</answers>
+</item>
+
+<item id="0" extid="773"><text>危险</text>
+<comment>wēixiǎn</comment>
+<answers>
+<answer>dangerous</answer>
+<answer>perilous</answer>
+<answer>danger</answer>
+</answers>
+</item>
+
+<item id="0" extid="865"><text>样子</text>
+<comment>yàngzi</comment>
+<answers>
+<answer>shape</answer>
+<answer>appearance</answer>
+<answer>manner</answer>
+<answer>model</answer>
+</answers>
+</item>
+
+<item id="0" extid="881"><text>一…就…</text>
+<comment>yī … jiù …</comment>
+<answers>
+<answer>as soon as</answer>
+<answer>once</answer>
+</answers>
+</item>
+
+<item id="0" extid="339"><text>鸡蛋</text>
+<comment>jīdàn</comment>
+<answers>
+<answer>chicken egg</answer>
+</answers>
+</item>
+
+<item id="0" extid="496"><text>买</text>
+<comment>mǎi</comment>
+<answers>
+<answer>buy</answer>
+<answer>purchase</answer>
+</answers>
+</item>
+
+<item id="0" extid="727"><text>天</text>
+<comment>tiān</comment>
+<answers>
+<answer>sky</answer>
+<answer>heaven</answer>
+<answer>weather</answer>
+</answers>
+</item>
+
+<item id="0" extid="201"><text>方法</text>
+<comment>fāngfǎ</comment>
+<answers>
+<answer>method</answer>
+<answer>way</answer>
+<answer>means</answer>
+</answers>
+</item>
+
+<item id="0" extid="407"><text>橘子（桔子）</text>
+<comment>júzi</comment>
+<answers>
+<answer>orange</answer>
+<answer>tangerine</answer>
+<answer>mandarin</answer>
+</answers>
+</item>
+
+<item id="0" extid="438"><text>口语</text>
+<comment>kǒuyǔ</comment>
+<answers>
+<answer>spoken language</answer>
+</answers>
+</item>
+
+<item id="0" extid="5"><text>爱人</text>
+<comment>àirén</comment>
+<answers>
+<answer>husband</answer>
+<answer>wife</answer>
+<answer>sweetheart</answer>
+</answers>
+</item>
+
+<item id="0" extid="501"><text>忙</text>
+<comment>máng</comment>
+<answers>
+<answer>busy</answer>
+<answer>fully occupied</answer>
+</answers>
+</item>
+
+<item id="0" extid="593"><text>前</text>
+<comment>qián</comment>
+<answers>
+<answer>front</answer>
+<answer>forward</answer>
+<answer>before</answer>
+<answer>preceding</answer>
+</answers>
+</item>
+
+<item id="0" extid="641"><text>上去</text>
+<comment>shàng qu</comment>
+<answers>
+<answer>go up</answer>
+</answers>
+</item>
+
+<item id="0" extid="1002"><text>重要</text>
+<comment>zhòngyào</comment>
+<answers>
+<answer>important</answer>
+<answer>significant</answer>
+<answer>major</answer>
+</answers>
+</item>
+
+<item id="0" extid="630"><text>容易</text>
+<comment>róngyì</comment>
+<answers>
+<answer>easy</answer>
+<answer>easily</answer>
+<answer>apt</answer>
+</answers>
+</item>
+
+<item id="0" extid="375"><text>接着</text>
+<comment>jiēzhe</comment>
+<answers>
+<answer>then</answer>
+<answer>afterward</answer>
+<answer>follow</answer>
+</answers>
+</item>
+
+<item id="0" extid="424"><text>科学</text>
+<comment>kēxué</comment>
+<answers>
+<answer>science</answer>
+<answer>scientific</answer>
+</answers>
+</item>
+
+<item id="0" extid="790"><text>我们</text>
+<comment>wǒmen</comment>
+<answers>
+<answer>we</answer>
+<answer>us</answer>
+<answer>our</answer>
+</answers>
+</item>
+
+<item id="0" extid="675"><text>收拾</text>
+<comment>shōushi</comment>
+<answers>
+<answer>put in order</answer>
+<answer>tidy</answer>
+<answer>punish</answer>
+<answer>repair</answer>
+</answers>
+</item>
+
+<item id="0" extid="149"><text>弟弟</text>
+<comment>dìdi</comment>
+<answers>
+<answer>younger brother</answer>
+</answers>
+</item>
+
+<item id="0" extid="640"><text>上来</text>
+<comment>shàng lái</comment>
+<answers>
+<answer>come up</answer>
+</answers>
+</item>
+
+<item id="0" extid="9"><text>把</text>
+<comment>bǎ</comment>
+<answers>
+<answer>bunch</answer>
+<answer>(function word)</answer>
+</answers>
+</item>
+
+<item id="0" extid="102"><text>吹</text>
+<comment>chuī</comment>
+<answers>
+<answer>blow</answer>
+<answer>brag</answer>
+<answer>fail</answer>
+<answer>break up</answer>
+</answers>
+</item>
+
+<item id="0" extid="941"><text>月球</text>
+<comment>yuèqiú</comment>
+<answers>
+<answer>the moon</answer>
+</answers>
+</item>
+
+<item id="0" extid="931"><text>遇到</text>
+<comment>yùdào</comment>
+<answers>
+<answer>meet with</answer>
+<answer>run into</answer>
+<answer>encounter</answer>
+</answers>
+</item>
+
+<item id="0" extid="800"><text>喜欢</text>
+<comment>xǐhuan</comment>
+<answers>
+<answer>love</answer>
+<answer>like</answer>
+<answer>be keen to</answer>
+<answer>be fond of</answer>
+</answers>
+</item>
+
+<item id="0" extid="184"><text>多少</text>
+<comment>duōshao</comment>
+<answers>
+<answer>how many</answer>
+<answer>how much</answer>
+</answers>
+</item>
+
+<item id="0" extid="428"><text>可以</text>
+<comment>kěyǐ</comment>
+<answers>
+<answer>can</answer>
+<answer>may</answer>
+</answers>
+</item>
+
+<item id="0" extid="936"><text>圆</text>
+<comment>yuán</comment>
+<answers>
+<answer>round</answer>
+<answer>circular</answer>
+<answer>circle</answer>
+</answers>
+</item>
+
+<item id="0" extid="225"><text>负责</text>
+<comment>fùzé</comment>
+<answers>
+<answer>be responsible for</answer>
+<answer>conscientious</answer>
+</answers>
+</item>
+
+<item id="0" extid="409"><text>句</text>
+<comment>jù</comment>
+<answers>
+<answer>(measure word for sentences)</answer>
+</answers>
+</item>
+
+<item id="0" extid="756"><text>外</text>
+<comment>wài</comment>
+<answers>
+<answer>outer</answer>
+<answer>outside</answer>
+<answer>external</answer>
+<answer>foreign</answer>
+</answers>
+</item>
+
+<item id="0" extid="970"><text>这个</text>
+<comment>zhège</comment>
+<answers>
+<answer>this one</answer>
+<answer>this</answer>
+</answers>
+</item>
+
+<item id="0" extid="294"><text>好象</text>
+<comment>hǎoxiàng</comment>
+<answers>
+<answer>seem</answer>
+<answer>look like</answer>
+<answer>be like</answer>
+<answer>as if</answer>
+</answers>
+</item>
+
+<item id="0" extid="825"><text>向</text>
+<comment>xiàng</comment>
+<answers>
+<answer>towards</answer>
+<answer>to</answer>
+<answer>face</answer>
+<answer>be partial to</answer>
+</answers>
+</item>
+
+<item id="0" extid="644"><text>少</text>
+<comment>shǎo</comment>
+<answers>
+<answer>few</answer>
+<answer>little</answer>
+<answer>less</answer>
+<answer>lack</answer>
+<answer>lose</answer>
+<answer>reduce</answer>
+</answers>
+</item>
+
+<item id="0" extid="481"><text>留学生</text>
+<comment>liúxuéshēng</comment>
+<answers>
+<answer>foreign student</answer>
+<answer>overseas student</answer>
+</answers>
+</item>
+
+<item id="0" extid="636"><text>上</text>
+<comment>shàng</comment>
+<answers>
+<answer>upper</answer>
+<answer>up</answer>
+<answer>upward</answer>
+<answer>preceding</answer>
+<answer>get on</answer>
+<answer>go up</answer>
+<answer>go to</answer>
+<answer>submit</answer>
+<answer>fill</answer>
+</answers>
+</item>
+
+<item id="0" extid="831"><text>笑</text>
+<comment>xiào</comment>
+<answers>
+<answer>smile (at)</answer>
+<answer>laugh (at)</answer>
+<answer>ridicule</answer>
+</answers>
+</item>
+
+<item id="0" extid="217"><text>风</text>
+<comment>fēng</comment>
+<answers>
+<answer>wind</answer>
+</answers>
+</item>
+
+<item id="0" extid="127"><text>当</text>
+<comment>dāng</comment>
+<answers>
+<answer>at (a time or place)</answer>
+<answer>facing</answer>
+<answer>act as</answer>
+<answer>accept</answer>
+<answer>administer</answer>
+<answer>stop</answer>
+</answers>
+</item>
+
+<item id="0" extid="85"><text>成</text>
+<comment>chéng</comment>
+<answers>
+<answer>accomplish</answer>
+<answer>become</answer>
+</answers>
+</item>
+
+<item id="0" extid="543"><text>能</text>
+<comment>néng</comment>
+<answers>
+<answer>can</answer>
+<answer>be able to</answer>
+<answer>be capable of</answer>
+</answers>
+</item>
+
+<item id="0" extid="66"><text>菜</text>
+<comment>cài</comment>
+<answers>
+<answer>dish</answer>
+<answer>course</answer>
+<answer>vegetable</answer>
+<answer>greens</answer>
+</answers>
+</item>
+
+<item id="0" extid="521"><text>母亲</text>
+<comment>mǔqīn</comment>
+<answers>
+<answer>mother (used in written Chinese)</answer>
+</answers>
+</item>
+
+<item id="0" extid="22"><text>办公室</text>
+<comment>bàngōngshì</comment>
+<answers>
+<answer>office</answer>
+</answers>
+</item>
+
+<item id="0" extid="205"><text>访问</text>
+<comment>fǎngwèn</comment>
+<answers>
+<answer>visit</answer>
+<answer>call on</answer>
+</answers>
+</item>
+
+<item id="0" extid="574"><text>啤酒</text>
+<comment>píjiǔ</comment>
+<answers>
+<answer>beer</answer>
+</answers>
+</item>
+
+<item id="0" extid="25"><text>抱</text>
+<comment>bào</comment>
+<answers>
+<answer>hug</answer>
+<answer>embrace</answer>
+</answers>
+</item>
+
+<item id="0" extid="299"><text>河</text>
+<comment>hé</comment>
+<answers>
+<answer>river</answer>
+</answers>
+</item>
+
+<item id="0" extid="188"><text>二</text>
+<comment>èr</comment>
+<answers>
+<answer>two</answer>
+</answers>
+</item>
+
+<item id="0" extid="431"><text>刻</text>
+<comment>kè</comment>
+<answers>
+<answer>a quarter of an hour</answer>
+<answer>carve</answer>
+<answer>cut</answer>
+</answers>
+</item>
+
+<item id="0" extid="313"><text>化学</text>
+<comment>huàxué</comment>
+<answers>
+<answer>chemistry</answer>
+</answers>
+</item>
+
+<item id="0" extid="576"><text>便宜</text>
+<comment>piányi</comment>
+<answers>
+<answer>cheap</answer>
+<answer>inexpensive</answer>
+<answer>small gains</answer>
+</answers>
+</item>
+
+<item id="0" extid="47"><text>表现</text>
+<comment>biǎoxiàn</comment>
+<answers>
+<answer>show off</answer>
+<answer>express</answer>
+<answer>display</answer>
+</answers>
+</item>
+
+<item id="0" extid="841"><text>信</text>
+<comment>xìn</comment>
+<answers>
+<answer>believe</answer>
+<answer>trust</answer>
+<answer>profess faith in</answer>
+<answer>letter</answer>
+</answers>
+</item>
+
+<item id="0" extid="168"><text>懂</text>
+<comment>dǒng</comment>
+<answers>
+<answer>understand</answer>
+<answer>know</answer>
+</answers>
+</item>
+
+<item id="0" extid="882"><text>一块儿</text>
+<comment>yīkuàir</comment>
+<answers>
+<answer>the same place</answer>
+<answer>together</answer>
+</answers>
+</item>
+
+<item id="0" extid="503"><text>帽子</text>
+<comment>màozi</comment>
+<answers>
+<answer>hat</answer>
+<answer>cap</answer>
+</answers>
+</item>
+
+<item id="0" extid="466"><text>俩</text>
+<comment>liǎ</comment>
+<answers>
+<answer>two people (used in oral Chinese)</answer>
+</answers>
+</item>
+
+<item id="0" extid="796"><text>西</text>
+<comment>xī</comment>
+<answers>
+<answer>west</answer>
+</answers>
+</item>
+
+<item id="0" extid="86"><text>成绩</text>
+<comment>chéngjì</comment>
+<answers>
+<answer>success</answer>
+<answer>achievement</answer>
+<answer>score</answer>
+</answers>
+</item>
+
+<item id="0" extid="292"><text>好处</text>
+<comment>hǎochu</comment>
+<answers>
+<answer>good</answer>
+<answer>advantage</answer>
+<answer>benefit</answer>
+<answer>gain</answer>
+</answers>
+</item>
+
+<item id="0" extid="118"><text>大概</text>
+<comment>dàgài</comment>
+<answers>
+<answer>probably</answer>
+<answer>general</answer>
+<answer>broad outline</answer>
+</answers>
+</item>
+
+<item id="0" extid="353"><text>坚持</text>
+<comment>jiānchí</comment>
+<answers>
+<answer>persist in</answer>
+<answer>persevere in</answer>
+<answer>stick to</answer>
+</answers>
+</item>
+
+<item id="0" extid="908"><text>赢</text>
+<comment>yíng</comment>
+<answers>
+<answer>win</answer>
+<answer>beat</answer>
+<answer>gain</answer>
+</answers>
+</item>
+
+<item id="0" extid="445"><text>啦</text>
+<comment>la</comment>
+<answers>
+<answer>(modal particle ending a sentence)</answer>
+</answers>
+</item>
+
+<item id="0" extid="65"><text>才</text>
+<comment>cái</comment>
+<answers>
+<answer>just</answer>
+</answers>
+</item>
+
+<item id="0" extid="614"><text>全体</text>
+<comment>quántǐ</comment>
+<answers>
+<answer>all</answer>
+<answer>whole</answer>
+<answer>entire</answer>
+</answers>
+</item>
+
+<item id="0" extid="615"><text>确实</text>
+<comment>quèshí</comment>
+<answers>
+<answer>true</answer>
+<answer>reliable</answer>
+</answers>
+</item>
+
+<item id="0" extid="907"><text>应该</text>
+<comment>yīnggāi</comment>
+<answers>
+<answer>ought to</answer>
+<answer>should</answer>
+<answer>must</answer>
+</answers>
+</item>
+
+<item id="0" extid="940"><text>月亮</text>
+<comment>yuèliang</comment>
+<answers>
+<answer>the moon</answer>
+</answers>
+</item>
+
+<item id="0" extid="845"><text>行</text>
+<comment>xíng</comment>
+<answers>
+<answer>all right</answer>
+<answer>O.K.</answer>
+<answer>capable</answer>
+<answer>competent</answer>
+</answers>
+</item>
+
+<item id="0" extid="619"><text>热情</text>
+<comment>rèqíng</comment>
+<answers>
+<answer>warm</answer>
+<answer>fervent</answer>
+<answer>enthusiasm</answer>
+</answers>
+</item>
+
+<item id="0" extid="899"><text>意见</text>
+<comment>yìjiàn</comment>
+<answers>
+<answer>opinion</answer>
+<answer>view</answer>
+<answer>objection</answer>
+</answers>
+</item>
+
+</items>
+			</lesson>
+			</lessons>
+		</brain>

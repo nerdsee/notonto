@@ -1,0 +1,16 @@
+=======================
+= Ihr no|tonto Status =
+=======================
+
+Hallo @NICKUSER@,
+dies ist Ihr persönlicher notonto status. Er gibt Ihnen einen Überblick über die abonnierten Lektionen und 
+die Verteilung der Vokabeln auf die einzelnen Level. (Stand: @DATE@)
+
+Übersicht der Lektionen
+=======================
+@LESSONS@
+
+Sie können in Ihren Benutzereinstellungen die Häufigkeit einstellen mit der die Statusmail verschickt wird.
+Derzeit wird die Statusmail @FREQ@ verschickt. Sie können sie natürlich auch ganz deaktivieren.
+
+Loggen Sie sich dazu bitte bei notonto ein oder folgen Sie diesem Link: http://@SERVER@/options.jsf

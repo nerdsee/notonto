@@ -1,0 +1,6 @@
+content	notonto	content/
+locale	notonto	en-US	locale/en-US/
+locale	notonto	de-DE	locale/de-DE/
+skin	notonto	classic/1.0	skin/
+overlay	chrome://browser/content/browser.xul	chrome://notonto/content/notontoOverlay.xul
+style	chrome://global/content/customizeToolbar.xul	chrome://notonto/skin/overlay.css

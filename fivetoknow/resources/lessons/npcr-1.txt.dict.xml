@@ -1,0 +1,3307 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<brain>
+			<lessons>
+			<lesson>
+			<title><![CDATA[NPCR-1]]></title>
+			<description><![CDATA[New Practical Chinese Reader (Book 1)]]></description>
+			<keyboardLayout>EN</keyboardLayout>
+			<type>1</type>
+<items>
+<item id="0" extid="1008" chapter="1"><text><![CDATA[呢]]></text>
+<comment><![CDATA[ne]]></comment>
+<answers>
+<answer type="0"><![CDATA[(a modal particle used for elliptical questions)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9021" chapter="9"><text><![CDATA[属]]></text>
+<comment><![CDATA[shǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[be born in the year of ... (dog, rooster, etc.)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7033" chapter="7"><text><![CDATA[历史]]></text>
+<comment><![CDATA[lìshǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[history]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4017" chapter="4"><text><![CDATA[杨]]></text>
+<comment><![CDATA[yáng]]></comment>
+<answers>
+<answer type="0"><![CDATA[(a surname)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9057" chapter="9"><text><![CDATA[面包]]></text>
+<comment><![CDATA[miànbāo]]></comment>
+<answers>
+<answer type="0"><![CDATA[bread]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11024" chapter="11"><text><![CDATA[东西]]></text>
+<comment><![CDATA[dōngxi]]></comment>
+<answers>
+<answer type="0"><![CDATA[things]]></answer>
+<answer type="0"><![CDATA[objects]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12007" chapter="12"><text><![CDATA[头]]></text>
+<comment><![CDATA[tóu]]></comment>
+<answers>
+<answer type="0"><![CDATA[head]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8013" chapter="8"><text><![CDATA[小]]></text>
+<comment><![CDATA[xiǎo]]></comment>
+<answers>
+<answer type="0"><![CDATA[little, small]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10036" chapter="10"><text><![CDATA[笔]]></text>
+<comment><![CDATA[bǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[pen]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4001" chapter="4"><text><![CDATA[认识]]></text>
+<comment><![CDATA[rènshi]]></comment>
+<answers>
+<answer type="0"><![CDATA[to know (somebody)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6003" chapter="6"><text><![CDATA[昨天]]></text>
+<comment><![CDATA[zuótiān]]></comment>
+<answers>
+<answer type="0"><![CDATA[yesterday]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4028" chapter="4"><text><![CDATA[美国]]></text>
+<comment><![CDATA[měiguó]]></comment>
+<answers>
+<answer type="0"><![CDATA[the United States]]></answer>
+<answer type="0"><![CDATA[America]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8019" chapter="8"><text><![CDATA[爱]]></text>
+<comment><![CDATA[ài]]></comment>
+<answers>
+<answer type="0"><![CDATA[love]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5020" chapter="5"><text><![CDATA[王小云]]></text>
+<comment><![CDATA[wáng xiǎoyún]]></comment>
+<answers>
+<answer type="0"><![CDATA[(name of a Chinese student)]]></answer>
+<answer type="0"><![CDATA[name of a Chinese student]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14035" chapter="14"><text><![CDATA[圣诞]]></text>
+<comment><![CDATA[shèngdàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[Christmas]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3004" chapter="3"><text><![CDATA[国]]></text>
+<comment><![CDATA[guó]]></comment>
+<answers>
+<answer type="0"><![CDATA[country, nation]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4007" chapter="4"><text><![CDATA[请]]></text>
+<comment><![CDATA[qǐng]]></comment>
+<answers>
+<answer type="0"><![CDATA[please]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4019" chapter="4"><text><![CDATA[学院]]></text>
+<comment><![CDATA[xuéyuàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[institute]]></answer>
+<answer type="0"><![CDATA[college]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13037" chapter="13"><text><![CDATA[客厅]]></text>
+<comment><![CDATA[kètīng]]></comment>
+<answers>
+<answer type="0"><![CDATA[living room]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13048" chapter="13"><text><![CDATA[回信]]></text>
+<comment><![CDATA[huíxìn]]></comment>
+<answers>
+<answer type="0"><![CDATA[reply/reply]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9043" chapter="9"><text><![CDATA[鸭]]></text>
+<comment><![CDATA[yā]]></comment>
+<answers>
+<answer type="0"><![CDATA[duck]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10020" chapter="10"><text><![CDATA[苹果]]></text>
+<comment><![CDATA[píngguǒ]]></comment>
+<answers>
+<answer type="0"><![CDATA[apple]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11048" chapter="11"><text><![CDATA[礼物]]></text>
+<comment><![CDATA[lǐwù]]></comment>
+<answers>
+<answer type="0"><![CDATA[gift]]></answer>
+<answer type="0"><![CDATA[present]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14002" chapter="14"><text><![CDATA[刚才]]></text>
+<comment><![CDATA[gāngcái]]></comment>
+<answers>
+<answer type="0"><![CDATA[just now]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4024" chapter="4"><text><![CDATA[汉语]]></text>
+<comment><![CDATA[hànyǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[Chinese (language)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10038" chapter="10"><text><![CDATA[份]]></text>
+<comment><![CDATA[fèn]]></comment>
+<answers>
+<answer type="0"><![CDATA[publications like newspapers]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12030" chapter="12"><text><![CDATA[感冒]]></text>
+<comment><![CDATA[gǎnmào]]></comment>
+<answers>
+<answer type="0"><![CDATA[have a cold/common cold]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4004" chapter="4"><text><![CDATA[进来]]></text>
+<comment><![CDATA[jìnlai]]></comment>
+<answers>
+<answer type="0"><![CDATA[to come in]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14037" chapter="14"><text><![CDATA[上海]]></text>
+<comment><![CDATA[shànghǎi]]></comment>
+<answers>
+<answer type="0"><![CDATA[Shanghai]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12010" chapter="12"><text><![CDATA[想]]></text>
+<comment><![CDATA[xiǎng]]></comment>
+<answers>
+<answer type="0"><![CDATA[think/want to...]]></answer>
+<answer type="0"><![CDATA[miss]]></answer>
+<answer type="0"><![CDATA[remember with longing]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12026" chapter="12"><text><![CDATA[有点儿]]></text>
+<comment><![CDATA[yǒudiǎnr]]></comment>
+<answers>
+<answer type="0"><![CDATA[somewhat]]></answer>
+<answer type="0"><![CDATA[rather]]></answer>
+<answer type="0"><![CDATA[a bit]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11022" chapter="11"><text><![CDATA[为]]></text>
+<comment><![CDATA[wèi]]></comment>
+<answers>
+<answer type="0"><![CDATA[for]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8014" chapter="8"><text><![CDATA[狗]]></text>
+<comment><![CDATA[gǒu]]></comment>
+<answers>
+<answer type="0"><![CDATA[dog]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3003" chapter="3"><text><![CDATA[哪]]></text>
+<comment><![CDATA[nǎ]]></comment>
+<answers>
+<answer type="0"><![CDATA[which]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10029" chapter="10"><text><![CDATA[贵]]></text>
+<comment><![CDATA[guì]]></comment>
+<answers>
+<answer type="0"><![CDATA[expensive]]></answer>
+<answer type="0"><![CDATA[precious]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11039" chapter="11"><text><![CDATA[问题]]></text>
+<comment><![CDATA[wèntí]]></comment>
+<answers>
+<answer type="0"><![CDATA[question]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14025" chapter="14"><text><![CDATA[词]]></text>
+<comment><![CDATA[cí]]></comment>
+<answers>
+<answer type="0"><![CDATA[word]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9023" chapter="9"><text><![CDATA[会]]></text>
+<comment><![CDATA[huì]]></comment>
+<answers>
+<answer type="0"><![CDATA[meeting]]></answer>
+<answer type="0"><![CDATA[know how to, can]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2005" chapter="2"><text><![CDATA[他们]]></text>
+<comment><![CDATA[tāmen]]></comment>
+<answers>
+<answer type="0"><![CDATA[they]]></answer>
+<answer type="0"><![CDATA[them]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10012" chapter="10"><text><![CDATA[本子]]></text>
+<comment><![CDATA[běnzi]]></comment>
+<answers>
+<answer type="0"><![CDATA[notebook]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7006" chapter="7"><text><![CDATA[看]]></text>
+<comment><![CDATA[kàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[to watch]]></answer>
+<answer type="0"><![CDATA[to look at]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12005" chapter="12"><text><![CDATA[每]]></text>
+<comment><![CDATA[měi]]></comment>
+<answers>
+<answer type="0"><![CDATA[every]]></answer>
+<answer type="0"><![CDATA[each]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9047" chapter="9"><text><![CDATA[面]]></text>
+<comment><![CDATA[miàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[noodles]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7028" chapter="7"><text><![CDATA[系]]></text>
+<comment><![CDATA[xì]]></comment>
+<answers>
+<answer type="0"><![CDATA[faculty]]></answer>
+<answer type="0"><![CDATA[department]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10002" chapter="10"><text><![CDATA[光盘]]></text>
+<comment><![CDATA[guāngpán]]></comment>
+<answers>
+<answer type="0"><![CDATA[CD]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5015" chapter="5"><text><![CDATA[知道]]></text>
+<comment><![CDATA[zhīdào]]></comment>
+<answers>
+<answer type="0"><![CDATA[to know]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14040" chapter="14"><text><![CDATA[乱]]></text>
+<comment><![CDATA[luàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[in disorder]]></answer>
+<answer type="0"><![CDATA[in a mess]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3008" chapter="3"><text><![CDATA[老师]]></text>
+<comment><![CDATA[lǎoshī]]></comment>
+<answers>
+<answer type="0"><![CDATA[teacher]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10004" chapter="10"><text><![CDATA[商场]]></text>
+<comment><![CDATA[shāngchǎng]]></comment>
+<answers>
+<answer type="0"><![CDATA[market]]></answer>
+<answer type="0"><![CDATA[bazaar]]></answer>
+<answer type="0"><![CDATA[shopping mall]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7027" chapter="7"><text><![CDATA[文学]]></text>
+<comment><![CDATA[wénxué]]></comment>
+<answers>
+<answer type="0"><![CDATA[literature]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11045" chapter="11"><text><![CDATA[唱歌]]></text>
+<comment><![CDATA[chànggē]]></comment>
+<answers>
+<answer type="0"><![CDATA[sing (a song)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4021" chapter="4"><text><![CDATA[学生]]></text>
+<comment><![CDATA[xuésheng]]></comment>
+<answers>
+<answer type="0"><![CDATA[student]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14031" chapter="14"><text><![CDATA[语法]]></text>
+<comment><![CDATA[yǔfǎ]]></comment>
+<answers>
+<answer type="0"><![CDATA[grammar]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7015" chapter="7"><text><![CDATA[张]]></text>
+<comment><![CDATA[zhāng]]></comment>
+<answers>
+<answer type="0"><![CDATA[(a surname)]]></answer>
+<answer type="0"><![CDATA[flat objects]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10008" chapter="10"><text><![CDATA[跟]]></text>
+<comment><![CDATA[gēn]]></comment>
+<answers>
+<answer type="0"><![CDATA[with/follow]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7011" chapter="7"><text><![CDATA[啊]]></text>
+<comment><![CDATA[à]]></comment>
+<answers>
+<answer type="0"><![CDATA[ah]]></answer>
+<answer type="0"><![CDATA[oh]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13019" chapter="13"><text><![CDATA[间]]></text>
+<comment><![CDATA[jiān]]></comment>
+<answers>
+<answer type="0"><![CDATA[measure word for rooms, houses]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6005" chapter="6"><text><![CDATA[怎么样]]></text>
+<comment><![CDATA[zěnmeyàng]]></comment>
+<answers>
+<answer type="0"><![CDATA[How is it?]]></answer>
+<answer type="0"><![CDATA[how is ..., what is ... like]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9030" chapter="9"><text><![CDATA[蛋]]></text>
+<comment><![CDATA[dàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[egg]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14003" chapter="14"><text><![CDATA[邮局]]></text>
+<comment><![CDATA[yóujú]]></comment>
+<answers>
+<answer type="0"><![CDATA[post office]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13011" chapter="13"><text><![CDATA[电]]></text>
+<comment><![CDATA[diàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[electricity]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9042" chapter="9"><text><![CDATA[烤鸭]]></text>
+<comment><![CDATA[kǎoyā]]></comment>
+<answers>
+<answer type="0"><![CDATA[roast duck]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14020" chapter="14"><text><![CDATA[楼]]></text>
+<comment><![CDATA[lóu]]></comment>
+<answers>
+<answer type="0"><![CDATA[building]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13032" chapter="13"><text><![CDATA[可能]]></text>
+<comment><![CDATA[kěnéng]]></comment>
+<answers>
+<answer type="0"><![CDATA[maybe]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13027" chapter="13"><text><![CDATA[让]]></text>
+<comment><![CDATA[ràng]]></comment>
+<answers>
+<answer type="0"><![CDATA[let]]></answer>
+<answer type="0"><![CDATA[allow]]></answer>
+<answer type="0"><![CDATA[make]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3019" chapter="3"><text><![CDATA[陈]]></text>
+<comment><![CDATA[chén]]></comment>
+<answers>
+<answer type="0"><![CDATA[(a surname)]]></answer>
+<answer type="0"><![CDATA[a surname]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8005" chapter="8"><text><![CDATA[和]]></text>
+<comment><![CDATA[hé]]></comment>
+<answers>
+<answer type="0"><![CDATA[and]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6020" chapter="6"><text><![CDATA[打]]></text>
+<comment><![CDATA[dǎ]]></comment>
+<answers>
+<answer type="0"><![CDATA[to play]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10005" chapter="10"><text><![CDATA[商]]></text>
+<comment><![CDATA[shāng]]></comment>
+<answers>
+<answer type="0"><![CDATA[trade]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13020" chapter="13"><text><![CDATA[厨房]]></text>
+<comment><![CDATA[chúfáng]]></comment>
+<answers>
+<answer type="0"><![CDATA[kitchen]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10018" chapter="10"><text><![CDATA[香蕉苹果]]></text>
+<comment><![CDATA[xiāngjiāopíngguǒ]]></comment>
+<answers>
+<answer type="0"><![CDATA[a kind of apple that tastes like a banana]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5008" chapter="5"><text><![CDATA[女]]></text>
+<comment><![CDATA[nǚ]]></comment>
+<answers>
+<answer type="0"><![CDATA[female]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11003" chapter="11"><text><![CDATA[司机]]></text>
+<comment><![CDATA[sījī]]></comment>
+<answers>
+<answer type="0"><![CDATA[driver]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9052" chapter="9"><text><![CDATA[可乐]]></text>
+<comment><![CDATA[kělè]]></comment>
+<answers>
+<answer type="0"><![CDATA[Coke]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14006" chapter="14"><text><![CDATA[寄]]></text>
+<comment><![CDATA[jì]]></comment>
+<answers>
+<answer type="0"><![CDATA[post, mail]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13041" chapter="13"><text><![CDATA[方便]]></text>
+<comment><![CDATA[fāngbiàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[convenient]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9020" chapter="9"><text><![CDATA[出]]></text>
+<comment><![CDATA[chū]]></comment>
+<answers>
+<answer type="0"><![CDATA[go out]]></answer>
+<answer type="0"><![CDATA[come out]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9034" chapter="9"><text><![CDATA[红葡萄酒]]></text>
+<comment><![CDATA[hóngpútaojiǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[red wine]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3007" chapter="3"><text><![CDATA[谁]]></text>
+<comment><![CDATA[shéi]]></comment>
+<answers>
+<answer type="0"><![CDATA[who]]></answer>
+<answer type="0"><![CDATA[whom]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8039" chapter="8"><text><![CDATA[孩子]]></text>
+<comment><![CDATA[háizi]]></comment>
+<answers>
+<answer type="0"><![CDATA[child]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5025" chapter="5"><text><![CDATA[四]]></text>
+<comment><![CDATA[sì]]></comment>
+<answers>
+<answer type="0"><![CDATA[four]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12048" chapter="12"><text><![CDATA[生活]]></text>
+<comment><![CDATA[shēnghuó]]></comment>
+<answers>
+<answer type="0"><![CDATA[life]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6018" chapter="6"><text><![CDATA[遍]]></text>
+<comment><![CDATA[biàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[number of times (of action)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9037" chapter="9"><text><![CDATA[酒]]></text>
+<comment><![CDATA[jiǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[wine, liquor]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12019" chapter="12"><text><![CDATA[冷]]></text>
+<comment><![CDATA[lěng]]></comment>
+<answers>
+<answer type="0"><![CDATA[cold]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14027" chapter="14"><text><![CDATA[课文]]></text>
+<comment><![CDATA[kèwén]]></comment>
+<answers>
+<answer type="0"><![CDATA[text]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7038" chapter="7"><text><![CDATA[物理]]></text>
+<comment><![CDATA[wùlǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[physics]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14021" chapter="14"><text><![CDATA[对]]></text>
+<comment><![CDATA[duì]]></comment>
+<answers>
+<answer type="0"><![CDATA[right, correct]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12001" chapter="12"><text><![CDATA[全身]]></text>
+<comment><![CDATA[quánshēn]]></comment>
+<answers>
+<answer type="0"><![CDATA[all over the body]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5026" chapter="5"><text><![CDATA[号]]></text>
+<comment><![CDATA[hào]]></comment>
+<answers>
+<answer type="0"><![CDATA[number]]></answer>
+<answer type="0"><![CDATA[day of the month]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12024" chapter="12"><text><![CDATA[挂号]]></text>
+<comment><![CDATA[guàhào]]></comment>
+<answers>
+<answer type="0"><![CDATA[register (at a hospital, etc.)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7010" chapter="7"><text><![CDATA[名片]]></text>
+<comment><![CDATA[míngpiàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[calling card]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="1010" chapter="1"><text><![CDATA[林娜]]></text>
+<comment><![CDATA[lín nà]]></comment>
+<answers>
+<answer type="0"><![CDATA[(name of a British student)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14022" chapter="14"><text><![CDATA[念]]></text>
+<comment><![CDATA[niàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[read]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11005" chapter="11"><text><![CDATA[差]]></text>
+<comment><![CDATA[chà]]></comment>
+<answers>
+<answer type="0"><![CDATA[lack, be short of]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3017" chapter="3"><text><![CDATA[奶奶]]></text>
+<comment><![CDATA[nǎinai]]></comment>
+<answers>
+<answer type="0"><![CDATA[grandmother on the father's side]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9015" chapter="9"><text><![CDATA[生]]></text>
+<comment><![CDATA[shēng]]></comment>
+<answers>
+<answer type="0"><![CDATA[be born]]></answer>
+<answer type="0"><![CDATA[new]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10022" chapter="10"><text><![CDATA[怎么]]></text>
+<comment><![CDATA[zěnme]]></comment>
+<answers>
+<answer type="0"><![CDATA[how]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12014" chapter="12"><text><![CDATA[身体]]></text>
+<comment><![CDATA[shēntǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[body, health]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7005" chapter="7"><text><![CDATA[高]]></text>
+<comment><![CDATA[gāo]]></comment>
+<answers>
+<answer type="0"><![CDATA[high]]></answer>
+<answer type="0"><![CDATA[tall]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14048" chapter="14"><text><![CDATA[感恩节]]></text>
+<comment><![CDATA[gǎn'ēn jié]]></comment>
+<answers>
+<answer type="0"><![CDATA[Thanksgiving]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7026" chapter="7"><text><![CDATA[美]]></text>
+<comment><![CDATA[měi]]></comment>
+<answers>
+<answer type="0"><![CDATA[beautiful]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7024" chapter="7"><text><![CDATA[专业]]></text>
+<comment><![CDATA[zhuānyè]]></comment>
+<answers>
+<answer type="0"><![CDATA[major]]></answer>
+<answer type="0"><![CDATA[specialty]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12021" chapter="12"><text><![CDATA[衣服]]></text>
+<comment><![CDATA[yīfu]]></comment>
+<answers>
+<answer type="0"><![CDATA[clothes]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9029" chapter="9"><text><![CDATA[蛋糕]]></text>
+<comment><![CDATA[dàngāo]]></comment>
+<answers>
+<answer type="0"><![CDATA[cake]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5011" chapter="5"><text><![CDATA[坐]]></text>
+<comment><![CDATA[zuò]]></comment>
+<answers>
+<answer type="0"><![CDATA[to sit]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12013" chapter="12"><text><![CDATA[病]]></text>
+<comment><![CDATA[bìng]]></comment>
+<answers>
+<answer type="0"><![CDATA[illness/get sick]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12027" chapter="12"><text><![CDATA[发炎]]></text>
+<comment><![CDATA[fāyán]]></comment>
+<answers>
+<answer type="0"><![CDATA[become inflamed]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12032" chapter="12"><text><![CDATA[水]]></text>
+<comment><![CDATA[shuǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[water]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12042" chapter="12"><text><![CDATA[血]]></text>
+<comment><![CDATA[xiě]]></comment>
+<answers>
+<answer type="0"><![CDATA[blood]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6019" chapter="6"><text><![CDATA[打球]]></text>
+<comment><![CDATA[dǎqiú]]></comment>
+<answers>
+<answer type="0"><![CDATA[to play ball]]></answer>
+<answer type="0"><![CDATA[play ball]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2010" chapter="2"><text><![CDATA[男]]></text>
+<comment><![CDATA[nán]]></comment>
+<answers>
+<answer type="0"><![CDATA[male]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14008" chapter="14"><text><![CDATA[扫]]></text>
+<comment><![CDATA[sǎo]]></comment>
+<answers>
+<answer type="0"><![CDATA[sweep]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13017" chapter="13"><text><![CDATA[房子]]></text>
+<comment><![CDATA[fángzi]]></comment>
+<answers>
+<answer type="0"><![CDATA[house]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12033" chapter="12"><text><![CDATA[药]]></text>
+<comment><![CDATA[yào]]></comment>
+<answers>
+<answer type="0"><![CDATA[medicine]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10034" chapter="10"><text><![CDATA[找(钱)]]></text>
+<comment><![CDATA[zhǎo(qián)]]></comment>
+<answers>
+<answer type="0"><![CDATA[give change]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2007" chapter="2"><text><![CDATA[们]]></text>
+<comment><![CDATA[men]]></comment>
+<answers>
+<answer type="0"><![CDATA[(used after pronouns 我, 你, 他 or certain nouns to denote plural)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10032" chapter="10"><text><![CDATA[送]]></text>
+<comment><![CDATA[sòng]]></comment>
+<answers>
+<answer type="0"><![CDATA[give as a gift]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8008" chapter="8"><text><![CDATA[两]]></text>
+<comment><![CDATA[liǎng]]></comment>
+<answers>
+<answer type="0"><![CDATA[two]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6002" chapter="6"><text><![CDATA[游泳]]></text>
+<comment><![CDATA[yóuyǒng]]></comment>
+<answers>
+<answer type="0"><![CDATA[to swim]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10033" chapter="10"><text><![CDATA[给]]></text>
+<comment><![CDATA[gěi]]></comment>
+<answers>
+<answer type="0"><![CDATA[give]]></answer>
+<answer type="0"><![CDATA[to]]></answer>
+<answer type="0"><![CDATA[for]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8022" chapter="8"><text><![CDATA[做]]></text>
+<comment><![CDATA[zuò]]></comment>
+<answers>
+<answer type="0"><![CDATA[do]]></answer>
+<answer type="0"><![CDATA[make]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8035" chapter="8"><text><![CDATA[百]]></text>
+<comment><![CDATA[bǎi]]></comment>
+<answers>
+<answer type="0"><![CDATA[hundred]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12031" chapter="12"><text><![CDATA[住院]]></text>
+<comment><![CDATA[zhùyuàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[be in hospital]]></answer>
+<answer type="0"><![CDATA[be hospitalized]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12045" chapter="12"><text><![CDATA[打针]]></text>
+<comment><![CDATA[dǎzhēn]]></comment>
+<answers>
+<answer type="0"><![CDATA[have an injection]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="1009" chapter="1"><text><![CDATA[也]]></text>
+<comment><![CDATA[yě]]></comment>
+<answers>
+<answer type="0"><![CDATA[too]]></answer>
+<answer type="0"><![CDATA[also]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13016" chapter="13"><text><![CDATA[找]]></text>
+<comment><![CDATA[zhǎo]]></comment>
+<answers>
+<answer type="0"><![CDATA[look for]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6009" chapter="6"><text><![CDATA[天气]]></text>
+<comment><![CDATA[tiānqì]]></comment>
+<answers>
+<answer type="0"><![CDATA[weather]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12046" chapter="12"><text><![CDATA[热]]></text>
+<comment><![CDATA[rè]]></comment>
+<answers>
+<answer type="0"><![CDATA[hot]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9019" chapter="9"><text><![CDATA[出生]]></text>
+<comment><![CDATA[chūshēng]]></comment>
+<answers>
+<answer type="0"><![CDATA[be born]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8002" chapter="8"><text><![CDATA[几]]></text>
+<comment><![CDATA[jǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[how many, how much]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13024" chapter="13"><text><![CDATA[办]]></text>
+<comment><![CDATA[bàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[do]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10007" chapter="10"><text><![CDATA[常]]></text>
+<comment><![CDATA[cháng]]></comment>
+<answers>
+<answer type="0"><![CDATA[often]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9022" chapter="9"><text><![CDATA[聚会]]></text>
+<comment><![CDATA[jùhuì]]></comment>
+<answers>
+<answer type="0"><![CDATA[get-together]]></answer>
+<answer type="0"><![CDATA[party]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9041" chapter="9"><text><![CDATA[漂亮]]></text>
+<comment><![CDATA[piàoliang]]></comment>
+<answers>
+<answer type="0"><![CDATA[pretty, beautiful]]></answer>
+<answer type="0"><![CDATA[nice]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11029" chapter="11"><text><![CDATA[写]]></text>
+<comment><![CDATA[xiě]]></comment>
+<answers>
+<answer type="0"><![CDATA[write]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9006" chapter="9"><text><![CDATA[课]]></text>
+<comment><![CDATA[kè]]></comment>
+<answers>
+<answer type="0"><![CDATA[class, lesson]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11014" chapter="11"><text><![CDATA[英语]]></text>
+<comment><![CDATA[yīngyǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[English (language)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10019" chapter="10"><text><![CDATA[香蕉]]></text>
+<comment><![CDATA[xiāngjiāo]]></comment>
+<answers>
+<answer type="0"><![CDATA[banana]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14045" chapter="14"><text><![CDATA[圣诞老人]]></text>
+<comment><![CDATA[shèngdàn lǎorén]]></comment>
+<answers>
+<answer type="0"><![CDATA[Santa Clause]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9012" chapter="9"><text><![CDATA[星期日]]></text>
+<comment><![CDATA[xīngqīrì]]></comment>
+<answers>
+<answer type="0"><![CDATA[Sunday]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14032" chapter="14"><text><![CDATA[过]]></text>
+<comment><![CDATA[guò]]></comment>
+<answers>
+<answer type="0"><![CDATA[spend (time)]]></answer>
+<answer type="0"><![CDATA[celebrate (a birthday or holiday)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11002" chapter="11"><text><![CDATA[(一)点儿]]></text>
+<comment><![CDATA[(yì)diǎnr]]></comment>
+<answers>
+<answer type="0"><![CDATA[a little bit]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11053" chapter="11"><text><![CDATA[难]]></text>
+<comment><![CDATA[nán]]></comment>
+<answers>
+<answer type="0"><![CDATA[difficult]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6015" chapter="6"><text><![CDATA[有]]></text>
+<comment><![CDATA[yǒu]]></comment>
+<answers>
+<answer type="0"><![CDATA[to have]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10006" chapter="10"><text><![CDATA[常常]]></text>
+<comment><![CDATA[chángcháng]]></comment>
+<answers>
+<answer type="0"><![CDATA[often]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7013" chapter="7"><text><![CDATA[教]]></text>
+<comment><![CDATA[jiāo]]></comment>
+<answers>
+<answer type="0"><![CDATA[to teach]]></answer>
+<answer type="0"><![CDATA[teach]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8023" chapter="8"><text><![CDATA[工作]]></text>
+<comment><![CDATA[gōngzuò]]></comment>
+<answers>
+<answer type="0"><![CDATA[work/work]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9016" chapter="9"><text><![CDATA[多大]]></text>
+<comment><![CDATA[duōdà]]></comment>
+<answers>
+<answer type="0"><![CDATA[how old]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9049" chapter="9"><text><![CDATA[中餐]]></text>
+<comment><![CDATA[zhōngcān]]></comment>
+<answers>
+<answer type="0"><![CDATA[Chinese food]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12003" chapter="12"><text><![CDATA[身]]></text>
+<comment><![CDATA[shēn]]></comment>
+<answers>
+<answer type="0"><![CDATA[body]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4005" chapter="4"><text><![CDATA[进]]></text>
+<comment><![CDATA[jìn]]></comment>
+<answers>
+<answer type="0"><![CDATA[to enter]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3005" chapter="3"><text><![CDATA[人]]></text>
+<comment><![CDATA[rén]]></comment>
+<answers>
+<answer type="0"><![CDATA[people, person]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13001" chapter="13"><text><![CDATA[姑娘]]></text>
+<comment><![CDATA[nūniang]]></comment>
+<answers>
+<answer type="0"><![CDATA[girl]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8045" chapter="8"><text><![CDATA[工程师]]></text>
+<comment><![CDATA[gōngchéngshī]]></comment>
+<answers>
+<answer type="0"><![CDATA[engineer]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14005" chapter="14"><text><![CDATA[局]]></text>
+<comment><![CDATA[jú]]></comment>
+<answers>
+<answer type="0"><![CDATA[office]]></answer>
+<answer type="0"><![CDATA[bureau]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7025" chapter="7"><text><![CDATA[美术]]></text>
+<comment><![CDATA[měishù]]></comment>
+<answers>
+<answer type="0"><![CDATA[fine arts]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9003" chapter="9"><text><![CDATA[岁]]></text>
+<comment><![CDATA[suì]]></comment>
+<answers>
+<answer type="0"><![CDATA[years old (of a person)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6027" chapter="6"><text><![CDATA[你们]]></text>
+<comment><![CDATA[nǐmen]]></comment>
+<answers>
+<answer type="0"><![CDATA[you (plural)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9007" chapter="9"><text><![CDATA[星期]]></text>
+<comment><![CDATA[xīngqī]]></comment>
+<answers>
+<answer type="0"><![CDATA[week]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5023" chapter="5"><text><![CDATA[层]]></text>
+<comment><![CDATA[céng]]></comment>
+<answers>
+<answer type="0"><![CDATA[story]]></answer>
+<answer type="0"><![CDATA[floor]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7041" chapter="7"><text><![CDATA[选修]]></text>
+<comment><![CDATA[xuǎnxiū]]></comment>
+<answers>
+<answer type="0"><![CDATA[take an elective course]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10046" chapter="10"><text><![CDATA[卖]]></text>
+<comment><![CDATA[mài]]></comment>
+<answers>
+<answer type="0"><![CDATA[sell]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7018" chapter="7"><text><![CDATA[介绍]]></text>
+<comment><![CDATA[jièshào]]></comment>
+<answers>
+<answer type="0"><![CDATA[to introduce]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9025" chapter="9"><text><![CDATA[祝]]></text>
+<comment><![CDATA[zhù]]></comment>
+<answers>
+<answer type="0"><![CDATA[wish]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14004" chapter="14"><text><![CDATA[邮]]></text>
+<comment><![CDATA[yóu]]></comment>
+<answers>
+<answer type="0"><![CDATA[post, mail]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8025" chapter="8"><text><![CDATA[贝贝]]></text>
+<comment><![CDATA[bèibei]]></comment>
+<answers>
+<answer type="0"><![CDATA[name of a dog]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9040" chapter="9"><text><![CDATA[快乐]]></text>
+<comment><![CDATA[kuàilè]]></comment>
+<answers>
+<answer type="0"><![CDATA[happy]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14043" chapter="14"><text><![CDATA[包裹]]></text>
+<comment><![CDATA[bāoguǒ]]></comment>
+<answers>
+<answer type="0"><![CDATA[parcel]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9014" chapter="9"><text><![CDATA[生日]]></text>
+<comment><![CDATA[shēngrì]]></comment>
+<answers>
+<answer type="0"><![CDATA[birthday]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13021" chapter="13"><text><![CDATA[厕所]]></text>
+<comment><![CDATA[cèsuǒ]]></comment>
+<answers>
+<answer type="0"><![CDATA[toilet]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8011" chapter="8"><text><![CDATA[一共]]></text>
+<comment><![CDATA[yígòng]]></comment>
+<answers>
+<answer type="0"><![CDATA[altogether]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5018" chapter="5"><text><![CDATA[再见]]></text>
+<comment><![CDATA[zàijiàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[good-bye]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11028" chapter="11"><text><![CDATA[半]]></text>
+<comment><![CDATA[bàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[half]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13035" chapter="13"><text><![CDATA[等]]></text>
+<comment><![CDATA[děng]]></comment>
+<answers>
+<answer type="0"><![CDATA[wait]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12043" chapter="12"><text><![CDATA[大便]]></text>
+<comment><![CDATA[dàbiàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[stool]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12040" chapter="12"><text><![CDATA[开刀]]></text>
+<comment><![CDATA[kāidāo]]></comment>
+<answers>
+<answer type="0"><![CDATA[have an operation]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6010" chapter="6"><text><![CDATA[太]]></text>
+<comment><![CDATA[tài]]></comment>
+<answers>
+<answer type="0"><![CDATA[too]]></answer>
+<answer type="0"><![CDATA[extremely]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4011" chapter="4"><text><![CDATA[请问]]></text>
+<comment><![CDATA[qǐngwèn]]></comment>
+<answers>
+<answer type="0"><![CDATA[May I ask...?]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11015" chapter="11"><text><![CDATA[孙女儿]]></text>
+<comment><![CDATA[sūnnür]]></comment>
+<answers>
+<answer type="0"><![CDATA[granddaughter (son's daughter)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8007" chapter="8"><text><![CDATA[姐姐]]></text>
+<comment><![CDATA[jiějie]]></comment>
+<answers>
+<answer type="0"><![CDATA[older sister]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8036" chapter="8"><text><![CDATA[车]]></text>
+<comment><![CDATA[chē]]></comment>
+<answers>
+<answer type="0"><![CDATA[car]]></answer>
+<answer type="0"><![CDATA[vehicle]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10041" chapter="10"><text><![CDATA[售货员]]></text>
+<comment><![CDATA[shòuhuòyuán]]></comment>
+<answers>
+<answer type="0"><![CDATA[salesclerk]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10039" chapter="10"><text><![CDATA[本]]></text>
+<comment><![CDATA[běn]]></comment>
+<answers>
+<answer type="0"><![CDATA[books and notebooks]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13018" chapter="13"><text><![CDATA[租]]></text>
+<comment><![CDATA[zū]]></comment>
+<answers>
+<answer type="0"><![CDATA[rent]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10040" chapter="10"><text><![CDATA[杯]]></text>
+<comment><![CDATA[bēi]]></comment>
+<answers>
+<answer type="0"><![CDATA[cups of things]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7020" chapter="7"><text><![CDATA[中文]]></text>
+<comment><![CDATA[zhōngwén]]></comment>
+<answers>
+<answer type="0"><![CDATA[Chinese]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12047" chapter="12"><text><![CDATA[凉快]]></text>
+<comment><![CDATA[liángkuai]]></comment>
+<answers>
+<answer type="0"><![CDATA[cool]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12018" chapter="12"><text><![CDATA[一起]]></text>
+<comment><![CDATA[yìqǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[together]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13004" chapter="13"><text><![CDATA[得]]></text>
+<comment><![CDATA[dé]]></comment>
+<answers>
+<answer type="0"><![CDATA[have, get]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8041" chapter="8"><text><![CDATA[外公]]></text>
+<comment><![CDATA[wàigōng]]></comment>
+<answers>
+<answer type="0"><![CDATA[maternal grandfather]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7035" chapter="7"><text><![CDATA[音乐]]></text>
+<comment><![CDATA[yīnyuè]]></comment>
+<answers>
+<answer type="0"><![CDATA[music]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4002" chapter="4"><text><![CDATA[高兴]]></text>
+<comment><![CDATA[gāoxìng]]></comment>
+<answers>
+<answer type="0"><![CDATA[happy]]></answer>
+<answer type="0"><![CDATA[pleased]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11008" chapter="11"><text><![CDATA[上课]]></text>
+<comment><![CDATA[shàngkè]]></comment>
+<answers>
+<answer type="0"><![CDATA[go to class (students and teachers)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13029" chapter="13"><text><![CDATA[喂]]></text>
+<comment><![CDATA[wèi]]></comment>
+<answers>
+<answer type="0"><![CDATA[hello]]></answer>
+<answer type="0"><![CDATA[hey]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9039" chapter="9"><text><![CDATA[北京]]></text>
+<comment><![CDATA[běijīng]]></comment>
+<answers>
+<answer type="0"><![CDATA[Beijing]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8040" chapter="8"><text><![CDATA[爷爷]]></text>
+<comment><![CDATA[yéye]]></comment>
+<answers>
+<answer type="0"><![CDATA[paternal grandfather]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14036" chapter="14"><text><![CDATA[欧洲]]></text>
+<comment><![CDATA[ōuzhōu]]></comment>
+<answers>
+<answer type="0"><![CDATA[Europe]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2009" chapter="2"><text><![CDATA[不]]></text>
+<comment><![CDATA[bù]]></comment>
+<answers>
+<answer type="0"><![CDATA[not]]></answer>
+<answer type="0"><![CDATA[no]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5013" chapter="5"><text><![CDATA[对不起]]></text>
+<comment><![CDATA[duìbuqǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[I'm sorry]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9050" chapter="9"><text><![CDATA[西餐]]></text>
+<comment><![CDATA[xīcān]]></comment>
+<answers>
+<answer type="0"><![CDATA[Western food]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9011" chapter="9"><text><![CDATA[下]]></text>
+<comment><![CDATA[xià]]></comment>
+<answers>
+<answer type="0"><![CDATA[below]]></answer>
+<answer type="0"><![CDATA[next]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12035" chapter="12"><text><![CDATA[中药]]></text>
+<comment><![CDATA[zhōngyào]]></comment>
+<answers>
+<answer type="0"><![CDATA[traditional Chinese medicine]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3006" chapter="3"><text><![CDATA[那]]></text>
+<comment><![CDATA[nà]]></comment>
+<answers>
+<answer type="0"><![CDATA[that]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10037" chapter="10"><text><![CDATA[支]]></text>
+<comment><![CDATA[zhī]]></comment>
+<answers>
+<answer type="0"><![CDATA[stick-like objects like pens]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13036" chapter="13"><text><![CDATA[家美]]></text>
+<comment><![CDATA[jiāměi]]></comment>
+<answers>
+<answer type="0"><![CDATA[name of a house rental agency]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9035" chapter="9"><text><![CDATA[红]]></text>
+<comment><![CDATA[hóng]]></comment>
+<answers>
+<answer type="0"><![CDATA[red]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11033" chapter="11"><text><![CDATA[睡]]></text>
+<comment><![CDATA[shuì]]></comment>
+<answers>
+<answer type="0"><![CDATA[sleep]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13008" chapter="13"><text><![CDATA[散步]]></text>
+<comment><![CDATA[sànbù]]></comment>
+<answers>
+<answer type="0"><![CDATA[take a walk]]></answer>
+<answer type="0"><![CDATA[walk]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14046" chapter="14"><text><![CDATA[元旦]]></text>
+<comment><![CDATA[yuándàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[New Year's Day]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12022" chapter="12"><text><![CDATA[休息]]></text>
+<comment><![CDATA[xiūxi]]></comment>
+<answers>
+<answer type="0"><![CDATA[take a rest]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12034" chapter="12"><text><![CDATA[愿意]]></text>
+<comment><![CDATA[yuànyì]]></comment>
+<answers>
+<answer type="0"><![CDATA[be willing to ...]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8006" chapter="8"><text><![CDATA[个]]></text>
+<comment><![CDATA[gè]]></comment>
+<answers>
+<answer type="0"><![CDATA[general-use measure word]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14039" chapter="14"><text><![CDATA[电视]]></text>
+<comment><![CDATA[diànshì]]></comment>
+<answers>
+<answer type="0"><![CDATA[television]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2018" chapter="2"><text><![CDATA[喝]]></text>
+<comment><![CDATA[hē]]></comment>
+<answers>
+<answer type="0"><![CDATA[to drink]]></answer>
+<answer type="0"><![CDATA[drink]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12009" chapter="12"><text><![CDATA[嗓子]]></text>
+<comment><![CDATA[sǎngzi]]></comment>
+<answers>
+<answer type="0"><![CDATA[throat]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14007" chapter="14"><text><![CDATA[打扫]]></text>
+<comment><![CDATA[dǎsǎo]]></comment>
+<answers>
+<answer type="0"><![CDATA[clean]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2014" chapter="2"><text><![CDATA[要]]></text>
+<comment><![CDATA[yào]]></comment>
+<answers>
+<answer type="0"><![CDATA[to want]]></answer>
+<answer type="0"><![CDATA[want]]></answer>
+<answer type="0"><![CDATA[must, want to do something]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13038" chapter="13"><text><![CDATA[卧室]]></text>
+<comment><![CDATA[wòshì]]></comment>
+<answers>
+<answer type="0"><![CDATA[bedroom]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13007" chapter="13"><text><![CDATA[事儿]]></text>
+<comment><![CDATA[shìr]]></comment>
+<answers>
+<answer type="0"><![CDATA[matter]]></answer>
+<answer type="0"><![CDATA[affair]]></answer>
+<answer type="0"><![CDATA[thing]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8044" chapter="8"><text><![CDATA[律师]]></text>
+<comment><![CDATA[lǜshī]]></comment>
+<answers>
+<answer type="0"><![CDATA[lawyer]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7023" chapter="7"><text><![CDATA[学]]></text>
+<comment><![CDATA[xué]]></comment>
+<answers>
+<answer type="0"><![CDATA[to learn]]></answer>
+<answer type="0"><![CDATA[to study]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8004" chapter="8"><text><![CDATA[照片]]></text>
+<comment><![CDATA[zhàopiàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[picture, photo]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2019" chapter="2"><text><![CDATA[丁]]></text>
+<comment><![CDATA[dīng]]></comment>
+<answers>
+<answer type="0"><![CDATA[(a surname)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12004" chapter="12"><text><![CDATA[舒服]]></text>
+<comment><![CDATA[shūfu]]></comment>
+<answers>
+<answer type="0"><![CDATA[comfortable]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14014" chapter="14"><text><![CDATA[打工]]></text>
+<comment><![CDATA[dǎgōng]]></comment>
+<answers>
+<answer type="0"><![CDATA[have a part-time job]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11046" chapter="11"><text><![CDATA[跳舞]]></text>
+<comment><![CDATA[tiàowǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[dance]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11043" chapter="11"><text><![CDATA[吃饭]]></text>
+<comment><![CDATA[chīfàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[eat]]></answer>
+<answer type="0"><![CDATA[eat (a meal)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="1001" chapter="1"><text><![CDATA[你]]></text>
+<comment><![CDATA[nǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[You]]></answer>
+<answer type="0"><![CDATA[you]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2015" chapter="2"><text><![CDATA[咖啡]]></text>
+<comment><![CDATA[kāfēi]]></comment>
+<answers>
+<answer type="0"><![CDATA[coffee]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5027" chapter="5"><text><![CDATA[不用]]></text>
+<comment><![CDATA[búyòng]]></comment>
+<answers>
+<answer type="0"><![CDATA[need not]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4014" chapter="4"><text><![CDATA[姓]]></text>
+<comment><![CDATA[xìng]]></comment>
+<answers>
+<answer type="0"><![CDATA[one's surname is.../surname]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9059" chapter="9"><text><![CDATA[米饭]]></text>
+<comment><![CDATA[mǐfàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[cooked rice]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11044" chapter="11"><text><![CDATA[开车]]></text>
+<comment><![CDATA[kāichē]]></comment>
+<answers>
+<answer type="0"><![CDATA[drive a car]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13009" chapter="13"><text><![CDATA[步]]></text>
+<comment><![CDATA[bù]]></comment>
+<answers>
+<answer type="0"><![CDATA[step]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12017" chapter="12"><text><![CDATA[还是]]></text>
+<comment><![CDATA[háishi]]></comment>
+<answers>
+<answer type="0"><![CDATA[or]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2013" chapter="2"><text><![CDATA[哥哥]]></text>
+<comment><![CDATA[gēge]]></comment>
+<answers>
+<answer type="0"><![CDATA[elder brother]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14026" chapter="14"><text><![CDATA[复习]]></text>
+<comment><![CDATA[fùxí]]></comment>
+<answers>
+<answer type="0"><![CDATA[review]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10035" chapter="10"><text><![CDATA[元]]></text>
+<comment><![CDATA[yuán]]></comment>
+<answers>
+<answer type="0"><![CDATA[dollar]]></answer>
+<answer type="0"><![CDATA[written form of 块(kuài)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8038" chapter="8"><text><![CDATA[电脑]]></text>
+<comment><![CDATA[diànnǎo]]></comment>
+<answers>
+<answer type="0"><![CDATA[computer]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8034" chapter="8"><text><![CDATA[外国]]></text>
+<comment><![CDATA[wàiguó]]></comment>
+<answers>
+<answer type="0"><![CDATA[foreign country]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14013" chapter="14"><text><![CDATA[中学]]></text>
+<comment><![CDATA[zhōngxué]]></comment>
+<answers>
+<answer type="0"><![CDATA[middle school]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9001" chapter="9"><text><![CDATA[今年]]></text>
+<comment><![CDATA[jīnnián]]></comment>
+<answers>
+<answer type="0"><![CDATA[this year]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4006" chapter="4"><text><![CDATA[来]]></text>
+<comment><![CDATA[lái]]></comment>
+<answers>
+<answer type="0"><![CDATA[to come]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13044" chapter="13"><text><![CDATA[热心]]></text>
+<comment><![CDATA[rèxīn]]></comment>
+<answers>
+<answer type="0"><![CDATA[enthusiastic]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4015" chapter="4"><text><![CDATA[叫]]></text>
+<comment><![CDATA[jiào]]></comment>
+<answers>
+<answer type="0"><![CDATA[to be called]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10026" chapter="10"><text><![CDATA[斤]]></text>
+<comment><![CDATA[jīn]]></comment>
+<answers>
+<answer type="0"><![CDATA[half kilogram]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13006" chapter="13"><text><![CDATA[件]]></text>
+<comment><![CDATA[jiàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[piece]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="1007" chapter="1"><text><![CDATA[很]]></text>
+<comment><![CDATA[hěn]]></comment>
+<answers>
+<answer type="0"><![CDATA[very]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12006" chapter="12"><text><![CDATA[鍛煉]]></text>
+<comment><![CDATA[duànliàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[do physical exercise]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4016" chapter="4"><text><![CDATA[先生]]></text>
+<comment><![CDATA[xiānsheng]]></comment>
+<answers>
+<answer type="0"><![CDATA[Mr.]]></answer>
+<answer type="0"><![CDATA[sir]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11035" chapter="11"><text><![CDATA[起]]></text>
+<comment><![CDATA[qǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[get up, rise]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11021" chapter="11"><text><![CDATA[为什么]]></text>
+<comment><![CDATA[wèishénme]]></comment>
+<answers>
+<answer type="0"><![CDATA[why]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9048" chapter="9"><text><![CDATA[晚上]]></text>
+<comment><![CDATA[wǎnshang]]></comment>
+<answers>
+<answer type="0"><![CDATA[evening]]></answer>
+<answer type="0"><![CDATA[evening, night]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9058" chapter="9"><text><![CDATA[牛奶]]></text>
+<comment><![CDATA[niúnǎi]]></comment>
+<answers>
+<answer type="0"><![CDATA[milk]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11050" chapter="11"><text><![CDATA[打的]]></text>
+<comment><![CDATA[dǎdī]]></comment>
+<answers>
+<answer type="0"><![CDATA[take a taxi]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4020" chapter="4"><text><![CDATA[的]]></text>
+<comment><![CDATA[de]]></comment>
+<answers>
+<answer type="0"><![CDATA[(a possessive or modifying particle)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13045" chapter="13"><text><![CDATA[包括]]></text>
+<comment><![CDATA[bāokuò]]></comment>
+<answers>
+<answer type="0"><![CDATA[include]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7040" chapter="7"><text><![CDATA[教育]]></text>
+<comment><![CDATA[jiàoyù]]></comment>
+<answers>
+<answer type="0"><![CDATA[education]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6021" chapter="6"><text><![CDATA[球]]></text>
+<comment><![CDATA[qiú]]></comment>
+<answers>
+<answer type="0"><![CDATA[ball]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9031" chapter="9"><text><![CDATA[糕]]></text>
+<comment><![CDATA[gāo]]></comment>
+<answers>
+<answer type="0"><![CDATA[cake]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13003" chapter="13"><text><![CDATA[听]]></text>
+<comment><![CDATA[tīng]]></comment>
+<answers>
+<answer type="0"><![CDATA[listen]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7002" chapter="7"><text><![CDATA[开]]></text>
+<comment><![CDATA[kāi]]></comment>
+<answers>
+<answer type="0"><![CDATA[to open]]></answer>
+<answer type="0"><![CDATA[to start]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14009" chapter="14"><text><![CDATA[脏]]></text>
+<comment><![CDATA[zāng]]></comment>
+<answers>
+<answer type="0"><![CDATA[dirty]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14016" chapter="14"><text><![CDATA[旅行]]></text>
+<comment><![CDATA[lǚxíng]]></comment>
+<answers>
+<answer type="0"><![CDATA[travel]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4010" chapter="4"><text><![CDATA[记者]]></text>
+<comment><![CDATA[jìzhě]]></comment>
+<answers>
+<answer type="0"><![CDATA[reporter]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9008" chapter="9"><text><![CDATA[上午]]></text>
+<comment><![CDATA[shàngwǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[morning]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8018" chapter="8"><text><![CDATA[可爱]]></text>
+<comment><![CDATA[kě'ài]]></comment>
+<answers>
+<answer type="0"><![CDATA[lovely, cute]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12020" chapter="12"><text><![CDATA[穿]]></text>
+<comment><![CDATA[chuān]]></comment>
+<answers>
+<answer type="0"><![CDATA[wear]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12008" chapter="12"><text><![CDATA[疼]]></text>
+<comment><![CDATA[téng]]></comment>
+<answers>
+<answer type="0"><![CDATA[painful]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3014" chapter="3"><text><![CDATA[外语]]></text>
+<comment><![CDATA[wàiyǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[foreign language]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13042" chapter="13"><text><![CDATA[巧]]></text>
+<comment><![CDATA[qiǎo]]></comment>
+<answers>
+<answer type="0"><![CDATA[coincidental]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13023" chapter="13"><text><![CDATA[公司]]></text>
+<comment><![CDATA[gōngsī]]></comment>
+<answers>
+<answer type="0"><![CDATA[company]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13025" chapter="13"><text><![CDATA[打电话]]></text>
+<comment><![CDATA[dǎ diànhuà]]></comment>
+<answers>
+<answer type="0"><![CDATA[make a phone call]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5012" chapter="5"><text><![CDATA[谢谢]]></text>
+<comment><![CDATA[xièxie]]></comment>
+<answers>
+<answer type="0"><![CDATA[to thank]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4022" chapter="4"><text><![CDATA[什么]]></text>
+<comment><![CDATA[shénme]]></comment>
+<answers>
+<answer type="0"><![CDATA[what]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14001" chapter="14"><text><![CDATA[中午]]></text>
+<comment><![CDATA[zhōngwǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[noon]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13002" chapter="13"><text><![CDATA[听说]]></text>
+<comment><![CDATA[tīngshuō]]></comment>
+<answers>
+<answer type="0"><![CDATA[be told]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13014" chapter="13"><text><![CDATA[可是]]></text>
+<comment><![CDATA[kěshì]]></comment>
+<answers>
+<answer type="0"><![CDATA[but]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12049" chapter="12"><text><![CDATA[英文]]></text>
+<comment><![CDATA[yīngwén]]></comment>
+<answers>
+<answer type="0"><![CDATA[English (language)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12036" chapter="12"><text><![CDATA[西药]]></text>
+<comment><![CDATA[xīyào]]></comment>
+<answers>
+<answer type="0"><![CDATA[Western medicine]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12028" chapter="12"><text><![CDATA[发烧]]></text>
+<comment><![CDATA[fāshāo]]></comment>
+<answers>
+<answer type="0"><![CDATA[have a fever]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8020" chapter="8"><text><![CDATA[没]]></text>
+<comment><![CDATA[méi]]></comment>
+<answers>
+<answer type="0"><![CDATA[not]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8016" chapter="8"><text><![CDATA[当然]]></text>
+<comment><![CDATA[dāngrán]]></comment>
+<answers>
+<answer type="0"><![CDATA[as it should be]]></answer>
+<answer type="0"><![CDATA[only natural that]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3012" chapter="3"><text><![CDATA[这]]></text>
+<comment><![CDATA[zhè]]></comment>
+<answers>
+<answer type="0"><![CDATA[this]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6022" chapter="6"><text><![CDATA[抱歉]]></text>
+<comment><![CDATA[bàoqiàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[to feel sorry]]></answer>
+<answer type="0"><![CDATA[sorry]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10031" chapter="10"><text><![CDATA[分(钱)]]></text>
+<comment><![CDATA[fēn]]></comment>
+<answers>
+<answer type="0"><![CDATA[cent]]></answer>
+<answer type="0"><![CDATA[Chinese monetary unit, worth one hundredth of one 块(kuài)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11012" chapter="11"><text><![CDATA[哪里]]></text>
+<comment><![CDATA[nǎli]]></comment>
+<answers>
+<answer type="0"><![CDATA[no (expresses modest denial)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13012" chapter="13"><text><![CDATA[影]]></text>
+<comment><![CDATA[yǐng]]></comment>
+<answers>
+<answer type="0"><![CDATA[shadow]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8043" chapter="8"><text><![CDATA[助教]]></text>
+<comment><![CDATA[zhùjiào]]></comment>
+<answers>
+<answer type="0"><![CDATA[teaching assistant]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11051" chapter="11"><text><![CDATA[吸烟]]></text>
+<comment><![CDATA[xīyān]]></comment>
+<answers>
+<answer type="0"><![CDATA[smoke (cigarettes, etc.)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13034" chapter="13"><text><![CDATA[饭]]></text>
+<comment><![CDATA[fàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[meal]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12038" chapter="12"><text><![CDATA[牙]]></text>
+<comment><![CDATA[yá]]></comment>
+<answers>
+<answer type="0"><![CDATA[tooth]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6017" chapter="6"><text><![CDATA[说]]></text>
+<comment><![CDATA[shuō]]></comment>
+<answers>
+<answer type="0"><![CDATA[to say]]></answer>
+<answer type="0"><![CDATA[to speak]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5001" chapter="5"><text><![CDATA[餐厅]]></text>
+<comment><![CDATA[cāntīng]]></comment>
+<answers>
+<answer type="0"><![CDATA[dining room]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12016" chapter="12"><text><![CDATA[吧]]></text>
+<comment><![CDATA[ba]]></comment>
+<answers>
+<answer type="0"><![CDATA[modal particle]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8042" chapter="8"><text><![CDATA[系主任]]></text>
+<comment><![CDATA[xìzhǔrèn]]></comment>
+<answers>
+<answer type="0"><![CDATA[department chairman]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7001" chapter="7"><text><![CDATA[开学]]></text>
+<comment><![CDATA[kāixué]]></comment>
+<answers>
+<answer type="0"><![CDATA[to start school]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5029" chapter="5"><text><![CDATA[晚]]></text>
+<comment><![CDATA[wǎn]]></comment>
+<answers>
+<answer type="0"><![CDATA[late]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11052" chapter="11"><text><![CDATA[表]]></text>
+<comment><![CDATA[biǎo]]></comment>
+<answers>
+<answer type="0"><![CDATA[wrist watch]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3016" chapter="3"><text><![CDATA[医生]]></text>
+<comment><![CDATA[yīshēng]]></comment>
+<answers>
+<answer type="0"><![CDATA[doctor]]></answer>
+<answer type="0"><![CDATA[physician]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14038" chapter="14"><text><![CDATA[整理]]></text>
+<comment><![CDATA[zhěnglǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[put in order]]></answer>
+<answer type="0"><![CDATA[arrange]]></answer>
+<answer type="0"><![CDATA[sort out]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14023" chapter="14"><text><![CDATA[生词]]></text>
+<comment><![CDATA[shēngcí]]></comment>
+<answers>
+<answer type="0"><![CDATA[new word]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6007" chapter="6"><text><![CDATA[今天]]></text>
+<comment><![CDATA[jīntiān]]></comment>
+<answers>
+<answer type="0"><![CDATA[today]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="1004" chapter="1"><text><![CDATA[力波]]></text>
+<comment><![CDATA[lì bō]]></comment>
+<answers>
+<answer type="0"><![CDATA[(name of a Canadian student)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4026" chapter="4"><text><![CDATA[马大为]]></text>
+<comment><![CDATA[mǎ dàwéi]]></comment>
+<answers>
+<answer type="0"><![CDATA[(name of an American student)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9053" chapter="9"><text><![CDATA[雪碧]]></text>
+<comment><![CDATA[xuěbì]]></comment>
+<answers>
+<answer type="0"><![CDATA[Sprite]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5002" chapter="5"><text><![CDATA[在]]></text>
+<comment><![CDATA[zài]]></comment>
+<answers>
+<answer type="0"><![CDATA[to be (here, there)]]></answer>
+<answer type="0"><![CDATA[to be (in, on at)]]></answer>
+<answer type="0"><![CDATA[at]]></answer>
+<answer type="0"><![CDATA[in]]></answer>
+<answer type="0"><![CDATA[on]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8012" chapter="8"><text><![CDATA[妹妹]]></text>
+<comment><![CDATA[mèimei]]></comment>
+<answers>
+<answer type="0"><![CDATA[younger sister]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12011" chapter="12"><text><![CDATA[医院]]></text>
+<comment><![CDATA[yīyuàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[hospital]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14015" chapter="14"><text><![CDATA[南方]]></text>
+<comment><![CDATA[nánfāng]]></comment>
+<answers>
+<answer type="0"><![CDATA[south]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10045" chapter="10"><text><![CDATA[体育馆]]></text>
+<comment><![CDATA[tǐyùguǎn]]></comment>
+<answers>
+<answer type="0"><![CDATA[gym]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9056" chapter="9"><text><![CDATA[热狗]]></text>
+<comment><![CDATA[règǒu]]></comment>
+<answers>
+<answer type="0"><![CDATA[hotdog]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8017" chapter="8"><text><![CDATA[真]]></text>
+<comment><![CDATA[zhēn]]></comment>
+<answers>
+<answer type="0"><![CDATA[real/really]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11047" chapter="11"><text><![CDATA[回答]]></text>
+<comment><![CDATA[huídá]]></comment>
+<answers>
+<answer type="0"><![CDATA[answer]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12044" chapter="12"><text><![CDATA[小便]]></text>
+<comment><![CDATA[xiǎobiàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[urine]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11016" chapter="11"><text><![CDATA[女儿]]></text>
+<comment><![CDATA[nǚ'ér]]></comment>
+<answers>
+<answer type="0"><![CDATA[daughter]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7037" chapter="7"><text><![CDATA[数学]]></text>
+<comment><![CDATA[shùxué]]></comment>
+<answers>
+<answer type="0"><![CDATA[mathematics]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6001" chapter="6"><text><![CDATA[去]]></text>
+<comment><![CDATA[qù]]></comment>
+<answers>
+<answer type="0"><![CDATA[to go]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5003" chapter="5"><text><![CDATA[哪儿]]></text>
+<comment><![CDATA[nǎr]]></comment>
+<answers>
+<answer type="0"><![CDATA[where]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6006" chapter="6"><text><![CDATA[有意思]]></text>
+<comment><![CDATA[yǒu yìsi]]></comment>
+<answers>
+<answer type="0"><![CDATA[interesting]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14047" chapter="14"><text><![CDATA[春节]]></text>
+<comment><![CDATA[chūn jié]]></comment>
+<answers>
+<answer type="0"><![CDATA[Spring Festival]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3001" chapter="3"><text><![CDATA[她]]></text>
+<comment><![CDATA[tā]]></comment>
+<answers>
+<answer type="0"><![CDATA[she]]></answer>
+<answer type="0"><![CDATA[her]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3002" chapter="3"><text><![CDATA[是]]></text>
+<comment><![CDATA[shì]]></comment>
+<answers>
+<answer type="0"><![CDATA[to be]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9002" chapter="9"><text><![CDATA[年]]></text>
+<comment><![CDATA[nián]]></comment>
+<answers>
+<answer type="0"><![CDATA[year]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14029" chapter="14"><text><![CDATA[练]]></text>
+<comment><![CDATA[liàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[practice]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11017" chapter="11"><text><![CDATA[岁数]]></text>
+<comment><![CDATA[suìshu]]></comment>
+<answers>
+<answer type="0"><![CDATA[years (of age)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10011" chapter="10"><text><![CDATA[报]]></text>
+<comment><![CDATA[bào]]></comment>
+<answers>
+<answer type="0"><![CDATA[newspaper]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11011" chapter="11"><text><![CDATA[到]]></text>
+<comment><![CDATA[dào]]></comment>
+<answers>
+<answer type="0"><![CDATA[arrive]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11038" chapter="11"><text><![CDATA[该]]></text>
+<comment><![CDATA[gāi]]></comment>
+<answers>
+<answer type="0"><![CDATA[should]]></answer>
+<answer type="0"><![CDATA[ought to]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11007" chapter="11"><text><![CDATA[回]]></text>
+<comment><![CDATA[huí]]></comment>
+<answers>
+<answer type="0"><![CDATA[return]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10044" chapter="10"><text><![CDATA[书店]]></text>
+<comment><![CDATA[shūdiàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[bookstore]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10042" chapter="10"><text><![CDATA[作家]]></text>
+<comment><![CDATA[zuòjiā]]></comment>
+<answers>
+<answer type="0"><![CDATA[writer]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8001" chapter="8"><text><![CDATA[家]]></text>
+<comment><![CDATA[jiā]]></comment>
+<answers>
+<answer type="0"><![CDATA[family, home]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7019" chapter="7"><text><![CDATA[名字]]></text>
+<comment><![CDATA[míngzi]]></comment>
+<answers>
+<answer type="0"><![CDATA[name]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10017" chapter="10"><text><![CDATA[师傅]]></text>
+<comment><![CDATA[shīfu]]></comment>
+<answers>
+<answer type="0"><![CDATA[master worker]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2008" chapter="2"><text><![CDATA[都]]></text>
+<comment><![CDATA[dōu]]></comment>
+<answers>
+<answer type="0"><![CDATA[both]]></answer>
+<answer type="0"><![CDATA[all]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10025" chapter="10"><text><![CDATA[钱]]></text>
+<comment><![CDATA[qián]]></comment>
+<answers>
+<answer type="0"><![CDATA[money]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2004" chapter="2"><text><![CDATA[妈妈]]></text>
+<comment><![CDATA[māma]]></comment>
+<answers>
+<answer type="0"><![CDATA[mom]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11032" chapter="11"><text><![CDATA[睡觉]]></text>
+<comment><![CDATA[shuìjiào]]></comment>
+<answers>
+<answer type="0"><![CDATA[sleep]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8037" chapter="8"><text><![CDATA[词典]]></text>
+<comment><![CDATA[cídiǎn]]></comment>
+<answers>
+<answer type="0"><![CDATA[dictionary]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11025" chapter="11"><text><![CDATA[玩儿]]></text>
+<comment><![CDATA[wánr]]></comment>
+<answers>
+<answer type="0"><![CDATA[have fun, play]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9024" chapter="9"><text><![CDATA[祝贺]]></text>
+<comment><![CDATA[zhùhè]]></comment>
+<answers>
+<answer type="0"><![CDATA[congradulate]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="1002" chapter="1"><text><![CDATA[好]]></text>
+<comment><![CDATA[hǎo]]></comment>
+<answers>
+<answer type="0"><![CDATA[good]]></answer>
+<answer type="0"><![CDATA[well]]></answer>
+<answer type="0"><![CDATA[fine]]></answer>
+<answer type="0"><![CDATA[O.K.]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8028" chapter="8"><text><![CDATA[多]]></text>
+<comment><![CDATA[duō]]></comment>
+<answers>
+<answer type="0"><![CDATA[many, much]]></answer>
+<answer type="0"><![CDATA[how]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3011" chapter="3"><text><![CDATA[您]]></text>
+<comment><![CDATA[nín]]></comment>
+<answers>
+<answer type="0"><![CDATA[you  (polite form)]]></answer>
+<answer type="0"><![CDATA[you (polite form)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5031" chapter="5"><text><![CDATA[宋华]]></text>
+<comment><![CDATA[sòng huá]]></comment>
+<answers>
+<answer type="0"><![CDATA[(name of a Chinese student)]]></answer>
+<answer type="0"><![CDATA[name of a Chinese student]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14028" chapter="14"><text><![CDATA[练习]]></text>
+<comment><![CDATA[liànxí]]></comment>
+<answers>
+<answer type="0"><![CDATA[practice/exercise]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7032" chapter="7"><text><![CDATA[文化]]></text>
+<comment><![CDATA[wénhuà]]></comment>
+<answers>
+<answer type="0"><![CDATA[culture]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4027" chapter="4"><text><![CDATA[加拿大]]></text>
+<comment><![CDATA[jiānádà]]></comment>
+<answers>
+<answer type="0"><![CDATA[Canada]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="1003" chapter="1"><text><![CDATA[陆雨平]]></text>
+<comment><![CDATA[lù yǔpíng]]></comment>
+<answers>
+<answer type="0"><![CDATA[(name of a Chinese reporter)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6016" chapter="6"><text><![CDATA[时间]]></text>
+<comment><![CDATA[shíjiān]]></comment>
+<answers>
+<answer type="0"><![CDATA[time]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13030" chapter="13"><text><![CDATA[位]]></text>
+<comment><![CDATA[wèi]]></comment>
+<answers>
+<answer type="0"><![CDATA[(formal) measure word for people]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5021" chapter="5"><text><![CDATA[小姐]]></text>
+<comment><![CDATA[xiǎojie]]></comment>
+<answers>
+<answer type="0"><![CDATA[Miss]]></answer>
+<answer type="0"><![CDATA[young lady]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10028" chapter="10"><text><![CDATA[毛(钱)]]></text>
+<comment><![CDATA[máo(qián)]]></comment>
+<answers>
+<answer type="0"><![CDATA[dime]]></answer>
+<answer type="0"><![CDATA[Chinese monetary unit, worth one tenth of one 块(kuài)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13031" chapter="13"><text><![CDATA[经理]]></text>
+<comment><![CDATA[jīnglǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[manager]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8033" chapter="8"><text><![CDATA[语]]></text>
+<comment><![CDATA[yǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[language]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14041" chapter="14"><text><![CDATA[日记]]></text>
+<comment><![CDATA[rìjì]]></comment>
+<answers>
+<answer type="0"><![CDATA[diary]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11036" chapter="11"><text><![CDATA[床]]></text>
+<comment><![CDATA[chuáng]]></comment>
+<answers>
+<answer type="0"><![CDATA[bed]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8010" chapter="8"><text><![CDATA[还]]></text>
+<comment><![CDATA[hái]]></comment>
+<answers>
+<answer type="0"><![CDATA[in addition]]></answer>
+<answer type="0"><![CDATA[still]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3018" chapter="3"><text><![CDATA[外婆]]></text>
+<comment><![CDATA[wàipó]]></comment>
+<answers>
+<answer type="0"><![CDATA[grandmother on the mother's side]]></answer>
+<answer type="0"><![CDATA[maternal grandmother]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="3010" chapter="3"><text><![CDATA[中国]]></text>
+<comment><![CDATA[zhōngguó]]></comment>
+<answers>
+<answer type="0"><![CDATA[China]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13010" chapter="13"><text><![CDATA[电影]]></text>
+<comment><![CDATA[diànyǐng]]></comment>
+<answers>
+<answer type="0"><![CDATA[movie]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2003" chapter="2"><text><![CDATA[爸爸]]></text>
+<comment><![CDATA[bàba]]></comment>
+<answers>
+<answer type="0"><![CDATA[dad]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14010" chapter="14"><text><![CDATA[不好意思]]></text>
+<comment><![CDATA[bùhǎoyìsi]]></comment>
+<answers>
+<answer type="0"><![CDATA[feel embarrassed]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4023" chapter="4"><text><![CDATA[学习]]></text>
+<comment><![CDATA[xuéxí]]></comment>
+<answers>
+<answer type="0"><![CDATA[to learn]]></answer>
+<answer type="0"><![CDATA[to study]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10009" chapter="10"><text><![CDATA[有名]]></text>
+<comment><![CDATA[yǒumíng]]></comment>
+<answers>
+<answer type="0"><![CDATA[famous]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14042" chapter="14"><text><![CDATA[晴]]></text>
+<comment><![CDATA[qíng]]></comment>
+<answers>
+<answer type="0"><![CDATA[sunny]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="1005" chapter="1"><text><![CDATA[吗]]></text>
+<comment><![CDATA[ma]]></comment>
+<answers>
+<answer type="0"><![CDATA[(interrogative particle for question expecting yes-no answer)]]></answer>
+<answer type="0"><![CDATA[(a particle used for questions expecting a yes-no answer)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9033" chapter="9"><text><![CDATA[瓶]]></text>
+<comment><![CDATA[píng]]></comment>
+<answers>
+<answer type="0"><![CDATA[bottle]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12002" chapter="12"><text><![CDATA[全]]></text>
+<comment><![CDATA[quán]]></comment>
+<answers>
+<answer type="0"><![CDATA[whole]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7012" chapter="7"><text><![CDATA[教授]]></text>
+<comment><![CDATA[jiàoshòu]]></comment>
+<answers>
+<answer type="0"><![CDATA[professor]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5007" chapter="5"><text><![CDATA[宿舍]]></text>
+<comment><![CDATA[sùshè]]></comment>
+<answers>
+<answer type="0"><![CDATA[dormitory]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8026" chapter="8"><text><![CDATA[大]]></text>
+<comment><![CDATA[dà]]></comment>
+<answers>
+<answer type="0"><![CDATA[big, large]]></answer>
+<answer type="0"><![CDATA[old (in reference to a person)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5028" chapter="5"><text><![CDATA[这儿]]></text>
+<comment><![CDATA[zhèr]]></comment>
+<answers>
+<answer type="0"><![CDATA[here]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6004" chapter="6"><text><![CDATA[京剧]]></text>
+<comment><![CDATA[jīngjù]]></comment>
+<answers>
+<answer type="0"><![CDATA[Beijing opera]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13046" chapter="13"><text><![CDATA[水电费]]></text>
+<comment><![CDATA[shuǐdiànfèi]]></comment>
+<answers>
+<answer type="0"><![CDATA[utility bill or fee]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6012" chapter="6"><text><![CDATA[时候]]></text>
+<comment><![CDATA[shíhou]]></comment>
+<answers>
+<answer type="0"><![CDATA[time]]></answer>
+<answer type="0"><![CDATA[moment]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5019" chapter="5"><text><![CDATA[再]]></text>
+<comment><![CDATA[zài]]></comment>
+<answers>
+<answer type="0"><![CDATA[again]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4018" chapter="4"><text><![CDATA[语言]]></text>
+<comment><![CDATA[yǔyán]]></comment>
+<answers>
+<answer type="0"><![CDATA[language]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11031" chapter="11"><text><![CDATA[字]]></text>
+<comment><![CDATA[zì]]></comment>
+<answers>
+<answer type="0"><![CDATA[character]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5030" chapter="5"><text><![CDATA[了]]></text>
+<comment><![CDATA[le]]></comment>
+<answers>
+<answer type="0"><![CDATA[(modal partical]]></answer>
+<answer type="0"><![CDATA[aspect particle)]]></answer>
+<answer type="0"><![CDATA[modal or aspect particle]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2006" chapter="2"><text><![CDATA[他]]></text>
+<comment><![CDATA[tā]]></comment>
+<answers>
+<answer type="0"><![CDATA[he]]></answer>
+<answer type="0"><![CDATA[him]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4013" chapter="4"><text><![CDATA[贵姓]]></text>
+<comment><![CDATA[guìxìng]]></comment>
+<answers>
+<answer type="0"><![CDATA[What's your honorable surname?]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11004" chapter="11"><text><![CDATA[点(钟)]]></text>
+<comment><![CDATA[diǎn(zhōng)]]></comment>
+<answers>
+<answer type="0"><![CDATA[o'clock]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7036" chapter="7"><text><![CDATA[经济]]></text>
+<comment><![CDATA[jīngjì]]></comment>
+<answers>
+<answer type="0"><![CDATA[economy]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12039" chapter="12"><text><![CDATA[肚子]]></text>
+<comment><![CDATA[dùzi]]></comment>
+<answers>
+<answer type="0"><![CDATA[abdomen]]></answer>
+<answer type="0"><![CDATA[stomach]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13047" chapter="13"><text><![CDATA[新]]></text>
+<comment><![CDATA[xīn]]></comment>
+<answers>
+<answer type="0"><![CDATA[new]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13040" chapter="13"><text><![CDATA[套]]></text>
+<comment><![CDATA[tào]]></comment>
+<answers>
+<answer type="0"><![CDATA[suite]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5024" chapter="5"><text><![CDATA[〇]]></text>
+<comment><![CDATA[líng]]></comment>
+<answers>
+<answer type="0"><![CDATA[zero]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11042" chapter="11"><text><![CDATA[下课]]></text>
+<comment><![CDATA[xiàkè]]></comment>
+<answers>
+<answer type="0"><![CDATA[get out of class]]></answer>
+<answer type="0"><![CDATA[finish class]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14019" chapter="14"><text><![CDATA[住]]></text>
+<comment><![CDATA[zhù]]></comment>
+<answers>
+<answer type="0"><![CDATA[live]]></answer>
+<answer type="0"><![CDATA[stay]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12012" chapter="12"><text><![CDATA[看病]]></text>
+<comment><![CDATA[kànbìng]]></comment>
+<answers>
+<answer type="0"><![CDATA[see a doctor]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12029" chapter="12"><text><![CDATA[烧]]></text>
+<comment><![CDATA[shāo]]></comment>
+<answers>
+<answer type="0"><![CDATA[burn]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6014" chapter="6"><text><![CDATA[明天]]></text>
+<comment><![CDATA[míngtiān]]></comment>
+<answers>
+<answer type="0"><![CDATA[tomorrow]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9010" chapter="9"><text><![CDATA[下午]]></text>
+<comment><![CDATA[xiàwǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[afternoon]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2011" chapter="2"><text><![CDATA[朋友]]></text>
+<comment><![CDATA[péngyou]]></comment>
+<answers>
+<answer type="0"><![CDATA[friend]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11034" chapter="11"><text><![CDATA[起床]]></text>
+<comment><![CDATA[qǐchuáng]]></comment>
+<answers>
+<answer type="0"><![CDATA[get up]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10010" chapter="10"><text><![CDATA[书]]></text>
+<comment><![CDATA[shū]]></comment>
+<answers>
+<answer type="0"><![CDATA[book]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9051" chapter="9"><text><![CDATA[茶]]></text>
+<comment><![CDATA[chá]]></comment>
+<answers>
+<answer type="0"><![CDATA[tea]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4025" chapter="4"><text><![CDATA[英国]]></text>
+<comment><![CDATA[yīngguó]]></comment>
+<answers>
+<answer type="0"><![CDATA[Great Britain]]></answer>
+<answer type="0"><![CDATA[England]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9026" chapter="9"><text><![CDATA[参加]]></text>
+<comment><![CDATA[cānjiā]]></comment>
+<answers>
+<answer type="0"><![CDATA[participate]]></answer>
+<answer type="0"><![CDATA[attend]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14044" chapter="14"><text><![CDATA[惊喜]]></text>
+<comment><![CDATA[jīngxǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[pleasant surprise]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6008" chapter="6"><text><![CDATA[天]]></text>
+<comment><![CDATA[tiān]]></comment>
+<answers>
+<answer type="0"><![CDATA[day]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9032" chapter="9"><text><![CDATA[买]]></text>
+<comment><![CDATA[mǎi]]></comment>
+<answers>
+<answer type="0"><![CDATA[buy]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4012" chapter="4"><text><![CDATA[问]]></text>
+<comment><![CDATA[wèn]]></comment>
+<answers>
+<answer type="0"><![CDATA[to ask]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9046" chapter="9"><text><![CDATA[寿面]]></text>
+<comment><![CDATA[shòumiàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[birthday noodles, longevity noodles]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6013" chapter="6"><text><![CDATA[现在]]></text>
+<comment><![CDATA[xiànzài]]></comment>
+<answers>
+<answer type="0"><![CDATA[now]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14030" chapter="14"><text><![CDATA[口语]]></text>
+<comment><![CDATA[kǒuyǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[spoken language]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5016" chapter="5"><text><![CDATA[没关系]]></text>
+<comment><![CDATA[méi guānxi]]></comment>
+<answers>
+<answer type="0"><![CDATA[never mind]]></answer>
+<answer type="0"><![CDATA[it doesn't matter]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2001" chapter="2"><text><![CDATA[忙]]></text>
+<comment><![CDATA[máng]]></comment>
+<answers>
+<answer type="0"><![CDATA[busy]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10014" chapter="10"><text><![CDATA[梁祝]]></text>
+<comment><![CDATA[liáng zhù]]></comment>
+<answers>
+<answer type="0"><![CDATA[name of a Chinese violin concerto]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11019" chapter="11"><text><![CDATA[分]]></text>
+<comment><![CDATA[fēn]]></comment>
+<answers>
+<answer type="0"><![CDATA[minute]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10023" chapter="10"><text><![CDATA[容易]]></text>
+<comment><![CDATA[róngyì]]></comment>
+<answers>
+<answer type="0"><![CDATA[easy]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2017" chapter="2"><text><![CDATA[我们]]></text>
+<comment><![CDATA[wǒmen]]></comment>
+<answers>
+<answer type="0"><![CDATA[we]]></answer>
+<answer type="0"><![CDATA[us]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7014" chapter="7"><text><![CDATA[丁力波]]></text>
+<comment><![CDATA[dīng lìbō]]></comment>
+<answers>
+<answer type="0"><![CDATA[(name of a Canadian student)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="2016" chapter="2"><text><![CDATA[弟弟]]></text>
+<comment><![CDATA[dìdi]]></comment>
+<answers>
+<answer type="0"><![CDATA[younger brother]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13022" chapter="13"><text><![CDATA[房租]]></text>
+<comment><![CDATA[fángzū]]></comment>
+<answers>
+<answer type="0"><![CDATA[rent (for a house or apartment)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8030" chapter="8"><text><![CDATA[喜欢]]></text>
+<comment><![CDATA[xǐhuan]]></comment>
+<answers>
+<answer type="0"><![CDATA[like, prefer]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9055" chapter="9"><text><![CDATA[汉堡]]></text>
+<comment><![CDATA[hànbǎo]]></comment>
+<answers>
+<answer type="0"><![CDATA[hamburger]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8027" chapter="8"><text><![CDATA[多少]]></text>
+<comment><![CDATA[duōshao]]></comment>
+<answers>
+<answer type="0"><![CDATA[how many, how much]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="4003" chapter="4"><text><![CDATA[可以]]></text>
+<comment><![CDATA[kěyǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[may]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8032" chapter="8"><text><![CDATA[外]]></text>
+<comment><![CDATA[wài]]></comment>
+<answers>
+<answer type="0"><![CDATA[outside]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10013" chapter="10"><text><![CDATA[那儿]]></text>
+<comment><![CDATA[nàr]]></comment>
+<answers>
+<answer type="0"><![CDATA[there]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14049" chapter="14"><text><![CDATA[复活节]]></text>
+<comment><![CDATA[fùhuó jié]]></comment>
+<answers>
+<answer type="0"><![CDATA[Easter]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8029" chapter="8"><text><![CDATA[少]]></text>
+<comment><![CDATA[shǎo]]></comment>
+<answers>
+<answer type="0"><![CDATA[few, less]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14018" chapter="14"><text><![CDATA[留学生]]></text>
+<comment><![CDATA[liúxuéshēng]]></comment>
+<answers>
+<answer type="0"><![CDATA[student studying abroad]]></answer>
+<answer type="0"><![CDATA[international student]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13043" chapter="13"><text><![CDATA[合适]]></text>
+<comment><![CDATA[héshì]]></comment>
+<answers>
+<answer type="0"><![CDATA[suitable]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9009" chapter="9"><text><![CDATA[上]]></text>
+<comment><![CDATA[shàng]]></comment>
+<answers>
+<answer type="0"><![CDATA[above]]></answer>
+<answer type="0"><![CDATA[last]]></answer>
+<answer type="0"><![CDATA[ascend]]></answer>
+<answer type="0"><![CDATA[go to]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11010" chapter="11"><text><![CDATA[能]]></text>
+<comment><![CDATA[néng]]></comment>
+<answers>
+<answer type="0"><![CDATA[can]]></answer>
+<answer type="0"><![CDATA[be able to]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9054" chapter="9"><text><![CDATA[啤酒]]></text>
+<comment><![CDATA[píjiǔ]]></comment>
+<answers>
+<answer type="0"><![CDATA[beer]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11030" chapter="11"><text><![CDATA[汉字]]></text>
+<comment><![CDATA[hànzì]]></comment>
+<answers>
+<answer type="0"><![CDATA[Chinese character]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="5022" chapter="5"><text><![CDATA[二]]></text>
+<comment><![CDATA[èr]]></comment>
+<answers>
+<answer type="0"><![CDATA[two]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9028" chapter="9"><text><![CDATA[吃]]></text>
+<comment><![CDATA[chī]]></comment>
+<answers>
+<answer type="0"><![CDATA[eat]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11006" chapter="11"><text><![CDATA[刻]]></text>
+<comment><![CDATA[kè]]></comment>
+<answers>
+<answer type="0"><![CDATA[quarter (of an hour)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7039" chapter="7"><text><![CDATA[化学]]></text>
+<comment><![CDATA[huàxué]]></comment>
+<answers>
+<answer type="0"><![CDATA[chemistry]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7034" chapter="7"><text><![CDATA[哲学]]></text>
+<comment><![CDATA[zhéxué]]></comment>
+<answers>
+<answer type="0"><![CDATA[philosophy]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10043" chapter="10"><text><![CDATA[便宜]]></text>
+<comment><![CDATA[piányi]]></comment>
+<answers>
+<answer type="0"><![CDATA[cheap]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="8003" chapter="8"><text><![CDATA[口]]></text>
+<comment><![CDATA[kǒu]]></comment>
+<answers>
+<answer type="0"><![CDATA[number of people in a family]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="9036" chapter="9"><text><![CDATA[葡萄]]></text>
+<comment><![CDATA[pútao]]></comment>
+<answers>
+<answer type="0"><![CDATA[grape]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13039" chapter="13"><text><![CDATA[书房]]></text>
+<comment><![CDATA[shūfáng]]></comment>
+<answers>
+<answer type="0"><![CDATA[study]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14033" chapter="14"><text><![CDATA[节]]></text>
+<comment><![CDATA[jié]]></comment>
+<answers>
+<answer type="0"><![CDATA[festival]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12037" chapter="12"><text><![CDATA[西]]></text>
+<comment><![CDATA[xī]]></comment>
+<answers>
+<answer type="0"><![CDATA[west]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13005" chapter="13"><text><![CDATA[告诉]]></text>
+<comment><![CDATA[gàosu]]></comment>
+<answers>
+<answer type="0"><![CDATA[tell]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="1006" chapter="1"><text><![CDATA[我]]></text>
+<comment><![CDATA[wǒ]]></comment>
+<answers>
+<answer type="0"><![CDATA[I]]></answer>
+<answer type="0"><![CDATA[me]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="14011" chapter="14"><text><![CDATA[洗]]></text>
+<comment><![CDATA[xǐ]]></comment>
+<answers>
+<answer type="0"><![CDATA[wash]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6024" chapter="6"><text><![CDATA[恐怕]]></text>
+<comment><![CDATA[kǒngpà]]></comment>
+<answers>
+<answer type="0"><![CDATA[to be afraid that]]></answer>
+<answer type="0"><![CDATA[perhaps]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="7008" chapter="7"><text><![CDATA[一下]]></text>
+<comment><![CDATA[yíxià]]></comment>
+<answers>
+<answer type="0"><![CDATA[(used after a verb to indicate a short, quick, random, informal action)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11037" chapter="11"><text><![CDATA[应该]]></text>
+<comment><![CDATA[yīnggāi]]></comment>
+<answers>
+<answer type="0"><![CDATA[should]]></answer>
+<answer type="0"><![CDATA[ought to]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="6025" chapter="6"><text><![CDATA[行]]></text>
+<comment><![CDATA[xíng]]></comment>
+<answers>
+<answer type="0"><![CDATA[to be O.K.]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="10027" chapter="10"><text><![CDATA[块(钱)]]></text>
+<comment><![CDATA[kuài(qián)]]></comment>
+<answers>
+<answer type="0"><![CDATA[dollar]]></answer>
+<answer type="0"><![CDATA[basic Chinese monetary unit, worth 10 毛(máo)]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="12041" chapter="12"><text><![CDATA[化验]]></text>
+<comment><![CDATA[huàyàn]]></comment>
+<answers>
+<answer type="0"><![CDATA[have medical test]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13028" chapter="13"><text><![CDATA[帮助]]></text>
+<comment><![CDATA[bāngzhù]]></comment>
+<answers>
+<answer type="0"><![CDATA[help]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="13026" chapter="13"><text><![CDATA[电话]]></text>
+<comment><![CDATA[diànhuà]]></comment>
+<answers>
+<answer type="0"><![CDATA[telephone]]></answer>
+<answer type="0"><![CDATA[phone call]]></answer>
+</answers>
+</item>
+
+<item id="0" extid="11020" chapter="11"><text><![CDATA[拜拜]]></text>
+<comment><![CDATA[báibái]]></comment>
+<answers>
+<answer type="0"><![CDATA[bye-bye (transliteration)]]></answer>
+</answers>
+</item>
+
+</items>
+			</lesson>
+			</lessons>
+		</brain>

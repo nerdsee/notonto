@@ -1,0 +1,83 @@
+abends :: por la tarde, por la noche
+allein :: sólo, solamente
+am liebsten :: lo que más (me gustaría)
+anders :: de otra manera, de otro modo, al contrario
+auch :: también
+auf einmal :: de repente
+außerdem :: además, aparte
+außerhalb :: fuera
+bald (eher, am ehesten) :: pronto, en breve
+besonders :: especialmente, en particular
+bestimmt :: seguro, seguramente
+bitte :: por favor
+bloß :: sólo, únicamente
+da :: allí
+daher :: por eso, de ahí
+damals :: en aquel tiempo, entonces
+danach :: más tarde, a continuación
+dann :: luego, entonces
+diesmal :: esta vez
+draußen :: fuera, al aire libre
+einfach :: simplemente
+endlich :: por fin, finalmente
+erst :: sólo, primero
+etwa :: aproximadamente
+fast :: casi
+ganz :: bastante, muy
+genau :: exactamente
+genug :: bastante, suficiente
+gerade :: ahora mismo, precisamente
+geradeaus :: recto, seguido
+gern (lieber, am liebsten) :: (hacer algo) con (mucho) gusto
+gestern :: ayer
+getrennt :: separado
+häufig :: a menudo, con frecuencia
+heute :: hoy
+heute :: hoy, hoy (en) día
+hier :: aquí
+höchstens :: como mucho
+immer :: siempre
+irgendwann :: algún día, en cualquier momento
+jetzt :: ahora, en este momento
+lange (länger, am längsten) :: mucho tiempo
+leider :: por desgracia
+letzt- :: último
+links :: a la izquierda
+manchmal :: a veces
+meistens :: la mayoría de las veces
+mittags :: al mediodía
+morgen :: mañana
+morgen :: mañana
+morgens :: por la mañana
+nachmittags :: por la tarde
+nachts :: por la noche
+natürlich :: naturalmente
+nicht :: no
+nie :: nunca, jamás
+noch :: aún, todavía
+noch einmal :: otra vez
+nur :: sólo, solamente
+oben :: arriba
+oft (öfter, am öftesten) :: a menudo
+plötzlich :: de repente
+rechts :: a la derecha
+schon :: ya
+sehr (mehr, am meisten) :: muy, mucho
+selbstverständlich :: por supuesto, desde luego
+sofort :: enseguida, en el acto, ahora mismo
+sogar :: incluso
+täglich :: cada día, todos los días, diariamente
+überall :: por todas partes
+übrigens :: por cierto, dicho sea de paso
+unten :: abajo
+verschieden :: diferente, distinto
+vielleicht :: quizás, tal vez
+völlig :: completamente
+vor allem :: sobre todo
+vorher :: antes
+vorwiegend :: principalmente
+wieder :: otra vez, de nuevo
+wirklich :: de verdad
+ziemlich :: bastante, casi
+zuerst :: primero, al principio
+zusammen :: juntos

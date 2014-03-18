@@ -1,0 +1,2 @@
+update users set groupID=0 where groupID=99
+

@@ -1,0 +1,83 @@
+abends	adv.		por la tarde/por la noche
+allein	adv.		sólo, solamente
+am liebsten	adv.		lo que más (me gustaría)
+anders	adv.		de otra manera, de otro modo, al contrario
+auch	adv.		también
+auf einmal	adv.		de repente
+außerdem	adv.		además, aparte
+außerhalb	adv.		fuera
+bald (eher, am ehesten)	adv.		pronto, en breve
+besonders	adv.		especialmente, en particular
+bestimmt	adv.		seguro, seguramente
+bitte	adv.		por favor
+bloß	adv.		sólo, únicamente
+da	adv.		allí
+daher	adv.		por eso, de ahí
+damals	adv.		en aquel tiempo, entonces
+danach	adv.		más tarde, a continuación
+dann	adv.		luego, entonces
+diesmal	adv.		esta vez
+draußen	adv.		fuera, al aire libre
+einfach	adv.		simplemente
+endlich	adv.		por fin, finalmente
+erst	adv.		sólo, primero
+etwa	adv.		aproximadamente
+fast	adv.		casi
+ganz	adv.		bastante, muy
+genau	adv.		exactamente
+genug	adv.		bastante, suficiente
+gerade	adv.		ahora mismo, precisamente
+geradeaus	adv.		recto, seguido
+gern (lieber, am liebsten)	adv.		(hacer algo) con (mucho) gusto
+gestern	adv.		ayer
+getrennt	adv.		separado
+häufig	adv.		a menudo, con frecuencia
+heute	adv.		hoy
+heute	adv.		hoy, hoy (en) día
+hier	adv.		aquí
+höchstens	adv.		como mucho
+immer	adv.		siempre
+irgendwann	adv.		algún día, en cualquier momento
+jetzt	adv.		ahora, en este momento
+lange (länger, am längsten)	adv.		mucho tiempo
+leider	adv.		por desgracia
+letzt-	adv.		último
+links	adv.		a la izquierda
+manchmal	adv.		a veces
+meistens	adv.		la mayoría de las veces
+mittags	adv.		al mediodía
+morgen	adv.		mañana
+morgen	adv.		mañana
+morgens	adv.		por la mañana
+nachmittags	adv.		por la tarde
+nachts	adv.		por la noche
+natürlich	adv.		naturalmente
+nicht	adv.		no
+nie	adv.		nunca, jamás
+noch	adv.		aún, todavía
+noch einmal	adv.		otra vez
+nur	adv.		sólo, solamente
+oben	adv.		arriba
+oft (öfter, am öftesten)	adv.		a menudo
+plötzlich	adv.		de repente
+rechts	adv.		a la derecha
+schon	adv.		ya
+sehr (mehr, am meisten)	adv.		muy, mucho
+selbstverständlich	adv.		por supuesto, desde luego
+sofort	adv.		enseguida, en el acto, ahora mismo
+sogar	adv.		incluso
+täglich	adv.		cada día, todos los días, diariamente
+überall	adv.		por todas partes
+übrigens	adv.		por cierto, dicho sea de paso
+unten	adv.		abajo
+verschieden	adv.		diferente, distinto
+vielleicht	adv.		quizás, tal vez
+völlig	adv.		completamente
+vor allem	adv.		sobre todo
+vorher	adv.		antes
+vorwiegend	adv.		principalmente
+wieder	adv.		otra vez, de nuevo
+wirklich	adv.		de verdad
+ziemlich	adv.		bastante, casi
+zuerst	adv.		primero, al principio
+zusammen	adv.		juntos

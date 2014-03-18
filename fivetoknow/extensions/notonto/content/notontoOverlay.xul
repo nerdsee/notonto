@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://notonto/skin/overlay.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://notonto/locale/notonto.dtd">
+<overlay id="notonto-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul" xmlns:html="http://www.w3.org/1999/xhtml">
+	<script src="ntoverlay.js" />
+	<script src="ntapi.js" />
+
+	<stringbundleset id="ntstringbundleset">
+		<stringbundle id="notonto-strings" src="chrome://notonto/locale/notonto.properties" />
+	</stringbundleset>
+
+	<!--
+		<popup id="contentAreaContextMenu"> <menuitem id="context-notonto" label="&notontoContext.label;" accesskey="&notontoContext.accesskey;" insertafter="context-stop" oncommand="notonto.onMenuItemCommand(event)" /> </popup> <toolbarpalette id="BrowserToolbarPalette"> <toolbarbutton id="notonto-toolbar-button" label="&notontoToolbar.label;" tooltiptext="&notontoToolbar.tooltip;"
+		oncommand="notonto.onToolbarButtonCommand()" class="toolbarbutton-1 chromeclass-toolbar-additional" /> </toolbarpalette>
+	-->
+
+	<statusbar id="status-bar">
+		<statusbarpanel id="ntStatusBar" context="ntStatusContextMenu" onmousedown="notonto.toggleDisplay(event);">
+			<image id="notontoIcon" class="notontoIcon" />
+			<label id="notontoStatusText" value="Notonto [0/0]" />
+		</statusbarpanel>
+
+		<menupopup id="ntStatusContextMenu" onpopupshowing="">
+			<menuitem label="&options; ..." command="cmd_options" />
+			<menuseparator />
+			<menuitem label="&refresh;" command="cmd_refresh" />
+			<menuseparator />
+		</menupopup>
+	</statusbar>
+	<commandset id="mainCommandSet">
+		<command id="cmd_options" oncommand="notonto.showOptions();" />
+		<command id="cmd_refresh" oncommand="notonto.refresh();" />
+	</commandset>
+	<keyset>
+		<key id="a-key" keycode="VK_RIGHT" modifiers="control shift" onkeypress="notonto.showAnswer();" />
+		<key id="q-key" keycode="VK_LEFT" modifiers="control shift" onkeypress="notonto.showQuestion();" />
+		<key id="ta" key="a" modifiers="alt" onkeypress="alert('Hallo')" />
+	</keyset>
+	<!-- Notonto panel -->
+
+	<vbox id="appcontent">
+		<splitter id="ntContentSplitter" collapsed="true" />
+		<vbox id="ntContentBox" collapsed="true" persist="height">
+			<hbox id="ntPanelBox" flex="1">
+				<vbox id="area_question" hidden="false" flex="1">
+					<vbox id="gb_answers111" flex="1" onclick="notonto.showAnswer();" class="nt_area">
+						<description value="" class="nt_font1" id="lessonnameq" />
+						<html:hr class="orange_ruler" />
+						<hbox>
+							<description value="&question;" class="nt_font3" />
+							<spacer flex="1" />
+							<description id="ntLevel" value="" class="nt_font3" />
+						</hbox>
+						<hbox flex="1">
+							<spacer flex="1" />
+							<vbox style="vertical-align: middle;">
+								<spacer flex="1" />
+								<description id="ntQuestion" class="nt_font2" flex="1" style="border: 1px solid green;" />
+								<description id="ntComment" class="nt_pinyin" style="align:center;" />
+								<spacer flex="5" />
+							</vbox>
+							<spacer flex="1" />
+						</hbox>
+						<!--  button label="Antwort" oncommand="notonto.showAnswer()" /> -->
+					</vbox>
+				</vbox>
+				<vbox id="area_answer" hidden="true" flex="1">
+					<vbox class="nt_area" flex="1">
+						<hbox>
+							<description value="" class="nt_font1" id="lessonnamea" />
+							<spacer flex="1" />
+							<vbox>
+								<spacer flex="1" />
+								<description value="&knowanswer; " class="nt_font2" />
+								<spacer flex="1" />
+							</vbox>
+							<toolbarbutton label="&gt;&yes;" oncommand="notonto.answerItem(true)" class="nt_font5 naked nt_c4 nt_marri" />
+							<toolbarbutton label="&gt;&no;" oncommand="notonto.answerItem(false)" class="nt_font5 naked nt_c2 nt_marri" />
+						</hbox>
+						<html:hr class="orange_ruler" />
+						<hbox>
+							<description value="&answer;" class="nt_font3" />
+							<spacer flex="1" />
+							<description id="ntLevel2" value="" class="nt_font3" />
+						</hbox>
+						<vbox onclick="notonto.showQuestion()" flex="1">
+							<spacer flex="1" />
+							<hbox>
+								<spacer flex="1" />
+								<vbox>
+									<hbox>
+										<spacer flex="1" />
+										<description id="ntComment2" class="nt_pinyin" />
+										<spacer flex="1" />
+									</hbox>
+									<spacer height="2px" />
+									<box id="gb_answers" flex="1"></box>
+								</vbox>
+								<spacer flex="1" />
+							</hbox>
+							<spacer flex="5" />
+						</vbox>
+					</vbox>
+				</vbox>
+				<vbox id="area_none" hidden="true" flex="1">
+					<groupbox class="nt_area" flex="1">
+						<vbox flex="1">
+							<description value="" class="nt_font1" id="lessonnamen" />
+							<html:hr class="orange_ruler" />
+							<spacer flex="1" />
+							<hbox>
+								<spacer flex="1" />
+								<vbox>
+									<description value="Sie haben in dieser Lektion derzeit alle Fragen beantwortet." class="nt_font2" />
+									<description width="90%" class="nt_font3">Nach Ablauf der entsprechenden Wartezeiten, werden Ihnen die Fragen wieder zur Beantwortung vorgelegt. Je öfter sie eine Frage richtig beantwortet haben, desto länger ist diese Wartezeit.</description>
+								</vbox>
+								<spacer flex="1" />
+							</hbox>
+							<spacer flex="1" />
+						</vbox>
+					</groupbox>
+				</vbox>
+				<vbox id="area_no_connection" hidden="true" flex="1">
+					<vbox class="nt_area" flex="1">
+						<vbox flex="1">
+							<description value="" class="nt_font1" id="lessonnamen" />
+							<html:hr class="orange_ruler" />
+							<spacer flex="1" />
+							<hbox>
+								<spacer flex="1" />
+								<vbox>
+									<description value="&noconn1;" class="nt_font2" />
+									<description width="90%" class="nt_font3">&noconn2;
+									</description>
+								</vbox>
+								<spacer flex="1" />
+							</hbox>
+							<spacer flex="1" />
+						</vbox>
+					</vbox>
+				</vbox>
+			</hbox>
+		</vbox>
+	</vbox>
+</overlay>

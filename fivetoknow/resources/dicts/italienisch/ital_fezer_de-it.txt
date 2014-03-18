@@ -1,0 +1,742 @@
+FEZER-DE-ITAL
+Basisvokabular (Deutsch - Italienisch)
+DE
+abbiegen::	girare
+Abend::	la sera
+Abend essen::	cenare
+Abendessen::	la cena
+aber::	ma ##peró##communque
+abreisen::	partire
+Adresse::	l´indirizzo
+adressiert an::	spettabile
+Agentur::	l´agenzia
+Ah, deswegen!, Ah, deshalb!::	Ah, ecco!
+alkoholfrei::	analcolico
+alkoholfreier Aperitiv::	l´analcolico
+alkoholhaltig::	alcolico
+allein::	da solo
+alles::	tutto
+alles in Ordnung::	tutto bene
+Alphabet::	l´alfabeto##	##
+also, deshalb::	quindi##dunque	##
+Also hör mal!::	Ma dai!##	##
+Amerikaner::	l´americano##	##
+amerikanisch::	americano##	##
+Ampel::	il semaforo##	##
+anbieten, bieten::	offrire##	##
+Anfang, Beginn::	l´inizio##	##
+Angestellte::	l´impiegata##	##
+ankommen, gelangen::	arrivare##	##
+Ankunft::	l´arrivo##	##
+Anrufbeantworter::	la segretaria telefonica##	##
+anrufen::	telefonare##	##
+antworten::	rispondere##	##
+Aperitiv::	l´aperitivo##	##
+Apotheke::	la farmacia##	##
+Apothekerin::	la farmacista##	##
+Appartment, Wohnung::	l´appartamento##	##
+Aquarell::	l´aquarello##	##
+Arbeit::	il lavoro##	##
+arbeiten::	lavorare##	##
+Arbeiter::	l´operaio##	##
+Architekt::	l´architetto##	##
+Argentinien::	l´Argentina##	##
+Argentinier::	l´argentino##	##
+argentinisch::	argentino##	##
+Arzt::	il medico##	##
+Aschenbecher::	il portacenere##	##
+Aubergine::	la melanzana##	##
+auch::	anche##	##
+Auf Wiedersehen::	arrividerci##	##
+Aufzug::	l´ascensore##	##
+aus, von::	di##	##
+ausgehen, hinausgehen::	uscire##	##
+ausländisch::	estero##	##
+außerdem::	inoltre##	##
+aussteigen::	scendere##	##
+Ausstellung::	l´esposizione##	##
+Auto::	la macchina##	##
+Autobahn::	l´autostrada##	##
+Babysitter::	la baby sitter##	##
+Bad::	il bagno##	##
+Bahnhof::	la stazione##	##
+bald::	presto##	##
+Bank::	la banca##	##
+Bar, Café::	il bar##	##
+bauen, erbauen::	costruire##	##
+bedanken::	ringraziare##	##
+begleiten::	accompagnara##	##
+beherbergen::	ospitare##	##
+Beispiel::	l´esempio##	##
+Bekannte::	la conoscente##	##
+Bekannter::	il conoscente##	##
+belegte Brotscheibe::	la tartina##	##
+beruflich::	per lavoro##	##
+berühmt::	famoso##	##
+besichtigen::	visitare##	##
+bestätigen::	 confermare##	##
+bestellen::	ordinare##	##
+Bestellung::	l´ordinazione##	##
+bestimmt::	assolutamente##	##
+Besucher::	il visitatore##	##
+Bett::	il letto##	##
+Bibliothek::	la biblioteca##	##
+Bier::	la birra##	##
+bis::	fino a##	##
+bis bald::	a presto##	##
+Bis später!::	A più tardi!##	##
+bitte::	prego##per cortesia	##
+bitten::	pregare##	##
+Bitter, Kräuterlikör::	l´amaro##	##
+bitter::	amaro##	##
+bleiben::	restare##	##
+Blick, Ausblick::	la vista##	##
+Brandy::	il brandy##	##
+Brasilianer::	il brasiliano##	##
+brasilianisch::	brasiliano##	##
+Brasilien::	il Brasile##	##
+Brioche, feines Hefegebäck::	la brioche##	##
+Brötchen::	il panino##	##
+Brücke::	il ponte##	##
+Brunnen::	la fontana##	##
+Buchhandlung::	la libreria##	##
+Buchstabe::	la lettera##	##
+Burg , Schloss::	il castello##	##
+Bürgermeister::	il sindaco##	##
+Büro::	l´ufficio##lo studio	##
+Bus::	l´autobus##	##
+Cafeteria::	la caffetteria##	##
+Campingplatz::	il campeggio##	##
+Cappuccino::	il cappuccino##	##
+Cent::	il centesimo##	##
+Coca-Cola::	la coca cola##	##
+Cognac::	il cognac##	##
+Creme::	la crema##	##
+da ist, es gibt::	c´è##	##
+da sein, stattfinden::	esserci##	##
+dagegen::	invece##	##
+danach::	dopo##	##
+Däne::	il danese##	##
+Dänemark::	la Danimarca##	##
+dänisch::	danese##	##
+danke::	grazie##	##
+dann, danach::	poi##	##
+denken::	pensare##	##
+der Schiefe Turm::	la torre pendente##	##
+derselbe::	stesso##	##
+Dessertwein::	il vino da dessert##	##
+deutsch::	tedesco##	##
+Deutscher::	il tedesco##	##
+Deutschland::	la Germania##	##
+Dezember::	il dicembre##	##
+Dienstag::	il martedì
+diensthabend ::	di turno
+diensthabende Apotheke::	la farmacia di turno
+dieser::	questo
+direkt::	direttamente
+Diskothek::	la discoteca
+Donnerstag::	il giovedì
+Doppelzimmer::	la camera doppia
+dort::	lì##là##
+dort, dorthin::	ci
+Dose::	la lattina
+dran sein::	toccare
+Du-Form::	confidenziale
+Durst::	la sete
+Durst haben::	avere sete
+Dusche::	la doccia
+echt, unverfälscht::	genuino##	##
+Ecke::	l´angolo##	##
+eher, lieber, vielleicht	::	magari##	##
+Ei::	l´uovo##	##
+Eier::	le uova##	##
+ein::	un##	##
+ein wenig::	un po´##	##
+eine halbe Stunde::	mezz´ora##	##
+einfach::	semplice##	##
+einhalten::	osservare##	##
+einheimisch, national::	nazionale##	##
+einhundert::	cento##	##
+Einlass::	l´ingresso##	##
+eintragen::	segnare##	##
+Eintrittskarte::	il biglietto ##	##
+Einzelzimmer::	la camera singola##	##
+einzig, allein::	solo##	##
+Eis::	il gelato##	##
+Eiswürfel, Eis::	il ghiaccio##	##
+E-Mail::	la e-mail##	##
+E-Mail-Adresse::	l´indirizzo mail##	##
+Empfangschef::	il receptionist##	##
+empfehlen::	consigliare##	##
+Ende::	la fine##	##
+Endstation::	il capolinea##	##
+Engländer::	l´inglese##	##
+englisch::	inglese##	##
+entdecken::	scoprire##	##
+entkoffeiniert::	decaffeinato##	##
+entscheiden::	decidere##	##
+Entschuldige!::	Scusa!##	##
+entschuldigen::	scusare##	##
+er geht::	lui va##	##
+er ist::	lui è##	##
+er sagt::	lui dice##	##
+er trinkt::	lui beve##	##
+Erdbeere::	la fragola##	##
+Erdnuss::	la nocciolina##	##
+erfreut::	lieto##	##
+ergänzen::	completare##	##
+erkennen::	riconoscere##	##
+erklären::	spiegare##	##
+erlauben::	permettere##	##
+erlaubt::	ammesso##	##
+ermäßigt::	ridotto##	##
+ernst, zuverlässig::	serio##	##
+erster, erste, erstes	::	primo##	##
+Espresso::	l´espresso##	##
+essen::	mangiare##	##
+etwas::	qualcosa##	##
+euer, Ihr::	vostro##	##
+eventuell::	eventualmente##	##
+Fahrrad::	la bicicletta##	##
+Familie::	la famiglia##	##
+fast::	quasi##	##
+Fax::	il fax##	##
+Februar::	il febbraio##	##
+Feiertag::	il giorno festivo##	##
+Ferien::	le ferie##	##
+Fernsehen::	la televisione##	##
+Fernseher::	il televisore##	##
+finden::	trovare##	##
+Fitness::	il fitness##	##
+Fladen::	la focaccia##	##
+Flasche::	la bottiglia##	##
+folgen::	seguire##	##
+Foti::	la foto##	##
+Frage::	la domanda##	##
+fragen::	chiedere##domandare	##
+Frankreich::	la Francia##	##
+Franzose::	il francese##	##
+französisch::	francese##	##
+Frau::	la signora##	##
+Frau Doktor::	la dottoressa##	##
+Fräulein::	la signorina##	##
+frei::	libero##	##
+Freitag::	il venerdì##	##
+Freund::	l´amico##	##
+Freundin::	l´amica##	##
+frisch ausgepresster Saft::	la spremuta##	##
+Fruchtsaft::	il succo die frutta##	##
+Frühstück::	la colazione##	##
+frühstücken::	fare colazione##	##
+Führerschein::	la patente##	##
+für, um zu, nach	::	per##	##
+Garage::	il garage##	##
+Garnele::	il gamberetto##	##
+Garten::	il giardino##	##
+Gäste, Kunden::	la clientela##	##
+gastfreundlich, gastlich::	ospitale##	##
+Gasthaus::	la locanda##	##
+Gastwirtschaft::	la trattoria##	##
+Gebäck::	la pasta##	##
+geben::	dare##	##
+Gebirge::	la montagna##	##
+gegen::	verso##	##
+gegenüber::	di fronte a##	##
+gehen, fahren::	andare##	##
+gehen zu::	dare su##	##
+Gemäldegallerie::	la galleria##	##
+genau, richtig::	esattamente##	##
+Gepäck::	il bagaglio##	##
+geradeaus::	dritto##	##
+gerne::	volentieri##	##
+Geschäft, Laden::	il negozio##	##
+Geschichte::	la storia##	##
+geschlossen::	chiuso##	##
+Gesundheit::	la salute##	##
+Getränk::	la bibita##	##
+Gewohnheit::	l´abitudine##	##
+gewöhnlich::	di solito##in genere	##
+Glas::	il bicchiere##	##
+gleich::	uguale##	##
+Glück::	la fortuna##	##
+Grappa::	la grappa##	##
+groß::	grande##	##
+grün::	verde ##	##
+Gruß::	il saluto##	##
+grüßen::	salutare##	##
+gültig::	valido##	##
+gut::	buono##	##
+gut ::	bene##	##
+gut gehen::	stare bene##	##
+gut sein::	essere buono##	##
+Gute Reise!::	Buon viaggio!##	##
+guten Abend::	buenasera##	##
+guten Tag::	buongiorno##	##
+Gymnasium::	il liceo##	##
+Haartrockner, Fön::	il fon##	##
+haben::	avere##	##
+halb::	mezzo ##mezza	##
+halber Preis::	metà prezzo##	##
+Halbpension::	la mezza pensione##	##
+hallo, servus, tschüs	::	ciao##	##
+halten::	tenere##	##
+Haltestelle::	la fermata##	##
+Handtuch::	l´asciugamano##	##
+Haus::	la casa##	##
+Hausfrau::	la casalinga##	##
+heißen::	chiamarsi##	##
+hell::	luminoso##	##
+hereinkommen, eintreten::	entrare##	##
+Herkunft::	l´origine##	##
+Herr::	il signor##il signore	##
+Herr Doktor::	il dottore##	##
+herzlich::	cordiale##	##
+heute::	oggi##	##
+hier::	qui##	##
+hier, da, hier bitte	::	ecco##	##
+hier in der Nähe::	qui vicino##	##
+hinten, unten::	in fondo##	##
+hinter, dahinter::	dietro##	##
+Hof::	il cortile##	##
+hör zu, pass auf, bitte schön	::	senti##	##
+hören::	ascoltare##sentire	##
+Hörnchen::	il cornetto##	##
+hübsch::	carino##	##
+Hunger::	la fame ##	##
+Hunger haben::	avere fame##	##
+Ich bin nicht von hier.::	Non sono di qui. ##	##
+ich muss gehen::	devo andare##	##
+Ich weiß es nicht.::	Non lo so.##	##
+im Sommer::	in estate##	##
+im Süden::	al sud##	##
+Imbiss::	lo snack##lo spuntino	##
+immer::	sempre##	##
+in, zu , nach	::	a##	##
+in::	fra##	##
+in der Nähe von::	vicino a##	##
+in Erwartung::	in attesa di##	##
+in Ordnung::	va bene##	##
+Information::	l´informazione##	##
+Ingenieur::	l´ingegnere##	##
+inklusive, einschließlich::	compreso##	##
+innen::	interno##	##
+interviewen::	intervistare##	##
+Italien::	l´Italia##	##
+Italiener, italienisch::	l´italiano##	##
+ja::	si##	##
+Ja, bitte!::	Dica!##	##
+Jahr::	l´anno##	##
+Jahrhundert::	il secolo##	##
+Januar::	il gennaio##	##
+jeder, jede, jedes	::	ogni##	##
+jetzt::	adesso##	##
+Journalist::	il giornalista##	##
+Journalistin::	la giornalista##	##
+Jugend::	la gioventù##	##
+Jugendherberge::	l´ostello della gioventù##	##
+junge Leute::	ragazzi  ##	##
+junger Mann::	il ragazzo##	##
+Kaffee::	il caffé##	##
+Kaffee mit Schuss::	il caffé corretto##	##
+kalt::	freddo##	##
+Kamillentee::	la cammomilla##	##
+Kanada::	il Canada##	##
+Kanadier::	il canadese##	##
+kanadisch::	canadese##	##
+Kartoffelchip::	la patatina##	##
+Käse::	il frormaggio##	##
+Katze::	il gatto##	##
+Kaufhaus::	il grande magazzino##	##
+kein Problem::	non c´è problema##	##
+Keine Ursache.::	Non c´è di che.##	##
+Kellner::	il cameririere##	##
+kennen::	conoscere##	##
+Kind::	il bambino##	##
+Kinderbett::	il lettino##	##
+Kino::	il cinema##	##
+Kirche::	la chiesa##	##
+klein::	piccolo ##	##
+kleine Pizza::	la pizzetta##	##
+Klimaanlage::	l´aria condizionata##	##
+Koffer::	la valigia##	##
+Kollege::	il collega##	##
+Kollegin::	la collega##	##
+Komm schon!::	Dai!##	##
+kommen::	venire##	##
+Kommune, Gemeinde::	il comune##	##
+können, dürfen::	potere##	##
+kontrollieren, überprüfen::	controllare##	##
+Kreditkarte::	la carta di credito##	##
+Kreuzung::	l´incrocio##	##
+Küche::	la cucina##	##
+Kunde::	il cliente##	##
+Kunst::	l´arte##	##
+Kurs::	il corso##	##
+Land::	la campagna##	##
+langweilig::	noioso##	##
+Lass schon!::	Lascia!##	##
+lassen::	lasciare##	##
+laut::	rumoroso##	##
+leben::	vivere##	##
+Leben::	la vita##	##
+Lebensmittelgeschäfte::	gli alimentari##	##
+Lehrer, Lehrerin::	l´insegnante##	##
+Leid tun::	dispiacere##	##
+leider::	purtroppo##	##
+Lektion::	la lezione##	##
+lesen::	leggere##	##
+letzter::	ultimo##	##
+lieb, teuer::	caro##	##
+liebe Grüße::	cari saluti##	##
+lieben::	amare##	##
+Likör::	il liquore##	##
+Limonade::	la gassosa##	##
+links::	a sinistra##	##
+Lokal::	il locale##	##
+Lösung::	la soluzione##	##
+Luft::	l´aria##	##
+machen::	fare##	##
+Mädchen::	la ragazza##	##
+Mai::	il maggio##	##
+manchmal, hin und wieder::	a volte##	##
+männlich::	maschile##	##
+Marke::	la marca##	##
+Markt::	il mercato##	##
+Marmelade::	la marmellata##	##
+März::	il marzo##	##
+Meer::	il mare##	##
+mein Freund::	il mio amico##	##
+meine Freundin::	la mia amica##	##
+Meter::	il metro##	##
+Milch ::	il latte##	##
+Milchkaffee::	il caffelatte##	##
+mindestens::	almeno##	##
+Mineralwasser::	l´acqua minerale##	##
+Minibar::	il frigo-bar##	##
+Minute::	il minuto##	##
+mit::	con##	##
+mit Kohlensäure::	gasata##	##
+Mittag ::	mezzogiorno##	##
+Mittag essen::	pranzare##	##
+Mittagessen::	il pranzo##	##
+mittags::	a mezzogiorno##	##
+Mitte , Hälfte::	la metà##	##
+Mitteilung::	il messagio##	##
+Mitternacht::	mezzanotte##	##
+Mittwoch::	il mercoledì##	##
+Moarella::	la mozarella##	##
+möchten, wollen::	volere##	##
+modern::	moderno##	##
+möglich::	possibile##	##
+Moment::	il momento##	##
+Monat::	il mese##	##
+Montag::	il lunedì##	##
+morgen::	domani##	##
+Motel::	il motel##	##
+müde::	stanco##	##
+Museum::	il museo##	##
+müssen, sollen::	dovere##	##
+Mutter::	la madre##la mamma	##
+Nachmittag::	il pomeriggio##	##
+Nachname::	il cognome##	##
+Nachricht::	il messagio##	##
+nächster::	prossimo##	##
+Nacht::	la notte##	##
+nachts::	di notte##	##
+nah::	vicino##	##
+Name::	il nome##	##
+neben::	accanto a##	##
+nehmen, trinken::	prendere##	##
+nein::	no##	##
+Neuigkeit::	la novità##	##
+nicht::	non##	##
+nicht schlecht::	non c´è male##	##
+Nicht wahr?::	Vero?##	##
+niedrig::	basso ##	##
+noch ein::	un altro##	##
+noch eine::	un´altra##	##
+normalerweise::	normalmente##	##
+Norwegen::	la Norvegia##	##
+Norweger::	il norvegese##	##
+norwegisch::	norvegese##	##
+November::	il novembre##	##
+ob::	se##	##
+oder::	o##	##
+offen, frei::	aperto##	##
+öffentlich::	pubblico##	##
+öffnen::	apire##	##
+oft, häufig::	spesso##	##
+ohne::	senza##	##
+Oktober::	l´ottobre##	##
+Olivenbaum::	l´olivo##	##
+Orangenlimonade::	l´aranciata##	##
+Ort, Platz::	il posto ##	##
+Österreich::	l´Austria ##	##
+Österreicher::	l´austriaco##	##
+österreichisch::	austriaco##	##
+Pädagogik::	la pedagogia##	##
+Palast::	il palazzo##	##
+Park::	il parco##	##
+parken::	parcheggiare##	##
+Parkplatz::	il parcheggio##	##
+Partner::	il compagno##	##
+passieren, gelten::	succedere##	##
+Pension::	la pensione  ##	##
+Pension auf dem Bauernhof::	l´azienda agrituristica##	##
+Person::	la persona##	##
+Personalausweis::	la carta d´identità##	##
+Pfirsich::	la pesca##	##
+Pilz::	il fungo##	##
+Pinienwald::	la pineta##	##
+Pizza::	la pizza##	##
+Platz::	la piazza##	##
+Polizei::	la polizia##	##
+Portugieser::	il portoghese##	##
+portugiesisch::	portoghese##	##
+Portwein::	il porto ##	##
+Post::	la posta##	##
+Postkarte, Ansichtskarte::	la cartolina##	##
+Postleitzahl::	il codice di avviamento postale##	##
+Preis::	il prezzo##	##
+Preisliste::	il listino prezzi##	##
+preiswert, billig::	economico##	##
+probieren::	assaggiare##	##
+Problem::	il problema##	##
+Prosecco, italienischer Perlwein::	il prosecco##	##
+Prost!::	Cin cin!##	##
+Prüfung::	l´esame##	##
+Punsch::	il punsch##	##
+pur::	liscio##	##
+Querstraße::	la traversa##	##
+Radicchio::	il radicchio##	##
+Raststätte, Autobahnraststätte::	la stazione di servizio##	##
+Recht::	la ragione##	##
+Recht haben::	avere ragione##	##
+rechts::	a destra##	##
+Rechtsanwalt::	l´avvocato##	##
+Region::	la regione##	##
+regional::	regionale##	##
+Reise::	il viaggio##	##
+Reisepass::	il passaporto##	##
+reservieren::	riservare##	##
+reserviert::	prenotato##	##
+respektieren::	rispettare##	##
+Rest::	il resto##	##
+Rezeption::	la portineria##	##
+richtig::	esatto##	##
+Roséwein::	il rosatello##	##
+rot::	rosso##	##
+Rotwein::	il vino rosso##	##
+Rückkehr::	il rientro##	##
+Ruhe::	la tranquillità##la quiete	##
+ruhig, nur, auch	::	pure##	##
+ruhig::	silenzioso##tranquillo	##
+Rum::	il rum##	##
+Saal::	la sala##	##
+Saft::	il succo##	##
+sagen::	dire##	##
+Sahne::	la panna##	##
+Saison::	la stagione##	##
+Salami::	il salame##	##
+Salat::	l´insalata##	##
+Samstag::	il sabato##	##
+Sandwich::	il medaglione##il tramezzino	##
+schauen, aufpassen::	guardare##	##
+Scheck::	l´assegno##	##
+Schinken::	il prosciutto##	##
+schlecht::	male##	##
+schlecht gehen::	stare male##	##
+schließen::	chiudere##	##
+Schließung::	la chiusura##	##
+Schlüssel::	la chiave##	##
+schmecken, angenehm::	piacere##	##
+Schokolade::	il cioccolato##	##
+schön::	bello##	##
+schreiben::	scrivere##	##
+Schule::	la scuola##	##
+Schweiz::	la Svizzera##	##
+Schweizer::	lo svizzero##	##
+Schweizerisch::	svizzero ##	##
+schwierig, schwer::	difficile##	##
+Schwimmbad::	la piscina##	##
+sehen::	vedere##	##
+Sehen Sie!::	Guardi!##	##
+sehr::	nolto##	##
+sehr gut::	benissimo##	##
+sein::	essere##	##
+seit::	da ##	##
+Sekretärin::	la segretaria##	##
+Sekt::	lo spumante##	##
+senden, schicken::	inviare##	##
+Serviceleistung::	il servicio##	##
+Serviette::	il tovagliolo##	##
+sich etwas vorstellen::	immaginare##	##
+sich Sorgen machen::	preoccuparsi##	##
+sicher, natürlich, selbstverständlich	::	certo##	##
+sicherlich, bestimmt::	senz´altro##	##
+Sie-Form::	formale ##	##
+so::	così##	##
+sofort::	subito##	##
+Sonntag::	il domenica##	##
+Spanien::	la Spagna##	##
+Spanier::	lo spagnolo##	##
+spanisch::	spagnolo##	##
+Spargel::	l´aspergo##	##
+spät::	tardi##	##
+spazierengehen::	passegiare##	##
+Speisesaal::	la sala da pranzo##	##
+Spinat::	gli spinaci##	##
+Sprache::	la lingua##	##
+sprechen::	parlare##	##
+Stadt::	la città##	##
+Stadtpark::	il giardini pubblici##	##
+Stadtplan::	la piantina##	##
+Stadtviertel::	il quartiere##	##
+still::	naturale##	##
+Stockwerk::	il piano##	##
+stören::	dare fastidio##disturbare	##
+Straße::	la strada ##la via	##
+Straßenbahn::	il tram##	##
+Student::	lo studente##	##
+studieren, lernen::	studiare##	##
+Stunde::	l´ora##	##
+suchen::	cercare##	##
+Supermarkt::	il supermercato##l´ipermercato	##
+süß::	dolce##	##
+sympathisch::	simpatico##	##
+Tabakladen::	il tabaccaio##	##
+Tag::	il giorno##la giornata	##
+Tageszeitung::	il giornale##	##
+Tankstelle::	il distributore##	##
+tanzen::	ballare##	##
+Tasse::	la tazza##	##
+tatsächlich, in der Tat::	infatti##	##
+Taxi::	il taxi##	##
+Tee::	il the##	##
+Teelöffel::	il cucchiaono##	##
+Teil::	la parte##	##
+Telefon::	il telefono##	##
+telefonisch::	telefonico##	##
+Telefonnummer::	il numero di telefono##	##
+Telefonzelle::	la cabina telefonica##	##
+Tennis::	il tennis##	##
+Text::	il testo##	##
+Theater::	il theatro##	##
+Thunfisch::	il tonno##	##
+Tier::	l´animale##	##
+Toast::	il toast##	##
+Toilette::	la toilette##	##
+Tomate::	il pomodoro##	##
+toskanisch::	toscano##	##
+Tourist::	il turista##	##
+Touristin::	la turista##	##
+Tradition::	la tradizione##	##
+treffen::	incontrare##	##
+Treppe::	la scala##	##
+trinken::	bere##	##
+Turm::	la torre##	##
+TV::	la tivù##	##
+typisch::	tipico##	##
+U-Bahn::	la metropolitana##	##
+übermorgen::	dopodomani##	##
+übernachten::	pernottare##	##
+überqueren::	attraversare##	##
+üblich, gewöhnlich::	solito##	##
+üblich, normal::	normale##	##
+Uhr::	l´orologio##	##
+Uhrzeit::	l´ora##	##
+Umarmung::	l´abbraccio##	##
+Umgebung, Ambiente, Atmosphäre	::	l´ambiente##	##
+und::	e##	##
+ungefähr, circa::	circa##	##
+Unterkunft, Unterbringung::	la sistemazione##	##
+Urlaub::	la vacanza##	##
+Vater::	il papà##	##
+Verabredung, Termin::	l´appuntamento##	##
+verbleibe ich mit freundlichen Grüßen::	invio distinti saluti##	##
+vergleichen::	confrontare##	##
+Verkäufer::	il comesso##	##
+Verkehrspolizist::	il vigile##	##
+Versammlung::	la riunione##	##
+verschieden::	diverso##	##
+verstehen::	capire##	##
+verzichten::	fare a meno##	##
+viel::	molto ##	##
+vielleicht::	forse ##	##
+Viertel::	il quarto##	##
+voll ::	completo##	##
+Vollpension::	la pensione completa##	##
+vom Fass::	alla spina##	##
+vor [örtlich]::	davanti a##	##
+vor [zeitlich]::	prima di##	##
+vorbeifahren, verbringen::	passare##	##
+vorbestellen, reservieren::	prenotare##	##
+Vorbestellung::	la prenotazione##	##
+Vorliebe::	il gusto##	##
+Vormittag, Morgen::	la mattina##	##
+Vorsicht!::	Attenzione!##	##
+vorstellen::	presentare##	##
+vorziehen::	preferire##	##
+während::	mentre##durante	##
+warm::	caldo##	##
+warten::	attendere##	##
+was::	che cosa##	##
+Was macht es?::	Quant´è?##	##
+Was nimmst du?::	Che cosa prendi?##	##
+Wasser::	l´acqua ##	##
+Wecker, Weckdienst::	la sveglia##	##
+weiblich::	femminile##	##
+weil, warum::	perché##	##
+Wein::	il vino##	##
+weiß ::	bianco##	##
+Weißwein::	il vino bianco##	##
+weit::	lontano##	##
+weiter, vorwärts::	avanti##	##
+weitergehen::	continuare##	##
+welcher, welche , welches	::	che##quale	##
+wenn::	quando##	##
+wer::	chi##	##
+Werk, Opernhaus, Oper	::	l´opera##	##
+Wermut::	il vermouth##	##
+Whisky::	il whisky##	##
+wie::	come##	##
+Wie geht es dir?::	Come stai?##	##
+Wie spät ist es?::	Che ore sono?##	##
+wiederholen::	ripetere##	##
+wieviel::	quanto##	##
+wissen::	sapere##	##
+wo::	dove##	##
+Woche::	la settimana##	##
+Wochentag, Werktag::	il giorno feriale##	##
+woher::	di dove##	##
+Wohlbefinden::	il benessere##	##
+wohnen::	abitare##	##
+Wohnzimmer::	il salotto##	##
+wünschen, begehren::	desiderare##	##
+Zahl::	il numero##	##
+zahlen::	pagare##	##
+Zahlungsmodus::	la forma di pagamento##	##
+Zeit::	il tempo##	##
+Zeit, Zeitpunkt::	l´orario##	##
+Zeit haben::	avere tempo##	##
+zeitgenössisch::	contemporaneo##	##
+Zeitungskiosk::	l´edicola##	##
+Zentrum, Mitte::	il centro##	##
+Zettel, Rechnung, Quittung	::	lo scontrino##	##
+ziemlich ::	abbastanza##	##
+Zimmer::	la camera##la stanza	##
+Zimmer mit Ehebett::	la camera matrimoniale##	##
+Zitrone::	il limone##	##
+Zone, Gegend::	la zona##	##
+Zoo, Tierpark::	lo zoo##	##
+zu::	su ##	##
+zu Fuß::	a piedi##	##
+Zucker::	lo zucchero##	##
+zum Beispiel::	per esempio##	##
+zum Glück::	per fortuna##	##
+Zum Wohl!::	Alla salute!##	##
+zur Verfügung::	a disposizione##	##
+zurückfahren::	tornare##	##
+Zusage::	la vconferma##	##
+Zutat::	l´ingrediente##	##
+zwischen, innerhalb::	tra##	##

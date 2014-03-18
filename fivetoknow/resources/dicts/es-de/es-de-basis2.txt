@@ -1,0 +1,508 @@
+abierto; abierta :: offen; geöffnet
+el abrigo  :: der Mantel 
+el abrigo  :: das Obdach 
+el abril  :: der April 
+abrir :: öffnen; eröffnen
+abrochar :: zuknöpfen
+aburrido; aburrida {adj} :: langweilig
+el accidente  :: der Unfall 
+adiós :: auf Wiedersehen
+el agosto  :: der August 
+la agua  :: das Wasser 
+a la derecha :: rechts
+alemán; alemana {adj} :: deutsch; aus Deutschland
+la Alemania  :: das Deutschland 
+algo :: etwas; ein bisschen; ein wenig
+alguien :: jemand
+allí {adj} :: dort
+alto; alta {adj} :: hoch; groß gewachsen
+la alumna  :: die Schülerin 
+el alumno  :: der Schüler 
+amarillo; amarilla {adj} :: gelb
+la amiga  :: die Freundin 
+el amigo  :: der Freund 
+el amor  :: die Liebe 
+el animal  :: das Tier 
+el año  :: das Jahr 
+el aparcamiento  :: der Parkplatz 
+el apartamento  :: das Apartment; die Wohnung
+el apellido  :: der Nachname 
+aprender :: lernen
+aquí {adv} :: hier
+el árbol  :: der Baum 
+el arroz  :: der Reis 
+el ascensor  :: der Aufzug 
+el asiento  :: der Sitz 
+la atención  :: die Achtung 
+Austria :: Österreich
+la ave  :: der Vogel 
+la avenida  :: die Allee 
+la aventura  :: das Abenteuer 
+el avión  :: das Flugzeug 
+el aviso  :: die Nachricht 
+ayer :: gestern
+el ayuntamiento  :: das Rathaus 
+el azúcar  :: der Zucker 
+azul :: blau
+bailar :: tanzen
+bajar :: aussteigen
+bajo; baja {adj} :: leise (Stimme)
+bajo; baja {adj} :: niedrig; klein; gedrungen
+el balcón  :: der Balkon 
+bañarse :: baden
+el banco  :: die Bank 
+barato; barata {adj} :: billig
+el barco  :: das Schiff 
+el barrio  :: das Viertel; der Stadtteil
+bastante {adv} :: genug; ausreichend; ziemlich viel
+el bebé  :: das Baby 
+beber :: trinken
+el beso  :: der Kuss 
+la biblioteca  :: die Bibliothek; die Bücherei
+la bici ; la bicicleta  :: das Fahrrad 
+el billete  :: die Fahrkarte 
+blanco; blanca :: weiß
+la blusa  :: die Bluse 
+la boca  :: der Mund 
+el bolígrafo  :: der Kugelschreiber 
+bonito {adj} :: hübsch
+la botella  :: die Flasche 
+el brazo  :: der Arm 
+buscar :: suchen
+el caballo  :: das Pferd 
+el café  :: der Kaffee 
+la caja  :: die Kasse 
+la caja  :: die Kiste 
+el calcetín  :: die Socke 
+caliente {adj} :: warm; heiß
+la calle  :: die Straße 
+el calor  :: die Hitze; die Wärme
+la cama  :: das Bett 
+caminar :: gehen; wandern
+el camino  :: der Weg 
+la camisa  :: das Hemd 
+la camiseta  :: das T-Shirt 
+la camiseta  :: das Unterhemd 
+la canción  :: das Lied 
+cansado; cansada :: müde; matt
+la cantante  :: die Sängerin 
+el cantante  :: der Sänger 
+cantar :: singen
+la capital  :: die Hauptstadt 
+la cara  :: das Gesicht 
+caro; cara {adj} :: teuer
+la carta  :: der Brief 
+la casa  :: das Haus 
+la cena  :: das Abendessen; Abendbrot
+cenar :: zu Abend essen
+el centro  :: das Zentrum; der Mittelpunkt
+la cerda  :: die Sau 
+el cerdo  :: das Schwein 
+cero :: null
+cerrar :: schließen
+la cerveza  :: das Bier 
+la chaqueta  :: die Jacke; das Jackett
+la chica  :: das Mädchen 
+el chico  :: der Junge 
+el chocolate  :: die Schokolade 
+cinco :: fünf
+cincuenta :: fünfzig
+el cine :: das Kino 
+la ciudad  :: die Stadt 
+la clase  :: die Klasse 
+el coche  :: das Auto 
+la cocina  :: die Küche 
+el color  :: die Farbe 
+comenzar :: anfangen; beginnen
+comer :: essen
+la comida  :: das Essen 
+comprar :: kaufen; einkaufen
+comprender :: verstehen; begreifen
+contestar :: antworten
+correcto; correcta :: korrekt; richtig
+corregir :: korrigieren
+la cosa  :: die Sache
+costar :: kosten
+creer :: glauben
+el cuaderno  :: das Heft 
+el cuadro  :: das Bild 
+el cuadro  :: das Gemälde 
+¿cuándo? :: wann?
+cubano {adj} :: kubanisch
+el cuchillo  :: das Messer 
+la cuenta  :: die Rechnung 
+el cuento  :: die Geschichte 
+la cultura  :: die Kultur; die Bildung
+el cumpleaños  :: der Geburtstag 
+decir :: sagen
+delante de :: vor
+delgado; delgada {adj} :: schlank; dünn
+desayunar :: frühstücken
+el desayuno  :: das Frühstück 
+desde :: seit
+despacio {adv} :: langsam; sachte {adv}
+el despertador  :: der Wecker 
+despertarse :: aufwachen
+después :: danach; nach; nachher; dann; später; darauf
+detrás de :: hinter
+el día  :: der Tag 
+el diálogo :: der Dialog
+el dibujo  :: die Zeichnung 
+el diciembre  :: der Dezember 
+el diente :: der Zahn
+diferente :: verschieden
+difíci :: schwer, schwierig
+el dinero  :: das Geld 
+Dios :: Gott
+la dirección  :: die Adresse 
+el disco  :: die Schallplatte 
+doble :: doppelt
+doce :: zwölf
+el doctor  :: der Doktor 
+el dolor  :: der Schmerz 
+el domingo  :: der Sonntag 
+donde :: da, wo; wo
+dormir :: schlafen
+la ducha  :: die Dusche 
+la edad  :: das Alter 
+el ejercicio  :: die Übung 
+el elefante  :: der Elefant 
+elegante {adj} :: elegant; schick; fein; anmutig
+empezar :: anfangen
+el enero  :: der Januar 
+entender :: verstehen
+entrar :: hineingehen; betreten; eindringen
+escribir :: schreiben
+escuchar :: hören; anhören; zuhören; horchen
+la escuela  :: die Schule 
+la espalda  :: der Rücken 
+España :: Spanien
+la española  :: die Spanierin 
+español; española {adj} :: spanisch
+el español  :: der Spanier 
+el espejo  :: der Spiegel 
+la esperanza  :: die Hoffnung 
+esperar :: warten; erwarten; hoffen; erhoffen
+la espinacas  {pl} :: der Spinat 
+la estación  :: die Station; der Bahnhof
+la estudiante  :: die Studentin 
+el estudiante  :: der Student 
+estúpido; estúpida {adj} :: dumm
+evidente :: offensichtlich
+exacto; exacta :: genau; exakt
+el examen  :: das Examen; die Prüfung
+excelente :: ausgezeichnet
+la excursión  :: der Ausflug 
+existir :: existieren
+el éxito  :: der Erfolg 
+la fábrica  :: die Fabrik 
+la falda  :: der Rock 
+la falta  :: der Fehler 
+la familia  :: die Familie 
+la farmacia  :: die Apotheke 
+el febrero  :: der Februar 
+feliz {adj} :: glücklich; froh
+feo; fea {adj} :: hässlich
+la fiesta  :: der Feiertag 
+el final  :: das Ende 
+el fin  :: das Ende 
+fino; fina :: fein
+la flor  :: die Blume 
+la foca  :: der Seehund 
+la foto  :: das Foto 
+francés; francesa {adj} :: französisch
+frío; fría :: kalt
+la frontera  :: die Grenze 
+el fuego  :: das Feuer 
+la fuente  :: die Quelle 
+fuerte :: stark; kräftig; hart
+fumar :: rauchen
+el fútbol  :: der Fußball 
+la gafas  {pl} :: die Brille 
+el garaje  :: die Garage 
+el gato  :: die Katze 
+la gaviota  :: die Möwe 
+Gracias. :: Danke.
+la guerra  :: der Krieg 
+la habitación  :: das Zimmer 
+hablar :: sprechen
+el helado  :: das Eis 
+el helicóptero  :: der Hubschrauber 
+la hermana  :: die Schwester 
+el hermano  :: der Bruder 
+hermoso; hermosa :: schön
+la hija  :: die Tochter 
+el hijo  :: der Sohn 
+la historia  :: die Geschichte 
+la hoja  :: das Blatt 
+la hora  :: die Stunde 
+hornear :: backen
+el horno  :: der Ofen; der Backofen
+horrible :: schrecklich
+el hospital  :: das Krankenhaus 
+el hotel  :: das Hotel 
+hoy :: heute
+húmedo; húmeda :: feucht
+el idiota  :: der Idiot 
+la iglesia  :: die Kirche 
+imposible :: unmöglich
+impuntual :: unpünktlich
+la información  :: die Information 
+la Inglaterra  :: das England 
+inglés; inglesa {adj} :: englisch
+el insecto  :: das Insekt 
+intentar :: versuchen
+interesante :: interessant
+inventar :: erfinden
+el invierno  :: der Winter 
+la invitación  :: die Einladung 
+invitar :: einladen
+Italia :: Italien
+italiano; italiana {adj} :: italienisch
+izquierda :: links
+jamás :: nie; niemals
+el jamón  :: der Schinken 
+el jardinero  :: der Gärtner 
+el jardín  :: der Garten 
+el jefe  :: der Chef 
+¡Jesús! :: Gesundheit!
+joven {adj} :: jung
+el juego  :: das Spiel 
+el jueves  :: der Donnerstag 
+jugar :: spielen
+el julio  :: der Juli 
+el junio  :: der Juni 
+el kilometro  :: der Kilometer 
+el labio  :: die Lippe 
+el lado  :: die Seite 
+la lágrima  :: die Träne 
+lavar :: waschen
+la leche  :: die Milch 
+la lechuga  :: der Salat 
+leer :: lesen
+la lengua  :: die Sprache 
+levantarse :: aufstehen
+el libro  :: das Buch 
+limpiar :: säubern; reinigen; putzen
+limpio; limpia :: sauber
+llamar :: rufen; aufrufen
+la llave  :: der Schlüssel 
+llegar :: ankommen; eintreffen
+llevar :: bringen; hinbringen; tragen; führen; mitbringen
+llorar :: weinen
+llover :: regnen
+la lluvia  :: der Regen 
+el lobo  :: der Wolf 
+luego :: dann; danach
+el lugar  :: der Ort 
+la luna  :: der Mond 
+el lunes  :: der Montag 
+la madera  :: das Holz 
+la madre  :: die Mutter 
+la mañana  :: der Morgen 
+mañana :: morgen
+la mano  :: die Hand 
+la manzana  :: der Apfel 
+la manzanilla  :: die Kamille 
+el mapa  :: die Karte 
+la mariposa  :: der Schmetterling 
+los mariscos :: die Meeresfrüchte
+la marmita  :: der Topf 
+el mar  :: das Meer 
+el martes  :: der Dienstag 
+el marzo  :: der März 
+el mayo  :: der Mai 
+la médica  :: die Ärztin 
+el médico  :: der Arzt 
+menos :: minus; abzüglich
+el mercado  :: der Markt 
+la mesa  :: der Tisch 
+el mes  :: der Monat 
+el metro  :: die U-Bahn 
+el miedo  :: die Angst 
+la miel  :: der Honig 
+el miércoles  :: der Mittwoch 
+la mierda  :: die Scheiße  [vulg.]
+el minuto  :: die Minute 
+mirar :: anschauen; ansehen; anblicken; schauen
+el momento  :: der Moment 
+el mono  :: der Affe 
+el monte  :: der Berg 
+moreno; morena :: braun; dunkelbraun; braunhaarig; braunhäutig; braun gebrannt
+morir :: sterben
+la esposa  :: die Ehefrau 
+la mujer  :: die Frau 
+el mundo  :: die Welt 
+la música  :: die Musik 
+nadar :: schwimmen
+nadie :: niemand
+la naranja  :: die Orange 
+negro; negra :: schwarz
+nevar :: schneien
+la niña  :: das Mädchen 
+el niño  :: der Junge
+la noche  :: der Abend 
+el nombre  :: der Name 
+no :: nicht; nein
+la novela  :: der Roman 
+el noviembre  :: der November 
+nueve :: neun
+nuevo; nueva :: neu
+el número  :: die Zahl 
+observar :: beobachten
+ochenta :: achtzig
+ocho :: acht
+el octubre  :: der Oktober 
+el ordenador  :: der Computer 
+la oreja  :: das Ohr 
+el otoño  :: der Herbst 
+otra vez :: wieder; noch einmal
+otro; otra :: andere; anderer; anderes
+la oveja  :: das Schaf 
+el padre  :: der Vater 
+los padres  :: die Eltern
+pagar :: zahlen; bezahlen
+la página  :: die Seite 
+el país  :: das Land 
+el pájaro  :: der Vogel 
+la palabra  :: das Wort 
+la panadería  :: die Bäckerei 
+el pan  :: das Brot 
+el papel  :: das Papier 
+la patata  :: die Kartoffel 
+pedir :: verlangen; erbitten; bitten
+la película  :: der Film 
+pequeño; pequeña :: klein
+perder :: verlieren; verpassen
+el periódico  :: die Zeitung 
+el perro  :: der Hund 
+el pescado  :: der Fisch  [Essen]
+el pez  :: der Fisch 
+picante {adj} :: scharf
+la piel  :: die Haut 
+el pie  :: der Fuß 
+la pierna  :: das Bein 
+pintar :: malen
+el piso  :: das Stockwerk; die Etage
+la pizarra  :: die Tafel 
+el plátano  :: die Banane 
+el plato  :: der Teller 
+la playa  :: der Strand 
+pobre :: arm
+poco; poca :: wenig
+poder :: können
+por favor :: bitte
+por la mañana :: vormittags; morgens; am Morgen
+por la tarde :: nachmittags
+porque :: weil; da
+preferir :: vorziehen; bevorzugen; lieber tun
+la pregunta  :: die Frage 
+preguntar :: fragen
+la prima  :: die Cousine 
+la primavera  :: der Frühling 
+el primo  :: der Cousin 
+el pueblo  :: das Dorf 
+el pueblo  :: das Volk 
+la puerta  :: die Tür 
+querer :: wollen; mögen; lieben
+¿qué? :: was?
+¿quién? :: wer?
+quince :: fünfzehn
+la radio  :: das Radio 
+el refresco  :: das Erfrischungsgetränk 
+el regalo  :: das Geschenk 
+la región  :: die Region 
+el reloj  :: die Uhr 
+el restaurante  :: das Restaurant 
+el río  :: der Fluss 
+rojo; roja :: rot
+la ropa  :: die Kleidung 
+rubio; rubia :: blond
+el sábado  :: der Samstag; der Sonnabend
+saber :: wissen
+la sala  :: der Raum; der Saal
+la sal  :: das Salz 
+la salida  :: der Ausgang 
+salir :: herausgehen; weggehen; ausgehen
+la sangre  :: das Blut 
+sano; sana {adj} :: gesund
+seco; seca :: trocken
+la sed  :: der Durst 
+la semana  :: die Woche 
+la señora  :: die Frau; die Dame
+el señor  :: der Herr; der Mann
+el septiembre  :: der September 
+siempre :: immer
+sí :: ja; doch
+la silla  :: der Stuhl 
+el sillón  :: der Sessel 
+simpático; simpática {adj} :: nett; sympathisch
+sin :: ohne
+sobre :: auf; über; außer; gegen; ungefähr
+el sol  :: die Sonne  [Astronomie]
+la sopa  :: die Suppe 
+subir :: steigen; aufwärts gehen
+tarde :: spät
+el teatro  :: das Theater 
+el teléfono  :: das Telefon 
+la televisión  :: das Fernsehen 
+temprano; temprana :: früh; frühzeitig
+tener :: haben
+el tenis  :: das Tennis 
+terminar :: aufhören
+la tía  :: die Tante 
+el tiempo  :: das Wetter 
+el tiempo  :: die Zeit 
+la tienda  :: das Geschäft 
+el tigre  :: der Tiger 
+el tío  :: der Onkel 
+tocar :: berühren
+tocar :: spielen [Musik]
+tomarse :: (zu sich) nehmen; trinken
+tomar :: trinken
+el tomate  :: die Tomate 
+tómate :: nimm (Imperativ von tomarse)
+tonto; tonta {adj} :: dumm; doof
+trabajar :: arbeiten
+triste {adj} :: traurig
+el trozo  :: das Stück 
+un; uno :: eins
+urgente :: dringend; dringlich
+usual :: üblich
+las vacaciones :: die Ferien; der Urlaub
+la vaca  :: die Kuh; das Rind
+vender :: verkaufen
+venir :: kommen
+el verano  :: der Sommer 
+verde :: grün
+el vestido  :: das Kleid 
+viajar :: reisen
+la vida  :: das Leben 
+viejo; vieja :: alt
+el viernes  :: der Freitag 
+la escalera :: die Treppe
+explicar :: erklären
+fácil :: leicht
+fantástico :: fantastisch, wunderbar
+el francés :: der Franzose
+la francesa :: die Französin
+el hambre :: der Hunger
+el inglés :: der Engländer
+la inglesa :: die Engländerin
+inteligente :: intelligent
+interesarse :: sich interessieren
+el jersey :: der Pullover
+el lago :: der See
+la lámpara :: die Lampe
+moderno, moderna :: modern
+la nariz :: die Nase
+la ópera : die Oper
+el parque :: der Park
+el pelo :: das Haar
+la piscina :: das Schwimmbad
+el precio :: der Preis
+el puerto :: der Hafen
+rico, rica :: reich
+roto, rota :: kaputt
+el supermercado :: der Supermarkt
+la tiza :: die Kreide

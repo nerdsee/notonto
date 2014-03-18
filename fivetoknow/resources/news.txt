@@ -1,0 +1,9 @@
+Notonto startet
+NL: Spanisch Grundwortschatz
+NL: Englische Präpositionen
+NL: Englische idiomatische Redewendungen
+Notonto unterstützt jetzt auch Chinesische Schriftzeichen
+NL: Chinesisch - Deutsch (214 Kangxi Radikale)
+Notonto unterstützt jetzt auch die Eingabe von Pinyin (chinesiche Lautschrift)
+NL: Deutsch  - Chinesisch (Pinyin) (214 Kangxi Radikale)
+Warum immer nur Vokablen lernen.

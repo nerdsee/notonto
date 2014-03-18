@@ -1,0 +1,164 @@
+/* This is just an example.  You shouldn't do this. */
+#notonto-hello {
+	color: red ! important;
+}
+
+#notonto-toolbar-button {
+	list-style-image: url("chrome://notonto/skin/toolbar-button.png");
+	-moz-image-region: rect(0px, 24px, 24px, 0px);
+}
+
+#notonto-toolbar-button :hover {
+	-moz-image-region: rect(24px, 24px, 48px, 0px);
+}
+
+[iconsize="small"] #notonto-toolbar-button {
+	-moz-image-region: rect(0px, 40px, 16px, 24px);
+}
+
+[iconsize="small"] #notonto-toolbar-button :hover {
+	-moz-image-region: rect(24px, 40px, 40px, 24px);
+}
+
+.notontoIcon {
+	list-style-image: url(chrome://notonto/skin/mini-nt.png);
+}
+
+.notontoIconAlert {
+	list-style-image: url(chrome://notonto/skin/mini-nt-alert.png);
+}
+
+#ntQuestion {
+	text-align: center;
+	vertical-align: middle;
+}
+
+.nt_answer {
+	font-size: 18px;
+}
+
+.nt_pinyin {
+	font-size: 20px;
+	font-style: italic;
+	color: #FB5F00;
+}
+
+.nt_answer_pinyin {
+	font-size: 18px;
+	font-style: italic;
+	color: #FB5F00;
+}
+
+.nt_hidden {
+	visibility: hidden;
+	font-size: 1px;
+}
+
+#ntComment {
+	text-align: center;
+}
+
+.nt_area {
+	background-color: #FFFFFF;
+	border: 1px solid #888888;
+	margin: 3px;
+	padding: 5px
+}
+
+.orange_ruler {
+	height: 1px;
+	border: 0px;
+	border-bottom: 1px solid #FC9E00;
+}
+
+.nt_font1 {
+	font: normal 18px Verdana;
+	text-decoration: none;
+	color: #222222;
+}
+
+.nt_font2 {
+	font: bold 16px Verdana;
+	text-decoration: none;
+	color: #222222;
+}
+
+.nt_font3 {
+	font: bold 14px Verdana;
+	text-decoration: none;
+	color: #666666;
+}
+
+.nt_font5 {
+	font: normal 18px Verdana;
+	text-decoration: none;
+	color: #222222;
+	margin: 0px;
+	padding: 0px;
+}
+
+.nt_fontsym {
+	font: normal 60px Verdana;
+	text-decoration: none;
+	color: #222222;
+}
+
+.nt_button {
+	border: 1px solid #FB5F00;
+	background-color: #FC9E00;
+	font: bold 11px Verdana;
+	color: white;
+	padding: 3px 10px 3px 5px;
+	margin: 3px 5px;
+	background-image: url(chrome://notonto/skin/menu_shade.gif);
+}
+
+.nt_marri {
+	margin-right: 10px;
+}
+
+.nt_button:HOVER {
+	cursor: pointer;
+}
+
+/* dunkel orange */
+.nt_c2 {
+	color: #FB5F00;
+}
+
+/* petrol */
+.nt_c3 {
+	color: #1A5E93;
+}
+
+/* green */
+.nt_c4 {
+	color: #009900;
+}
+
+#ntAnswer {
+}
+
+ul li[class=nt_answer] {
+	list-style-type: disc;
+}
+
+ul li[class=nt_pinyin] {
+	list-style-type: none;
+}
+
+ul li[class=nt_fontsym] {
+	list-style-type: none;
+}
+
+.nowrap {
+	white-space:nowrap;
+}
+
+.w100p {
+	width: 100%;
+}
+
+.w800 {
+	width: 800px;
+}

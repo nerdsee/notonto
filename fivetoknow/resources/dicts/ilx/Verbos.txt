@@ -1,0 +1,213 @@
+abfahren	v.		salir
+abholen	v.	trans.	recoger
+abstellen	v.		apagar, parar
+anfangen	v.		empezar, comenzar
+anrufen	v.		llamar (por teléfono)
+ansehen	v.		mirar
+anstellen	v.		encender, poner en marcha
+antworten	v.		responder, contestar
+anziehen	v.		vestir
+arbeiten	v.	intrans.	trabajar
+aufhören	v.		terminar
+aufmachen	v.		abrir
+aufpassen	v.		tener cuidado
+aufräumen	v.		ordenar
+aufstehen	v.		levantarse
+aufwachen (aus)	v.		despertar(se) (de)
+ausmachen	v.		apagar
+aussehen	v.		parecer
+aussteigen	v.		bajar (de)
+ausziehen	v.		mudarse, cambiarse de casa
+backen (backt/bäckt, backte, gebacken)	v.		cocer, hacer al horno
+baden	v.		bañarse
+bauen	v.	trans.	construir, edificar
+bedeuten	v.		significar, querer decir
+bedienen	v.		atender, servir
+behalten	v.		conservar, guardar
+bekommen	v.		recibir, obtener
+beraten	v.		aconsejar, asesorar
+berichten	v.		informar, reportar, narrar
+beschreiben	v.		describir
+besichtigen	v.		visitar, examinar
+besorgen	v.		proporcionar, conseguir, comprar
+bestehen (aus)	v.		constar (de)
+bestellen	v.		pedir, reservar
+besuchen	v.		visitar, ir a ver
+bezahlen	v.		pagar
+bieten (bietet, bot, geboten)	v.		ofrecer, presentar
+bleiben (bleibt, blieb, geblieben)	v.		quedarse
+brauchen	v.		necesitar
+bringen (bringt, brachte, gebracht)	v.		traer
+buchen	v.	trans.	reservar
+buchstabieren	v.	intrans.	deletrear
+dauern	v.		durar, tardar
+diskutieren (über)	v.		discutir (de/sobre)
+dürfen	v.		tener permiso, poder
+duschen	v.		ducharse
+einkaufen	v.		comprar
+einladen	v.		invitar
+einpacken	v.		empaquetar, envolver
+einschalten	v.		encender, poner en marcha
+einschlafen	v.		dormirse
+einsteigen	v.		subir, entrar
+einzahlen	v.		pagar, ingresar
+einziehen (in)	v.		instalarse (en)
+entscheiden	v.		decidir
+entschuldigen	v.		disculpar, perdonar
+erfinden	v.		inventar
+erkältet sein	v.		tener un resfriado
+erkennen	v.		reconocer, distinguir
+erklären	v.		explicar
+erledigen	v.		hacer, resolver
+erzählen	v.		contar, narrar
+essen (isst, aß, gegessen)	v.		comer
+existieren	v.		existir
+fahren (fährt, fuhr, gefahren)	v.		salir, circular
+fallen (fällt, fiel, gefallen)	v.		caer
+faulenzen	v.		holgazanear
+fehlen	v.		faltar, estar ausente
+feiern	v.		celebrar
+fernsehen	v.		ver la tele(visión)
+finden (findet, fand, gefunden)	v.		encontrar, dar con
+fliegen (fliegt, flog, geflogen)	v.		volar, ir en avión
+fließen (fließt, floss, geflossen)	v.		fluir, correr
+fotografieren	v.		fotografiar
+fragen (nach)	v.		preguntar (por)
+frühstücken	v.		desayunar
+funktionieren	v.		funcionar
+geben (gibt, gab, gegeben)	v.		dar
+gebrauchen	v.		usar, utilizar
+gehen (geht, ging, gegangen)	v.		ir, andar
+gehen (geht, ging, gegangen)	v.		andar, ir
+gehören	v.		pertenecer (a)
+gewinnen (gewinnt, gewann, gewonnen)	v.		ganar
+gießen (gießt, goss, gegossen)	v.		regar
+glauben	v.		creer
+haben (hat, hatte, gehabt)	v.	trans.	tener, haber
+heiraten	v.		casarse (con)
+heißen (heißt, hieß, geheißen)	v.	intrans.	llamarse
+helfen (hilft, half, geholfen)	v.		ayudar
+herstellen	v.		producir, fabricar
+hinfallen	v.		caerse
+holen	v.		traer, recoger
+hören	v.	intrans.	oír
+informieren	v.		informar(se)
+kaufen	v.		comprar
+kennen (kennt, kannte, gekannt)	v.		saber, conocer
+kennen lernen	v.		conocer (por primera vez)
+klingeln	v.		llamar, tocar al timbre
+kochen	v.		cocinar, hervir
+kommen (kommt, kam, gekommen)	v.		venir
+können (kann, konnte, können)	v.		poder
+kontrollieren	v.		controlar, inspeccionar
+korrigieren	v.		corregir
+kosten	v.		costar, probar
+kündigen	v.		anunciar el desalojamiento
+lachen	v.		reír(se)
+lassen (lässt, ließ, gelassen)	v.		dejar
+laufen (läuft, lief, gelaufen)	v.		correr
+leben	v.	intrans.	vivir
+legen	v.		tenderse, depositarse
+leihen (leiht, lieh, geliehen)	v.		prestar
+lernen	v.	intrans.	aprender, estudiar
+lesen (liest, las, gelesen)	v.	intrans.	leer
+lieben	v.		querer, amar
+liegen (liegt, lag, gelegen)	v.		estar acostado, estar tumbado
+losfahren	v.		salir, ponerse en marcha
+machen	v.	trans.	hacer
+malen	v.		pintar
+meinen	v.		pensar, creer, opinar
+merken	v.		darse cuenta, notar
+messen (misst, maß, gemessen)	v.		medir
+mitbringen	v.		traer, reunir
+mitkommen	v.		acompañar, venir
+mitnehmen	v.		llevar (consigo), traer (consigo)
+möchten	v.		gustar mucho, desear
+mögen (mag, mochte, gemocht)	v.		querer, desear
+müssen	v.		deber, tener que
+nehmen (nimmt, nahm, genommen)	v.		tomar, coger
+nennen (nennt, nannte, genannt)	v.		llamar
+operieren	v.		operar, proceder
+ordnen	v.		ordenar, poner en orden
+packen	v.	intrans.	hacer las maletas
+parken	v.		aparcar
+passen	v.		sentar bien, pegar, encajar
+passieren	v.		pasar, ocurrir
+putzen	v.		limpiar, fregar
+Rad fahren	v.		ir en bici
+rauchen	v.		fumar
+Recht haben	v.		tener razón
+reichen	v.		bastar, ser suficiente
+reinigen	v.		limpiar
+reisen	v.		viajar
+reparieren	v.		arreglar, reparar
+rufen (ruft, rief, gerufen)	v.		llamar
+sagen	v.	trans.	decir
+schenken	v.		regalar, obsequiar
+schicken	v.		mandar, enviar
+schlafen (schläft, schlief, geschlafen)	v.		dormir
+schmecken	v.		gustar, saber
+schneiden (schneidet, schnitt, geschnitten)	v.		cortar
+schreiben (schreibt, schrieb, geschrieben)	v.		escribir
+schwimmen (schwimmt, schwamm, geschwommen)	v.		nadar
+sehen (sieht, sah, gesehen)	v.		ver, mirar
+sein (ist, war, gewesen)	v.		ser, estar
+sich freuen	v.		alegrarse
+sitzen (sitzt, saß, gesessen)	v.		estar sentado
+sollen (soll, sollte, sollen)	v.		deber, querer que
+spazieren gehen	v.		ir a pasear
+spielen	v.	trans.	jugar, tocar
+sprechen (spricht, sprach, gesprochen)	v.		hablar
+spülen	v.		fregar
+stattfinden	v.		tener lugar
+stehen (steht, stand, gestanden)	v.		estar de pie, estar derecho
+stehen (steht, stand, gestanden)	v.		estar de pie, estar derecho
+stellen	v.		poner, colocar
+sterben (stirbt, starb, gestorben)	v.		morir(se)
+stimmen	v.		ser correcto, ser verdad
+stören	v.		estorbar, molestar
+studieren	v.		estudiar
+suchen	v.		buscar
+tanzen	v.		bailar
+tauschen	v.		cambiar
+telefonieren	v.	intrans.	hablar por teléfono, llamar por teléfono
+tragen (trägt, trug, getragen)	v.		llevar
+tragen (trägt, trug, getragen)	v.		llevar
+treffen (trifft, traf, getroffen)	v.		encontrarse
+trinken	v.		beber
+tun (tut, tat, getan)	v.		hacer
+üben	v.		practicar
+überlegen	v.		pensar, reflexionar
+übernachten	v.		pernoctar, pasar la noche
+umziehen	v.		mudarse
+verbieten	v.		prohibir
+verdienen	v.		ganar
+vergessen (vergisst, vergaß, vergessen)	v.		olvidar
+vergleichen	v.		comparar
+verkaufen	v.		vender
+verlassen	v.		abandonar, salir de
+verstehen (versteht, verstand, verstanden)	v.		entender, comprender
+verwenden	v.		usar, utilizar
+vorbeikommen	v.		pasar, poder pasar
+vorbereiten	v.		preparar
+vorhaben	v.		tener la intención, pensar hacer
+wachsen (wächst, wuchs, gewachsen)	v.		crecer, aumentar
+wählen	v.		votar, elegir
+wandern	v.		caminar, hacer una excursión
+warten	v.		esperar
+waschen (wäscht, wusch, gewaschen)	v.		lavar
+wechseln	v.		cambiar, intercambiar
+wechseln	v.		cambiar (dinero)
+wecken	v.		despertar
+wegfahren (nach)	v.		partir (para)
+wehtun	v.		doler
+weinen	v.		llorar
+werden (wird, wurde, geworden)	v.		llegar a ser
+wohnen	v.		vivir, habitar
+wollen (will, wollte, wollen)	v.		querer
+zeichnen	v.		dibujar
+zeigen	v.		mostrar, enseñar
+ziehen (zieht, zog, gezogen)	v.		tirar, irse a vivir con, mudarse
+zuhören	v.		escuchar
+zurückgeben	v.		devolver
+zusammengehören	v.		hacer juego, hacer pareja

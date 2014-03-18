@@ -1,0 +1,4 @@
+<!ENTITY prefwindow.title "Notonto Konfiguration">
+<!ENTITY pane1.title "Notonto Konfiguration">
+<!ENTITY pref.user "Bentzername (email)">
+<!ENTITY pref.pass "Passwort">

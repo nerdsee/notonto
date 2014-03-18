@@ -1,0 +1,608 @@
+offen :: abierto; abierta
+geöffnet :: abierto; abierta
+der Mantel :: el abrigo
+das Obdach :: el abrigo
+der April  :: el abril 
+öffnen :: abrir
+eröffnen :: abrir
+zuknöpfen :: abrochar
+langweilig :: aburrido; aburrida 
+der Unfall  :: el accidente 
+auf Wiedersehen :: adiós
+der August  :: el agosto 
+das Wasser  :: la agua 
+rechts :: a la derecha
+deutsch :: alemán; alemana 
+aus Deutschland :: alemán; alemana 
+das Deutschland  :: la Alemania 
+etwas :: algo
+ein bisschen :: algo
+ein wenig :: algo
+jemand :: alguien
+dort :: allí 
+hoch :: alto; alta 
+groß :: alto; alta 
+die Schülerin  :: la alumna 
+der Schüler  :: el alumno 
+gelb :: amarillo; amarilla 
+die Freundin  :: la amiga 
+der Freund  :: el amigo 
+die Liebe  :: el amor 
+das Tier  :: el animal 
+das Jahr  :: el año 
+der Parkplatz  :: el aparcamiento 
+das Apartment :: el apartamento 
+die Wohnung :: el apartamento 
+der Nachname  :: el apellido 
+lernen :: aprender
+hier :: aquí 
+der Baum  :: el árbol 
+der Reis  :: el arroz 
+der Aufzug  :: el ascensor 
+der Sitz  :: el asiento 
+die Achtung  :: la atención 
+Österreich :: Austria
+der Vogel  :: la ave 
+die Allee  :: la avenida 
+das Abenteuer  :: la aventura 
+das Flugzeug  :: el avión 
+die Nachricht  :: el aviso 
+gestern :: ayer
+das Rathaus  :: el ayuntamiento 
+der Zucker  :: el azúcar 
+blau :: azul
+tanzen :: bailar
+aussteigen :: bajar
+leise (Stimme) :: bajo; baja 
+niedrig :: bajo; baja 
+klein :: bajo; baja 
+gedrungen :: bajo; baja 
+der Balkon  :: el balcón 
+baden :: bañarse
+die Bank  :: el banco 
+billig :: barato; barata 
+das Schiff  :: el barco 
+das Viertel :: el barrio 
+der Stadtteil :: el barrio 
+genug :: bastante 
+ausreichend :: bastante 
+ziemlich viel :: bastante 
+das Baby  :: el bebé 
+trinken :: beber
+der Kuss  :: el beso 
+die Bibliothek :: la biblioteca 
+die Bücherei :: la biblioteca 
+das Fahrrad  :: la bici ; la bicicleta 
+die Fahrkarte  :: el billete 
+weiß :: blanco; blanca
+die Bluse  :: la blusa 
+der Mund  :: la boca 
+der Kugelschreiber  :: el bolígrafo 
+hübsch :: bonito 
+die Flasche  :: la botella 
+der Arm  :: el brazo 
+suchen :: buscar
+das Pferd  :: el caballo 
+der Kaffee  :: el café 
+die Kasse  :: la caja 
+die Kiste  :: la caja 
+die Socke  :: el calcetín 
+warm :: caliente 
+heiß :: caliente 
+die Straße  :: la calle 
+die Hitze :: el calor 
+die Wärme :: el calor 
+das Bett  :: la cama 
+gehen :: caminar
+wandern :: caminar
+der Weg  :: el camino 
+das Hemd  :: la camisa 
+das T-Shirt  :: la camiseta 
+das Unterhemd  :: la camiseta 
+das Lied  :: la canción 
+müde :: cansado; cansada
+matt :: cansado; cansada
+die Sängerin  :: la cantante 
+der Sänger  :: el cantante 
+singen :: cantar
+die Hauptstadt  :: la capital 
+das Gesicht  :: la cara 
+teuer :: caro; cara 
+der Brief  :: la carta 
+das Haus  :: la casa 
+das Abendessen :: la cena 
+Abendbrot :: la cena 
+zu Abend essen :: cenar
+das Zentrum :: el centro 
+der Mittelpunkt :: el centro 
+die Sau  :: la cerda 
+das Schwein  :: el cerdo 
+null :: cero
+schließen :: cerrar
+das Bier  :: la cerveza 
+die Jacke :: la chaqueta 
+das Jackett :: la chaqueta 
+das Mädchen  :: la chica 
+der Junge  :: el chico 
+die Schokolade  :: el chocolate 
+fünf :: cinco
+fünfzig :: cincuenta
+das Kino  :: el cine
+die Stadt  :: la ciudad 
+die Klasse  :: la clase 
+das Auto  :: el coche 
+die Küche  :: la cocina 
+die Farbe  :: el color 
+anfangen :: comenzar
+beginnen :: comenzar
+essen :: comer
+das Essen  :: la comida 
+kaufen :: comprar
+einkaufen :: comprar
+verstehen :: comprender
+begreifen :: comprender
+antworten :: contestar
+korrekt :: correcto; correcta
+richtig :: correcto; correcta
+korrigieren :: corregir
+die Sache :: la cosa 
+kosten :: costar
+glauben :: creer
+das Heft  :: el cuaderno 
+das Bild  :: el cuadro 
+das Gemälde  :: el cuadro 
+wann? :: ¿cuándo?
+kubanisch :: cubano 
+das Messer  :: el cuchillo 
+die Rechnung  :: la cuenta 
+die Geschichte  :: el cuento 
+die Kultur :: la cultura 
+die Bildung :: la cultura 
+der Geburtstag  :: el cumpleaños 
+sagen :: decir
+vor :: delante de
+schlank :: delgado; delgada 
+dünn :: delgado; delgada 
+frühstücken :: desayunar
+das Frühstück  :: el desayuno 
+seit :: desde
+langsam :: despacio 
+sachte  :: despacio 
+der Wecker  :: el despertador 
+aufwachen :: despertarse
+danach :: después
+nach :: después
+nachher :: después
+dann :: después
+später :: después
+darauf :: después
+hinter :: detrás de
+der Tag  :: el día 
+der Dialog :: el diálogo
+die Zeichnung  :: el dibujo 
+der Dezember  :: el diciembre 
+der Zahn :: el diente
+verschieden :: diferente
+schwer, schwierig :: difícil
+das Geld  :: el dinero 
+Gott :: Dios
+die Adresse  :: la dirección 
+die Schallplatte  :: el disco 
+doppelt :: doble
+zwölf :: doce
+der Doktor  :: el doctor 
+der Schmerz  :: el dolor 
+der Sonntag  :: el domingo 
+da, wo :: donde
+wo :: donde
+schlafen :: dormir
+die Dusche  :: la ducha 
+das Alter  :: la edad 
+die Übung  :: el ejercicio 
+der Elefant  :: el elefante 
+elegant :: elegante 
+schick :: elegante 
+fein :: elegante 
+anmutig :: elegante 
+anfangen :: empezar
+der Januar  :: el enero 
+verstehen :: entender
+hineingehen :: entrar
+betreten :: entrar
+eindringen :: entrar
+schreiben :: escribir
+hören :: escuchar
+anhören :: escuchar
+zuhören :: escuchar
+horchen :: escuchar
+die Schule  :: la escuela 
+der Rücken  :: la espalda 
+Spanien :: España
+die Spanierin  :: la española 
+spanisch :: español; española 
+der Spanier  :: el español 
+der Spiegel  :: el espejo 
+die Hoffnung  :: la esperanza 
+warten :: esperar
+erwarten :: esperar
+hoffen :: esperar
+erhoffen :: esperar
+der Spinat  :: las espinacas
+die Station :: la estación 
+der Bahnhof :: la estación 
+die Studentin  :: la estudiante 
+der Student  :: el estudiante 
+dumm :: estúpido; estúpida 
+offensichtlich :: evidente
+genau :: exacto; exacta
+exakt :: exacto; exacta
+das Examen :: el examen 
+die Prüfung :: el examen 
+ausgezeichnet :: excelente
+der Ausflug  :: la excursión 
+existieren :: existir
+der Erfolg  :: el éxito 
+die Fabrik  :: la fábrica 
+der Rock  :: la falda 
+der Fehler  :: la falta 
+die Familie  :: la familia 
+die Apotheke  :: la farmacia 
+der Februar  :: el febrero 
+glücklich :: feliz 
+froh :: feliz 
+hässlich :: feo; fea 
+der Feiertag  :: la fiesta 
+das Ende  :: el final 
+das Ende  :: el fin 
+fein :: fino; fina
+die Blume  :: la flor 
+der Seehund  :: la foca 
+das Foto  :: la foto 
+französisch :: francés; francesa 
+kalt :: frío; fría
+die Grenze  :: la frontera 
+das Feuer  :: el fuego 
+die Quelle  :: la fuente 
+stark :: fuerte
+kräftig :: fuerte
+hart :: fuerte
+rauchen :: fumar
+der Fußball  :: el fútbol 
+die Brille  :: las gafas
+die Garage  :: el garaje 
+die Katze  :: el gato 
+die Möwe  :: la gaviota 
+Danke. :: Gracias.
+der Krieg  :: la guerra 
+das Zimmer  :: la habitación 
+sprechen :: hablar
+das Eis  :: el helado 
+der Hubschrauber  :: el helicóptero 
+die Schwester  :: la hermana 
+der Bruder  :: el hermano 
+schön :: hermoso; hermosa
+die Tochter  :: la hija 
+der Sohn  :: el hijo 
+die Geschichte  :: la historia 
+das Blatt  :: la hoja 
+die Stunde  :: la hora 
+backen :: hornear
+der Ofen :: el horno 
+der Backofen :: el horno 
+schrecklich :: horrible
+das Krankenhaus  :: el hospital 
+das Hotel  :: el hotel 
+heute :: hoy
+feucht :: húmedo; húmeda
+der Idiot  :: el idiota 
+die Kirche  :: la iglesia 
+unmöglich :: imposible
+unpünktlich :: impuntual
+die Information  :: la información 
+das England  :: la Inglaterra 
+englisch :: inglés; inglesa 
+das Insekt  :: el insecto 
+versuchen :: intentar
+interessant :: interesante
+erfinden :: inventar
+der Winter  :: el invierno 
+die Einladung  :: la invitación 
+einladen :: invitar
+Italien :: Italia
+italienisch :: italiano; italiana 
+links :: izquierda
+nie :: jamás
+niemals :: jamás
+der Schinken  :: el jamón 
+der Gärtner  :: el jardinero 
+der Garten  :: el jardín 
+der Chef  :: el jefe 
+Gesundheit! :: ¡Jesús!
+jung :: joven 
+das Spiel  :: el juego 
+der Donnerstag  :: el jueves 
+spielen :: jugar
+der Juli  :: el julio 
+der Juni  :: el junio 
+der Kilometer  :: el kilometro 
+die Lippe  :: el labio 
+die Seite  :: el lado 
+die Träne  :: la lágrima 
+waschen :: lavar
+die Milch  :: la leche 
+der Salat  :: la lechuga 
+lesen :: leer
+die Sprache  :: la lengua 
+aufstehen :: levantarse
+das Buch  :: el libro 
+säubern :: limpiar
+reinigen :: limpiar
+putzen :: limpiar
+sauber :: limpio; limpia
+rufen :: llamar
+aufrufen :: llamar
+der Schlüssel  :: la llave 
+ankommen :: llegar
+eintreffen :: llegar
+bringen :: llevar
+hinbringen :: llevar
+tragen :: llevar
+führen :: llevar
+mitbringen :: llevar
+weinen :: llorar
+regnen :: llover
+der Regen  :: la lluvia 
+der Wolf  :: el lobo 
+dann :: luego
+danach :: luego
+der Ort  :: el lugar 
+der Mond  :: la luna 
+der Montag  :: el lunes 
+das Holz  :: la madera 
+die Mutter  :: la madre 
+der Morgen  :: la mañana 
+morgen :: mañana
+die Hand  :: la mano 
+der Apfel  :: la manzana 
+die Kamille  :: la manzanilla 
+die Karte  :: el mapa 
+der Schmetterling  :: la mariposa 
+die Meeresfrüchte :: los mariscos
+der Topf  :: la marmita 
+das Meer  :: el mar 
+der Dienstag  :: el martes 
+der März  :: el marzo 
+der Mai  :: el mayo 
+die Ärztin  :: la médica 
+der Arzt  :: el médico 
+minus :: menos
+abzüglich :: menos
+der Markt  :: el mercado 
+der Tisch  :: la mesa 
+der Monat  :: el mes 
+die U-Bahn  :: el metro 
+die Angst  :: el miedo 
+der Honig  :: la miel 
+der Mittwoch  :: el miércoles 
+die Scheiße [vulg.] :: la mierda 
+die Minute  :: el minuto 
+anschauen :: mirar
+ansehen :: mirar
+anblicken :: mirar
+schauen :: mirar
+der Moment  :: el momento 
+der Affe  :: el mono 
+der Berg  :: el monte 
+braun :: moreno; morena
+dunkelbraun :: moreno; morena
+braunhaarig :: moreno; morena
+sterben :: morir
+die Ehefrau  :: la esposa 
+die Frau  :: la mujer 
+die Welt  :: el mundo 
+die Musik  :: la música 
+schwimmen :: nadar
+niemand :: nadie
+die Orange  :: la naranja 
+schwarz :: negro; negra
+schneien :: nevar
+das Mädchen  :: la niña 
+der Junge :: el niño 
+der Abend  :: la noche 
+der Name  :: el nombre 
+nicht :: no
+nein :: no
+der Roman  :: la novela 
+der November  :: el noviembre 
+neun :: nueve
+neu :: nuevo; nueva
+die Zahl  :: el número 
+beobachten :: observar
+achtzig :: ochenta
+acht :: ocho
+der Oktober  :: el octubre 
+der Computer  :: el ordenador 
+das Ohr  :: la oreja 
+der Herbst  :: el otoño 
+wieder :: otra vez
+noch einmal :: otra vez
+andere, anderer, anderes :: otro; otra
+das Schaf  :: la oveja 
+der Vater  :: el padre 
+die Eltern :: los padres 
+zahlen :: pagar
+bezahlen :: pagar
+die Seite  :: la página 
+das Land  :: el país 
+der Vogel  :: el pájaro 
+das Wort  :: la palabra 
+die Bäckerei  :: la panadería 
+das Brot  :: el pan 
+das Papier  :: el papel 
+die Kartoffel  :: la patata 
+verlangen :: pedir
+erbitten :: pedir
+bitten :: pedir
+der Film  :: la película 
+klein :: pequeño; pequeña
+verlieren :: perder
+verpassen :: perder
+die Zeitung  :: el periódico 
+der Hund  :: el perro 
+der Fisch  [Essen] :: el pescado 
+der Fisch  :: el pez 
+scharf :: picante 
+die Haut  :: la piel 
+der Fuß  :: el pie 
+das Bein  :: la pierna 
+malen :: pintar
+das Stockwerk :: el piso 
+die Etage :: el piso 
+die Tafel  :: la pizarra 
+die Banane  :: el plátano 
+der Teller  :: el plato 
+der Strand  :: la playa 
+arm :: pobre
+wenig :: poco; poca
+können :: poder
+bitte :: por favor
+vormittags :: por la mañana
+morgens :: por la mañana
+am Morgen :: por la mañana
+nachmittags :: por la tarde
+weil :: porque
+da :: porque
+vorziehen :: preferir
+bevorzugen :: preferir
+lieber tun :: preferir
+die Frage  :: la pregunta 
+fragen :: preguntar
+die Cousine  :: la prima 
+der Frühling  :: la primavera 
+der Cousin  :: el primo 
+das Dorf  :: el pueblo 
+das Volk  :: el pueblo 
+die Tür  :: la puerta 
+wollen :: querer
+mögen :: querer
+lieben :: querer
+was? :: ¿qué?
+wer? :: ¿quién?
+fünfzehn :: quince
+das Radio  :: la radio 
+das Erfrischungsgetränk  :: el refresco 
+das Geschenk  :: el regalo 
+die Region  :: la región 
+die Uhr  :: el reloj 
+das Restaurant  :: el restaurante 
+der Fluss  :: el río 
+rot :: rojo; roja
+die Kleidung  :: la ropa 
+blond :: rubio; rubia
+der Samstag :: el sábado 
+der Sonnabend :: el sábado 
+wissen :: saber
+der Raum :: la sala 
+der Saal :: la sala 
+das Salz  :: la sal 
+der Ausgang  :: la salida 
+herausgehen :: salir
+weggehen :: salir
+ausgehen :: salir
+das Blut  :: la sangre 
+gesund :: sano; sana 
+trocken :: seco; seca
+der Durst  :: la sed 
+die Woche  :: la semana 
+die Frau :: la señora 
+die Dame :: la señora 
+der Herr :: el señor 
+der Mann :: el señor 
+der September  :: el septiembre 
+immer :: siempre
+ja :: sí
+doch :: sí
+der Stuhl  :: la silla 
+der Sessel  :: el sillón 
+nett :: simpático; simpática 
+sympathisch :: simpático; simpática 
+ohne :: sin
+auf :: sobre
+über :: sobre
+außer :: sobre
+gegen :: sobre
+ungefähr :: sobre
+die Sonne  [Astronomie] :: el sol 
+die Suppe  :: la sopa 
+steigen :: subir
+aufwärts gehen :: subir
+spät :: tarde
+das Theater  :: el teatro 
+das Telefon  :: el teléfono 
+das Fernsehen  :: la televisión 
+früh :: temprano; temprana
+frühzeitig :: temprano; temprana
+haben :: tener
+das Tennis  :: el tenis 
+aufhören :: terminar
+die Tante  :: la tía 
+das Wetter  :: el tiempo 
+die Zeit  :: el tiempo 
+das Geschäft  :: la tienda 
+der Tiger  :: el tigre 
+der Onkel  :: el tío 
+berühren :: tocar
+spielen [Musik] :: tocar
+(zu sich) nehmen :: tomarse
+trinken :: tomarse
+trinken :: tomar
+die Tomate  :: el tomate 
+nimm (Imperativ von tomarse) :: tómate
+dumm :: tonto; tonta 
+doof :: tonto; tonta 
+arbeiten :: trabajar
+traurig :: triste 
+das Stück  :: el trozo 
+eins :: un; uno
+dringend :: urgente
+dringlich :: urgente
+üblich :: usual
+die Ferien :: las vacaciones
+der Urlaub :: las vacaciones
+die Kuh :: la vaca 
+das Rind :: la vaca 
+verkaufen :: vender
+kommen :: venir
+der Sommer  :: el verano 
+grün :: verde
+das Kleid  :: el vestido 
+reisen :: viajar
+das Leben  :: la vida 
+alt :: viejo; vieja
+der Freitag  :: el viernes 
+die Treppe :: la escalera
+erklären :: explicar
+leicht :: fácil
+fantastisch, wunderbar :: fantástico
+der Franzose :: el francés
+die Französin :: la francesa
+der Hunger :: el hambre
+der Engländer :: el inglés
+die Engländerin :: la inglesa
+intelligent :: inteligente
+sich interessieren :: interesarse
+der Pullover :: el jersey
+der See :: el lago
+die Lampe :: la lámpara
+modern :: moderno, moderna
+die Nase :: la nariz
+la ópera : die Oper
+der Park :: el parque
+das Haar :: el pelo
+das Schwimmbad :: la piscina
+der Preis :: el precio
+der Hafen :: el puerto
+reich :: rico, rica
+kaputt :: roto, rota
+der Supermarkt :: el supermercado
+die Kreide :: la tiza

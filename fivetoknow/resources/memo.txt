@@ -1,0 +1,13 @@
+<Resource name="jdbc/fivetoknow" auth="Container"
+type="javax.sql.DataSource" maxActive="100" maxIdle="30"
+maxWait="10000" username="brain" password="brain"
+driverClassName="com.mysql.jdbc.Driver"
+url="jdbc:mysql://localhost:3306/brain" />
+
+-Dfivetoknow.dir=c:/brain 
+-Djava.awt.headless=true 
+-Duser.language=de 
+-Duser.region=DE 
+-Dlog4j.configuration=file:c:/brain/log4j.properties 
+-Dfile.encoding=UTF-8 
+-Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=true

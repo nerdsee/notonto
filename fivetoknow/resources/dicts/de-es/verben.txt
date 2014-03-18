@@ -1,0 +1,214 @@
+abfahren :: salir
+abholen :: recoger
+abstellen :: apagar, parar
+anfangen :: empezar, comenzar
+anrufen :: llamar (por teléfono)
+ansehen :: mirar
+anstellen :: encender, poner en marcha
+antworten :: responder, contestar
+anziehen :: vestir
+arbeiten :: trabajar
+aufhören :: terminar
+aufmachen :: abrir
+aufpassen :: tener cuidado
+aufräumen :: ordenar
+aufstehen :: levantarse
+aufwachen (aus) :: despertarse (de)
+ausmachen :: apagar
+aussehen :: parecer
+aussteigen :: bajar (de)
+ausziehen :: mudarse, cambiarse de casa
+backen :: cocer, hacer al horno
+baden :: bañarse
+bauen :: construir, edificar
+bedeuten :: significar, querer decir
+bedienen :: atender, servir
+behalten :: conservar, guardar
+bekommen :: recibir, obtener
+beraten :: aconsejar, asesorar
+berichten :: informar, reportar, narrar
+beschreiben :: describir
+besichtigen :: visitar, examinar
+besorgen :: proporcionar, conseguir, comprar
+bestehen (aus) :: constar (de)
+bestellen :: pedir, reservar
+besuchen :: visitar, ir a ver
+bezahlen :: pagar
+bieten :: ofrecer, presentar
+bleiben :: quedarse
+brauchen :: necesitar
+bringen :: traer
+buchen :: reservar
+buchstabieren :: deletrear
+dauern :: durar, tardar
+diskutieren (über) :: discutir (de/sobre)
+dürfen :: tener permiso, poder
+duschen :: ducharse
+einkaufen :: comprar
+einladen :: invitar
+einpacken :: empaquetar, envolver
+einschalten :: encender, poner en marcha
+einschlafen :: dormirse
+einsteigen :: subir, entrar
+einzahlen :: pagar, ingresar
+einziehen (in) :: instalarse (en)
+entscheiden :: decidir
+entschuldigen :: disculpar, perdonar
+erfinden :: inventar
+erkältet sein :: tener un resfriado
+erkennen :: reconocer, distinguir
+erklären :: explicar
+erledigen :: hacer, resolver
+erzählen :: contar, narrar
+essen :: comer
+existieren :: existir
+fahren :: salir, circular
+fallen :: caer
+faulenzen :: holgazanear
+fehlen :: faltar, estar ausente
+feiern :: celebrar
+fernsehen :: ver la tele(visión)
+finden :: encontrar, dar con
+fliegen :: volar, ir en avión
+fließen :: fluir, correr
+fotografieren :: fotografiar
+fragen (nach) :: preguntar (por)
+frühstücken :: desayunar
+funktionieren :: funcionar
+geben :: dar
+gebrauchen :: usar, utilizar
+gehen :: ir, andar
+gehen :: andar, ir
+gehören :: pertenecer (a)
+gewinnen :: ganar
+gießen :: regar
+glauben :: creer
+haben :: tener, haber
+heiraten :: casarse (con)
+heißen :: llamarse
+helfen :: ayudar
+herstellen :: producir, fabricar
+hinfallen :: caerse
+holen :: traer, recoger
+hören :: oír
+informieren :: informarse
+kaufen :: comprar
+kennen :: saber, conocer
+kennenlernen :: conocer
+klingeln :: llamar, tocar al timbre
+kochen :: cocinar, hervir
+kommen :: venir
+können :: poder
+kontrollieren :: controlar, inspeccionar
+korrigieren :: corregir
+kosten :: costar, probar
+kündigen :: anunciar el desalojamiento
+lachen :: reírse
+lassen :: dejar
+laufen :: correr
+leben :: vivir
+legen :: tenderse, depositarse
+leihen :: prestar
+lernen :: aprender, estudiar
+lesen :: leer
+lieben :: querer, amar
+liegen :: estar acostado, estar tumbado
+losfahren :: salir, ponerse en marcha
+machen :: hacer
+malen :: pintar
+meinen :: pensar, creer, opinar
+merken :: darse cuenta, notar
+messen :: medir
+mitbringen :: traer, reunir
+mitkommen :: acompañar, venir
+hinbringen :: llevar
+herbringen :: traer
+möchten :: gustar mucho, desear
+mögen :: querer, desear
+müssen :: deber, tener que
+nehmen :: tomar, coger
+nennen :: llamar
+operieren :: operar, proceder
+ordnen :: ordenar, poner en orden
+packen :: hacer las maletas
+parken :: aparcar
+passen :: sentar bien, pegar, encajar
+passieren :: pasar, ocurrir
+putzen :: limpiar, fregar
+Rad fahren :: ir en bici
+rauchen :: fumar
+Recht haben :: tener razón
+reichen :: bastar, ser suficiente
+reinigen :: limpiar
+reisen :: viajar
+reparieren :: arreglar, reparar
+rufen :: llamar
+sagen :: decir
+schenken :: regalar, obsequiar
+schicken :: mandar, enviar
+schlafen :: dormir
+schmecken :: gustar, saber
+schneiden :: cortar
+schreiben :: escribir
+schwimmen :: nadar
+sehen :: ver, mirar
+sein :: ser, estar
+sich freuen :: alegrarse
+sitzen :: estar sentado
+sollen :: deber, querer que
+spazieren gehen :: ir a pasear
+spielen :: jugar, tocar
+sprechen :: hablar
+spülen :: fregar
+stattfinden :: tener lugar
+stehen :: estar de pie, estar derecho
+stehen :: estar de pie, estar derecho
+stellen :: poner, colocar
+sterben :: morir
+stimmen :: ser correcto, ser verdad
+stören :: estorbar, molestar
+studieren :: estudiar
+suchen :: buscar
+tanzen :: bailar
+tauschen :: cambiar
+telefonieren :: hablar por teléfono, llamar por teléfono
+tragen :: llevar
+tragen :: llevar
+treffen :: encontrarse
+trinken :: beber
+tun :: hacer
+üben :: practicar
+überlegen :: pensar, reflexionar
+übernachten :: pernoctar, pasar la noche
+umziehen :: mudarse
+verbieten :: prohibir
+verdienen :: ganar
+vergessen :: olvidar
+vergleichen :: comparar
+verkaufen :: vender
+verlassen :: abandonar, salir de
+verstehen :: entender, comprender
+verwenden :: usar, utilizar
+vorbeikommen :: pasar, poder pasar
+vorbereiten :: preparar
+vorhaben :: tener la intención, pensar hacer
+wachsen :: crecer, aumentar
+wählen :: votar, elegir
+wandern :: caminar, hacer una excursión
+warten :: esperar
+waschen :: lavar
+wechseln :: cambiar, intercambiar
+wechseln :: cambiar
+wecken :: despertar
+wegfahren :: partir
+wehtun :: doler
+weinen :: llorar
+werden :: llegar a ser
+wohnen :: vivir, habitar
+wollen :: querer
+zeichnen :: dibujar
+zeigen :: mostrar, enseñar
+ziehen :: tirar, irse a vivir con, mudarse
+zuhören :: escuchar
+zurückgeben :: devolver
+zusammengehören :: hacer juego, hacer pareja
