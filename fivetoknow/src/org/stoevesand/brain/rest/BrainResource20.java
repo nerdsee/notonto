@@ -10,7 +10,7 @@ import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.Context;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.BrainSystem;
 import org.stoevesand.brain.auth.User;
 import org.stoevesand.brain.exceptions.DBException;

@@ -8,10 +8,9 @@ import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.BrainSystem;
 import org.stoevesand.brain.config.BrainConfigHandler;
-import org.stoevesand.brain.model.Lesson;
 import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 

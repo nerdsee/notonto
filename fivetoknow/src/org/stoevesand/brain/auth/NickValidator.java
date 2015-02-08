@@ -23,9 +23,8 @@ import javax.faces.component.UIComponent;
 import javax.faces.context.FacesContext;
 import javax.faces.validator.ValidatorException;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.BrainSystem;
-import org.stoevesand.brain.exceptions.DBException;
 import org.stoevesand.brain.persistence.BrainDB;
 
 /**

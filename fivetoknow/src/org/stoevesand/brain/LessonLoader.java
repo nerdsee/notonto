@@ -14,13 +14,13 @@ import javax.faces.model.ListDataModel;
 import javax.servlet.ServletOutputStream;
 import javax.servlet.http.HttpServletResponse;
 
-import org.apache.log4j.Logger;
-import org.apache.myfaces.custom.fileupload.UploadedFile;
 import org.apache.poi.hssf.usermodel.HSSFSheet;
 import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.poifs.filesystem.POIFSFileSystem;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.Row;
+import org.jboss.logging.Logger;
+import org.primefaces.model.UploadedFile;
 import org.stoevesand.brain.exceptions.DBException;
 import org.stoevesand.brain.model.Answer;
 import org.stoevesand.brain.model.Item;
@@ -103,11 +103,11 @@ public class LessonLoader {
 		if (uploadedFile != null) {
 
 			log.debug("f: " + uploadedFile.getContentType());
-			log.debug("f: " + uploadedFile.getName());
+			log.debug("f: " + uploadedFile.getFileName());
 
 			try {
-				readNewItems(session, uploadedFile.getInputStream(), lesson);
-				System.out.println("Successfully uploaded file " + uploadedFile.getName() + " (" + uploadedFile.getSize() + " bytes)");
+				readNewItems(session, uploadedFile.getInputstream(), lesson);
+				System.out.println("Successfully uploaded file " + uploadedFile.getFileName() + " (" + uploadedFile.getSize() + " bytes)");
 				return true;
 			} catch (IOException e) {
 				e.printStackTrace();
@@ -293,16 +293,16 @@ public class LessonLoader {
 		return ret;
 	}
 
-	public ListDataModel getNewItems() {
-		return new ListDataModel(newItems);
+	public ListDataModel<Item> getNewItems() {
+		return new ListDataModel<Item>(newItems);
 	}
 
-	public ListDataModel getModifiedItems() {
-		return new ListDataModel(modifiedItems);
+	public ListDataModel<Item> getModifiedItems() {
+		return new ListDataModel<Item>(modifiedItems);
 	}
 
-	public ListDataModel getRemovedItems() {
-		return new ListDataModel(removedItems);
+	public ListDataModel<Item> getRemovedItems() {
+		return new ListDataModel<Item>(removedItems);
 	}
 
 	public int getNumberUploadedItems() {

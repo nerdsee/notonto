@@ -13,8 +13,8 @@ import javax.faces.component.UIComponent;
 import javax.faces.context.FacesContext;
 import javax.faces.model.ListDataModel;
 
-import org.apache.log4j.Logger;
-import org.apache.myfaces.trinidad.context.RequestContext;
+import org.jboss.logging.Logger;
+import org.primefaces.context.RequestContext;
 import org.stoevesand.brain.auth.Authorization;
 import org.stoevesand.brain.auth.User;
 import org.stoevesand.brain.exceptions.DBException;
@@ -248,9 +248,9 @@ public class BrainSystem {
 		return ret;
 	}
 
-	ListDataModel userModel = null;
+	ListDataModel<User> userModel = null;
 
-	public ListDataModel getUserList() {
+	public ListDataModel<User> getUserList() {
 
 		// / TODO: wieder reinmachen
 		// if (userModel == null) {
@@ -261,7 +261,7 @@ public class BrainSystem {
 
 		try {
 			users = brainDB.getUsers();
-			userModel = new ListDataModel(users);
+			userModel = new ListDataModel<User>(users);
 		} catch (DBException e) {
 			e.printStackTrace();
 		}

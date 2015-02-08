@@ -3,16 +3,13 @@ package org.stoevesand.brain.model;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Date;
-import java.util.StringTokenizer;
 
-import javax.faces.context.FacesContext;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.BrainSystem;
 import org.stoevesand.brain.exceptions.DBException;
-import org.stoevesand.util.DBUtil;
 
 @XmlRootElement(name = "userlesson")
 public class SingleUserLesson extends UserLesson {

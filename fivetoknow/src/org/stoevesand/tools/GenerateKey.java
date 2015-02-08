@@ -10,7 +10,7 @@ import javax.crypto.Cipher;
 import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
 
-import org.apache.commons.codec.binary.Base64;
+import org.jboss.resteasy.util.Base64;
 
 public class GenerateKey {
 
@@ -49,8 +49,7 @@ public class GenerateKey {
 		ByteArrayOutputStream baos = new ByteArrayOutputStream();
 		ks.store(baos, pw);
 
-		Base64 b64 = new Base64();
-		byte[] bstore = b64.encode(baos.toByteArray());
+		byte[] bstore = Base64.encodeBytesToBytes(baos.toByteArray());
 
 		System.out.println("KS: " + new String(bstore));
 	}
@@ -58,8 +57,7 @@ public class GenerateKey {
 	public static void loadKS() throws Exception {
 		ks = KeyStore.getInstance("JCEKS");
 
-		Base64 b64 = new Base64();
-		byte[] bstore = b64.decode(store.getBytes());
+		byte[] bstore = Base64.decode(store.getBytes());
 
 		ByteArrayInputStream is = new ByteArrayInputStream(bstore);
 		ks.load(is, pw);
@@ -84,13 +82,11 @@ public class GenerateKey {
 		byte[] inputBytes = input.getBytes();
 		byte[] code = cipher.doFinal(inputBytes);
 		
-		Base64 b64 = new Base64();
-		return new String( b64.encode(code) );
+		return Base64.encodeBytes(code);
 	}
 
 	private static String decrypt(String input) throws Exception {
-		Base64 b64 = new Base64();
-		byte[] encryptionBytes = b64.decode(input.getBytes());
+		byte[] encryptionBytes = Base64.decode(input.getBytes());
 		cipher = Cipher.getInstance(algorithm);
 		cipher.init(Cipher.DECRYPT_MODE, key);
 		byte[] recoveredBytes = cipher.doFinal(encryptionBytes);

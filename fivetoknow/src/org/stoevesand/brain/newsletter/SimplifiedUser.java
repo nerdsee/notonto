@@ -3,7 +3,7 @@ package org.stoevesand.brain.newsletter;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.util.DBUtil;
 
 public class SimplifiedUser {

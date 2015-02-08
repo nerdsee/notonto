@@ -6,14 +6,13 @@ import java.util.Date;
 import java.util.Iterator;
 import java.util.Vector;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.BrainSystem;
 import org.stoevesand.brain.exceptions.DBException;
 import org.stoevesand.brain.model.IUserLesson;
 import org.stoevesand.brain.model.Lesson;
 import org.stoevesand.brain.persistence.BrainDB;
 import org.stoevesand.util.DBUtil;
-import org.stoevesand.util.StringUtils;
 
 public class User {
 	private static Logger log = Logger.getLogger(User.class);

@@ -10,7 +10,7 @@ import java.sql.Timestamp;
 import java.util.Date;
 import java.util.Vector;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.exceptions.DBException;
 
 public class NewsletterDB {

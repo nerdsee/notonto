@@ -7,8 +7,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
 
-import org.apache.log4j.Logger;
-import org.stoevesand.brain.BrainSystem;
+import org.jboss.logging.Logger;
 
 public class DictCheck {
 

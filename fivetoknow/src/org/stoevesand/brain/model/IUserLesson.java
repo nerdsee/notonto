@@ -2,8 +2,6 @@ package org.stoevesand.brain.model;
 
 import java.util.Date;
 
-import javax.xml.bind.annotation.XmlRootElement;
-
 import org.stoevesand.brain.UserLessonConfig;
 import org.stoevesand.brain.UserStats;
 import org.stoevesand.brain.auth.User;

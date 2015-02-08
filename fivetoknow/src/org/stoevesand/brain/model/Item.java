@@ -5,12 +5,11 @@ import java.util.Iterator;
 import java.util.Vector;
 
 import javax.xml.bind.annotation.XmlElement;
-import javax.xml.bind.annotation.XmlElementWrapper;
 import javax.xml.bind.annotation.XmlRootElement;
 
 import net.sourceforge.pinyin4j.PinyinFormatter;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.BrainSystem;
 import org.stoevesand.brain.exceptions.DBException;
 import org.stoevesand.brain.persistence.BrainDB;

@@ -2,21 +2,16 @@ package org.stoevesand.brain.servlet;
 
 import java.io.IOException;
 import java.util.StringTokenizer;
-import java.util.Vector;
 
-import javax.faces.context.FacesContext;
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.BrainSystem;
-import org.stoevesand.brain.auth.User;
 import org.stoevesand.brain.exceptions.DBException;
-import org.stoevesand.brain.model.IUserLesson;
-import org.stoevesand.brain.model.UserItem;
 
 public class UnlockServlet extends HttpServlet {
 

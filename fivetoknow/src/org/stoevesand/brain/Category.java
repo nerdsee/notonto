@@ -2,7 +2,7 @@ package org.stoevesand.brain;
 
 import java.sql.ResultSet;
 
-import org.apache.commons.lang.StringEscapeUtils;
+import org.apache.commons.lang3.StringEscapeUtils;
 import org.stoevesand.brain.exceptions.DBException;
 import org.stoevesand.brain.persistence.BrainDB;
 import org.stoevesand.util.DBUtil;

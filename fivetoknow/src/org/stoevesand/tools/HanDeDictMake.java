@@ -11,10 +11,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.UnsupportedEncodingException;
 import java.util.HashMap;
-import java.util.StringTokenizer;
 import java.util.Vector;
-
-import org.stoevesand.brain.model.Answer;
 
 public class HanDeDictMake {
 
