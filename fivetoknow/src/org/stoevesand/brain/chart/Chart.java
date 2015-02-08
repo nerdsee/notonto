@@ -4,12 +4,9 @@ import java.sql.SQLException;
 
 import javax.faces.context.FacesContext;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.jfree.data.category.DefaultCategoryDataset;
 import org.jfree.data.jdbc.JDBCXYDataset;
-import org.jfree.data.time.Month;
-import org.jfree.data.time.TimeSeries;
-import org.jfree.data.time.TimeSeriesCollection;
 import org.jfree.data.xy.XYDataset;
 import org.stoevesand.brain.BrainSession;
 import org.stoevesand.brain.BrainSystem;

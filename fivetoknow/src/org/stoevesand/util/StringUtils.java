@@ -8,10 +8,9 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.StringReader;
 import java.util.Enumeration;
-import java.util.Iterator;
 import java.util.Vector;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 
 public class StringUtils {
 

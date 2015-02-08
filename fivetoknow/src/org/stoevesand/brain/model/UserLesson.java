@@ -12,9 +12,8 @@ import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlTransient;
 
-import org.apache.commons.lang.time.DateFormatUtils;
-import org.apache.log4j.Logger;
-import org.jfree.util.Log;
+import org.apache.commons.lang3.time.DateFormatUtils;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.BrainMessage;
 import org.stoevesand.brain.BrainSession;
 import org.stoevesand.brain.BrainSystem;

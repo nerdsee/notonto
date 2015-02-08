@@ -3,7 +3,7 @@ package org.stoevesand.brain.persistence;
 import java.util.Random;
 import java.util.Vector;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.auth.User;
 import org.stoevesand.brain.exceptions.DBException;
 import org.stoevesand.brain.model.Answer;

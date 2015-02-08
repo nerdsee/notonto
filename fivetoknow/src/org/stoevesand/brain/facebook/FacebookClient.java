@@ -6,7 +6,7 @@ import javax.faces.context.FacesContext;
 import javax.servlet.http.Cookie;
 import javax.servlet.http.HttpServletRequest;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;

@@ -27,7 +27,7 @@ import javax.faces.context.ResponseWriter;
 
 import net.sf.jsfcomp.chartcreator.ChartData;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.JFreeChart;
 import org.jfree.chart.axis.DateAxis;

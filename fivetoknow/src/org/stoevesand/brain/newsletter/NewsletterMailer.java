@@ -2,7 +2,6 @@ package org.stoevesand.brain.newsletter;
 
 import java.io.File;
 import java.io.IOException;
-import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Locale;
@@ -14,7 +13,7 @@ import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.exceptions.DBException;
 import org.stoevesand.util.StringUtils;
 import org.xml.sax.SAXException;

@@ -28,10 +28,9 @@ import javax.servlet.http.HttpServletResponse;
 
 import net.sf.jsfcomp.chartcreator.ChartData;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.jfree.chart.ChartUtilities;
 import org.jfree.chart.JFreeChart;
-import org.stoevesand.brain.BrainSystem;
 
 /**
  * @author Cagatay Civici 

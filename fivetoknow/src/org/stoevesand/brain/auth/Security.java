@@ -1,18 +1,13 @@
 package org.stoevesand.brain.auth;
 
 import java.io.ByteArrayInputStream;
-import java.io.ByteArrayOutputStream;
-import java.io.InputStream;
 import java.security.KeyStore;
-import java.security.KeyStoreException;
-import java.security.SecureRandom;
 
 import javax.crypto.Cipher;
-import javax.crypto.KeyGenerator;
 import javax.crypto.SecretKey;
 
-import org.apache.commons.codec.binary.Base64;
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
+import org.jboss.resteasy.util.Base64;
 
 public class Security {
 
@@ -35,8 +30,7 @@ public class Security {
 		try {
 			ks = KeyStore.getInstance("JCEKS");
 
-			Base64 b64 = new Base64();
-			byte[] bstore = b64.decode(store.getBytes());
+			byte[] bstore = Base64.decode(store.getBytes());
 
 			ByteArrayInputStream is = new ByteArrayInputStream(bstore);
 			ks.load(is, pw);
@@ -55,13 +49,11 @@ public class Security {
 		byte[] inputBytes = input.getBytes();
 		byte[] code = cipher.doFinal(inputBytes);
 
-		Base64 b64 = new Base64();
-		return new String(b64.encode(code));
+		return new String(Base64.encodeBytes(code));
 	}
 
 	public String decrypt(String input) throws Exception {
-		Base64 b64 = new Base64();
-		byte[] encryptionBytes = b64.decode(input.getBytes());
+		byte[] encryptionBytes = Base64.decode(input.getBytes());
 
 		byte[] recoveredBytes = cipher.doFinal(encryptionBytes);
 		String recovered = new String(recoveredBytes);

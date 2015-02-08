@@ -1,5 +1,6 @@
 package org.stoevesand.brain;
 
+import java.awt.event.ActionEvent;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.Date;
@@ -9,13 +10,12 @@ import java.util.ResourceBundle;
 import java.util.Vector;
 
 import javax.faces.context.FacesContext;
-import javax.faces.event.ActionEvent;
 import javax.faces.model.ListDataModel;
 import javax.servlet.ServletRequest;
 import javax.servlet.http.HttpServletRequest;
 
-import org.apache.commons.lang.StringEscapeUtils;
-import org.apache.log4j.Logger;
+import org.apache.commons.lang3.StringEscapeUtils;
+import org.jboss.logging.Logger;
 import org.jfree.data.time.Day;
 import org.jfree.data.time.TimeSeries;
 import org.jfree.data.time.TimeSeriesCollection;
@@ -254,9 +254,9 @@ public class BrainSession {
 		return lastAnswerText;
 	}
 
-	ListDataModel library = null;
+	ListDataModel<LessonWrapper> library = null;
 	ListDataModel ownerLibrary = null;
-	ListDataModel topics = null;
+	ListDataModel<Topic> topics = null;
 	ListDataModel topicPath = null;
 
 	private void loadTopics() {
@@ -346,14 +346,14 @@ public class BrainSession {
 		return cat2 != null;
 	}
 
-	public ListDataModel getTopics() {
+	public ListDataModel<Topic> getTopics() {
 
 		selectCurrentTopic();
 
 		if (currentTopic != null)
-			topics = new ListDataModel(currentTopic.getSubTopics());
+			topics = new ListDataModel<Topic>(currentTopic.getSubTopics());
 		else
-			topics = new ListDataModel();
+			topics = new ListDataModel<Topic>();
 		return topics;
 	}
 
@@ -387,7 +387,7 @@ public class BrainSession {
 		ownerLibrary = null;
 	}
 
-	public ListDataModel loadLibrary() {
+	public ListDataModel<LessonWrapper> loadLibrary() {
 
 		selectCurrentTopic();
 
@@ -426,7 +426,7 @@ public class BrainSession {
 			e.printStackTrace();
 		}
 
-		library = new ListDataModel(ret);
+		library = new ListDataModel<LessonWrapper>(ret);
 		log.debug("getLibrary.end.");
 		return library;
 	}

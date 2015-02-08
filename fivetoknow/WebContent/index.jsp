@@ -2,9 +2,8 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsf/html" prefix="h"%>
 <%@ taglib uri="http://java.sun.com/jsf/core" prefix="f"%>
-<%@ taglib uri="http://myfaces.apache.org/tomahawk" prefix="t"%>
-<%@ taglib uri="http://myfaces.apache.org/trinidad" prefix="tr"%>
-<%@ taglib uri="http://myfaces.apache.org/trinidad/html" prefix="trh"%>
+<%@ taglib uri="http://primefaces.org/ui" prefix="p"%>
+
 <f:view locale="#{BrainSession.currentLocale}">
 	<f:loadBundle basename="org.stoevesand.brain.i18n.MessagesBundle" var="bundle" />
 	<html>

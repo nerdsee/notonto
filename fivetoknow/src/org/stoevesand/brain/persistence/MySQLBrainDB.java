@@ -14,10 +14,9 @@ import java.util.Vector;
 
 import javax.naming.Context;
 import javax.naming.InitialContext;
-import javax.naming.NamingException;
 import javax.sql.DataSource;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.jfree.data.time.Day;
 import org.jfree.data.time.TimeSeries;
 import org.stoevesand.brain.Category;

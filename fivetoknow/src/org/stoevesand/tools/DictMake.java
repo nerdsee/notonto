@@ -13,7 +13,7 @@ import java.util.Vector;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.exceptions.DBException;
 import org.stoevesand.brain.model.Answer;
 import org.stoevesand.brain.model.Item;

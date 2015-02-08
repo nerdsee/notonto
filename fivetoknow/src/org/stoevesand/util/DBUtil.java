@@ -5,7 +5,7 @@ import java.sql.SQLException;
 import java.sql.Timestamp;
 import java.util.Date;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 
 public class DBUtil {
 	

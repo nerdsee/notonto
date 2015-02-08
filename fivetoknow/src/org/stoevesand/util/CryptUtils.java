@@ -1,9 +1,10 @@
 package org.stoevesand.util;
 
-import javax.crypto.*;
-import javax.crypto.spec.*;
-
-import org.apache.commons.lang.StringEscapeUtils;
+import javax.crypto.Cipher;
+import javax.crypto.SecretKey;
+import javax.crypto.SecretKeyFactory;
+import javax.crypto.spec.PBEKeySpec;
+import javax.crypto.spec.PBEParameterSpec;
 
 public class CryptUtils {
 

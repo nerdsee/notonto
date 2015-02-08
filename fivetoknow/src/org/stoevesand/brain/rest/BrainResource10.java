@@ -8,12 +8,11 @@ import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.BrainSystem;
 import org.stoevesand.brain.auth.User;
 import org.stoevesand.brain.model.IUserLesson;
 import org.stoevesand.brain.model.UserItem;
-import org.stoevesand.brain.model.UserLesson;
 import org.stoevesand.brain.persistence.BrainDB;
 
 @Path("/10")

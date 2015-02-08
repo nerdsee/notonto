@@ -7,7 +7,7 @@ import java.util.Vector;
 import javax.faces.context.FacesContext;
 import javax.xml.bind.annotation.XmlRootElement;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.brain.BrainSystem;
 import org.stoevesand.brain.exceptions.DBException;
 import org.stoevesand.util.DBUtil;

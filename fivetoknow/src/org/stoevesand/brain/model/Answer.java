@@ -1,7 +1,6 @@
 package org.stoevesand.brain.model;
 
 import java.sql.ResultSet;
-import java.util.Date;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -10,7 +9,7 @@ import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
-import org.apache.log4j.Logger;
+import org.jboss.logging.Logger;
 import org.stoevesand.util.DBUtil;
 
 @XmlRootElement(name = "answer")
